@@ -18,7 +18,8 @@ PORT=5001
 
 # Copy test fixtures to another dir and replace URL
 dist:
-	cp -r data $@
+	mkdir -p $@
+	cp -r data/* $@
 	sed -i 's,https://github.com/OCR-D/spec/raw/master/io/example/,http://localhost:$(PORT)/,' $@/*.xml
 
 # Start the asset server

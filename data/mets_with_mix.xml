@@ -12,10 +12,10 @@
               <mix:Format>
                 <mix:MIMEType>image/tiff</mix:MIMEType>
                 <mix:Compression>
-                  <mix:CompressionScheme>1</mix:CompressionScheme>
+                  <mix:CompressionScheme>JPEG Lossy</mix:CompressionScheme>
                 </mix:Compression>
                 <mix:PhotometricInterpretation>
-                  <mix:ColorSpace>2</mix:ColorSpace>
+                  <mix:ColorSpace>RGB</mix:ColorSpace>
                 </mix:PhotometricInterpretation>
               </mix:Format>
             </mix:BasicImageParameters>
@@ -23,7 +23,7 @@
               <mix:SpatialMetrics>
                 <mix:SamplingFrequencyUnit>2</mix:SamplingFrequencyUnit>
                 <mix:XSamplingFrequency>2875</mix:XSamplingFrequency>
-                <mix:YSamplingFrequency>3749800</mix:YSamplingFrequency>
+                <mix:YSamplingFrequency>3749</mix:YSamplingFrequency>
               </mix:SpatialMetrics>
               <mix:Energetics>
                 <mix:BitsPerSample>8,8,8</mix:BitsPerSample>

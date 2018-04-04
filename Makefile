@@ -13,16 +13,19 @@ help:
 
 # END-EVAL
 
+REPO_URL = https://github.com/OCR-D/ocrd-assets/raw/master/data/
+
 # Port to run the asset server on
 PORT=5001
 
 # Copy test fixtures to another dir and replace URL
+.PHONY: dist
 dist:
 	mkdir -p $@
 	cp -r data/* $@
-	sed -i 's,https://github.com/OCR-D/ocrd-assets/raw/master/data/,http://localhost:$(PORT)/,' $@/*.xml
+	sed -i 's,$(REPO_URL),http://localhost:$(PORT)/,' $@/**/*.xml
 
 # Start the asset server
-start:
+start: dist
 	find $(PWD)/dist -name '*.xml'
 	cd dist && python2 -m SimpleHTTPServer $(PORT)

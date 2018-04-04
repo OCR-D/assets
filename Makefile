@@ -20,7 +20,7 @@ PORT=5001
 dist:
 	mkdir -p $@
 	cp -r data/* $@
-	sed -i 's,https://github.com/OCR-D/spec/raw/master/io/example/,http://localhost:$(PORT)/,' $@/*.xml
+	sed -i 's,https://github.com/OCR-D/ocrd-assets/raw/master/data/,http://localhost:$(PORT)/,' $@/*.xml
 
 # Start the asset server
 start:

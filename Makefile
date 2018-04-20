@@ -13,7 +13,7 @@ help:
 
 # END-EVAL
 
-REPO_URL = https://github.com/OCR-D/ocrd-assets/raw/master/data/
+REPO_URL = https://github.com/OCR-D/assets/raw/master/data/
 
 # Port to run the asset server on
 PORT=5001

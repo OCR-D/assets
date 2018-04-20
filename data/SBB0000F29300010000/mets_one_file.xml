@@ -100,7 +100,7 @@
     <mets:fileSec>
         <mets:fileGrp USE="INPUT">
             <mets:file ID="FILE_0005_IMAGE" MIMETYPE="image/tif">
-                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/ocrd-assets/raw/master/data/SBB0000F29300010000/00000005.tif" /></mets:file>
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/SBB0000F29300010000/00000005.tif" /></mets:file>
         </mets:fileGrp>
     </mets:fileSec>
 </mets:mets>

@@ -1,4 +1,4 @@
-# ocrd-assets
+# OCR-D/assets
 
 > Test data for testing specs and software in @OCR-D
 

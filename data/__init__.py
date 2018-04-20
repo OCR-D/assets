@@ -2,7 +2,7 @@ import os
 
 class Assets(object):
     """
-    Access test assets in ocrd-assets
+    Access test assets in OCR-D/assets
     """
 
     def __init__(self, baseurl=None):

@@ -7,3 +7,9 @@
 * [test.ocrd.zip](./data/test.ocrd.zip): OCRD-ZIP of `kant_aufklaerung_1784`.
 * [param-binarize.json](./data/param-binarize.json): Sample parameter JSON file
 * [page-with-glyphs.xml](./data/page-with-glyphs.xml): https://github.com/impactcentre/iif-testfiles/blob/master/testfiles/res.xml
+* [schema/2009-03-16.xsd](./data/schema/2009-03-16.xsd): PAGE XSD, version 2009-03-16
+* [schema/2010-01-12.xsd](./data/schema/2010-01-12.xsd): PAGE XSD, version 2010-01-12
+* [schema/2010-03-19.xsd](./data/schema/2010-03-19.xsd): PAGE XSD, version 2010-03-19
+* [schema/2013-07-15.xsd](./data/schema/2013-07-15.xsd): PAGE XSD, version 2013-07-15
+* [schema/2016-07-15.xsd](./data/schema/2016-07-15.xsd): PAGE XSD, version 2016-07-15
+* [schema/2017-07-15.xsd](./data/schema/2017-07-15.xsd): PAGE XSD, version 2017-07-15

@@ -16,6 +16,9 @@ class Assets(object):
             baseurl = self.baseurl
         return self.baseurl + path
 
+    def path_to(self, path, baseurl=None):
+        return self.url_of(path, baseurl).replace('file://', '')
+
 if 'OCRD_BASEURL' in os.environ:
     assets = Assets(os.environ['OCRD_BASEURL'])
 else:

@@ -21,5 +21,10 @@
                 <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/kant_aufklaerung_1784_0020.tif" />
             </mets:file>
         </mets:fileGrp>
+        <mets:fileGrp USE="OCR-D-GT-PAGE">
+            <mets:file ID="PAGE_0020" MIMETYPE="text/page+xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/page/kant_aufklaerung_1784_0020.xml" />
+            </mets:file>
+        </mets:fileGrp>
     </mets:fileSec>
 </mets:mets>

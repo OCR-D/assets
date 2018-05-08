@@ -12,10 +12,10 @@
         type="content">
         <AlternativeImage
             filename="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784-binarized/kant_aufklaerung_1784_0017.bin.png"
-            comments="bin"/>
+            comments="binarized"/>
         <AlternativeImage
             filename="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784-binarized/kant_aufklaerung_1784_0017.nrm.png"
-            comments="nrm"/>
+            comments="gray"/>
         <PrintSpace>
             <Coords points="101,232 932,232 932,1794 101,1794"/>
         </PrintSpace>

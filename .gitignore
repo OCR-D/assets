@@ -1,3 +1,5 @@
 dist
 .pytest_cache
 .pynative
+*.pyc
+__pycache__

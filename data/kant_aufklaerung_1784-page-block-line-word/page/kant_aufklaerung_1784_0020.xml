@@ -6,7 +6,7 @@
         <LastChange>2018-04-24T17:44:49.605+01:00</LastChange>
         
     </Metadata>
-    <Page imageFilename="../tif/kant_aufklaerung_1784_0020.tif" imageWidth="1457" imageHeight="2084" type="content">
+    <Page imageFilename="file://../tif/kant_aufklaerung_1784_0020.tif" imageWidth="1457" imageHeight="2084" type="content">
         <PrintSpace>
             <Coords points="468,250 1349,250 1349,1830 468,1830"/>
         </PrintSpace>

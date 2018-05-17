@@ -4,7 +4,7 @@
 	<Creator>OCR-D</Creator>
 	<Created>2016-09-20T10:09:27</Created>
 	<LastChange>2018-04-25T15:05:27</LastChange></Metadata>
-	<Page imageFilename="../tif/kant_aufklaerung_1784_0017.tif" imageWidth="1457" imageHeight="2083" type="content">
+	<Page imageFilename="file://../tif/kant_aufklaerung_1784_0017.tif" imageWidth="1457" imageHeight="2083" type="content">
 	<PrintSpace>
 	<Coords points="101,232 932,232 932,1794 101,1794"/></PrintSpace>
 	<ReadingOrder>

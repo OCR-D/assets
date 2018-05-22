@@ -1,6 +1,5 @@
 dist
 .pytest_cache
 .pynative
-data/kant_aufklaerung_1784/mets/kant_aufklaerung_1784_mets.xml
-data/kant_aufklaerung_1784/tei/imagefiles.xml
-data/kant_aufklaerung_1784/tei/kant_aufklaerung_1784_tei.xml
+*.pyc
+__pycache__

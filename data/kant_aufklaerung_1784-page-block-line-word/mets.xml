@@ -146,10 +146,10 @@
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-IMG">
-         <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0001" GROUPID="OCR-D-IMG_0001">
+         <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0001" GROUPID="OCR-D-IMG_0001">
             <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/kant_aufklaerung_1784_0017.tif"/>
          </mets:file>
-         <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0002" GROUPID="OCR-D-IMG_0002">
+         <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0002" GROUPID="OCR-D-IMG_0002">
             <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/kant_aufklaerung_1784_0020.tif"/>
          </mets:file>
       </mets:fileGrp>

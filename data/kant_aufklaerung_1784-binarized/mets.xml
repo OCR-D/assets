@@ -25,10 +25,10 @@
             </mets:file>
         </mets:fileGrp>
         <mets:fileGrp USE="OCR-D-IMG">
-            <mets:file ID="INPUT_0017" GROUPID="P_0017" MIMETYPE="image/tif">
+            <mets:file ID="INPUT_0017" GROUPID="P_0017" MIMETYPE="image/tiff">
                 <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/kant_aufklaerung_1784_0017.tif" />
             </mets:file>
-            <mets:file ID="INPUT_0020" GROUPID="P_0020" MIMETYPE="image/tif">
+            <mets:file ID="INPUT_0020" GROUPID="P_0020" MIMETYPE="image/tiff">
                 <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/kant_aufklaerung_1784_0020.tif" />
             </mets:file>
         </mets:fileGrp>

@@ -29,7 +29,7 @@ _prompt_yn "METSify?" && {
             --mimetype image/jpeg \
             --file-id OCR-D-IMG-${work}-${page} \
             --group-id ${work}-${page} \
-            ${work}-${page}.jpg
+            ${work}_${page}.jpg
     done < sources.csv
 }
 

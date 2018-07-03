@@ -14,3 +14,4 @@
 * [schema/2013-07-15.xsd](./data/schema/2013-07-15.xsd): PAGE XSD, version 2013-07-15
 * [schema/2016-07-15.xsd](./data/schema/2016-07-15.xsd): PAGE XSD, version 2016-07-15
 * [schema/2017-07-15.xsd](./data/schema/2017-07-15.xsd): PAGE XSD, version 2017-07-15
+* [column-samples](./data/column-samples/): Samples for column detection

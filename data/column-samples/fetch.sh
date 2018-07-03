@@ -1,5 +1,7 @@
 #!/bin/bash
 
+fileGrp="OCR-D-IMG"
+
 _prompt_yn () {
     echo
     read -p ">>> $1 " -n 1
@@ -12,10 +14,11 @@ _prompt_yn () {
 }
 
 _prompt_yn "Downloading images?" && {
+    mkdir -p $fileGrp
     while read l;do
         work=$(echo "$l"|cut -d, -f 1)
         page=$(echo "$l"|cut -d, -f 2)
-        wget -O "${work}_$page.jpg" "http://media.dwds.de/dta/images/${work}/${work}_${page}_1600px.jpg"
+        wget -O "${fileGrp}/${work}-$page.jpg" "http://media.dwds.de/dta/images/${work}/${work}_${page}_1600px.jpg"
     done < sources.csv
 }
 
@@ -25,11 +28,11 @@ _prompt_yn "METSify?" && {
         work=$(echo "$l"|cut -d, -f 1)
         page=$(echo "$l"|cut -d, -f 2)
         ocrd workspace add \
-            --file-grp OCR-D-IMG \
+            --file-grp $fileGrp \
             --mimetype image/jpeg \
-            --file-id OCR-D-IMG-${work}-${page} \
+            --file-id ${fileGrp}-${work}-${page} \
             --group-id ${work}-${page} \
-            ${work}_${page}.jpg
+            $fileGrp/${work}-${page}.jpg
     done < sources.csv
 }
 

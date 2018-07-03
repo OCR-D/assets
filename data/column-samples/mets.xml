@@ -19,19 +19,19 @@
   <mets:fileSec>
     <mets:fileGrp USE="OCR-D-IMG">
       <mets:file GROUPID="bengel_abriss01_1751-0007" MIMETYPE="image/jpeg" ID="OCR-D-IMG-bengel_abriss01_1751-0007">
-        <mets:FLocat xlink:href="https://github.com/OCR-D/assets/raw/master/data/column-samples/bengel_abriss01_1751_0007.jpg"/>
+        <mets:FLocat xlink:href="https://github.com/OCR-D/assets/raw/master/data/column-samples/OCR-D-IMG/bengel_abriss01_1751-0007.jpg"/>
       </mets:file>
       <mets:file GROUPID="eiteritz_affe_1719-0206" MIMETYPE="image/jpeg" ID="OCR-D-IMG-eiteritz_affe_1719-0206">
-        <mets:FLocat xlink:href="https://github.com/OCR-D/assets/raw/master/data/column-samples/eiteritz_affe_1719_0206.jpg"/>
+        <mets:FLocat xlink:href="https://github.com/OCR-D/assets/raw/master/data/column-samples/OCR-D-IMG/eiteritz_affe_1719-0206.jpg"/>
       </mets:file>
       <mets:file GROUPID="dannhauer_catechismus04_1653-0585" MIMETYPE="image/jpeg" ID="OCR-D-IMG-dannhauer_catechismus04_1653-0585">
-        <mets:FLocat xlink:href="https://github.com/OCR-D/assets/raw/master/data/column-samples/dannhauer_catechismus04_1653_0585.jpg"/>
+        <mets:FLocat xlink:href="https://github.com/OCR-D/assets/raw/master/data/column-samples/OCR-D-IMG/dannhauer_catechismus04_1653-0585.jpg"/>
       </mets:file>
       <mets:file GROUPID="fleming_jaeger01_1719-0117" MIMETYPE="image/jpeg" ID="OCR-D-IMG-fleming_jaeger01_1719-0117">
-        <mets:FLocat xlink:href="https://github.com/OCR-D/assets/raw/master/data/column-samples/fleming_jaeger01_1719_0117.jpg"/>
+        <mets:FLocat xlink:href="https://github.com/OCR-D/assets/raw/master/data/column-samples/OCR-D-IMG/fleming_jaeger01_1719-0117.jpg"/>
       </mets:file>
       <mets:file GROUPID="corvinus_frauenzimmer_1715-0054" MIMETYPE="image/jpeg" ID="OCR-D-IMG-corvinus_frauenzimmer_1715-0054">
-        <mets:FLocat xlink:href="https://github.com/OCR-D/assets/raw/master/data/column-samples/corvinus_frauenzimmer_1715_0054.jpg"/>
+        <mets:FLocat xlink:href="https://github.com/OCR-D/assets/raw/master/data/column-samples/OCR-D-IMG/corvinus_frauenzimmer_1715-0054.jpg"/>
       </mets:file>
     </mets:fileGrp>
   </mets:fileSec>

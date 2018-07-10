@@ -14,3 +14,5 @@
 * [schema/2013-07-15.xsd](./data/schema/2013-07-15.xsd): PAGE XSD, version 2013-07-15
 * [schema/2016-07-15.xsd](./data/schema/2016-07-15.xsd): PAGE XSD, version 2016-07-15
 * [schema/2017-07-15.xsd](./data/schema/2017-07-15.xsd): PAGE XSD, version 2017-07-15
+* [DIBCO11-machine_printed](./data/DIBCO11-machine_printed): Test set for the [DIBCO11 challenge](http://utopia.duth.gr/~ipratika/DIBCO2011/benchmark/)
+* [page_dewarp](./data/page_dewarp/): Dewarping samples [by @mzucker](https://github.com/mzucker/page_dewarp)

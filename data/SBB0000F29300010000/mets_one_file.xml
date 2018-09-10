@@ -98,7 +98,7 @@
         </mets:digiprovMD>
     </mets:amdSec>
     <mets:fileSec>
-        <mets:fileGrp USE="INPUT">
+        <mets:fileGrp USE="OCR-D-IMG">
             <mets:file ID="FILE_0005_IMAGE" MIMETYPE="image/tiff">
                 <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/SBB0000F29300010000/00000005.tif" /></mets:file>
         </mets:fileGrp>

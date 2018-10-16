@@ -16,6 +16,7 @@
 * [leptonica_samples](./data/leptonica_samples/): Sample facsimile from the [leptonica computer vision library](https://github.com/DanBloomberg/leptonica)
 
 ## Page Schema
+for more information and the latest schema you can find here: https://github.com/PRImA-Research-Lab/PAGE-XML/wiki
 * [schema/2009-03-16.xsd](./data/schema/2009-03-16.xsd): PAGE XSD, version 2009-03-16
 * [schema/2010-01-12.xsd](./data/schema/2010-01-12.xsd): PAGE XSD, version 2010-01-12
 * [schema/2010-03-19.xsd](./data/schema/2010-03-19.xsd): PAGE XSD, version 2010-03-19

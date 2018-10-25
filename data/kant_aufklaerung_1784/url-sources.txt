@@ -1,0 +1,2 @@
+https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/kant_aufklaerung_1784_0017.tif data/kant_aufklaerung_1784_0017.tif
+https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/kant_aufklaerung_1784_0020.tif data/kant_aufklaerung_1784_0020.tif

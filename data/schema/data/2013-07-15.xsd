@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<schema targetNamespace="http://schema.primaresearch.org/PAGE/gts/pagecontent/2016-07-15"
+<schema targetNamespace="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
 	elementFormDefault="qualified" xmlns="http://www.w3.org/2001/XMLSchema"
-	xmlns:pc="http://schema.primaresearch.org/PAGE/gts/pagecontent/2016-07-15">
+	xmlns:pc="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
 
     <element name="PcGts" type="pc:PcGtsType">
 		<annotation>
@@ -26,10 +26,6 @@
 			<element name="Comments" type="string" minOccurs="0"
 				maxOccurs="1"></element>
 		</sequence>
-		<attribute name="externalRef" type="string" use="optional">
-			<annotation>
-				<documentation>External reference of any kind</documentation>
-			</annotation></attribute>
 	</complexType>
 	<complexType name="PageType">
 		<sequence>
@@ -107,53 +103,6 @@
             	<documentation>Page type</documentation>
             </annotation>
 		</attribute>
-		<attribute name="primaryLanguage" type="pc:LanguageSimpleType"
-			use="optional">
-			<annotation>
-				<documentation>
-					The primary language used in the page (lower-level definitions override the page-level definition)
-				</documentation>
-			</annotation>
-		</attribute>
-		<attribute name="secondaryLanguage" type="pc:LanguageSimpleType"
-			use="optional">
-			<annotation>
-				<documentation>
-					The secondary language used in the page (lower-level definitions override the page-level definition)
-				</documentation>
-			</annotation>
-		</attribute>
-		<attribute name="primaryScript" type="pc:ScriptSimpleType"
-			use="optional">
-			<annotation>
-				<documentation>
-					The primary script used in the page (lower-level definitions override the page-level definition)
-				</documentation>
-			</annotation>
-		</attribute>
-		<attribute name="secondaryScript" type="pc:ScriptSimpleType"
-			use="optional">
-			<annotation>
-				<documentation>
-					The secondary script used in the page (lower-level definitions override the page-level definition)
-				</documentation>
-			</annotation>
-		</attribute>
-		<attribute name="readingDirection"
-			type="pc:ReadingDirectionSimpleType" use="optional">
-			<annotation>
-				<documentation>
-					The direction in which text in a region should be
-					read (within lines) (lower-level definitions override the page-level definition)
-				</documentation>
-			</annotation>
-		</attribute>
-		<attribute name="textLineOrder"
-			type="pc:TextLineOrderSimpleType" use="optional">
-			<annotation>
-				<documentation>Inner-block order of text lines (in addition to “readingDirection” which is the inner-text line order of words and characters) (lower-level definitions override the page-level definition)</documentation>
-			</annotation>
-		</attribute>
 	</complexType>
 	<complexType name="TextRegionType">
 		<annotation>
@@ -170,7 +119,7 @@
 					minOccurs="0" maxOccurs="unbounded">
 				</element>
 				<element name="TextEquiv" type="pc:TextEquivType"
-					minOccurs="0" maxOccurs="unbounded">
+					minOccurs="0" maxOccurs="1">
 				</element>
 				<element name="TextStyle" type="pc:TextStyleType"
 					minOccurs="0" maxOccurs="1">
@@ -205,12 +154,6 @@ Range: -179.999,180</documentation>
 						The direction in which text in a region should be
 						read (within lines)
 					</documentation>
-				</annotation>
-			</attribute>
-			<attribute name="textLineOrder"
-				type="pc:TextLineOrderSimpleType" use="optional">
-				<annotation>
-					<documentation>Inner-block order of text lines (in addition to “readingDirection” which is the inner-text line order of words and characters)</documentation>
 				</annotation>
 			</attribute>
 			<attribute name="readingOrientation" type="float"
@@ -264,7 +207,7 @@ Range: -179.999,180</documentation>
 					</documentation>
 				</annotation>
 			</attribute>
-			<attribute name="production" type="pc:ProductionSimpleType" use="optional"></attribute>
+			<attribute name="production" type="pc:ProductionSimpleType"></attribute>
 	      </extension>
 	    </complexContent>
 	</complexType>
@@ -291,7 +234,7 @@ Range: -179.999,180</documentation>
 				maxOccurs="unbounded">
 			</element>
 			<element name="TextEquiv" type="pc:TextEquivType"
-				minOccurs="0" maxOccurs="unbounded">
+				minOccurs="0" maxOccurs="1">
 			</element>
 			<element name="TextStyle" type="pc:TextStyleType" minOccurs="0"></element>
 		</sequence>
@@ -305,31 +248,7 @@ Range: -179.999,180</documentation>
 				</documentation>
 			</annotation>
 		</attribute>
-		<attribute name="primaryScript" type="pc:ScriptSimpleType"
-			use="optional">
-			<annotation>
-				<documentation>
-					The primary script used in the text line
-				</documentation>
-			</annotation>
-		</attribute>
-		<attribute name="secondaryScript" type="pc:ScriptSimpleType"
-			use="optional">
-			<annotation>
-				<documentation>
-					The secondary script used in the text line 
-				</documentation>
-			</annotation>
-		</attribute>
-		<attribute name="readingDirection"
-			type="pc:ReadingDirectionSimpleType" use="optional">
-			<annotation>
-				<documentation>
-					The direction in which text in a text line should be read
-				</documentation>
-			</annotation>
-		</attribute>
-		<attribute name="production" type="pc:ProductionSimpleType" use="optional">
+		<attribute name="production" type="pc:ProductionSimpleType">
 			<annotation>
 				<documentation>
 					Overrides the production attribute of the parent
@@ -351,7 +270,7 @@ Range: -179.999,180</documentation>
 				maxOccurs="unbounded">
 			</element>
 			<element name="TextEquiv" type="pc:TextEquivType"
-				minOccurs="0" maxOccurs="unbounded">
+				minOccurs="0" maxOccurs="1">
 			</element>
 			<element name="TextStyle" type="pc:TextStyleType" minOccurs="0"></element>
 		</sequence>
@@ -364,31 +283,7 @@ Range: -179.999,180</documentation>
 				</documentation>
 			</annotation>
 		</attribute>
-		<attribute name="primaryScript" type="pc:ScriptSimpleType"
-			use="optional">
-			<annotation>
-				<documentation>
-					The primary script used in the word
-				</documentation>
-			</annotation>
-		</attribute>
-		<attribute name="secondaryScript" type="pc:ScriptSimpleType"
-			use="optional">
-			<annotation>
-				<documentation>
-					The secondary script used in the word 
-				</documentation>
-			</annotation>
-		</attribute>
-		<attribute name="readingDirection"
-			type="pc:ReadingDirectionSimpleType" use="optional">
-			<annotation>
-				<documentation>
-					The direction in which characters in a word should be read
-				</documentation>
-			</annotation>
-		</attribute>
-		<attribute name="production" type="pc:ProductionSimpleType" use="optional">
+		<attribute name="production" type="pc:ProductionSimpleType">
 			<annotation>
 				<documentation>
 					Overrides the production attribute of the parent
@@ -407,7 +302,7 @@ Range: -179.999,180</documentation>
 		<sequence>
 			<element name="Coords" type="pc:CoordsType"></element>
 			<element name="TextEquiv" type="pc:TextEquivType"
-				minOccurs="0" maxOccurs="unbounded">
+				minOccurs="0" maxOccurs="1">
 			</element>
 			<element name="TextStyle" type="pc:TextStyleType" minOccurs="0"></element>
 		</sequence>
@@ -416,15 +311,7 @@ Range: -179.999,180</documentation>
 		</attribute>
 		<attribute name="symbol" use="optional" type="boolean">
 		</attribute>
-		<attribute name="script" type="pc:ScriptSimpleType"
-			use="optional">
-			<annotation>
-				<documentation>
-					The script used for the glyph
-				</documentation>
-			</annotation>
-		</attribute>
-		<attribute name="production" type="pc:ProductionSimpleType" use="optional">
+		<attribute name="production" type="pc:ProductionSimpleType">
 			<annotation>
 				<documentation>
 					Overrides the production attribute of the parent
@@ -462,16 +349,6 @@ Range: -179.999,180</documentation>
 				</annotation>
 			</element>
 		</sequence>
-		<attribute name="index" use="optional">
-			<annotation>
-				<documentation>Used for sort order in case multiple TextEquivs are defined. The text content with the lowest index should be interpreted as the main text content.</documentation>
-			</annotation>
-			<simpleType>
-				<restriction base="integer">
-					<minInclusive value="0"></minInclusive>
-				</restriction>
-			</simpleType>
-		</attribute>
 		<attribute name="conf">
             <annotation>
             	<documentation>OCR confidence value (between 0 and 1)</documentation>
@@ -483,18 +360,6 @@ Range: -179.999,180</documentation>
             	</restriction>
             </simpleType>
 		</attribute>
-		<attribute name="dataType" type="pc:TextDataTypeSimpleType" use="optional">
-				<annotation>
-					<documentation>Type of text content (is it free text or a number, for instance)
-This is only a descriptive attribute, the text type is not checked during XML validation</documentation>
-				</annotation>
-		</attribute>
-		<attribute name="dataTypeDetails" type="string" use="optional">
-				<annotation>
-					<documentation>Refinement for dataType attribute. Can be a regular expression, for instance.</documentation>
-				</annotation>
-		</attribute>
-        <attribute name="comments" type="string" use="optional"></attribute>
 	</complexType>
 	<complexType name="ImageRegionType">
 		<annotation>
@@ -1079,14 +944,6 @@ It does not contain pagenumber (if not part of running title), marginals, signat
     		<enumeration value="bottom-to-top"></enumeration>
     	</restriction>
     </simpleType>
-    <simpleType name="TextLineOrderSimpleType">
-    	<restriction base="string">
-    		<enumeration value="top-to-bottom"></enumeration>
-    		<enumeration value="bottom-to-top"></enumeration>
-    		<enumeration value="left-to-right"></enumeration>
-    		<enumeration value="right-to-left"></enumeration>
-    	</restriction>
-    </simpleType>
     <simpleType name="TextTypeSimpleType">
     	<restriction base="string">
     		<enumeration value="paragraph"></enumeration>
@@ -1122,10 +979,7 @@ It does not contain pagenumber (if not part of running title), marginals, signat
     </simpleType>
     
     <simpleType name="LanguageSimpleType">
-        <annotation>
-        	<documentation>iso15924 2016-07-14</documentation>
-        </annotation>
-        <restriction base="string">
+    	<restriction base="string">
 <enumeration value="Abkhaz"></enumeration>
 <enumeration value="Afar"></enumeration>
 <enumeration value="Afrikaans"></enumeration>
@@ -1319,187 +1173,20 @@ It does not contain pagenumber (if not part of running title), marginals, signat
     
     <simpleType name="ScriptSimpleType">
     	<restriction base="string">
-<enumeration value="Adlm - Adlam"></enumeration>
-<enumeration value="Afak - Afaka"></enumeration>
-<enumeration value="Aghb - Caucasian Albanian"></enumeration>
-<enumeration value="Ahom - Ahom, Tai Ahom"></enumeration>
-<enumeration value="Arab - Arabic"></enumeration>
-<enumeration value="Aran - Arabic (Nastaliq variant)"></enumeration>
-<enumeration value="Armi - Imperial Aramaic"></enumeration>
-<enumeration value="Armn - Armenian"></enumeration>
-<enumeration value="Avst - Avestan"></enumeration>
-<enumeration value="Bali - Balinese"></enumeration>
-<enumeration value="Bamu - Bamum"></enumeration>
-<enumeration value="Bass - Bassa Vah"></enumeration>
-<enumeration value="Batk - Batak"></enumeration>
-<enumeration value="Beng - Bengali"></enumeration>
-<enumeration value="Bhks - Bhaiksuki"></enumeration>
-<enumeration value="Blis - Blissymbols"></enumeration>
-<enumeration value="Bopo - Bopomofo"></enumeration>
-<enumeration value="Brah - Brahmi"></enumeration>
-<enumeration value="Brai - Braille"></enumeration>
-<enumeration value="Bugi - Buginese"></enumeration>
-<enumeration value="Buhd - Buhid"></enumeration>
-<enumeration value="Cakm - Chakma"></enumeration>
-<enumeration value="Cans - Unified Canadian Aboriginal Syllabics"></enumeration>
-<enumeration value="Cari - Carian"></enumeration>
-<enumeration value="Cham - Cham"></enumeration>
-<enumeration value="Cher - Cherokee"></enumeration>
-<enumeration value="Cirt - Cirth"></enumeration>
-<enumeration value="Copt - Coptic"></enumeration>
-<enumeration value="Cprt - Cypriot"></enumeration>
-<enumeration value="Cyrl - Cyrillic"></enumeration>
-<enumeration value="Cyrs - Cyrillic (Old Church Slavonic variant)"></enumeration>
-<enumeration value="Deva - Devanagari (Nagari)"></enumeration>
-<enumeration value="Dsrt - Deseret (Mormon)"></enumeration>
-<enumeration value="Dupl - Duployan shorthand, Duployan stenography"></enumeration>
-<enumeration value="Egyd - Egyptian demotic"></enumeration>
-<enumeration value="Egyh - Egyptian hieratic"></enumeration>
-<enumeration value="Egyp - Egyptian hieroglyphs"></enumeration>
-<enumeration value="Elba - Elbasan"></enumeration>
-<enumeration value="Ethi - Ethiopic"></enumeration>
-<enumeration value="Geok - Khutsuri (Asomtavruli and Nuskhuri)"></enumeration>
-<enumeration value="Geor - Georgian (Mkhedruli)"></enumeration>
-<enumeration value="Glag - Glagolitic"></enumeration>
-<enumeration value="Goth - Gothic"></enumeration>
-<enumeration value="Gran - Grantha"></enumeration>
-<enumeration value="Grek - Greek"></enumeration>
-<enumeration value="Gujr - Gujarati"></enumeration>
-<enumeration value="Guru - Gurmukhi"></enumeration>
-<enumeration value="Hanb - Han with Bopomofo"></enumeration>
-<enumeration value="Hang - Hangul"></enumeration>
-<enumeration value="Hani - Han (Hanzi, Kanji, Hanja)"></enumeration>
-<enumeration value="Hano - Hanunoo (Hanunóo)"></enumeration>
-<enumeration value="Hans - Han (Simplified variant)"></enumeration>
-<enumeration value="Hant - Han (Traditional variant)"></enumeration>
-<enumeration value="Hatr - Hatran"></enumeration>
-<enumeration value="Hebr - Hebrew"></enumeration>
-<enumeration value="Hira - Hiragana"></enumeration>
-<enumeration value="Hluw - Anatolian Hieroglyphs"></enumeration>
-<enumeration value="Hmng - Pahawh Hmong"></enumeration>
-<enumeration value="Hrkt - Japanese syllabaries"></enumeration>
-<enumeration value="Hung - Old Hungarian (Hungarian Runic)"></enumeration>
-<enumeration value="Inds - Indus (Harappan)"></enumeration>
-<enumeration value="Ital - Old Italic (Etruscan, Oscan etc.)"></enumeration>
-<enumeration value="Jamo - Jamo"></enumeration>
-<enumeration value="Java - Javanese"></enumeration>
-<enumeration value="Jpan - Japanese"></enumeration>
-<enumeration value="Jurc - Jurchen"></enumeration>
-<enumeration value="Kali - Kayah Li"></enumeration>
-<enumeration value="Kana - Katakana"></enumeration>
-<enumeration value="Khar - Kharoshthi"></enumeration>
-<enumeration value="Khmr - Khmer"></enumeration>
-<enumeration value="Khoj - Khojki"></enumeration>
-<enumeration value="Kitl - Khitan large script"></enumeration>
-<enumeration value="Kits - Khitan small script"></enumeration>
-<enumeration value="Knda - Kannada"></enumeration>
-<enumeration value="Kore - Korean (alias for Hangul + Han)"></enumeration>
-<enumeration value="Kpel - Kpelle"></enumeration>
-<enumeration value="Kthi - Kaithi"></enumeration>
-<enumeration value="Lana - Tai Tham (Lanna)"></enumeration>
-<enumeration value="Laoo - Lao"></enumeration>
-<enumeration value="Latf - Latin (Fraktur variant)"></enumeration>
-<enumeration value="Latg - Latin (Gaelic variant)"></enumeration>
-<enumeration value="Latn - Latin"></enumeration>
-<enumeration value="Leke - Leke"></enumeration>
-<enumeration value="Lepc - Lepcha (Róng)"></enumeration>
-<enumeration value="Limb - Limbu"></enumeration>
-<enumeration value="Lina - Linear A"></enumeration>
-<enumeration value="Linb - Linear B"></enumeration>
-<enumeration value="Lisu - Lisu (Fraser)"></enumeration>
-<enumeration value="Loma - Loma"></enumeration>
-<enumeration value="Lyci - Lycian"></enumeration>
-<enumeration value="Lydi - Lydian"></enumeration>
-<enumeration value="Mahj - Mahajani"></enumeration>
-<enumeration value="Mand - Mandaic, Mandaean"></enumeration>
-<enumeration value="Mani - Manichaean"></enumeration>
-<enumeration value="Marc - Marchen"></enumeration>
-<enumeration value="Maya - Mayan hieroglyphs"></enumeration>
-<enumeration value="Mend - Mende Kikakui"></enumeration>
-<enumeration value="Merc - Meroitic Cursive"></enumeration>
-<enumeration value="Mero - Meroitic Hieroglyphs"></enumeration>
-<enumeration value="Mlym - Malayalam"></enumeration>
-<enumeration value="Modi - Modi, Moḍī"></enumeration>
-<enumeration value="Mong - Mongolian"></enumeration>
-<enumeration value="Moon - Moon (Moon code, Moon script, Moon type)"></enumeration>
-<enumeration value="Mroo - Mro, Mru"></enumeration>
-<enumeration value="Mtei - Meitei Mayek (Meithei, Meetei)"></enumeration>
-<enumeration value="Mult - Multani"></enumeration>
-<enumeration value="Mymr - Myanmar (Burmese)"></enumeration>
-<enumeration value="Narb - Old North Arabian (Ancient North Arabian)"></enumeration>
-<enumeration value="Nbat - Nabataean"></enumeration>
-<enumeration value="Newa - Newa, Newar, Newari"></enumeration>
-<enumeration value="Nkgb - Nakhi Geba"></enumeration>
-<enumeration value="Nkoo - N’Ko"></enumeration>
-<enumeration value="Nshu - Nüshu"></enumeration>
-<enumeration value="Ogam - Ogham"></enumeration>
-<enumeration value="Olck - Ol Chiki (Ol Cemet’, Ol, Santali)"></enumeration>
-<enumeration value="Orkh - Old Turkic, Orkhon Runic"></enumeration>
-<enumeration value="Orya - Oriya"></enumeration>
-<enumeration value="Osge - Osage"></enumeration>
-<enumeration value="Osma - Osmanya"></enumeration>
-<enumeration value="Palm - Palmyrene"></enumeration>
-<enumeration value="Pauc - Pau Cin Hau"></enumeration>
-<enumeration value="Perm - Old Permic"></enumeration>
-<enumeration value="Phag - Phags-pa"></enumeration>
-<enumeration value="Phli - Inscriptional Pahlavi"></enumeration>
-<enumeration value="Phlp - Psalter Pahlavi"></enumeration>
-<enumeration value="Phlv - Book Pahlavi"></enumeration>
-<enumeration value="Phnx - Phoenician"></enumeration>
-<enumeration value="Piqd - Klingon (KLI pIqaD)"></enumeration>
-<enumeration value="Plrd - Miao (Pollard)"></enumeration>
-<enumeration value="Prti - Inscriptional Parthian"></enumeration>
-<enumeration value="Rjng - Rejang (Redjang, Kaganga)"></enumeration>
-<enumeration value="Roro - Rongorongo"></enumeration>
-<enumeration value="Runr - Runic"></enumeration>
-<enumeration value="Samr - Samaritan"></enumeration>
-<enumeration value="Sara - Sarati"></enumeration>
-<enumeration value="Sarb - Old South Arabian"></enumeration>
-<enumeration value="Saur - Saurashtra"></enumeration>
-<enumeration value="Sgnw - SignWriting"></enumeration>
-<enumeration value="Shaw - Shavian (Shaw)"></enumeration>
-<enumeration value="Shrd - Sharada, Śāradā"></enumeration>
-<enumeration value="Sidd - Siddham"></enumeration>
-<enumeration value="Sind - Khudawadi, Sindhi"></enumeration>
-<enumeration value="Sinh - Sinhala"></enumeration>
-<enumeration value="Sora - Sora Sompeng"></enumeration>
-<enumeration value="Sund - Sundanese"></enumeration>
-<enumeration value="Sylo - Syloti Nagri"></enumeration>
-<enumeration value="Syrc - Syriac"></enumeration>
-<enumeration value="Syre - Syriac (Estrangelo variant)"></enumeration>
-<enumeration value="Syrj - Syriac (Western variant)"></enumeration>
-<enumeration value="Syrn - Syriac (Eastern variant)"></enumeration>
-<enumeration value="Tagb - Tagbanwa"></enumeration>
-<enumeration value="Takr - Takri"></enumeration>
-<enumeration value="Tale - Tai Le"></enumeration>
-<enumeration value="Talu - New Tai Lue"></enumeration>
-<enumeration value="Taml - Tamil"></enumeration>
-<enumeration value="Tang - Tangut"></enumeration>
-<enumeration value="Tavt - Tai Viet"></enumeration>
-<enumeration value="Telu - Telugu"></enumeration>
-<enumeration value="Teng - Tengwar"></enumeration>
-<enumeration value="Tfng - Tifinagh (Berber)"></enumeration>
-<enumeration value="Tglg - Tagalog (Baybayin, Alibata)"></enumeration>
-<enumeration value="Thaa - Thaana"></enumeration>
-<enumeration value="Thai - Thai"></enumeration>
-<enumeration value="Tibt - Tibetan"></enumeration>
-<enumeration value="Tirh - Tirhuta"></enumeration>
-<enumeration value="Ugar - Ugaritic"></enumeration>
-<enumeration value="Vaii - Vai"></enumeration>
-<enumeration value="Visp - Visible Speech"></enumeration>
-<enumeration value="Wara - Warang Citi (Varang Kshiti)"></enumeration>
-<enumeration value="Wole - Woleai"></enumeration>
-<enumeration value="Xpeo - Old Persian"></enumeration>
-<enumeration value="Xsux - Cuneiform, Sumero-Akkadian"></enumeration>
-<enumeration value="Yiii - Yi"></enumeration>
-<enumeration value="Zinh - Code for inherited script"></enumeration>
-<enumeration value="Zmth - Mathematical notation"></enumeration>
-<enumeration value="Zsye - Symbols (Emoji variant)"></enumeration>
-<enumeration value="Zsym - Symbols"></enumeration>
-<enumeration value="Zxxx - Code for unwritten documents"></enumeration>
-<enumeration value="Zyyy - Code for undetermined script"></enumeration>
-<enumeration value="Zzzz - Code for uncoded script"></enumeration>
-<enumeration value="other"></enumeration>
+    		<enumeration value="Arabic"></enumeration>
+    		<enumeration value="Bengali"></enumeration>
+    		<enumeration value="Chinese-simplified"></enumeration>
+    		<enumeration value="Chinese-traditional"></enumeration>
+    		<enumeration value="Cyrillic"></enumeration>
+    		<enumeration value="Devangari"></enumeration>
+    		<enumeration value="Ethiopic"></enumeration>
+    		<enumeration value="Greek"></enumeration>
+    		<enumeration value="Gujarati"></enumeration>
+    		<enumeration value="Gurmukhi"></enumeration>
+    		<enumeration value="Hebrew"></enumeration>
+    		<enumeration value="Latin"></enumeration>
+    		<enumeration value="Thai"></enumeration>
+    		<enumeration value="other"></enumeration>
     	</restriction>
     </simpleType>
     <simpleType name="ColourDepthSimpleType">
@@ -1670,11 +1357,6 @@ It does not contain pagenumber (if not part of running title), marginals, signat
     			</documentation>
     		</annotation>
     	</attribute>
-    	<attribute name="xHeight" type="integer" use="optional">
-    		<annotation>
-    			<documentation>The x-height or corpus size refers to the distance between the baseline and the mean line of lower-case letters in a typeface. The unit is assumed to be pixels.</documentation>
-    		</annotation>
-    	</attribute>
     	<attribute name="kerning" type="int">
     		<annotation>
     			<documentation>
@@ -1753,46 +1435,6 @@ It does not contain pagenumber (if not part of running title), marginals, signat
     		<enumeration value="centre"></enumeration>
     		<enumeration value="right"></enumeration>
     		<enumeration value="justify"></enumeration>
-    	</restriction>
-    </simpleType>
-    <simpleType name="TextDataTypeSimpleType">
-    	<restriction base="string">
-    		<enumeration value="xsd:decimal">
-    			<annotation>
-    				<documentation>Examples: "123.456", "+1234.456", "-1234.456", "-.456", "-456"</documentation>
-    			</annotation></enumeration>
-    		<enumeration value="xsd:float">
-    			<annotation>
-    				<documentation>Examples: "123.456", "+1234.456", "-1.2344e56", "-.45E-6", "INF", "-INF", "NaN"</documentation>
-    			</annotation></enumeration>
-    		<enumeration value="xsd:integer">
-    			<annotation>
-    				<documentation>Examples: "123456", "+00000012", "-1", "-456"</documentation>
-    			</annotation></enumeration>
-    		<enumeration value="xsd:boolean">
-    			<annotation>
-    				<documentation>Examples: "true", "false", "1", "0"</documentation>
-    			</annotation></enumeration>
-    		<enumeration value="xsd:date">
-    			<annotation>
-    				<documentation>Examples: "2001-10-26", "2001-10-26+02:00", "2001-10-26Z", "2001-10-26+00:00", "-2001-10-26", "-20000-04-01"</documentation>
-    			</annotation></enumeration>
-    		<enumeration value="xsd:time">
-    			<annotation>
-    				<documentation>Examples: "21:32:52", "21:32:52+02:00", "19:32:52Z", "19:32:52+00:00", "21:32:52.12679"</documentation>
-    			</annotation></enumeration>
-    		<enumeration value="xsd:dateTime">
-    			<annotation>
-    				<documentation>Examples: "2001-10-26T21:32:52", "2001-10-26T21:32:52+02:00", "2001-10-26T19:32:52Z", "2001-10-26T19:32:52+00:00", "-2001-10-26T21:32:52", "2001-10-26T21:32:52.12679"</documentation>
-    			</annotation></enumeration>
-    		<enumeration value="xsd:string">
-    			<annotation>
-    				<documentation>Generic text string</documentation>
-    			</annotation></enumeration>
-    		<enumeration value="other">
-    			<annotation>
-    				<documentation>An XSD type that is not listed or a custom type (use dataTypeDetails attribute)</documentation>
-    			</annotation></enumeration>
     	</restriction>
     </simpleType>
 </schema>

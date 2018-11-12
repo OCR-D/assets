@@ -343,64 +343,64 @@
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-IMG">
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0001" GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL" xlink:href="file:///jpg/kant_aufklaerung_1784_0011.jpg"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="data/jpg/kant_aufklaerung_1784_0011.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0002" GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="URL" xlink:href="file:///jpg/kant_aufklaerung_1784_0012.jpg"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="data/jpg/kant_aufklaerung_1784_0012.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0003" GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="URL" xlink:href="file:///jpg/kant_aufklaerung_1784_0013.jpg"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="data/jpg/kant_aufklaerung_1784_0013.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0004" GROUPID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="URL" xlink:href="file:///jpg/kant_aufklaerung_1784_0014.jpg"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="data/jpg/kant_aufklaerung_1784_0014.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0005" GROUPID="OCR-D-IMG_0005">
-            <mets:FLocat LOCTYPE="URL" xlink:href="file:///jpg/kant_aufklaerung_1784_0015.jpg"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="data/jpg/kant_aufklaerung_1784_0015.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0006" GROUPID="OCR-D-IMG_0006">
-            <mets:FLocat LOCTYPE="URL" xlink:href="file:///jpg/kant_aufklaerung_1784_0016.jpg"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="data/jpg/kant_aufklaerung_1784_0016.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0007" GROUPID="OCR-D-IMG_0007">
-            <mets:FLocat LOCTYPE="URL" xlink:href="file:///jpg/kant_aufklaerung_1784_0017.jpg"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="data/jpg/kant_aufklaerung_1784_0017.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0008" GROUPID="OCR-D-IMG_0008">
-            <mets:FLocat LOCTYPE="URL" xlink:href="file:///jpg/kant_aufklaerung_1784_0018.jpg"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="data/jpg/kant_aufklaerung_1784_0018.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0009" GROUPID="OCR-D-IMG_0009">
-            <mets:FLocat LOCTYPE="URL" xlink:href="file:///jpg/kant_aufklaerung_1784_0019.jpg"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="data/jpg/kant_aufklaerung_1784_0019.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0010" GROUPID="OCR-D-IMG_0010">
-            <mets:FLocat LOCTYPE="URL" xlink:href="file:///jpg/kant_aufklaerung_1784_0020.jpg"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="data/jpg/kant_aufklaerung_1784_0020.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0011" GROUPID="OCR-D-IMG_0011">
-            <mets:FLocat LOCTYPE="URL" xlink:href="file:///jpg/kant_aufklaerung_1784_0021.jpg"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="data/jpg/kant_aufklaerung_1784_0021.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0012" GROUPID="OCR-D-IMG_0012">
-            <mets:FLocat LOCTYPE="URL" xlink:href="file:///jpg/kant_aufklaerung_1784_0022.jpg"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="data/jpg/kant_aufklaerung_1784_0022.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0013" GROUPID="OCR-D-IMG_0013">
-            <mets:FLocat LOCTYPE="URL" xlink:href="file:///jpg/kant_aufklaerung_1784_0023.jpg"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="data/jpg/kant_aufklaerung_1784_0023.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0014" GROUPID="OCR-D-IMG_0014">
-            <mets:FLocat LOCTYPE="URL" xlink:href="file:///jpg/kant_aufklaerung_1784_0024.jpg"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="data/jpg/kant_aufklaerung_1784_0024.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0015" GROUPID="OCR-D-IMG_0015">
-            <mets:FLocat LOCTYPE="URL" xlink:href="file:///jpg/kant_aufklaerung_1784_0025.jpg"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="data/jpg/kant_aufklaerung_1784_0025.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0016" GROUPID="OCR-D-IMG_0016">
-            <mets:FLocat LOCTYPE="URL" xlink:href="file:///jpg/kant_aufklaerung_1784_0026.jpg"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="data/jpg/kant_aufklaerung_1784_0026.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0017" GROUPID="OCR-D-IMG_0017">
-            <mets:FLocat LOCTYPE="URL" xlink:href="file:///jpg/kant_aufklaerung_1784_0027.jpg"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="data/jpg/kant_aufklaerung_1784_0027.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0018" GROUPID="OCR-D-IMG_0018">
-            <mets:FLocat LOCTYPE="URL" xlink:href="file:///jpg/kant_aufklaerung_1784_0028.jpg"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="data/jpg/kant_aufklaerung_1784_0028.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0019" GROUPID="OCR-D-IMG_0019">
-            <mets:FLocat LOCTYPE="URL" xlink:href="file:///jpg/kant_aufklaerung_1784_0029.jpg"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="data/jpg/kant_aufklaerung_1784_0029.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/tif" ID="OCR-D-IMG_0020" GROUPID="OCR-D-IMG_0020">
-            <mets:FLocat LOCTYPE="URL" xlink:href="file:///jpg/kant_aufklaerung_1784_0030.jpg"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="data/jpg/kant_aufklaerung_1784_0030.jpg"/>
          </mets:file>
       </mets:fileGrp>
    </mets:fileSec>

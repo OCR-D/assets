@@ -1,7 +1,9 @@
+BagIt-Profile-Identifier: https://ocr-d.github.io/bagit-profile.json
 Source-Organization: OCR-D
 Bagging-Date: 2018-10-25
 Bag-Size: 5 MB
 Payload-Oxum: 4373670.7
 External-Description: OCR-D ground truth. http://ocr-d.de/sites/all/GTDaten/kant_aufklaerung_1784.zip, with TIFF compressed with JPEG + METS for second page
-X-Ocrd-Mets: data/mets.xml
-X-Ocrd-Identifier: ocrd:http://kant_aufklaerung_1784
+Ocrd-Mets: mets.xml
+Ocrd-Identifier: ocrd:http://kant_aufklaerung_1784
+Ocrd-Manifestation-Depth: partial

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-0.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/version17/mets.v1-7.xsd http://www.loc.gov/mix/v10 http://www.loc.gov/standards/mix/mix10/mix10.xsd" xmlns:xlink="http://www.w3.org/1999/xlink">
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-0.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/version17/mets.v1-7.xsd http://www.loc.gov/mix/v10 http://www.loc.gov/standards/mix/mix10/mix10.xsd">
     <mets:metsHdr CREATEDATE="2017-11-30T16:18:26">
         <mets:agent OTHERTYPE="SOFTWARE" ROLE="CREATOR" TYPE="OTHER">
             <mets:name>DFG-Koordinierungsprojekt zur Weiterentwicklung von Verfahren der Optical Character Recognition (OCR-D)</mets:name>
@@ -18,26 +17,39 @@
     <mets:fileSec>
         <mets:fileGrp USE="OCR-D-GT-WORD">
             <mets:file ID="INPUT_0017" GROUPID="P_0017" MIMETYPE="application/vnd.prima.page+xml">
-                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784-binarized/page/kant_aufklaerung_1784_0017.xml" />
+                <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-WORD/INPUT_0017"/>
             </mets:file>
             <mets:file ID="INPUT_0020" GROUPID="P_0020" MIMETYPE="application/vnd.prima.page+xml">
-                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784-binarized/page/kant_aufklaerung_1784_0020.xml" />
+                <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-WORD/INPUT_0020"/>
             </mets:file>
         </mets:fileGrp>
         <mets:fileGrp USE="OCR-D-IMG">
             <mets:file ID="P_0017" GROUPID="P_0017" MIMETYPE="image/tiff">
-                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/kant_aufklaerung_1784_0017.tif" />
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/kant_aufklaerung_1784_0017.tif"/>
             </mets:file>
             <mets:file ID="P_0020" GROUPID="P_0020" MIMETYPE="image/tiff">
-                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/kant_aufklaerung_1784_0020.tif" />
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/kant_aufklaerung_1784_0020.tif"/>
             </mets:file>
         </mets:fileGrp>
         <mets:fileGrp USE="OCR-D-IMG-BIN">
             <mets:file ID="BIN_0017" GROUPID="P_0017" MIMETYPE="image/png">
-                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784-binarized/kant_aufklaerung_1784_0017.bin.png" />
+                <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-IMG-BIN/BIN_0017"/>
             </mets:file>
             <mets:file ID="BIN_0020" GROUPID="P_0020" MIMETYPE="image/png">
-                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784-binarized/kant_aufklaerung_1784_0020.bin.png" />
+                <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-IMG-BIN/BIN_0020"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="OCR-D-IMG-NRM">
+            <mets:file ID="OCR-D-IMG-NRM_0017" GROUPID="P_0017" MIMETYPE="image/png">
+                <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-IMG-NRM/OCR-D-IMG-NRM_0017"/>
+            </mets:file>
+            <mets:file ID="OCR-D-IMG-NRM_0020" GROUPID="P_0020" MIMETYPE="image/png">
+                <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-IMG-NRM/OCR-D-IMG-NRM_0020"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="OCR-D-IMG-1BIT">
+            <mets:file ID="OCR-D-IMG-1BIT_0017" GROUPID="P_0017" MIMETYPE="image/png">
+                <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-IMG-1BIT/OCR-D-IMG-1BIT_0017"/>
             </mets:file>
         </mets:fileGrp>
     </mets:fileSec>

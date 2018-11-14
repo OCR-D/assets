@@ -1,5 +1,0 @@
-BagIt-Profile-Identifier: https://ocr-d.github.io/bagit-profile.json
-Bagging-Date: 2018-11-12 19:07:29.604655
-Ocrd-Identifier: ocrd:kant_aufklaerung_1784-page-block
-Ocrd-Manifestation-Depth: partial
-Payload-Oxum: 27820.1

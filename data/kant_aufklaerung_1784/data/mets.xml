@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-0.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/version17/mets.v1-7.xsd http://www.loc.gov/mix/v10 http://www.loc.gov/standards/mix/mix10/mix10.xsd" xmlns:xlink="http://www.w3.org/1999/xlink">
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-0.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/version17/mets.v1-7.xsd http://www.loc.gov/mix/v10 http://www.loc.gov/standards/mix/mix10/mix10.xsd">
     <mets:metsHdr CREATEDATE="2017-11-30T16:18:26">
         <mets:agent OTHERTYPE="SOFTWARE" ROLE="CREATOR" TYPE="OTHER">
             <mets:name>DFG-Koordinierungsprojekt zur Weiterentwicklung von Verfahren der Optical Character Recognition (OCR-D)</mets:name>
@@ -18,17 +17,17 @@
     <mets:fileSec>
         <mets:fileGrp USE="OCR-D-IMG">
             <mets:file ID="INPUT_0020" MIMETYPE="image/tiff">
-                <mets:FLocat LOCTYPE="URL" xlink:href="kant_aufklaerung_1784_0020.tif" />
+                <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-IMG/INPUT_0020"/>
             </mets:file>
         </mets:fileGrp>
         <mets:fileGrp USE="OCR-D-GT-PAGE">
             <mets:file ID="PAGE_0020_PAGE" MIMETYPE="application/vnd.prima.page+xml">
-                <mets:FLocat LOCTYPE="URL" xlink:href="page/kant_aufklaerung_1784_0020.xml" />
+                <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-PAGE/PAGE_0020_PAGE"/>
             </mets:file>
         </mets:fileGrp>
         <mets:fileGrp USE="OCR-D-GT-ALTO">
             <mets:file ID="PAGE_0020_ALTO" MIMETYPE="application/alto+xml">
-                <mets:FLocat LOCTYPE="URL" xlink:href="alto/kant_aufklaerung_1784_0020.xml" />
+                <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-ALTO/PAGE_0020_ALTO"/>
             </mets:file>
         </mets:fileGrp>
     </mets:fileSec>

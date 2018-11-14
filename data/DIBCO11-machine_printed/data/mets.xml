@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-0.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/version17/mets.v1-7.xsd http://www.loc.gov/mix/v10 http://www.loc.gov/standards/mix/mix10/mix10.xsd">
   <mets:metsHdr CREATEDATE="2018-11-14 16:44:18.171353">
     <mets:agent TYPE="OTHER" OTHERTYPE="SOFTWARE" ROLE="CREATOR">
@@ -18,54 +17,54 @@
   <mets:fileSec>
     <mets:fileGrp USE="OCR-D-IMG-BIN">
       <mets:file GROUPID="PR1" MIMETYPE="image/tiff" ID="OCR-D-IMG-BIN_PR1">
-        <mets:FLocat xlink:href="file:///data/monorepo/assets/data/DIBCO11-machine_printed/PR1_GT.tiff"/>
+        <mets:FLocat xlink:href="OCR-D-IMG-BIN/OCR-D-IMG-BIN_PR1"/>
       </mets:file>
       <mets:file GROUPID="PR2" MIMETYPE="image/tiff" ID="OCR-D-IMG-BIN_PR2">
-        <mets:FLocat xlink:href="file:///data/monorepo/assets/data/DIBCO11-machine_printed/PR2_GT.tiff"/>
+        <mets:FLocat xlink:href="OCR-D-IMG-BIN/OCR-D-IMG-BIN_PR2"/>
       </mets:file>
       <mets:file GROUPID="PR3" MIMETYPE="image/tiff" ID="OCR-D-IMG-BIN_PR3">
-        <mets:FLocat xlink:href="file:///data/monorepo/assets/data/DIBCO11-machine_printed/PR3_GT.tiff"/>
+        <mets:FLocat xlink:href="OCR-D-IMG-BIN/OCR-D-IMG-BIN_PR3"/>
       </mets:file>
       <mets:file GROUPID="PR4" MIMETYPE="image/tiff" ID="OCR-D-IMG-BIN_PR4">
-        <mets:FLocat xlink:href="file:///data/monorepo/assets/data/DIBCO11-machine_printed/PR4_GT.tiff"/>
+        <mets:FLocat xlink:href="OCR-D-IMG-BIN/OCR-D-IMG-BIN_PR4"/>
       </mets:file>
       <mets:file GROUPID="PR5" MIMETYPE="image/tiff" ID="OCR-D-IMG-BIN_PR5">
-        <mets:FLocat xlink:href="file:///data/monorepo/assets/data/DIBCO11-machine_printed/PR5_GT.tiff"/>
+        <mets:FLocat xlink:href="OCR-D-IMG-BIN/OCR-D-IMG-BIN_PR5"/>
       </mets:file>
       <mets:file GROUPID="PR6" MIMETYPE="image/tiff" ID="OCR-D-IMG-BIN_PR6">
-        <mets:FLocat xlink:href="file:///data/monorepo/assets/data/DIBCO11-machine_printed/PR6_GT.tiff"/>
+        <mets:FLocat xlink:href="OCR-D-IMG-BIN/OCR-D-IMG-BIN_PR6"/>
       </mets:file>
       <mets:file GROUPID="PR7" MIMETYPE="image/tiff" ID="OCR-D-IMG-BIN_PR7">
-        <mets:FLocat xlink:href="file:///data/monorepo/assets/data/DIBCO11-machine_printed/PR7_GT.tiff"/>
+        <mets:FLocat xlink:href="OCR-D-IMG-BIN/OCR-D-IMG-BIN_PR7"/>
       </mets:file>
       <mets:file GROUPID="PR8" MIMETYPE="image/tiff" ID="OCR-D-IMG-BIN_PR8">
-        <mets:FLocat xlink:href="file:///data/monorepo/assets/data/DIBCO11-machine_printed/PR8_GT.tiff"/>
+        <mets:FLocat xlink:href="OCR-D-IMG-BIN/OCR-D-IMG-BIN_PR8"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-IMG">
       <mets:file GROUPID="PR1" MIMETYPE="image/png" ID="OCR-D-IMG_PR1">
-        <mets:FLocat xlink:href="file:///data/monorepo/assets/data/DIBCO11-machine_printed/PR1.png"/>
+        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG_PR1"/>
       </mets:file>
       <mets:file GROUPID="PR2" MIMETYPE="image/png" ID="OCR-D-IMG_PR2">
-        <mets:FLocat xlink:href="file:///data/monorepo/assets/data/DIBCO11-machine_printed/PR2.png"/>
+        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG_PR2"/>
       </mets:file>
       <mets:file GROUPID="PR3" MIMETYPE="image/png" ID="OCR-D-IMG_PR3">
-        <mets:FLocat xlink:href="file:///data/monorepo/assets/data/DIBCO11-machine_printed/PR3.png"/>
+        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG_PR3"/>
       </mets:file>
       <mets:file GROUPID="PR4" MIMETYPE="image/png" ID="OCR-D-IMG_PR4">
-        <mets:FLocat xlink:href="file:///data/monorepo/assets/data/DIBCO11-machine_printed/PR4.png"/>
+        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG_PR4"/>
       </mets:file>
       <mets:file GROUPID="PR5" MIMETYPE="image/png" ID="OCR-D-IMG_PR5">
-        <mets:FLocat xlink:href="file:///data/monorepo/assets/data/DIBCO11-machine_printed/PR5.png"/>
+        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG_PR5"/>
       </mets:file>
       <mets:file GROUPID="PR6" MIMETYPE="image/png" ID="OCR-D-IMG_PR6">
-        <mets:FLocat xlink:href="file:///data/monorepo/assets/data/DIBCO11-machine_printed/PR6.png"/>
+        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG_PR6"/>
       </mets:file>
       <mets:file GROUPID="PR7" MIMETYPE="image/png" ID="OCR-D-IMG_PR7">
-        <mets:FLocat xlink:href="file:///data/monorepo/assets/data/DIBCO11-machine_printed/PR7.png"/>
+        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG_PR7"/>
       </mets:file>
       <mets:file GROUPID="PR8" MIMETYPE="image/png" ID="OCR-D-IMG_PR8">
-        <mets:FLocat xlink:href="file:///data/monorepo/assets/data/DIBCO11-machine_printed/PR8.png"/>
+        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG_PR8"/>
       </mets:file>
     </mets:fileGrp>
   </mets:fileSec>

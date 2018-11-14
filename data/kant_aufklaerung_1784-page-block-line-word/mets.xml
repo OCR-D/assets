@@ -134,15 +134,11 @@
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-GT-SEG-WORD">
-         <mets:file MIMETYPE="application/vnd.prima.page+xml"
-                    ID="OCR-D-GT-SEG-WORD_0001"
-                    GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/page/kant_aufklaerung_1784_0017.xml"/>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-WORD_0001" GROUPID="OCR-D-IMG_0001">
+            <mets:FLocat LOCTYPE="URL" xlink:href="page/kant_aufklaerung_1784_0017.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="application/vnd.prima.page+xml"
-                    ID="OCR-D-GT-SEG-WORD_0002"
-                    GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/page/kant_aufklaerung_1784_0020.xml"/>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-WORD_0002" GROUPID="OCR-D-IMG_0002">
+            <mets:FLocat LOCTYPE="URL" xlink:href="page/kant_aufklaerung_1784_0020.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-IMG">

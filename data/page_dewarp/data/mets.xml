@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-0.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/version17/mets.v1-7.xsd http://www.loc.gov/mix/v10 http://www.loc.gov/standards/mix/mix10/mix10.xsd">
   <mets:metsHdr CREATEDATE="2018-11-14 18:22:49.558544">
     <mets:agent TYPE="OTHER" OTHERTYPE="SOFTWARE" ROLE="CREATOR">
@@ -18,16 +17,16 @@
   <mets:fileSec>
     <mets:fileGrp USE="OCR-D-IMG">
       <mets:file MIMETYPE="image/jpg" ID="OCR-D-IMG-boston_cooking_a">
-        <mets:FLocat xlink:href="boston_cooking_a.jpg"/>
+        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG-boston_cooking_a"/>
       </mets:file>
       <mets:file MIMETYPE="image/jpg" ID="OCR-D-IMG-boston_cooking_b">
-        <mets:FLocat xlink:href="boston_cooking_b.jpg"/>
+        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG-boston_cooking_b"/>
       </mets:file>
       <mets:file MIMETYPE="image/jpg" ID="OCR-D-IMG-linguistics_thesis_a">
-        <mets:FLocat xlink:href="linguistics_thesis_a.jpg"/>
+        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG-linguistics_thesis_a"/>
       </mets:file>
       <mets:file MIMETYPE="image/jpg" ID="OCR-D-IMG-linguistics_thesis_b">
-        <mets:FLocat xlink:href="linguistics_thesis_b.jpg"/>
+        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG-linguistics_thesis_b"/>
       </mets:file>
     </mets:fileGrp>
   </mets:fileSec>

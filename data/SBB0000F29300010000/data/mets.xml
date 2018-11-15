@@ -158,6 +158,9 @@
       <mets:file ID="FILE_0002_IMAGE" GROUPID="FILE_0002_IMAGE" MIMETYPE="image/tiff">
           <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-IMG/FILE_0002_IMAGE"/>
       </mets:file>
+      <mets:file ID="FILE_0005_IMAGE" GROUPID="FILE_0005_IMAGE" MIMETYPE="image/tiff">
+          <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-IMG/FILE_0005_IMAGE"/>
+      </mets:file>
     </mets:fileGrp>
     <!--
                &#8221;OCR-D-IMG-DESKEW&#8221;,   Deskewed images. (Module 1, submodule B: image optimization)

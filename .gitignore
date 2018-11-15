@@ -5,3 +5,4 @@ dist
 __pycache__
 data/dta19-reduced
 data/dta19-reduced.tar.gz
+data/sample_bagit-with-fetch/data

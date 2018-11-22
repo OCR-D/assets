@@ -1,0 +1,6 @@
+Bag-Software-Agent: ocrd/core 0.11.0 (bagit.py 1.7.0, bagit_profile 1.2.0) [cmdline: "/data/monorepo/venv3.6/bin/ocrd zip bag -i ocrd:dfki-testdata -I -Z"]
+BagIt-Profile-Identifier: https://ocr-d.github.io/bagit-profile.json
+Bagging-Date: 2018-11-22 10:49:16.189530
+Ocrd-Identifier: ocrd:dfki-testdata
+Ocrd-Manifestation-Depth: full
+Payload-Oxum: 27628335.8

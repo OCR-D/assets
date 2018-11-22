@@ -1,0 +1,6 @@
+Bag-Software-Agent: ocrd/core 0.11.0 (bagit.py 1.7.0, bagit_profile 1.2.0) [cmdline: "/data/monorepo/venv3.6/bin/ocrd zip bag -i ocrd:pembroke_werke_1766 -I -Z"]
+BagIt-Profile-Identifier: https://ocr-d.github.io/bagit-profile.json
+Bagging-Date: 2018-11-22 17:48:38.834870
+Ocrd-Identifier: ocrd:pembroke_werke_1766
+Ocrd-Manifestation-Depth: partial
+Payload-Oxum: 518219.2

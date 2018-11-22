@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <!-- This METS file was created on Wed Oct 19 10:01:34 CEST 2016 using the UGH Metadata Library: ugh.fileformats.mets.MetsModsImportExport (version 1.9-20100505) -->
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/version17/mets.v1-7.xsd">
   <mets:dmdSec ID="DMDLOG_0000">
@@ -6,11 +5,11 @@
       <mets:xmlData>
         <mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
           <mods:location>
-            <mods:physicalLocation authority="marcorg" displayLabel="Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Berlin, Germany">DE-1</mods:physicalLocation>
+            <mods:physicalLocation authority="marcorg" displayLabel="Staatsbibliothek zu Berlin - Preu&#223;ischer Kulturbesitz, Berlin, Germany">DE-1</mods:physicalLocation>
             <mods:shelfLocator>Na 3722</mods:shelfLocator>
           </mods:location>
           <mods:originInfo>
-            <mods:edition>Neue mit zweyen Anhängen vermehrte Auflage</mods:edition>
+            <mods:edition>Neue mit zweyen Anh&#228;ngen vermehrte Auflage</mods:edition>
             <mods:place>
               <mods:placeTerm type="text">Ulm</mods:placeTerm>
             </mods:place>
@@ -28,7 +27,7 @@
               <mods:placeTerm type="text">Berlin</mods:placeTerm>
             </mods:place>
             <mods:dateCaptured encoding="iso8601">2016</mods:dateCaptured>
-            <mods:publisher>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Germany</mods:publisher>
+            <mods:publisher>Staatsbibliothek zu Berlin - Preu&#223;ischer Kulturbesitz, Germany</mods:publisher>
             <mods:edition>[Electronic ed.]</mods:edition>
           </mods:originInfo>
           <mods:classification authority="ZVDD">Historische Drucke</mods:classification>
@@ -41,11 +40,11 @@
           <mods:identifier type="vd18">12702439</mods:identifier>
           <mods:identifier type="PPNanalog">PPN348462042</mods:identifier>
           <mods:titleInfo>
-            <mods:title>Des Grafen und der Gräfin von Pembrock sämtliche Werke der Punctirkunst</mods:title>
-            <mods:subTitle>nach welcher ein jeder sich selbst die Nativität stellen und wissen kan, ob er in der Welt glücklich oder unglücklich seyn, und ob er jung oder alt sterben werde : Zum allgemeinen Vergnügen und Zeitvertreib sonderlich des schönen Geschlechts herausgegeben : Mit Kupfern</mods:subTitle>
+            <mods:title>Des Grafen und der Gr&#228;fin von Pembrock s&#228;mtliche Werke der Punctirkunst</mods:title>
+            <mods:subTitle>nach welcher ein jeder sich selbst die Nativit&#228;t stellen und wissen kan, ob er in der Welt gl&#252;cklich oder ungl&#252;cklich seyn, und ob er jung oder alt sterben werde : Zum allgemeinen Vergn&#252;gen und Zeitvertreib sonderlich des sch&#246;nen Geschlechts herausgegeben : Mit Kupfern</mods:subTitle>
           </mods:titleInfo>
           <mods:titleInfo type="alternative">
-            <mods:title>Sämtliche Werke der Punctirkunst</mods:title>
+            <mods:title>S&#228;mtliche Werke der Punctirkunst</mods:title>
           </mods:titleInfo>
           <mods:note type="source characteristics">P_Drucke_VD18</mods:note>
           <mods:note type="bibliography">VD18 12702439</mods:note>
@@ -85,7 +84,7 @@
             <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
             <mods:extent>[2] Bl.,173 S., [2] gef. Bl., [2] Bl.</mods:extent>
             <mods:extent>Frontisp. (Kupferst.), 2 Ill. (Kupferst.)</mods:extent>
-            <mods:extent>8°</mods:extent>
+            <mods:extent>8&#176;</mods:extent>
           </mods:physicalDescription>
           <mods:extension>
             <zvdd:zvddWrap xmlns:zvdd="http://zvdd.gdz-cms.de/">
@@ -103,7 +102,7 @@
       <mets:xmlData>
         <mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
           <mods:titleInfo>
-            <mods:title>Caput I. Von der Geomantie insonderheit, was sie sey und wie derjenige, so da punctiren will, so wohl dem Leibe als dem Gemüthe nach, beschaffen seyn müsse, ingleichen was vor der Punctation in Acht zu nehmen sey</mods:title>
+            <mods:title>Caput I. Von der Geomantie insonderheit, was sie sey und wie derjenige, so da punctiren will, so wohl dem Leibe als dem Gem&#252;the nach, beschaffen seyn m&#252;sse, ingleichen was vor der Punctation in Acht zu nehmen sey</mods:title>
           </mods:titleInfo>
         </mods:mods>
       </mets:xmlData>
@@ -114,7 +113,7 @@
       <mets:xmlData>
         <mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
           <mods:titleInfo>
-            <mods:title>Caput II. Was man eigentlich bey Entwerfung der Puncte zu beobachten, und wie man aus selbigen die 16 Geomantischen Figuren herausziehen, und solche in behörige Ordnung bringen solle</mods:title>
+            <mods:title>Caput II. Was man eigentlich bey Entwerfung der Puncte zu beobachten, und wie man aus selbigen die 16 Geomantischen Figuren herausziehen, und solche in beh&#246;rige Ordnung bringen solle</mods:title>
           </mods:titleInfo>
         </mods:mods>
       </mets:xmlData>
@@ -147,7 +146,7 @@
       <mets:xmlData>
         <mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
           <mods:titleInfo>
-            <mods:title>Caput IV. Von der Aufrichtung eines Geomantischen Thematis, dessen Häusern und deren Bedeutung</mods:title>
+            <mods:title>Caput IV. Von der Aufrichtung eines Geomantischen Thematis, dessen H&#228;usern und deren Bedeutung</mods:title>
           </mods:titleInfo>
         </mods:mods>
       </mets:xmlData>
@@ -191,7 +190,7 @@
       <mets:xmlData>
         <mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
           <mods:titleInfo>
-            <mods:title>Caput VII. Von fernerer Erklärung derer Geomantischen Figuren nach den Planeten</mods:title>
+            <mods:title>Caput VII. Von fernerer Erkl&#228;rung derer Geomantischen Figuren nach den Planeten</mods:title>
           </mods:titleInfo>
         </mods:mods>
       </mets:xmlData>
@@ -202,7 +201,7 @@
       <mets:xmlData>
         <mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
           <mods:titleInfo>
-            <mods:title>Caput VIII. Von dem Unglücks-Rade oder Parte fortunae, wie solches nemlich zu finden, wie auch von einigen andern Geomantischen Aspecten</mods:title>
+            <mods:title>Caput VIII. Von dem Ungl&#252;cks-Rade oder Parte fortunae, wie solches nemlich zu finden, wie auch von einigen andern Geomantischen Aspecten</mods:title>
           </mods:titleInfo>
         </mods:mods>
       </mets:xmlData>
@@ -213,7 +212,7 @@
       <mets:xmlData>
         <mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
           <mods:titleInfo>
-            <mods:title>Caput IX. Von denen Triplicitäten oder Geomantischen Dreyfaltigkeiten</mods:title>
+            <mods:title>Caput IX. Von denen Triplicit&#228;ten oder Geomantischen Dreyfaltigkeiten</mods:title>
           </mods:titleInfo>
         </mods:mods>
       </mets:xmlData>
@@ -477,7 +476,7 @@
       <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
         <mets:xmlData>
           <dv:rights xmlns:dv="http://dfg-viewer.de/">
-            <dv:owner>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz</dv:owner>
+            <dv:owner>Staatsbibliothek zu Berlin - Preu&#223;ischer Kulturbesitz</dv:owner>
             <dv:ownerLogo>http://resolver.staatsbibliothek-berlin.de/SBB0000000100000000</dv:ownerLogo>
             <dv:ownerSiteURL>http://www.staatsbibliothek-berlin.de</dv:ownerSiteURL>
             <dv:ownerContact>mailto:info@sbb.spk-berlin.de</dv:ownerContact>
@@ -529,7 +528,7 @@
         <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="http://content.staatsbibliothek-berlin.de/dms/PPN85249078X/800/0/00000010.tif"/>
       </mets:file>
       <mets:file ID="FILE_0010_DEFAULT" MIMETYPE="image/tiff">
-          <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="0010.tif"/>
+          <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="DEFAULT/FILE_0010_DEFAULT"/>
       </mets:file>
       <mets:file ID="FILE_0011_DEFAULT" MIMETYPE="image/tiff">
         <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="http://content.staatsbibliothek-berlin.de/dms/PPN85249078X/800/0/00000012.tif"/>
@@ -1086,25 +1085,25 @@
     </mets:fileGrp>
   </mets:fileSec>
   <mets:structMap TYPE="LOGICAL">
-    <mets:div ADMID="AMD" CONTENTIDS="http://resolver.staatsbibliothek-berlin.de/SBB0001CA7900000000" DMDID="DMDLOG_0000" ID="LOG_0000" LABEL="Des Grafen und der Gräfin von Pembrock sämtliche Werke der Punctirkunst" TYPE="monograph">
+    <mets:div ADMID="AMD" CONTENTIDS="http://resolver.staatsbibliothek-berlin.de/SBB0001CA7900000000" DMDID="DMDLOG_0000" ID="LOG_0000" LABEL="Des Grafen und der Gr&#228;fin von Pembrock s&#228;mtliche Werke der Punctirkunst" TYPE="monograph">
       <mets:div ID="LOG_0001" TYPE="binding"/>
       <mets:div ID="LOG_0002" TYPE="illustration"/>
       <mets:div ID="LOG_0003" TYPE="title_page"/>
-      <mets:div DMDID="DMDLOG_0001" ID="LOG_0004" LABEL="Caput I. Von der Geomantie insonderheit, was sie sey und wie derjenige, so da punctiren will, so wohl dem Leibe als dem Gemüthe nach, beschaffen seyn müsse, ingleichen was vor der Punctation in Acht zu nehmen sey" TYPE="chapter"/>
-      <mets:div DMDID="DMDLOG_0002" ID="LOG_0005" LABEL="Caput II. Was man eigentlich bey Entwerfung der Puncte zu beobachten, und wie man aus selbigen die 16 Geomantischen Figuren herausziehen, und solche in behörige Ordnung bringen solle" TYPE="chapter">
+      <mets:div DMDID="DMDLOG_0001" ID="LOG_0004" LABEL="Caput I. Von der Geomantie insonderheit, was sie sey und wie derjenige, so da punctiren will, so wohl dem Leibe als dem Gem&#252;the nach, beschaffen seyn m&#252;sse, ingleichen was vor der Punctation in Acht zu nehmen sey" TYPE="chapter"/>
+      <mets:div DMDID="DMDLOG_0002" ID="LOG_0005" LABEL="Caput II. Was man eigentlich bey Entwerfung der Puncte zu beobachten, und wie man aus selbigen die 16 Geomantischen Figuren herausziehen, und solche in beh&#246;rige Ordnung bringen solle" TYPE="chapter">
         <mets:div DMDID="DMDLOG_0003" ID="LOG_0006" LABEL="Inhalt der Geomantischen Fragen" TYPE="table"/>
       </mets:div>
       <mets:div DMDID="DMDLOG_0004" ID="LOG_0007" LABEL="Caput III. Von denen Namen der Geomantischen Figuren, wie auch deren Gestalt und Natur" TYPE="chapter"/>
-      <mets:div DMDID="DMDLOG_0005" ID="LOG_0008" LABEL="Caput IV. Von der Aufrichtung eines Geomantischen Thematis, dessen Häusern und deren Bedeutung" TYPE="chapter">
+      <mets:div DMDID="DMDLOG_0005" ID="LOG_0008" LABEL="Caput IV. Von der Aufrichtung eines Geomantischen Thematis, dessen H&#228;usern und deren Bedeutung" TYPE="chapter">
         <mets:div DMDID="DMDLOG_0006" ID="LOG_0009" LABEL="Tabula Geomantica" TYPE="table"/>
       </mets:div>
       <mets:div DMDID="DMDLOG_0007" ID="LOG_0010" LABEL="Caput V. Von Bedeutung der Geomantischen Figuren" TYPE="chapter"/>
       <mets:div DMDID="DMDLOG_0008" ID="LOG_0011" LABEL="Caput VI. Von Bedeutung des Judicis oder Richters" TYPE="chapter"/>
-      <mets:div DMDID="DMDLOG_0009" ID="LOG_0012" LABEL="Caput VII. Von fernerer Erklärung derer Geomantischen Figuren nach den Planeten" TYPE="chapter">
+      <mets:div DMDID="DMDLOG_0009" ID="LOG_0012" LABEL="Caput VII. Von fernerer Erkl&#228;rung derer Geomantischen Figuren nach den Planeten" TYPE="chapter">
         <mets:div ID="LOG_0013" TYPE="illustration"/>
       </mets:div>
-      <mets:div DMDID="DMDLOG_0010" ID="LOG_0014" LABEL="Caput VIII. Von dem Unglücks-Rade oder Parte fortunae, wie solches nemlich zu finden, wie auch von einigen andern Geomantischen Aspecten" TYPE="chapter"/>
-      <mets:div DMDID="DMDLOG_0011" ID="LOG_0015" LABEL="Caput IX. Von denen Triplicitäten oder Geomantischen Dreyfaltigkeiten" TYPE="chapter"/>
+      <mets:div DMDID="DMDLOG_0010" ID="LOG_0014" LABEL="Caput VIII. Von dem Ungl&#252;cks-Rade oder Parte fortunae, wie solches nemlich zu finden, wie auch von einigen andern Geomantischen Aspecten" TYPE="chapter"/>
+      <mets:div DMDID="DMDLOG_0011" ID="LOG_0015" LABEL="Caput IX. Von denen Triplicit&#228;ten oder Geomantischen Dreyfaltigkeiten" TYPE="chapter"/>
       <mets:div DMDID="DMDLOG_0012" ID="LOG_0016" LABEL="Caput X. Von dem Judicio Geomantico" TYPE="chapter">
         <mets:div ID="LOG_0017" TYPE="illustration"/>
       </mets:div>

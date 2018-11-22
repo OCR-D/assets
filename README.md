@@ -8,7 +8,8 @@
 * [test.ocrd.zip](./data/test.ocrd.zip): OCRD-ZIP of `kant_aufklaerung_1784`.
 * [param-binarize.json](./data/param-binarize.json): Sample parameter JSON file
 * [page-with-glyphs.xml](./data/page-with-glyphs.xml): https://github.com/impactcentre/iif-testfiles/blob/master/testfiles/res.xml
-* [bagit_fetch_PPN595930174.zip](./data/sample_bagit-with-fetch/bagit_fetch_PPN595930174.zip): OCRD-ZIP of `PPN595930174` (simplified to file group GDZOCR and PRESENTATION).
+* [sample_bagit-with-fetch](./data/sample_bagit-with-fetch/sample_bagit-with-fetch): OCRD-ZIP of `PPN595930174` (simplified to file group GDZOCR and PRESENTATION).
+* [dfki-testdata](./data/sample_bagit-with-fetch/dfki-testdata): Test assets from https://github.com/syedsaqibbukhari/docanalysis
 
 
 * [column-samples](./data/column-samples/): Samples for column detection

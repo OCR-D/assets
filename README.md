@@ -9,6 +9,7 @@
 * [param-binarize.json](./data/param-binarize.json): Sample parameter JSON file
 * [page-with-glyphs.xml](./data/page-with-glyphs.xml): https://github.com/impactcentre/iif-testfiles/blob/master/testfiles/res.xml
 * [bagit_fetch_PPN595930174.zip](./data/sample_bagit-with-fetch/bagit_fetch_PPN595930174.zip): OCRD-ZIP of `PPN595930174` (simplified to file group GDZOCR and PRESENTATION).
+* [pembroke_werke_1766](./data/pembroke_werke_1766): Page 10 of [http://resolver.staatsbibliothek-berlin.de/SBB0001CA7900000000](http://resolver.staatsbibliothek-berlin.de/SBB0001CA7900000000)
 
 
 * [column-samples](./data/column-samples/): Samples for column detection

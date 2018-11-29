@@ -62,6 +62,7 @@ validate-ocrdzip:
 	@find $(PWD)/data -mindepth 1 -maxdepth 1 -type d \
 			-not -name '.data' \
 			-not -name 'schema' \
+			-not -name 'sample_bagit-with-fetch' \
 		|while read dataset;do \
 		echo -n "Validating ocrdzip $$(basename $$dataset) ... "; \
 		report=$$(ocrd zip validate -Z "$$dataset" 2>&1); \

@@ -3,4 +3,4 @@ BagIt-Profile-Identifier: https://ocr-d.github.io/bagit-profile.json
 Bagging-Date: 2018-11-14 16:21:46.109557
 Ocrd-Identifier: ocrd:column-samples
 Ocrd-Manifestation-Depth: partial
-Payload-Oxum: 4848267.6
+Payload-Oxum: 4848349.6

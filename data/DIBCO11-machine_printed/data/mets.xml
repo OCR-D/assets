@@ -8,7 +8,8 @@
     <mets:mdWrap MDTYPE="MODS">
       <mets:xmlData>
         <mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
-                </mods:mods>
+            <mods:identifier type="urn">urn:ocr-d/DIBCO11-machine_printed</mods:identifier>
+        </mods:mods>
       </mets:xmlData>
     </mets:mdWrap>
   </mets:dmdSec>

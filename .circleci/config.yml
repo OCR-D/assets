@@ -1,0 +1,17 @@
+version: 2
+
+jobs:
+
+  build:
+    docker:
+      - image: python:3.6.0
+    steps:
+      - checkout
+      - run: pip install 'ocrd>=0.13.1'
+      - run: make validate
+
+workflows:
+  version: 2
+  build:
+    jobs:
+      - build

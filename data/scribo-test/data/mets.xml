@@ -8,7 +8,8 @@
     <mets:mdWrap MDTYPE="MODS">
       <mets:xmlData>
         <mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
-                </mods:mods>
+            <mods:identifier type="urn">urn:ocr-d/scribo</mods:identifier>
+        </mods:mods>
       </mets:xmlData>
     </mets:mdWrap>
   </mets:dmdSec>
@@ -19,24 +20,24 @@
         <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG-orig_tiff"/>
       </mets:file>
     </mets:fileGrp>
-    <mets:fileGrp USE="OCR-D-BIN-SAUVOLA-MS-FG">
+    <mets:fileGrp USE="OCR-D-IMG-BIN-SAUVOLA-MS-FG">
       <mets:file MIMETYPE="image/jpg" ID="OCR-D-IMG-orig_sauvola-ms-fg_png" GROUPID="SAME">
-        <mets:FLocat xlink:href="OCR-D-BIN-SAUVOLA-MS-FG/OCR-D-IMG-orig_sauvola-ms-fg_png"/>
+        <mets:FLocat xlink:href="OCR-D-IMG-BIN-SAUVOLA-MS-FG/OCR-D-IMG-orig_sauvola-ms-fg_png"/>
       </mets:file>
     </mets:fileGrp>
-    <mets:fileGrp USE="OCR-D-BIN-SAUVOLA-MS">
+    <mets:fileGrp USE="OCR-D-IMG-BIN-SAUVOLA-MS">
       <mets:file MIMETYPE="image/jpg" ID="OCR-D-IMG-orig_sauvola-ms_png" GROUPID="SAME">
-        <mets:FLocat xlink:href="OCR-D-BIN-SAUVOLA-MS/OCR-D-IMG-orig_sauvola-ms_png"/>
+        <mets:FLocat xlink:href="OCR-D-IMG-BIN-SAUVOLA-MS/OCR-D-IMG-orig_sauvola-ms_png"/>
       </mets:file>
     </mets:fileGrp>
-    <mets:fileGrp USE="OCR-D-BIN-SAUVOLA-MS-SPLIT">
+    <mets:fileGrp USE="OCR-D-IMG-BIN-SAUVOLA-MS-SPLIT">
       <mets:file MIMETYPE="image/jpg" ID="OCR-D-IMG-orig_sauvola-ms-split_png" GROUPID="SAME">
-        <mets:FLocat xlink:href="OCR-D-BIN-SAUVOLA-MS-SPLIT/OCR-D-IMG-orig_sauvola-ms-split_png"/>
+        <mets:FLocat xlink:href="OCR-D-IMG-BIN-SAUVOLA-MS-SPLIT/OCR-D-IMG-orig_sauvola-ms-split_png"/>
       </mets:file>
     </mets:fileGrp>
-    <mets:fileGrp USE="OCR-D-BIN-SAUVOLA">
+    <mets:fileGrp USE="OCR-D-IMG-BIN-SAUVOLA">
       <mets:file MIMETYPE="image/jpg" ID="OCR-D-IMG-orig_sauvola_png" GROUPID="SAME">
-        <mets:FLocat xlink:href="OCR-D-BIN-SAUVOLA/OCR-D-IMG-orig_sauvola_png"/>
+        <mets:FLocat xlink:href="OCR-D-IMG-BIN-SAUVOLA/OCR-D-IMG-orig_sauvola_png"/>
       </mets:file>
     </mets:fileGrp>
   </mets:fileSec>

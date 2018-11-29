@@ -42,12 +42,12 @@ WORKSPACE_VALIDATE_FILE = /tmp/ocrd-assets-failed-workspace
 # Validate all assets as workspaces
 validate-workspace:
 	@rm -f $(WORKSPACE_VALIDATE_FILE)
-	@find $(PWD) -mindepth 2 -maxdepth 2 -type d \
+	@find $(PWD)/data -mindepth 1 -maxdepth 1 -type d \
 			-not -name '.data' \
 			-not -name 'schema' \
 			-not -name 'sample_bagit-with-fetch' \
 		|while read dataset;do \
-		echo -n "Validating workspace $$dataset ..."; \
+		echo -n "Validating workspace $$(basename $$dataset) ... "; \
 		report=$$(cd $$dataset/data && ocrd workspace validate --skip pixel_density mets.xml;); \
 		if [[ "$$?" == 0 ]];then echo "OK";else echo "FAIL"|tee $(WORKSPACE_VALIDATE_FILE);echo "$$report";fi;\
 	done
@@ -59,11 +59,11 @@ OCRDZIP_VALIDATE_FILE = /tmp/ocrd-assets-failed-ocrdzip
 # Validate all assets as workspaces
 validate-ocrdzip:
 	@rm -f $(OCRDZIP_VALIDATE_FILE)
-	@find $(PWD) -mindepth 2 -maxdepth 2 -type d \
+	@find $(PWD)/data -mindepth 1 -maxdepth 1 -type d \
 			-not -name '.data' \
 			-not -name 'schema' \
 		|while read dataset;do \
-		echo -n "Validating ocrdzip $$dataset ..."; \
+		echo -n "Validating ocrdzip $$(basename $$dataset) ... "; \
 		report=$$(ocrd zip validate -Z "$$dataset" 2>&1); \
 		if [[ "$$?" == 0 ]];then echo "OK";else echo "FAIL"|tee $(OCRDZIP_VALIDATE_FILE);echo "$$report";fi;\
 	done

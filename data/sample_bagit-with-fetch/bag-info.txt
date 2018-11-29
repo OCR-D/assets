@@ -1,6 +1,6 @@
 BagIt-Profile-Identifier: https://ocr-d.github.io/bagit-profile.json
 Bag-Software-Agent: (manually created)
-Payload-Oxum: 452061460.668
+Payload-Oxum: 453795902.668
 Bagging-Date: 2018-11-01
 Bag-Size: 431,1 MB
 Ocrd-Manifestation-Depth: partial

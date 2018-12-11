@@ -158,7 +158,7 @@
       <mets:file ID="FILE_0002_IMAGE" MIMETYPE="image/tiff">
           <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-IMG/FILE_0002_IMAGE"/>
       </mets:file>
-      <mets:file ID="FILE_0005_IMAGE" GROUPID="FILE_0005_IMAGE" MIMETYPE="image/tiff">
+      <mets:file ID="FILE_0005_IMAGE" MIMETYPE="image/tiff">
           <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-IMG/FILE_0005_IMAGE"/>
       </mets:file>
     </mets:fileGrp>
@@ -341,7 +341,7 @@
   </mets:fileSec>
   <mets:structMap TYPE="PHYSICAL">
       <mets:div TYPE="physSequence">
-          <mets:div ID="FILE_0001_IMAGE" ORDER="1" ORDERLABEL="page 1" TYPE="page">
+          <mets:div ID="PHYS_0001" ORDER="1" ORDERLABEL="page 1" TYPE="page">
               <mets:fptr FILEID="FILE_0001_FULLTEXT"/>
               <mets:fptr FILEID="FILE_0001_FULLTEXT_ALTO"/>
               <mets:fptr FILEID="FILE_0001_IMAGE"/>
@@ -360,7 +360,7 @@
               <mets:fptr FILEID="FILE_0001_COR_CIS"/>
               <mets:fptr FILEID="FILE_0001_COR_ASV"/>
           </mets:div>
-          <mets:div ID="FILE_0002_IMAGE" ORDER="2" ORDERLABEL="page 2" TYPE="page">
+          <mets:div ID="PHYS_0002" ORDER="2" ORDERLABEL="page 2" TYPE="page">
               <mets:fptr FILEID="FILE_0002_FULLTEXT"/>
               <mets:fptr FILEID="FILE_0002_FULLTEXT_ALTO"/>
               <mets:fptr FILEID="FILE_0002_IMAGE"/>
@@ -379,7 +379,7 @@
               <mets:fptr FILEID="FILE_0002_COR_CIS"/>
               <mets:fptr FILEID="FILE_0002_COR_ASV"/>
           </mets:div>
-          <mets:div ID="FILE_0002_IMAGE" ORDER="5" ORDERLABEL="page 5" TYPE="page">
+          <mets:div ID="PHYS_0005" ORDER="5" ORDERLABEL="page 5" TYPE="page">
               <mets:fptr FILEID="FILE_0005_IMAGE"/>
           </mets:div>
       </mets:div>

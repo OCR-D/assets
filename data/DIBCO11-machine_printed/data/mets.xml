@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-0.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/version17/mets.v1-7.xsd http://www.loc.gov/mix/v10 http://www.loc.gov/standards/mix/mix10/mix10.xsd">
   <mets:metsHdr CREATEDATE="2018-11-14 16:44:18.171353">
     <mets:agent TYPE="OTHER" OTHERTYPE="SOFTWARE" ROLE="CREATOR">
@@ -8,7 +9,7 @@
     <mets:mdWrap MDTYPE="MODS">
       <mets:xmlData>
         <mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
-            <mods:identifier type="urn">urn:ocr-d/DIBCO11-machine_printed</mods:identifier>
+          <mods:identifier type="urn">urn:ocr-d/DIBCO11-machine_printed</mods:identifier>
         </mods:mods>
       </mets:xmlData>
     </mets:mdWrap>
@@ -17,56 +18,92 @@
     </mets:amdSec>
   <mets:fileSec>
     <mets:fileGrp USE="OCR-D-IMG-BIN">
-      <mets:file GROUPID="PR1" MIMETYPE="image/tiff" ID="OCR-D-IMG-BIN_PR1">
+      <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG-BIN_PR1">
         <mets:FLocat xlink:href="OCR-D-IMG-BIN/OCR-D-IMG-BIN_PR1"/>
       </mets:file>
-      <mets:file GROUPID="PR2" MIMETYPE="image/tiff" ID="OCR-D-IMG-BIN_PR2">
+      <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG-BIN_PR2">
         <mets:FLocat xlink:href="OCR-D-IMG-BIN/OCR-D-IMG-BIN_PR2"/>
       </mets:file>
-      <mets:file GROUPID="PR3" MIMETYPE="image/tiff" ID="OCR-D-IMG-BIN_PR3">
+      <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG-BIN_PR3">
         <mets:FLocat xlink:href="OCR-D-IMG-BIN/OCR-D-IMG-BIN_PR3"/>
       </mets:file>
-      <mets:file GROUPID="PR4" MIMETYPE="image/tiff" ID="OCR-D-IMG-BIN_PR4">
+      <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG-BIN_PR4">
         <mets:FLocat xlink:href="OCR-D-IMG-BIN/OCR-D-IMG-BIN_PR4"/>
       </mets:file>
-      <mets:file GROUPID="PR5" MIMETYPE="image/tiff" ID="OCR-D-IMG-BIN_PR5">
+      <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG-BIN_PR5">
         <mets:FLocat xlink:href="OCR-D-IMG-BIN/OCR-D-IMG-BIN_PR5"/>
       </mets:file>
-      <mets:file GROUPID="PR6" MIMETYPE="image/tiff" ID="OCR-D-IMG-BIN_PR6">
+      <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG-BIN_PR6">
         <mets:FLocat xlink:href="OCR-D-IMG-BIN/OCR-D-IMG-BIN_PR6"/>
       </mets:file>
-      <mets:file GROUPID="PR7" MIMETYPE="image/tiff" ID="OCR-D-IMG-BIN_PR7">
+      <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG-BIN_PR7">
         <mets:FLocat xlink:href="OCR-D-IMG-BIN/OCR-D-IMG-BIN_PR7"/>
       </mets:file>
-      <mets:file GROUPID="PR8" MIMETYPE="image/tiff" ID="OCR-D-IMG-BIN_PR8">
+      <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG-BIN_PR8">
         <mets:FLocat xlink:href="OCR-D-IMG-BIN/OCR-D-IMG-BIN_PR8"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-IMG">
-      <mets:file GROUPID="PR1" MIMETYPE="image/png" ID="OCR-D-IMG_PR1">
+      <mets:file MIMETYPE="image/png" ID="OCR-D-IMG_PR1">
         <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG_PR1"/>
       </mets:file>
-      <mets:file GROUPID="PR2" MIMETYPE="image/png" ID="OCR-D-IMG_PR2">
+      <mets:file MIMETYPE="image/png" ID="OCR-D-IMG_PR2">
         <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG_PR2"/>
       </mets:file>
-      <mets:file GROUPID="PR3" MIMETYPE="image/png" ID="OCR-D-IMG_PR3">
+      <mets:file MIMETYPE="image/png" ID="OCR-D-IMG_PR3">
         <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG_PR3"/>
       </mets:file>
-      <mets:file GROUPID="PR4" MIMETYPE="image/png" ID="OCR-D-IMG_PR4">
+      <mets:file MIMETYPE="image/png" ID="OCR-D-IMG_PR4">
         <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG_PR4"/>
       </mets:file>
-      <mets:file GROUPID="PR5" MIMETYPE="image/png" ID="OCR-D-IMG_PR5">
+      <mets:file MIMETYPE="image/png" ID="OCR-D-IMG_PR5">
         <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG_PR5"/>
       </mets:file>
-      <mets:file GROUPID="PR6" MIMETYPE="image/png" ID="OCR-D-IMG_PR6">
+      <mets:file MIMETYPE="image/png" ID="OCR-D-IMG_PR6">
         <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG_PR6"/>
       </mets:file>
-      <mets:file GROUPID="PR7" MIMETYPE="image/png" ID="OCR-D-IMG_PR7">
+      <mets:file MIMETYPE="image/png" ID="OCR-D-IMG_PR7">
         <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG_PR7"/>
       </mets:file>
-      <mets:file GROUPID="PR8" MIMETYPE="image/png" ID="OCR-D-IMG_PR8">
+      <mets:file MIMETYPE="image/png" ID="OCR-D-IMG_PR8">
         <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG_PR8"/>
       </mets:file>
     </mets:fileGrp>
   </mets:fileSec>
+  <mets:structMap TYPE="PHYSICAL">
+    <mets:div TYPE="physSequence">
+      <mets:div TYPE="page" ID="PR1">
+        <mets:fptr FILEID="OCR-D-IMG-BIN_PR1"/>
+        <mets:fptr FILEID="OCR-D-IMG_PR1"/>
+      </mets:div>
+      <mets:div TYPE="page" ID="PR2">
+        <mets:fptr FILEID="OCR-D-IMG-BIN_PR2"/>
+        <mets:fptr FILEID="OCR-D-IMG_PR2"/>
+      </mets:div>
+      <mets:div TYPE="page" ID="PR3">
+        <mets:fptr FILEID="OCR-D-IMG-BIN_PR3"/>
+        <mets:fptr FILEID="OCR-D-IMG_PR3"/>
+      </mets:div>
+      <mets:div TYPE="page" ID="PR4">
+        <mets:fptr FILEID="OCR-D-IMG-BIN_PR4"/>
+        <mets:fptr FILEID="OCR-D-IMG_PR4"/>
+      </mets:div>
+      <mets:div TYPE="page" ID="PR5">
+        <mets:fptr FILEID="OCR-D-IMG-BIN_PR5"/>
+        <mets:fptr FILEID="OCR-D-IMG_PR5"/>
+      </mets:div>
+      <mets:div TYPE="page" ID="PR6">
+        <mets:fptr FILEID="OCR-D-IMG-BIN_PR6"/>
+        <mets:fptr FILEID="OCR-D-IMG_PR6"/>
+      </mets:div>
+      <mets:div TYPE="page" ID="PR7">
+        <mets:fptr FILEID="OCR-D-IMG-BIN_PR7"/>
+        <mets:fptr FILEID="OCR-D-IMG_PR7"/>
+      </mets:div>
+      <mets:div TYPE="page" ID="PR8">
+        <mets:fptr FILEID="OCR-D-IMG-BIN_PR8"/>
+        <mets:fptr FILEID="OCR-D-IMG_PR8"/>
+      </mets:div>
+    </mets:div>
+  </mets:structMap>
 </mets:mets>

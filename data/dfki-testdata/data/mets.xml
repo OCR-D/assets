@@ -14,7 +14,20 @@
     </mets:mdWrap>
   </mets:dmdSec>
   <mets:amdSec ID="AMD">
-    </mets:amdSec>
+  </mets:amdSec>
+  <mets:structMap TYPE="PHYSICAL">
+    <mets:div TYPE="physSequence">
+      <mets:div TYPE="page" ID="becker_quaestio_1586_00013">
+        <mets:fptr FILEID="becker_quaestio_1586_00013.tiff"/>
+        <mets:fptr FILEID="becker_quaestio_1586_00013.bin"/>
+        <mets:fptr FILEID="becker_quaestio_1586_00013.ds"/>
+        <mets:fptr FILEID="becker_quaestio_1586_00013.dw"/>
+        <mets:fptr FILEID="becker_quaestio_1586_00013.nrm"/>
+        <mets:fptr FILEID="becker_quaestio_1586_00013.pf"/>
+        <mets:fptr FILEID="becker_quaestio_1586_00013-frame-pf.dat"/>
+      </mets:div>
+    </mets:div>
+  </mets:structMap>
   <mets:fileSec>
     <mets:fileGrp USE="OCR-D-IMG">
       <mets:file MIMETYPE="image/tiff" ID="becker_quaestio_1586_00013.tiff">

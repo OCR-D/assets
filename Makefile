@@ -45,10 +45,12 @@ validate-workspace:
 	@find $(PWD)/data -mindepth 1 -maxdepth 1 -type d \
 			-not -name '.data' \
 			-not -name 'schema' \
+			-not -name 'glyph-consistency' \
 			-not -name 'sample_bagit-with-fetch' \
 		|while read dataset;do \
 		echo -n "Validating workspace $$(basename $$dataset) ... "; \
-		report=$$(cd $$dataset/data && ocrd workspace validate --skip pixel_density mets.xml;); \
+		report=$$(cd $$dataset/data && \
+			ocrd workspace validate --skip pixel_density --page-strictness lax mets.xml;); \
 		if [[ "$$?" == 0 ]];then echo "OK";else echo "FAIL"|tee $(WORKSPACE_VALIDATE_FILE);echo "$$report";fi;\
 	done
 	@if [[ -s $(WORKSPACE_VALIDATE_FILE) ]];then exit 128;fi

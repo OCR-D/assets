@@ -92,26 +92,26 @@
   <mets:fileSec>
     <mets:fileGrp USE="OCR-D-GT-SEG-PAGE">
       <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0001">
-        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/page/kant_aufklaerung_1784_0017.xml"/>
+          <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/OCR-D-GT-PAGE/PAGE_0017_PAGE"/>
       </mets:file>
       <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0002">
-        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/page/kant_aufklaerung_1784_0020.xml"/>
+          <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/OCR-D-GT-PAGE/PAGE_0020_PAGE"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-GT-SEG-BLOCK">
       <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0001">
-        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/page/kant_aufklaerung_1784_0017.xml"/>
+          <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/OCR-D-GT-PAGE/PAGE_0017_PAGE"/>
       </mets:file>
       <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0002">
-        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/page/kant_aufklaerung_1784_0020.xml"/>
+          <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/OCR-D-GT-PAGE/PAGE_0020_PAGE"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-GT-SEG-LINE">
       <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0001">
-        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/page/kant_aufklaerung_1784_0017.xml"/>
+          <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/OCR-D-GT-PAGE/PAGE_0017_PAGE"/>
       </mets:file>
       <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0002">
-        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/page/kant_aufklaerung_1784_0020.xml"/>
+          <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/OCR-D-GT-PAGE/PAGE_0020_PAGE"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-GT-SEG-WORD">
@@ -124,10 +124,10 @@
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-IMG">
       <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0001">
-        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/kant_aufklaerung_1784_0017.tif"/>
+          <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/data/OCR-D-IMG/INPUT_0017"/>
       </mets:file>
       <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0002">
-        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/kant_aufklaerung_1784_0020.tif"/>
+          <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/data/OCR-D-IMG/INPUT_0020"/>
       </mets:file>
     </mets:fileGrp>
   </mets:fileSec>

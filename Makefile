@@ -19,6 +19,9 @@ help:
 
 REPO_URL = https://github.com/OCR-D/assets/raw/master/data/
 
+# Strictness for page consistency checks
+PAGE_STRICTNESS = lax
+
 # Port to run the asset server on
 PORT=5001
 
@@ -50,7 +53,7 @@ validate-workspace:
 		|while read dataset;do \
 		echo -n "Validating workspace $$(basename $$dataset) ... "; \
 		report=$$(cd $$dataset/data && \
-			ocrd workspace validate --skip pixel_density --page-strictness lax mets.xml;); \
+			ocrd workspace validate --skip pixel_density --page-strictness $(PAGE_STRICTNESS) mets.xml;); \
 		if [[ "$$?" == 0 ]];then echo "OK";else echo "FAIL"|tee $(WORKSPACE_VALIDATE_FILE);echo "$$report";fi;\
 	done
 	@if [[ -s $(WORKSPACE_VALIDATE_FILE) ]];then exit 128;fi

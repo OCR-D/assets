@@ -1,0 +1,11 @@
+Bag-Software-Agent: bagit.py v1.7.1.dev16+g6fda25c <https://github.com/LibraryOfCongress/bagit-python>
+Bagging-Date: 2019-01-17
+Payload-Oxum: 5394128.726
+BagIt-Profile-Identifier: https://ocr-d.github.io/gt-profile.json
+Source-Organization: OCR-D
+Gt-Transcription-Extension: .gt.txt
+Gt-Transcription.Media-Type: text/plain
+Gt-Transcription-Normalization: NFKC
+Gt-Bitonal-Extension: .tif
+Gt-Bitonal-Image-Media-Type: image/tiff
+Gt-Directory-Structure: fla

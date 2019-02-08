@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:TEI="http://www.tei-c.org/ns/1.0" xmlns:DC="http://purl.org/dc/elements/1.1/"
+   xmlns:mods="http://www.loc.gov/mods/v3" xmlns:mets="http://www.loc.gov/METS/"
+   xmlns:dv="http://dfg-viewer.de/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/version17/mets.v1-7.xsd">
+   <mets:dmdSec ID="dmdSec_0001">
+      <mets:mdWrap MDTYPE="MODS">
+         <mets:xmlData>
+            <mods:mods>
+               <mods:location>
+                  <mods:physicalLocation>Zentral- und Landesbibliothek Berlin</mods:physicalLocation>
+                  <mods:shelfLocator>Berlin ZLB, B 1/96:1784,2</mods:shelfLocator>
+               </mods:location>
+               <mods:originInfo>
+                  <mods:place>
+                     <mods:placeTerm type="text">Berlin</mods:placeTerm>
+                  </mods:place>
+                  <mods:dateIssued encoding="iso8601" keyDate="yes">1784</mods:dateIssued>
+                  <mods:publisher>Haude und Spener</mods:publisher>
+               </mods:originInfo>
+               <mods:originInfo>
+                  <mods:dateCaptured encoding="w3cdtf">2019-02-02T11:47:02Z</mods:dateCaptured>
+                  <mods:edition>[Electronic ed.]</mods:edition>
+               </mods:originInfo>
+               <mods:classification authority="DTA">Fachtext</mods:classification>
+               <mods:classification authority="DTA">Philosophie</mods:classification>
+               <mods:identifier type="urn">urn:nbn:de:kobv:b4-200905192971</mods:identifier>
+               <mods:identifier type="purl">http://www.deutschestextarchiv.de/kant_aufklaerung_1784</mods:identifier>
+               <mods:identifier type="dtaid">16167</mods:identifier>
+               <mods:titleInfo>
+                  <mods:title>Beantwortung der Frage: Was ist Aufklärung?</mods:title>
+                  <mods:subTitle/>
+               </mods:titleInfo>
+
+               <mods:language>
+                  <mods:languageTerm authority="iso639-2b" type="code">deu</mods:languageTerm>
+               </mods:language>
+
+               <mods:name type="personal">
+                  <mods:role>
+                     <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+                  </mods:role>
+                  <mods:namePart type="family">Kant</mods:namePart>
+                  <mods:namePart type="given">Immanuel</mods:namePart>
+                  <mods:displayForm>Immanuel Kant</mods:displayForm>
+               </mods:name>
+               <mods:physicalDescription>
+                  <mods:extent>14 S.</mods:extent>
+               </mods:physicalDescription>
+               <mods:accessCondition type="use and reproduction"
+                  xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"
+                  xmlns:xlink="http://www.w3.org/1999/xlink">Public Domain Mark
+                  1.0</mods:accessCondition>
+               <mods:typeOfResource>text</mods:typeOfResource>
+               <mods:accessCondition displayLabel="Access Status" type="restriction on access"
+                  xlink:href="http://purl.org/coar/access_right/c_abf2"
+                  xmlns:xlink="http://www.w3.org/1999/xlink">open access</mods:accessCondition>
+               <mods:extension>
+                  <zvdd:zvddWrap xmlns:zvdd="http://zvdd.gdz-cms.de/">
+                     <zvdd:titleWord>Beantwortung der Frage: Was ist Aufklärung?</zvdd:titleWord>
+                  </zvdd:zvddWrap>
+               </mods:extension>
+            </mods:mods>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:dmdSec ID="DMDGT_0001">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
+         <mets:xmlData>
+            <gt:gt xmlns:gt="http://www.ocr-d.de/GT/">
+               <gt:state prop="granularity/physical/document-related/page"/>
+               <gt:state prop="granularity/physical/document-related/region"/>
+               <gt:state prop="granularity/physical/document-related/text-line"/>
+               <gt:state prop="granularity/physical/document-related/word"/>
+               <gt:state prop="granularity/physical/document-related/glyph"/>
+               <gt:state prop="condition/production-related/document-faults/ink-from-facing"/>
+               <gt:state
+                  prop="data-attributes/document-related/visual/text/font/typeface/blackletter"/>
+               <gt:state
+                  prop="data-attributes/document-related/visual/text/font/multi-font/font-sizes"/>
+               <gt:state
+                  prop="data-attributes/document-related/visual/text/font/multi-font/typefaces"/>
+            </gt:gt>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:dmdSec ID="DMDGT_0002">
+      <mets:mdWrap MDTYPE="OTHER">
+         <mets:xmlData>
+            <gt:gt xmlns:gt="http://www.ocr-d.de/GT/">
+               <gt:state prop="granularity/physical/document-related/page"/>
+               <gt:state prop="granularity/physical/document-related/region"/>
+               <gt:state prop="granularity/physical/document-related/text-line"/>
+               <gt:state prop="granularity/physical/document-related/word"/>
+               <gt:state prop="granularity/physical/document-related/glyph"/>
+               <gt:state prop="condition/production-related/document-faults/ink-from-facing"/>
+               <gt:state
+                  prop="data-attributes/document-related/visual/text/font/typeface/blackletter"/>
+               <gt:state
+                  prop="data-attributes/document-related/visual/text/font/multi-font/typefaces"/>
+            </gt:gt>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:amdSec ID="amdSec_0001">
+      <mets:rightsMD ID="rights_0001">
+         <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="DVRIGHTS" MIMETYPE="text/xml">
+            <mets:xmlData>
+               <dv:rights>
+                  <dv:owner>Koordinierte F&#246;rderinitiative zur Weiterentwicklung von Verfahren
+                     f&#252;r die Optical-Character-Recognition OCR-D</dv:owner>
+                  <dv:ownerLogo>http://ocr-d.de/sites/default/files/Header1-Text-gold_3.png</dv:ownerLogo>
+                  <dv:ownerSiteURL>http://ocr-d.de/</dv:ownerSiteURL>
+                  <dv:ownerContact>mailto:ocrd@bbaw.de</dv:ownerContact>
+               </dv:rights>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:rightsMD>
+      <mets:digiprovMD ID="digiprovMD_0001">
+         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="OTHER" OTHERMDTYPE="DVLINKS">
+            <mets:xmlData>
+               <dv:links>
+                  <dv:reference/>
+                  <dv:presentation>http://www.deutschestextarchiv.de/kant_aufklaerung_1784</dv:presentation>
+               </dv:links>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:digiprovMD>
+   </mets:amdSec>
+   <mets:fileSec>
+      <mets:fileGrp USE="OCR-D-GT-SEG-PAGE">
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0001">
+            <mets:FLocat LOCTYPE="URL"
+               xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/OCR-D-GT-PAGE/PAGE_0017_PAGE"
+            />
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0002">
+            <mets:FLocat LOCTYPE="URL"
+               xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/OCR-D-GT-PAGE/PAGE_0020_PAGE"
+            />
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp USE="OCR-D-GT-SEG-BLOCK">
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0001">
+            <mets:FLocat LOCTYPE="URL"
+               xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/OCR-D-GT-PAGE/PAGE_0017_PAGE"
+            />
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0002">
+            <mets:FLocat LOCTYPE="URL"
+               xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/OCR-D-GT-PAGE/PAGE_0020_PAGE"
+            />
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp USE="OCR-D-GT-SEG-LINE">
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0001">
+            <mets:FLocat LOCTYPE="URL"
+               xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/OCR-D-GT-PAGE/PAGE_0017_PAGE"
+            />
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0002">
+            <mets:FLocat LOCTYPE="URL"
+               xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/OCR-D-GT-PAGE/PAGE_0020_PAGE"
+            />
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp USE="OCR-D-GT-SEG-WORD">
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-WORD_0001">
+            <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-SEG-WORD_GLYPH/OCR-D-GT-SEG-WORD_GLYPH_0001"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-WORD_0002">
+            <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-SEG-WORD_GLYPH/OCR-D-GT-SEG-WORD_GLYPH_0002"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp USE="OCR-D-GT-SEG-WORD-GLYPH">
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-WORD_GLYPH_0001">
+            <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-SEG-WORD_GLYPH/OCR-D-GT-SEG-WORD_GLYPH_0001"/>
+         </mets:file>
+         <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-WORD_GLYPH_0002">
+            <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-SEG-WORD_GLYPH/OCR-D-GT-SEG-WORD_GLYPH_0002"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp USE="OCR-D-IMG">
+         <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0001">
+            <mets:FLocat LOCTYPE="URL"
+               xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/data/OCR-D-IMG/INPUT_0017"
+            />
+         </mets:file>
+         <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0002">
+            <mets:FLocat LOCTYPE="URL"
+               xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/data/OCR-D-IMG/INPUT_0020"
+            />
+         </mets:file>
+      </mets:fileGrp>
+   </mets:fileSec>
+   <mets:structMap TYPE="LOGICAL">
+      <mets:div TYPE="monograph" DMDID="dmdSec_0001" ADMID="amdSec_0001" ID="loc_0001">
+         <mets:div ID="loc_d1e420" TYPE="Chapter"
+            LABEL="Berliniſche Monatsſchrift. 1784 . Zwölftes Stük. December."> </mets:div>
+      </mets:div>
+   </mets:structMap>
+   <mets:structMap TYPE="PHYSICAL">
+      <mets:div TYPE="physSequence" ID="phys_0000">
+         <mets:div TYPE="page" ORDER="1" ID="phys_0001">
+            <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0001"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0001"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-LINE_0001"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-WORD_0001"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-WORD_GLYPH_0001"/>
+            <mets:fptr FILEID="OCR-D-IMG_0001"/>
+         </mets:div>
+         <mets:div TYPE="page" ORDER="2" ID="phys_0002">
+            <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0002"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0002"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-LINE_0002"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-WORD_0002"/>
+            <mets:fptr FILEID="OCR-D-GT-SEG-WORD_GLYPH_0002"/>
+            <mets:fptr FILEID="OCR-D-IMG_0002"/>
+         </mets:div>
+      </mets:div>
+   </mets:structMap>
+   <mets:structLink>
+      <mets:smLink xlink:from="loc_0001" xlink:to="phys_0000"/>
+      <mets:smLink xlink:from="loc_d1e420" xlink:to="phys_0000"/>
+      <mets:smLink xlink:from="loc_d1e420" xlink:to="phys_0001"/>
+   </mets:structLink>
+</mets:mets>

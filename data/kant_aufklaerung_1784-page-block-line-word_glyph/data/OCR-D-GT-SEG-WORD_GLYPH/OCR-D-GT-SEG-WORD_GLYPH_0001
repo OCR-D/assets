@@ -1,0 +1,4121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd" pcGtsId="pc-kant_aufklaerung_1784_0017">
+	<Metadata>
+	<Creator>OCR-D</Creator>
+	<Created>2019-02-03T21:51:00</Created>
+	<LastChange>2019-02-08T13:54:47</LastChange>
+	<Comments>Coordinates are relative to original image</Comments></Metadata>
+	<Page imageFilename="https://raw.githubusercontent.com/OCR-D/assets/master/data/kant_aufklaerung_1784/data/OCR-D-IMG/INPUT_0017" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="1457" imageHeight="2083" type="title" readingDirection="left-to-right" textLineOrder="top-to-bottom" primaryLanguage="German">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r0" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="r2" index="2"/>
+	<RegionRefIndexed regionRef="r3" index="3"/>
+	<RegionRefIndexed regionRef="r4" index="4"/>
+	<RegionRefIndexed regionRef="r5" index="5"/>
+	<RegionRefIndexed regionRef="r6" index="6"/>
+	<RegionRefIndexed regionRef="r7" index="7"/></OrderedGroup></ReadingOrder>
+	<Relations>
+	<Relation id="rel1" type="join">
+	<SourceRegionRef regionRef="r3"/>
+	<TargetRegionRef regionRef="r4"/></Relation></Relations>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="87,309 87,632 935,632 935,309"/>
+	<TextLine id="l1" primaryLanguage="German" production="printed">
+	<Coords points="114,367 917,367 917,436 114,436"/>
+	<Word id="w2" language="German" production="printed">
+	<Coords points="114,368 441,368 441,436 114,436"/>
+	<Glyph id="c542">
+	<Coords points="135,374 135,375 137,375 137,376 156,376 156,377 158,377 158,378 159,378 159,379 160,379 160,380 161,380 161,381 162,381 162,386 164,386 164,398 165,398 165,400 166,400 166,401 167,401 167,404 168,404 168,410 167,410 167,414 166,414 166,415 165,415 165,417 164,417 164,419 163,419 163,420 162,420 162,421 161,421 161,422 160,422 160,423 159,423 159,424 157,424 157,425 155,425 155,426 154,426 154,427 151,427 151,428 147,428 147,429 142,429 142,430 139,430 139,429 137,429 137,428 135,428 135,427 134,427 134,426 116,426 116,425 115,425 115,420 114,420 115,420 115,404 116,404 116,382 117,382 117,379 118,379 118,378 120,378 120,377 121,377 121,376 123,376 123,375 124,375 124,374"/>
+	<TextEquiv>
+	<Unicode>B</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Glyph>
+	<Glyph id="c545">
+	<Coords points="196,384 196,391 197,391 197,393 198,393 198,396 199,396 199,398 198,398 198,399 197,399 197,418 196,418 196,419 195,419 195,420 194,420 194,421 192,421 192,422 191,422 191,424 189,424 189,425 188,425 188,426 187,426 187,428 186,428 186,427 185,427 185,424 184,424 184,422 182,422 182,418 181,418 181,406 180,406 180,402 181,402 181,392 182,392 182,390 184,390 184,389 187,389 187,388 192,388 192,386 194,386 194,385 195,385 195,384"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Glyph>
+	<Glyph id="c8">
+	<Coords points="207,384 227,384 227,427 207,427"/>
+	<TextEquiv conf="0.72131">
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Glyph>
+	<Glyph id="c25">
+	<Coords points="237,372 252,372 252,427 237,427"/>
+	<TextEquiv conf="0.78462">
+	<Unicode>l</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Glyph>
+	<Glyph id="c6">
+	<Coords points="260,371 276,371 276,427 260,427"/>
+	<TextEquiv conf="0.75363">
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Glyph>
+	<Glyph id="c7">
+	<Coords points="284,384 312,384 312,428 284,428"/>
+	<TextEquiv conf="0.74973">
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Glyph>
+	<Glyph id="c41">
+	<Coords points="321,370 336,370 336,426 321,426"/>
+	<TextEquiv conf="0.77456">
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Glyph>
+	<Glyph id="c54">
+	<Coords points="343,368 366,368 366,436 343,436"/>
+	<TextEquiv conf="0.70002">
+	<Unicode>ſ</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Glyph>
+	<Glyph id="c59" ligature="true" symbol="false">
+	<Coords points="381,369 410,369 410,436 381,436 381,425 366,425 366,383 381,383"/>
+	<TextEquiv conf="0.79018">
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Glyph>
+	<Glyph id="c82">
+	<Coords points="421,382 441,382 441,426 421,426"/>
+	<TextEquiv conf="0.82145">
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Glyph>
+	<TextEquiv conf="0.53625">
+	<Unicode>Berliniſe</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Word>
+	<Word id="w13" language="German" production="printed">
+	<Coords points="483,367 917,367 917,436 483,436"/>
+	<Glyph id="c84">
+	<Coords points="483,369 548,369 548,426 483,426"/>
+	<TextEquiv conf="0.57922">
+	<Unicode>M</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Glyph>
+	<Glyph id="c88">
+	<Coords points="555,382 581,382 581,424 555,424"/>
+	<TextEquiv conf="0.76287">
+	<Unicode>o</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Glyph>
+	<Glyph id="c90">
+	<Coords points="590,382 621,382 621,427 590,427"/>
+	<TextEquiv conf="0.76130">
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Glyph>
+	<Glyph id="c100">
+	<Coords points="629,380 658,380 658,426 629,426"/>
+	<TextEquiv conf="0.71098">
+	<Unicode>a</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Glyph>
+	<Glyph id="c108">
+	<Coords points="664,375 687,375 687,426 664,426"/>
+	<TextEquiv conf="0.79595">
+	<Unicode>t</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Glyph>
+	<Glyph id="c120">
+	<Coords points="693,372 718,372 718,426 693,426"/>
+	<TextEquiv conf="0.61026">
+	<Unicode>s</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Glyph>
+	<Glyph id="c126">
+	<Coords points="725,367 749,367 749,436 725,436"/>
+	<TextEquiv conf="0.70892">
+	<Unicode>ſ</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Glyph>
+	<Glyph id="c21" ligature="true">
+	<Coords points="748,371 789,371 789,436 748,436"/>
+	<TextEquiv conf="0.51391">
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Glyph>
+	<Glyph id="c143">
+	<Coords points="798,382 821,382 821,426 798,426"/>
+	<TextEquiv conf="0.77690">
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Glyph>
+	<Glyph id="c164">
+	<Coords points="830,369 845,369 845,426 830,426"/>
+	<TextEquiv conf="0.76429">
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Glyph>
+	<Glyph id="c172">
+	<Coords points="852,367 879,367 879,434 852,434"/>
+	<TextEquiv conf="0.83893">
+	<Unicode>f</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Glyph>
+	<Glyph id="c194">
+	<Coords points="879,373 903,373 903,427 879,427"/>
+	<TextEquiv conf="0.84539">
+	<Unicode>t</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Glyph>
+	<Glyph id="c202">
+	<Coords points="903,407 917,407 917,425 903,425"/>
+	<TextEquiv conf="0.82932">
+	<Unicode>.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Glyph>
+	<TextEquiv conf="0.51391">
+	<Unicode>Monatsſrift.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Word>
+	<TextEquiv conf="0.52508">
+	<Unicode>Berliniſe Monatsſrift.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></TextLine>
+	<TextLine id="l27">
+	<Coords points="399,484 614,483 614,529 398,530"/>
+	<Word id="w30" language="German" production="printed">
+	<Coords points="410,489 428,489 428,518 410,518"/>
+	<Glyph id="c227">
+	<Coords points="410,489 428,489 428,518 410,518"/>
+	<TextEquiv conf="0.92132">
+	<Unicode>1</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Glyph>
+	<TextEquiv conf="0.92132">
+	<Unicode>1</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Word>
+	<Word id="w32" language="German" production="printed">
+	<Coords points="460,486 488,486 488,527 460,527"/>
+	<Glyph id="c33">
+	<Coords points="460,486 488,486 488,527 460,527"/>
+	<TextEquiv conf="0.86820">
+	<Unicode>7</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Glyph>
+	<TextEquiv conf="0.86820">
+	<Unicode>7</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Word>
+	<Word id="w34" language="German" production="printed">
+	<Coords points="518,483 541,483 541,524 518,524"/>
+	<Glyph id="c251">
+	<Coords points="518,483 541,483 541,524 518,524"/>
+	<TextEquiv conf="0.81787">
+	<Unicode>8</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Glyph>
+	<TextEquiv conf="0.81787">
+	<Unicode>8</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Word>
+	<Word id="w36" language="German" production="printed">
+	<Coords points="572,488 614,488 614,529 572,529"/>
+	<Glyph id="c37">
+	<Coords points="572,488 600,488 600,529 572,529"/>
+	<TextEquiv conf="0.86783">
+	<Unicode>4</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Glyph>
+	<Glyph id="c266">
+	<Coords points="602,507 614,507 614,520 602,520"/>
+	<TextEquiv conf="0.72887">
+	<Unicode>.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Glyph>
+	<TextEquiv conf="0.72887">
+	<Unicode>4.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Word>
+	<TextEquiv conf="0.70619">
+	<Unicode>1 7 8 4.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></TextLine>
+	<TextLine id="l39" primaryLanguage="German" production="printed">
+	<Coords points="253,569 778,569 778,620 253,620"/>
+	<Word id="w546" language="German" production="printed">
+	<Coords points="362,572 362,573 364,573 364,574 365,574 365,579 373,579 373,580 407,580 407,581 408,581 408,596 409,596 409,610 416,610 415,610 415,611 356,611 356,617 272,617 272,618 260,618 260,619 258,619 258,618 255,618 255,617 254,617 254,584 253,584 253,581 254,581 254,579 255,579 255,577 256,577 256,576 257,576 257,575 260,575 260,574 264,574 264,573 323,573 323,572"/>
+	<Glyph id="c279">
+	<Coords points="253,573 282,573 282,620 253,620"/>
+	<TextEquiv conf="0.65865">
+	<Unicode>Z</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c297">
+	<Coords points="285,585 314,585 314,610 285,610"/>
+	<TextEquiv conf="0.76122">
+	<Unicode>w</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c307">
+	<Coords points="319,572 335,572 335,609 319,609"/>
+	<TextEquiv conf="0.57553">
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c315">
+	<Coords points="339,575 347,575 347,610 339,610"/>
+	<TextEquiv conf="0.70511">
+	<Unicode>l</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c329">
+	<Coords points="352,572 366,572 366,618 352,618"/>
+	<TextEquiv conf="0.70974">
+	<Unicode>f</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c341">
+	<Coords points="367,579 376,579 376,609 367,609"/>
+	<TextEquiv conf="0.78265">
+	<Unicode>t</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c357">
+	<Coords points="380,584 391,584 391,609 380,609"/>
+	<TextEquiv conf="0.79062">
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c365">
+	<Coords points="394,580 417,580 417,612 394,612"/>
+	<TextEquiv conf="0.66207">
+	<Unicode>s</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<TextEquiv>
+	<Unicode>Zwlftes</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w547" language="German" production="printed">
+	<Coords points="496,569 496,570 497,570 497,571 498,571 498,574 522,574 522,599 528,599 528,600 530,600 530,601 531,601 531,602 534,602 534,604 533,604 533,605 532,605 532,606 531,606 531,608 530,608 530,609 529,609 529,610 529,609 445,609 445,608 442,608 442,607 441,607 441,606 439,606 439,605 438,605 438,604 436,604 436,603 435,603 435,602 434,602 434,600 433,600 433,599 432,599 432,596 431,596 431,594 430,594 430,586 431,586 431,582 432,582 432,581 433,581 433,579 434,579 434,577 435,577 435,576 436,576 436,575 438,575 438,574 440,574 440,573 442,573 442,572 446,572 446,571 492,571 492,570 493,570 493,569"/>
+	<Glyph id="c370">
+	<Coords points="430,571 469,571 469,610 430,610"/>
+	<TextEquiv conf="0.60675">
+	<Unicode>S</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c386">
+	<Coords points="474,579 485,579 485,609 474,609"/>
+	<TextEquiv conf="0.76763">
+	<Unicode>t</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c398" ligature="false" symbol="false">
+	<Coords points="488,569 500,569 500,584 506,584 506,608 488,608"/>
+	<TextEquiv conf="0.66800">
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c53">
+	<Coords points="509,574 523,574 523,609 509,609"/>
+	<TextEquiv conf="0.77683">
+	<Unicode>k</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c428">
+	<Coords points="524,599 535,599 535,611 524,611"/>
+	<TextEquiv conf="0.77053">
+	<Unicode>.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<TextEquiv>
+	<Unicode>Stk.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w430" language="German" production="printed">
+	<Coords points="588,571 778,571 778,611 588,611"/>
+	<Glyph id="c440">
+	<Coords points="588,572 629,572 629,611 588,611"/>
+	<TextEquiv conf="0.50539">
+	<Unicode>D</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c452">
+	<Coords points="633,582 645,582 645,609 633,609"/>
+	<TextEquiv conf="0.74296">
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c466">
+	<Coords points="649,583 659,583 659,609 649,609"/>
+	<TextEquiv conf="0.81116">
+	<Unicode>c</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c474">
+	<Coords points="663,583 676,583 676,610 663,610"/>
+	<TextEquiv conf="0.81814">
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c487">
+	<Coords points="679,583 709,583 709,609 679,609"/>
+	<TextEquiv conf="0.84227">
+	<Unicode>m</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c500">
+	<Coords points="711,571 733,571 733,610 711,610"/>
+	<TextEquiv conf="0.62810">
+	<Unicode>b</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c510">
+	<Coords points="730,583 747,583 747,610 730,610"/>
+	<TextEquiv conf="0.71535">
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c516">
+	<Coords points="749,584 765,584 765,609 749,609"/>
+	<TextEquiv conf="0.73238">
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c531">
+	<Coords points="766,599 778,599 778,610 766,610"/>
+	<TextEquiv conf="0.83037">
+	<Unicode>.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<TextEquiv conf="0.50539">
+	<Unicode>December.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<TextEquiv conf="0.54046">
+	<Unicode>Zwlftes Stk. December.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></TextLine>
+	<TextEquiv>
+	<Unicode>Berliniſe Monatsſrift.
+1 7 8 4.
+Zwlftes Stk. December.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="heading">
+	<Coords points="500,747 512,747 512,761 526,761 526,809 653,809 653,805 686,805 686,812 756,812 756,814 776,814 776,817 796,817 796,886 859,886 859,924 825,924 825,937 800,937 800,934 719,934 719,928 575,928 575,937 556,937 556,928 417,928 417,939 390,939 390,930 237,930 237,932 175,932 175,886 232,886 232,806 276,806 276,813 448,813 448,812 500,812"/>
+	<TextLine id="l2" primaryLanguage="German" production="printed">
+	<Coords points="500,747 512,747 512,761 526,761 526,770 517,770 517,767 500,767"/>
+	<Word id="w3" language="German" production="printed">
+	<Coords points="500,747 512,747 512,761 526,761 526,770 517,770 517,767 500,767"/>
+	<Glyph id="c4">
+	<Coords points="500,747 512,747 512,767 500,767"/>
+	<TextEquiv>
+	<Unicode>I</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="10.00000"/></Glyph>
+	<Glyph id="c5">
+	<Coords points="517,761 526,761 526,770 517,770"/>
+	<TextEquiv>
+	<Unicode>.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="10.00000"/></Glyph>
+	<TextEquiv>
+	<Unicode>I.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="10.00000"/></Word>
+	<TextEquiv>
+	<Unicode>I.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="10.00000"/></TextLine>
+	<TextLine id="l7" primaryLanguage="German" production="printed">
+	<Coords points="653,805 686,805 686,812 756,812 756,814 776,814 776,817 796,817 796,844 756,844 756,854 686,854 686,856 653,856 653,846 538,846 538,856 517,856 517,849 400,849 400,850 276,850 276,851 232,851 232,806 276,806 276,813 448,813 448,812 460,812 460,815 568,815 568,809 653,809"/>
+	<Word id="w8" language="German" production="printed">
+	<Coords points="232,806 276,806 276,813 448,813 448,812 460,812 460,815 538,815 538,856 517,856 517,849 400,849 400,850 276,850 276,851 232,851"/>
+	<Glyph id="c9">
+	<Coords points="232,806 276,806 276,851 232,851"/>
+	<TextEquiv>
+	<Unicode>B</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c10">
+	<Coords points="282,818 296,818 296,847 282,847"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c11">
+	<Coords points="300,817 323,817 323,848 300,848"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c12">
+	<Coords points="324,818 349,818 349,848 324,848"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c13">
+	<Coords points="352,813 364,813 364,847 352,847"/>
+	<TextEquiv>
+	<Unicode>t</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c14">
+	<Coords points="367,814 400,814 400,850 367,850"/>
+	<TextEquiv>
+	<Unicode>w</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c15">
+	<Coords points="405,818 425,818 425,849 405,849"/>
+	<TextEquiv>
+	<Unicode>o</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c16">
+	<Coords points="429,818 445,818 445,847 429,847"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c17">
+	<Coords points="448,812 460,812 460,846 448,846"/>
+	<TextEquiv>
+	<Unicode>t</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c18">
+	<Coords points="464,816 488,816 488,846 464,846"/>
+	<TextEquiv>
+	<Unicode>u</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c19">
+	<Coords points="491,818 513,818 513,847 491,847"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c20">
+	<Coords points="517,815 538,815 538,856 517,856"/>
+	<TextEquiv>
+	<Unicode>g</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<TextEquiv>
+	<Unicode>Beantwortung</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w21" language="German" production="printed">
+	<Coords points="568,809 591,809 591,816 629,816 629,844 610,844 610,846 568,846"/>
+	<Glyph id="c22">
+	<Coords points="568,809 591,809 591,846 568,846"/>
+	<TextEquiv>
+	<Unicode>d</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c23">
+	<Coords points="595,816 610,816 610,846 595,846"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c24">
+	<Coords points="613,816 629,816 629,844 613,844"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w25" language="German" production="printed">
+	<Coords points="653,805 686,805 686,812 756,812 756,814 776,814 776,817 796,817 796,844 756,844 756,854 686,854 686,856 653,856"/>
+	<Glyph id="c26">
+	<Coords points="653,805 686,805 686,856 653,856"/>
+	<TextEquiv>
+	<Unicode>F</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c27">
+	<Coords points="689,816 708,816 708,846 689,846"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c28">
+	<Coords points="711,815 732,815 732,846 711,846"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c29">
+	<Coords points="735,812 756,812 756,854 735,854"/>
+	<TextEquiv>
+	<Unicode>g</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c30">
+	<Coords points="761,814 776,814 776,844 761,844"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c31">
+	<Coords points="784,817 796,817 796,844 784,844"/>
+	<TextEquiv>
+	<Unicode>:</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<TextEquiv>
+	<Unicode>Frage:</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>Beantwortung der Frage:</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></TextLine>
+	<TextLine id="l32" primaryLanguage="German" production="printed">
+	<Coords points="556,885 575,885 575,886 670,886 670,896 839,896 839,886 859,886 859,924 825,924 825,937 800,937 800,934 719,934 719,928 575,928 575,937 556,937 556,928 417,928 417,939 390,939 390,930 237,930 237,932 175,932 175,886 237,886 237,893 361,893 361,891 390,891 390,887 417,887 417,889 556,889"/>
+	<Word id="w33" language="German" production="printed">
+	<Coords points="175,886 237,886 237,893 315,893 315,930 237,930 237,932 175,932"/>
+	<Glyph id="c34">
+	<Coords points="175,886 237,886 237,932 175,932"/>
+	<TextEquiv>
+	<Unicode>W</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c35">
+	<Coords points="255,901 276,901 276,930 255,930"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c36">
+	<Coords points="292,893 315,893 315,930 292,930"/>
+	<TextEquiv>
+	<Unicode>s</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<TextEquiv>
+	<Unicode>Was</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w37" language="German" production="printed">
+	<Coords points="390,887 417,887 417,939 390,939 390,929 361,929 361,891 390,891"/>
+	<Glyph id="c38">
+	<Coords points="361,891 373,891 373,929 361,929"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c39" ligature="true">
+	<Coords points="390,887 417,887 417,939 390,939"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<Word id="w41" language="German" production="printed">
+	<Coords points="556,885 575,885 575,886 670,886 670,896 839,896 839,886 859,886 859,924 825,924 825,937 800,937 800,934 719,934 719,928 575,928 575,937 556,937 556,928 463,928 463,889 556,889"/>
+	<Glyph id="c42">
+	<Coords points="463,889 496,889 496,928 463,928"/>
+	<TextEquiv>
+	<Unicode>A</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c43">
+	<Coords points="513,899 538,899 538,928 513,928"/>
+	<TextEquiv>
+	<Unicode>u</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c44">
+	<Coords points="556,885 575,885 575,937 556,937"/>
+	<TextEquiv>
+	<Unicode>f</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c45">
+	<Coords points="587,887 604,887 604,927 587,927"/>
+	<TextEquiv>
+	<Unicode>k</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c46">
+	<Coords points="620,889 632,889 632,928 620,928"/>
+	<TextEquiv>
+	<Unicode>l</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c47">
+	<Coords points="648,886 670,886 670,927 648,927"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c48">
+	<Coords points="687,899 704,899 704,927 687,927"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c49">
+	<Coords points="719,896 743,896 743,934 719,934"/>
+	<TextEquiv>
+	<Unicode>u</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c50">
+	<Coords points="761,897 783,897 783,926 761,926"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c51">
+	<Coords points="800,896 825,896 825,937 800,937"/>
+	<TextEquiv>
+	<Unicode>g</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<Glyph id="c52">
+	<Coords points="839,886 859,886 859,924 839,924"/>
+	<TextEquiv>
+	<Unicode>?</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
+	<TextEquiv>
+	<Unicode>Aufklrung?</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
+	<TextEquiv>
+	<Unicode>Was i Aufklrung?</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></TextLine>
+	<TextEquiv>
+	<Unicode>I.
+Beantwortung der Frage:
+Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="607,978 750,978 750,1014 681,1014 681,1015 664,1015 664,1013 537,1013 537,1014 521,1014 521,1008 416,1008 416,1009 385,1009 385,1010 337,1010 337,1011 293,1011 293,1016 277,1016 277,980 295,980 295,979 477,979 477,985 607,985"/>
+	<TextLine id="l54" primaryLanguage="German" production="printed">
+	<Coords points="607,978 750,978 750,1014 681,1014 681,1015 664,1015 664,1013 537,1013 537,1014 521,1014 521,1008 416,1008 416,1009 385,1009 385,1010 337,1010 337,1011 293,1011 293,1016 277,1016 277,980 295,980 295,979 477,979 477,985 607,985"/>
+	<Word id="w55" language="German" production="printed">
+	<Coords points="295,979 327,979 327,1001 337,1001 337,1011 293,1011 293,1016 277,1016 277,980 295,980"/>
+	<Glyph id="c56">
+	<Coords points="277,980 293,980 293,1016 277,1016"/>
+	<TextEquiv>
+	<Unicode>(</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c57">
+	<Coords points="295,979 327,979 327,1011 295,1011"/>
+	<TextEquiv>
+	<Unicode>S</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c58">
+	<Coords points="328,1001 337,1001 337,1011 328,1011"/>
+	<TextEquiv>
+	<Unicode>.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>(S.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w59" language="German" production="printed">
+	<Coords points="353,979 477,979 477,1001 488,1001 488,1008 416,1008 416,1009 385,1009 385,1010 353,1010"/>
+	<Glyph id="c60">
+	<Coords points="353,979 385,979 385,1010 353,1010"/>
+	<TextEquiv>
+	<Unicode>D</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c61">
+	<Coords points="389,989 400,989 400,1009 389,1009"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c62">
+	<Coords points="402,988 416,988 416,1009 402,1009"/>
+	<TextEquiv>
+	<Unicode>c</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c63">
+	<Coords points="419,988 429,988 429,1008 419,1008"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c64">
+	<Coords points="434,988 460,988 460,1007 434,1007"/>
+	<TextEquiv>
+	<Unicode>m</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c65">
+	<Coords points="462,979 477,979 477,1008 462,1008"/>
+	<TextEquiv>
+	<Unicode>b</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c66">
+	<Coords points="481,1001 488,1001 488,1008 481,1008"/>
+	<TextEquiv>
+	<Unicode>.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>Decemb.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w67" language="German" production="printed">
+	<Coords points="542,985 554,985 554,987 573,987 573,1000 587,1000 587,1008 573,1008 573,1013 537,1013 537,1014 521,1014 521,1007 504,1007 504,988 542,988"/>
+	<Glyph id="c68">
+	<Coords points="504,988 515,988 515,1007 504,1007"/>
+	<TextEquiv>
+	<Unicode>1</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c69">
+	<Coords points="521,989 537,989 537,1014 521,1014"/>
+	<TextEquiv>
+	<Unicode>7</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c70">
+	<Coords points="542,985 554,985 554,1012 542,1012"/>
+	<TextEquiv>
+	<Unicode>8</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c71">
+	<Coords points="561,987 573,987 573,1013 561,1013"/>
+	<TextEquiv>
+	<Unicode>3</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c72">
+	<Coords points="578,1000 587,1000 587,1008 578,1008"/>
+	<TextEquiv>
+	<Unicode>.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>1783.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w73" language="German" production="printed">
+	<Coords points="607,978 642,978 642,1001 652,1001 652,1008 642,1008 642,1009 607,1009"/>
+	<Glyph id="c74">
+	<Coords points="607,978 642,978 642,1009 607,1009"/>
+	<TextEquiv>
+	<Unicode>S</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c75">
+	<Coords points="645,1001 652,1001 652,1008 645,1008"/>
+	<TextEquiv>
+	<Unicode>.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>S.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w76" language="German" production="printed">
+	<Coords points="705,978 750,978 750,1014 681,1014 681,1015 664,1015 664,988 688,988 688,987 705,987"/>
+	<Glyph id="c77">
+	<Coords points="664,988 681,988 681,1015 664,1015"/>
+	<TextEquiv>
+	<Unicode>5</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c78">
+	<Coords points="688,987 699,987 699,1006 688,1006"/>
+	<TextEquiv>
+	<Unicode>1</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c79">
+	<Coords points="705,978 723,978 723,1007 705,1007"/>
+	<TextEquiv>
+	<Unicode>6</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c80">
+	<Coords points="725,999 731,999 731,1007 725,1007"/>
+	<TextEquiv>
+	<Unicode>.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c81">
+	<Coords points="732,978 750,978 750,1014 732,1014"/>
+	<TextEquiv>
+	<Unicode>)</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>516.)</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<TextEquiv>
+	<Unicode>(S. Decemb. 1783. S. 516.)</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
+	<TextEquiv>
+	<Unicode>(S. Decemb. 1783. S. 516.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="drop-capital">
+	<Coords points="111,1057 163,1057 163,1116 111,1116"/>
+	<TextLine id="l83" primaryLanguage="German" production="printed">
+	<Coords points="111,1057 163,1057 163,1116 111,1116"/>
+	<Word id="w0" language="German" production="printed">
+	<Coords points="127,1057 127,1058 133,1058 133,1059 135,1059 135,1060 158,1060 158,1104 161,1104 161,1106 160,1106 160,1107 159,1107 159,1116 159,1114 151,1114 151,1113 126,1113 126,1109 125,1109 125,1108 124,1108 124,1107 122,1107 122,1106 120,1106 120,1105 117,1105 117,1104 115,1104 115,1103 114,1103 114,1102 113,1102 113,1070 115,1070 115,1068 116,1068 116,1067 119,1067 119,1059 120,1059 120,1058 125,1058 125,1057"/>
+	<Glyph id="c85">
+	<Coords points="111,1057 163,1057 163,1116 111,1116"/>
+	<TextEquiv>
+	<Unicode>A</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Glyph>
+	<TextEquiv>
+	<Unicode>A</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Word>
+	<TextEquiv>
+	<Unicode>A</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></TextLine>
+	<TextEquiv>
+	<Unicode>A</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="263,1083 280,1083 280,1094 413,1094 413,1087 428,1087 428,1085 580,1085 580,1094 740,1094 740,1086 819,1086 819,1085 866,1085 866,1092 906,1092 906,1094 918,1094 918,1140 922,1140 922,1158 921,1158 921,1327 924,1327 924,1343 922,1343 922,1456 923,1456 923,1513 926,1513 926,1530 914,1530 914,1532 901,1532 901,1533 869,1533 869,1540 847,1540 847,1534 653,1534 653,1581 642,1581 642,1588 627,1588 627,1586 516,1586 516,1582 393,1582 393,1584 330,1584 330,1586 314,1586 314,1585 272,1585 272,1581 126,1581 126,1585 110,1585 110,1548 112,1548 112,1400 109,1400 109,1372 111,1372 111,1279 113,1279 113,1181 114,1181 114,1123 110,1116 166,1117 167,1095 169,1094 198,1094 198,1085 263,1085"/>
+	<TextLine id="l88" primaryLanguage="German" production="printed">
+	<Coords points="263,1083 280,1083 280,1094 413,1094 413,1087 428,1087 428,1085 580,1085 580,1094 740,1094 740,1086 819,1086 819,1085 866,1085 866,1092 906,1092 906,1094 918,1094 918,1112 906,1112 906,1115 819,1115 819,1114 713,1114 713,1122 629,1122 629,1116 451,1116 451,1119 392,1119 392,1123 373,1123 373,1116 215,1116 215,1120 198,1120 198,1114 169,1114 169,1112 169,1113 169,1094 198,1094 198,1085 263,1085"/>
+	<Word id="w1" language="German" production="printed">
+	<Coords points="275,1084 275,1085 276,1085 276,1095 382,1095 382,1096 388,1096 388,1097 390,1097 390,1113 391,1113 391,1117 390,1117 390,1119 325,1119 325,1118 254,1118 254,1117 205,1117 205,1115 176,1115 176,1114 174,1114 174,1113 172,1113 172,1112 171,1112 171,1098 172,1098 172,1096 198,1096 198,1095 204,1095 204,1091 205,1091 205,1089 206,1089 206,1088 208,1088 208,1087 270,1087 270,1085 271,1085 271,1084"/>
+	<Glyph id="c86">
+	<Coords points="171,1095 192,1095 192,1115 171,1115"/>
+	<TextEquiv>
+	<Unicode>u</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c92">
+	<Coords points="198,1085 215,1085 215,1120 198,1120"/>
+	<TextEquiv>
+	<Unicode>f</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c93">
+	<Coords points="220,1086 235,1086 235,1116 220,1116"/>
+	<TextEquiv>
+	<Unicode>k</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c94">
+	<Coords points="244,1086 254,1086 254,1115 244,1115"/>
+	<TextEquiv>
+	<Unicode>l</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c95">
+	<Coords points="263,1083 280,1083 280,1116 263,1116"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c96">
+	<Coords points="287,1094 304,1094 304,1115 287,1115"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c97">
+	<Coords points="313,1094 333,1094 333,1115 313,1115"/>
+	<TextEquiv>
+	<Unicode>u</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c98">
+	<Coords points="342,1094 363,1094 363,1115 342,1115"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c99">
+	<Coords points="373,1095 392,1095 392,1123 373,1123"/>
+	<TextEquiv>
+	<Unicode>g</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>ufklrung</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w100" language="German" production="printed">
+	<Coords points="428,1085 451,1085 451,1119 428,1119 428,1117 413,1117 413,1087 428,1087"/>
+	<Glyph id="c101">
+	<Coords points="413,1087 424,1087 424,1117 413,1117"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c102" ligature="true">
+	<Coords points="428,1085 451,1085 451,1119 428,1119"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w104" language="German" production="printed">
+	<Coords points="473,1088 492,1088 492,1095 526,1095 526,1114 508,1114 508,1115 473,1115"/>
+	<Glyph id="c105">
+	<Coords points="473,1088 492,1088 492,1115 473,1115"/>
+	<TextEquiv>
+	<Unicode>d</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c106">
+	<Coords points="496,1095 508,1095 508,1115 496,1115"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c107">
+	<Coords points="511,1095 526,1095 526,1114 511,1114"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w108" language="German" production="printed">
+	<Coords points="551,1085 580,1085 580,1094 713,1094 713,1122 629,1122 629,1116 551,1116"/>
+	<Glyph id="c109">
+	<Coords points="551,1085 580,1085 580,1116 551,1116"/>
+	<TextEquiv>
+	<Unicode>A</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c110">
+	<Coords points="583,1094 603,1094 603,1114 583,1114"/>
+	<TextEquiv>
+	<Unicode>u</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c111">
+	<Coords points="607,1094 624,1094 624,1114 607,1114"/>
+	<TextEquiv>
+	<Unicode>s</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c112">
+	<Coords points="629,1094 646,1094 646,1122 629,1122"/>
+	<TextEquiv>
+	<Unicode>g</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c113">
+	<Coords points="650,1094 666,1094 666,1114 650,1114"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c114">
+	<Coords points="669,1095 689,1095 689,1115 669,1115"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c115">
+	<Coords points="694,1094 713,1094 713,1122 694,1122"/>
+	<TextEquiv>
+	<Unicode>g</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>Ausgang</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w116" language="German" production="printed">
+	<Coords points="740,1086 758,1086 758,1093 775,1093 775,1094 794,1094 794,1114 740,1114"/>
+	<Glyph id="c117">
+	<Coords points="740,1086 758,1086 758,1114 740,1114"/>
+	<TextEquiv>
+	<Unicode>d</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c118">
+	<Coords points="762,1093 775,1093 775,1113 762,1113"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c119">
+	<Coords points="778,1094 794,1094 794,1114 778,1114"/>
+	<TextEquiv>
+	<Unicode>s</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>des</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w120" language="German" production="printed">
+	<Coords points="819,1085 866,1085 866,1092 906,1092 906,1094 918,1094 918,1112 906,1112 906,1115 819,1115"/>
+	<Glyph id="c121">
+	<Coords points="819,1085 866,1085 866,1115 819,1115"/>
+	<TextEquiv>
+	<Unicode>M</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c122">
+	<Coords points="870,1093 882,1093 882,1113 870,1113"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c123">
+	<Coords points="885,1092 906,1092 906,1115 885,1115"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c124">
+	<Coords points="908,1094 918,1094 918,1112 908,1112"/>
+	<TextEquiv>
+	<Unicode>-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>Men-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<TextEquiv>
+	<Unicode>ufklrung i der Ausgang des Men-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
+	<TextLine id="l125" primaryLanguage="German" production="printed">
+	<Coords points="864,1130 885,1130 885,1139 911,1139 911,1140 922,1140 922,1158 911,1158 911,1161 699,1161 699,1162 626,1162 626,1167 594,1167 594,1169 580,1169 580,1166 432,1166 432,1168 297,1168 297,1162 163,1162 163,1169 129,1169 129,1167 114,1167 114,1132 163,1132 163,1141 297,1141 297,1133 415,1133 415,1132 503,1132 503,1133 662,1133 662,1135 774,1135 774,1133 864,1133"/>
+	<Word id="w126" language="German" production="printed">
+	<Coords points="114,1132 163,1132 163,1141 180,1141 180,1142 204,1142 204,1161 163,1161 163,1169 129,1169 129,1167 114,1167"/>
+	<Glyph id="c127">
+	<Coords points="114,1132 133,1132 133,1167 114,1167"/>
+	<TextEquiv>
+	<Unicode>ſ</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c128" ligature="true">
+	<Coords points="129,1132 163,1132 163,1169 129,1169"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c130">
+	<Coords points="168,1141 180,1141 180,1161 168,1161"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c131">
+	<Coords points="183,1142 204,1142 204,1161 183,1161"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>ſen</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w132" language="German" production="printed">
+	<Coords points="239,1141 280,1141 280,1161 258,1161 258,1162 239,1162 239,1161 218,1161 218,1142 239,1142"/>
+	<Glyph id="c133">
+	<Coords points="218,1142 235,1142 235,1161 218,1161"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c134">
+	<Coords points="239,1141 258,1141 258,1162 239,1162"/>
+	<TextEquiv>
+	<Unicode>u</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c135">
+	<Coords points="263,1141 280,1141 280,1161 263,1161"/>
+	<TextEquiv>
+	<Unicode>s</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>aus</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w136" language="German" production="printed">
+	<Coords points="297,1133 314,1133 314,1135 335,1135 335,1141 392,1141 392,1161 335,1161 335,1163 314,1163 314,1168 297,1168"/>
+	<Glyph id="c137">
+	<Coords points="297,1133 314,1133 314,1168 297,1168"/>
+	<TextEquiv>
+	<Unicode>ſ</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c138">
+	<Coords points="310,1142 322,1142 322,1161 310,1161"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c139">
+	<Coords points="327,1135 335,1135 335,1163 327,1163"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c140">
+	<Coords points="340,1142 357,1142 357,1161 340,1161"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c141">
+	<Coords points="362,1141 375,1141 375,1161 362,1161"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c142">
+	<Coords points="378,1141 392,1141 392,1161 378,1161"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>ſeiner</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w143" language="German" production="printed">
+	<Coords points="415,1132 503,1132 503,1166 432,1166 432,1168 415,1168"/>
+	<Glyph id="c144">
+	<Coords points="415,1132 432,1132 432,1168 415,1168"/>
+	<TextEquiv>
+	<Unicode>ſ</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c145">
+	<Coords points="426,1141 440,1141 440,1161 426,1161"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c146">
+	<Coords points="445,1133 453,1133 453,1160 445,1160"/>
+	<TextEquiv>
+	<Unicode>l</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c147">
+	<Coords points="456,1133 475,1133 475,1161 456,1161"/>
+	<TextEquiv>
+	<Unicode>b</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c148" ligature="true">
+	<Coords points="479,1132 503,1132 503,1166 479,1166"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>ſelb</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w150" language="German" production="printed">
+	<Coords points="580,1133 662,1133 662,1135 683,1135 683,1137 715,1137 715,1140 755,1140 755,1160 729,1160 729,1161 699,1161 699,1162 626,1162 626,1167 594,1167 594,1169 580,1169 580,1162 519,1162 519,1142 544,1142 544,1141 580,1141"/>
+	<Glyph id="c151">
+	<Coords points="519,1142 541,1142 541,1162 519,1162"/>
+	<TextEquiv>
+	<Unicode>v</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c152">
+	<Coords points="544,1141 557,1141 557,1161 544,1161"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c153">
+	<Coords points="560,1141 575,1141 575,1162 560,1162"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c154">
+	<Coords points="580,1133 594,1133 594,1169 580,1169"/>
+	<TextEquiv>
+	<Unicode>ſ</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c155" ligature="true">
+	<Coords points="591,1133 626,1133 626,1167 591,1167"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c157">
+	<Coords points="630,1141 650,1141 650,1161 630,1161"/>
+	<TextEquiv>
+	<Unicode>u</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c158">
+	<Coords points="653,1133 662,1133 662,1161 653,1161"/>
+	<TextEquiv>
+	<Unicode>l</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c159">
+	<Coords points="665,1135 683,1135 683,1161 665,1161"/>
+	<TextEquiv>
+	<Unicode>d</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c160">
+	<Coords points="687,1142 699,1142 699,1162 687,1162"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c161">
+	<Coords points="702,1137 715,1137 715,1161 702,1161"/>
+	<TextEquiv>
+	<Unicode>t</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c162">
+	<Coords points="718,1140 729,1140 729,1161 718,1161"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c163">
+	<Coords points="732,1140 755,1140 755,1160 732,1160"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>verſuldeten</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w164" language="German" production="printed">
+	<Coords points="864,1130 885,1130 885,1139 911,1139 911,1140 922,1140 922,1158 911,1158 911,1161 774,1161 774,1133 864,1133"/>
+	<Glyph id="c165">
+	<Coords points="774,1133 803,1133 803,1161 774,1161"/>
+	<TextEquiv>
+	<Unicode>U</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c166">
+	<Coords points="805,1140 825,1140 825,1160 805,1160"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c167">
+	<Coords points="827,1141 861,1141 861,1160 827,1160"/>
+	<TextEquiv>
+	<Unicode>m</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c168">
+	<Coords points="864,1130 885,1130 885,1161 864,1161"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c169">
+	<Coords points="889,1139 911,1139 911,1161 889,1161"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c170">
+	<Coords points="913,1140 922,1140 922,1158 913,1158"/>
+	<TextEquiv>
+	<Unicode>-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>Unmn-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<TextEquiv>
+	<Unicode>ſen aus ſeiner ſelb verſuldeten Unmn-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
+	<TextLine id="l171" primaryLanguage="German" production="printed">
+	<Coords points="375,1177 396,1177 396,1180 524,1180 524,1181 604,1181 604,1182 713,1182 713,1178 739,1178 739,1179 855,1179 855,1185 910,1185 910,1197 921,1197 921,1213 873,1213 873,1215 857,1215 857,1208 739,1208 739,1209 713,1209 713,1208 604,1208 604,1213 584,1213 584,1209 477,1209 477,1215 458,1215 458,1210 286,1210 286,1209 168,1209 168,1215 149,1215 149,1208 113,1208 113,1181 138,1181 138,1180 168,1180 168,1179 187,1179 187,1180 215,1180 215,1181 375,1181"/>
+	<Word id="w172" language="German" production="printed">
+	<Coords points="168,1179 187,1179 187,1180 215,1180 215,1183 231,1183 231,1203 239,1203 239,1208 231,1208 231,1209 168,1209 168,1215 149,1215 149,1208 113,1208 113,1181 138,1181 138,1180 168,1180"/>
+	<Glyph id="c173">
+	<Coords points="113,1181 133,1181 133,1208 113,1208"/>
+	<TextEquiv>
+	<Unicode>d</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c174">
+	<Coords points="138,1180 147,1180 147,1207 138,1207"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c175">
+	<Coords points="149,1187 168,1187 168,1215 149,1215"/>
+	<TextEquiv>
+	<Unicode>g</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c176">
+	<Coords points="168,1179 187,1179 187,1207 168,1207"/>
+	<TextEquiv>
+	<Unicode>k</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c177">
+	<Coords points="190,1187 202,1187 202,1207 190,1207"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c178">
+	<Coords points="206,1180 215,1180 215,1208 206,1208"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c179">
+	<Coords points="218,1183 231,1183 231,1209 218,1209"/>
+	<TextEquiv>
+	<Unicode>t</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c180">
+	<Coords points="233,1203 239,1203 239,1208 233,1208"/>
+	<TextEquiv>
+	<Unicode>.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>digkeit.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w181" language="German" production="printed">
+	<Coords points="375,1177 396,1177 396,1180 524,1180 524,1185 540,1185 540,1209 477,1209 477,1215 458,1215 458,1210 286,1210 286,1181 375,1181"/>
+	<Glyph id="c182">
+	<Coords points="286,1181 314,1181 314,1210 286,1210"/>
+	<TextEquiv>
+	<Unicode>U</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c183">
+	<Coords points="318,1188 337,1188 337,1208 318,1208"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c184">
+	<Coords points="341,1188 373,1188 373,1209 341,1209"/>
+	<TextEquiv>
+	<Unicode>m</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c185">
+	<Coords points="375,1177 396,1177 396,1210 375,1210"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c186">
+	<Coords points="400,1188 420,1188 420,1208 400,1208"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c187">
+	<Coords points="422,1182 441,1182 441,1208 422,1208"/>
+	<TextEquiv>
+	<Unicode>d</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c188">
+	<Coords points="445,1180 455,1180 455,1208 445,1208"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c189">
+	<Coords points="458,1188 477,1188 477,1215 458,1215"/>
+	<TextEquiv>
+	<Unicode>g</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c190">
+	<Coords points="480,1181 497,1181 497,1208 480,1208"/>
+	<TextEquiv>
+	<Unicode>k</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c191">
+	<Coords points="499,1188 511,1188 511,1207 499,1207"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c192">
+	<Coords points="512,1180 524,1180 524,1209 512,1209"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c193">
+	<Coords points="525,1185 540,1185 540,1209 525,1209"/>
+	<TextEquiv>
+	<Unicode>t</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>Unmndigkeit</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w194" language="German" production="printed">
+	<Coords points="584,1181 604,1181 604,1213 584,1213 584,1208 571,1208 571,1182 584,1182"/>
+	<Glyph id="c195">
+	<Coords points="571,1182 580,1182 580,1208 571,1208"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c196" ligature="true">
+	<Coords points="584,1181 604,1181 604,1213 584,1213"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w198" language="German" production="printed">
+	<Coords points="633,1182 649,1182 649,1186 684,1186 684,1208 633,1208"/>
+	<Glyph id="c199">
+	<Coords points="633,1182 649,1182 649,1208 633,1208"/>
+	<TextEquiv>
+	<Unicode>d</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c200">
+	<Coords points="651,1189 666,1189 666,1208 651,1208"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c201">
+	<Coords points="667,1186 684,1186 684,1208 667,1208"/>
+	<TextEquiv>
+	<Unicode>s</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>das</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w202" language="German" production="printed">
+	<Coords points="713,1178 739,1178 739,1179 855,1179 855,1185 910,1185 910,1197 921,1197 921,1213 873,1213 873,1215 857,1215 857,1208 739,1208 739,1209 713,1209"/>
+	<Glyph id="c203">
+	<Coords points="713,1178 739,1178 739,1209 713,1209"/>
+	<TextEquiv>
+	<Unicode>U</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c204">
+	<Coords points="741,1187 759,1187 759,1206 741,1206"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c205">
+	<Coords points="761,1186 778,1186 778,1207 761,1207"/>
+	<TextEquiv>
+	<Unicode>v</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c206">
+	<Coords points="780,1188 792,1188 792,1207 780,1207"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c207">
+	<Coords points="794,1187 807,1187 807,1208 794,1208"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c208">
+	<Coords points="810,1187 837,1187 837,1208 810,1208"/>
+	<TextEquiv>
+	<Unicode>m</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c209">
+	<Coords points="839,1179 855,1179 855,1207 839,1207"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c210">
+	<Coords points="857,1187 873,1187 873,1215 857,1215"/>
+	<TextEquiv>
+	<Unicode>g</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c211">
+	<Coords points="875,1187 888,1187 888,1207 875,1207"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c212">
+	<Coords points="890,1185 910,1185 910,1207 890,1207"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c213">
+	<Coords points="909,1197 921,1197 921,1213 909,1213"/>
+	<TextEquiv>
+	<Unicode>,</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>Unvermgen,</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<TextEquiv>
+	<Unicode>digkeit. Unmndigkeit i das Unvermgen,</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
+	<TextLine id="l214" primaryLanguage="German" production="printed">
+	<Coords points="562,1225 579,1225 579,1228 603,1228 603,1233 616,1233 616,1234 719,1234 719,1227 725,1227 725,1231 839,1231 839,1228 855,1228 855,1232 920,1232 920,1255 901,1255 901,1254 674,1254 674,1263 659,1263 659,1257 505,1257 505,1259 491,1259 491,1256 362,1256 362,1261 344,1261 344,1256 193,1256 193,1258 163,1258 163,1260 125,1260 125,1261 114,1261 114,1226 310,1226 310,1228 362,1228 362,1231 491,1231 491,1228 562,1228"/>
+	<Word id="w215" language="German" production="printed">
+	<Coords points="114,1226 163,1226 163,1260 125,1260 125,1261 114,1261"/>
+	<Glyph id="c216">
+	<Coords points="114,1226 125,1226 125,1261 114,1261"/>
+	<TextEquiv>
+	<Unicode>ſ</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c217">
+	<Coords points="125,1226 134,1226 134,1254 125,1254"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c218" ligature="true">
+	<Coords points="135,1226 163,1226 163,1260 135,1260"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>ſi</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w220" language="German" production="printed">
+	<Coords points="179,1226 193,1226 193,1228 212,1228 212,1232 265,1232 265,1255 193,1255 193,1258 179,1258"/>
+	<Glyph id="c221">
+	<Coords points="179,1226 193,1226 193,1258 179,1258"/>
+	<TextEquiv>
+	<Unicode>ſ</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c222">
+	<Coords points="190,1235 202,1235 202,1255 190,1255"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c223">
+	<Coords points="205,1228 212,1228 212,1254 205,1254"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c224">
+	<Coords points="217,1235 232,1235 232,1254 217,1254"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c225">
+	<Coords points="237,1236 247,1236 247,1254 237,1254"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c226">
+	<Coords points="251,1232 265,1232 265,1255 251,1255"/>
+	<TextEquiv>
+	<Unicode>s</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>ſeines</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w227" language="German" production="printed">
+	<Coords points="280,1226 310,1226 310,1228 362,1228 362,1231 418,1231 418,1234 450,1234 450,1254 418,1254 418,1256 362,1256 362,1261 344,1261 344,1256 280,1256"/>
+	<Glyph id="c228">
+	<Coords points="280,1226 310,1226 310,1256 280,1256"/>
+	<TextEquiv>
+	<Unicode>V</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c229">
+	<Coords points="315,1235 326,1235 326,1255 315,1255"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c230">
+	<Coords points="328,1236 340,1236 340,1256 328,1256"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c231" ligature="true">
+	<Coords points="344,1228 362,1228 362,1261 344,1261"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c233">
+	<Coords points="365,1234 381,1234 381,1255 365,1255"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c234">
+	<Coords points="384,1235 400,1235 400,1255 384,1255"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c235">
+	<Coords points="405,1231 418,1231 418,1256 405,1256"/>
+	<TextEquiv>
+	<Unicode>d</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c236">
+	<Coords points="422,1235 433,1235 433,1254 422,1254"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c237">
+	<Coords points="436,1234 450,1234 450,1254 436,1254"/>
+	<TextEquiv>
+	<Unicode>s</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>Verandes</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w238" language="German" production="printed">
+	<Coords points="491,1228 505,1228 505,1235 541,1235 541,1255 505,1255 505,1259 491,1259 491,1254 471,1254 471,1235 491,1235"/>
+	<Glyph id="c239">
+	<Coords points="471,1235 487,1235 487,1254 471,1254"/>
+	<TextEquiv>
+	<Unicode>o</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c240">
+	<Coords points="491,1228 505,1228 505,1259 491,1259"/>
+	<TextEquiv>
+	<Unicode>h</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c241">
+	<Coords points="510,1236 525,1236 525,1254 510,1254"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c242">
+	<Coords points="529,1235 541,1235 541,1255 529,1255"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>ohne</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w243" language="German" production="printed">
+	<Coords points="562,1225 579,1225 579,1228 603,1228 603,1233 616,1233 616,1234 655,1234 655,1235 674,1235 674,1263 659,1263 659,1257 562,1257"/>
+	<Glyph id="c244">
+	<Coords points="562,1225 579,1225 579,1257 562,1257"/>
+	<TextEquiv>
+	<Unicode>L</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c245">
+	<Coords points="582,1236 592,1236 592,1254 582,1254"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c246">
+	<Coords points="596,1228 603,1228 603,1254 596,1254"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c247">
+	<Coords points="607,1233 616,1233 616,1253 607,1253"/>
+	<TextEquiv>
+	<Unicode>t</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c248">
+	<Coords points="619,1234 637,1234 637,1254 619,1254"/>
+	<TextEquiv>
+	<Unicode>u</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c249">
+	<Coords points="637,1234 655,1234 655,1254 637,1254"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c250">
+	<Coords points="659,1235 674,1235 674,1263 659,1263"/>
+	<TextEquiv>
+	<Unicode>g</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>Leitung</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w251" language="German" production="printed">
+	<Coords points="719,1227 725,1227 725,1231 778,1231 778,1253 745,1253 745,1254 703,1254 703,1235 719,1235"/>
+	<Glyph id="c252">
+	<Coords points="703,1235 714,1235 714,1254 703,1254"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c253">
+	<Coords points="719,1227 725,1227 725,1252 719,1252"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c254">
+	<Coords points="728,1233 745,1233 745,1254 728,1254"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c255">
+	<Coords points="749,1233 760,1233 760,1252 749,1252"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c256">
+	<Coords points="763,1231 778,1231 778,1253 763,1253"/>
+	<TextEquiv>
+	<Unicode>s</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>eines</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w257" language="German" production="printed">
+	<Coords points="839,1228 855,1228 855,1232 920,1232 920,1255 901,1255 901,1254 797,1254 797,1234 839,1234"/>
+	<Glyph id="c258">
+	<Coords points="797,1234 814,1234 814,1254 797,1254"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c259">
+	<Coords points="819,1234 836,1234 836,1254 819,1254"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c260">
+	<Coords points="839,1228 855,1228 855,1253 839,1253"/>
+	<TextEquiv>
+	<Unicode>d</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c261">
+	<Coords points="858,1233 869,1233 869,1253 858,1253"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c262">
+	<Coords points="873,1234 885,1234 885,1253 873,1253"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c263">
+	<Coords points="887,1233 899,1233 899,1254 887,1254"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c264">
+	<Coords points="901,1232 920,1232 920,1255 901,1255"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>anderen</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<TextEquiv>
+	<Unicode>ſi ſeines Verandes ohne Leitung eines anderen</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
+	<TextLine id="l265" primaryLanguage="German" production="printed">
+	<Coords points="872,1270 889,1270 889,1278 909,1278 909,1280 921,1280 921,1297 909,1297 909,1301 839,1301 839,1304 767,1304 767,1305 694,1305 694,1308 675,1308 675,1302 556,1302 556,1309 523,1309 523,1308 510,1308 510,1307 427,1307 427,1303 338,1303 338,1301 125,1301 125,1308 111,1308 111,1279 160,1279 160,1272 175,1272 175,1274 219,1274 219,1280 234,1280 234,1281 338,1281 338,1272 446,1272 446,1273 754,1273 754,1271 767,1271 767,1274 872,1274"/>
+	<Word id="w266" language="German" production="printed">
+	<Coords points="111,1279 145,1279 145,1300 125,1300 125,1308 111,1308"/>
+	<Glyph id="c267">
+	<Coords points="111,1279 125,1279 125,1308 111,1308"/>
+	<TextEquiv>
+	<Unicode>z</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c268">
+	<Coords points="128,1279 145,1279 145,1300 128,1300"/>
+	<TextEquiv>
+	<Unicode>u</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>zu</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w269" language="German" production="printed">
+	<Coords points="160,1272 175,1272 175,1274 219,1274 219,1280 234,1280 234,1281 253,1281 253,1282 287,1282 287,1295 298,1295 298,1301 193,1301 193,1300 160,1300"/>
+	<Glyph id="c270">
+	<Coords points="160,1272 175,1272 175,1300 160,1300"/>
+	<TextEquiv>
+	<Unicode>b</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c271">
+	<Coords points="179,1281 190,1281 190,1300 179,1300"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c272">
+	<Coords points="193,1275 208,1275 208,1301 193,1301"/>
+	<TextEquiv>
+	<Unicode>d</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c273">
+	<Coords points="212,1274 219,1274 219,1301 212,1301"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c274">
+	<Coords points="223,1280 234,1280 234,1301 223,1301"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c275">
+	<Coords points="237,1281 253,1281 253,1301 237,1301"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c276">
+	<Coords points="257,1282 267,1282 267,1301 257,1301"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c277">
+	<Coords points="270,1282 287,1282 287,1301 270,1301"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c278">
+	<Coords points="290,1295 298,1295 298,1301 290,1301"/>
+	<TextEquiv>
+	<Unicode>.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>bedienen.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w279" language="German" production="printed">
+	<Coords points="338,1272 446,1272 446,1273 594,1273 594,1274 615,1274 615,1276 647,1276 647,1300 633,1300 633,1301 581,1301 581,1302 556,1302 556,1309 523,1309 523,1308 510,1308 510,1307 427,1307 427,1303 338,1303"/>
+	<Glyph id="c280">
+	<Coords points="338,1272 372,1272 372,1303 338,1303"/>
+	<TextEquiv>
+	<Unicode>S</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c281">
+	<Coords points="376,1281 388,1281 388,1300 376,1300"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c282">
+	<Coords points="388,1274 401,1274 401,1302 388,1302"/>
+	<TextEquiv>
+	<Unicode>l</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c283">
+	<Coords points="404,1273 423,1273 423,1302 404,1302"/>
+	<TextEquiv>
+	<Unicode>b</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c284" ligature="true">
+	<Coords points="427,1272 450,1272 450,1307 427,1307"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c286">
+	<Coords points="451,1282 472,1282 472,1301 451,1301"/>
+	<TextEquiv>
+	<Unicode>v</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c287">
+	<Coords points="476,1282 489,1282 489,1301 476,1301"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c288">
+	<Coords points="492,1281 507,1281 507,1302 492,1302"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c289">
+	<Coords points="510,1274 525,1274 525,1308 510,1308"/>
+	<TextEquiv>
+	<Unicode>ſ</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c290" ligature="true">
+	<Coords points="523,1273 556,1273 556,1309 523,1309"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c292">
+	<Coords points="561,1281 581,1281 581,1302 561,1302"/>
+	<TextEquiv>
+	<Unicode>u</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c293">
+	<Coords points="583,1273 594,1273 594,1301 583,1301"/>
+	<TextEquiv>
+	<Unicode>l</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c294">
+	<Coords points="597,1274 615,1274 615,1301 597,1301"/>
+	<TextEquiv>
+	<Unicode>d</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c295">
+	<Coords points="619,1280 633,1280 633,1301 619,1301"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c296">
+	<Coords points="634,1276 647,1276 647,1300 634,1300"/>
+	<TextEquiv>
+	<Unicode>t</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>Selbverſuldet</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w297" language="German" production="printed">
+	<Coords points="675,1273 694,1273 694,1308 675,1308 675,1302 662,1302 662,1275 675,1275"/>
+	<Glyph id="c298">
+	<Coords points="662,1275 670,1275 670,1302 662,1302"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c299" ligature="true">
+	<Coords points="675,1273 694,1273 694,1308 675,1308"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w301" language="German" production="printed">
+	<Coords points="754,1271 767,1271 767,1280 776,1280 776,1300 767,1300 767,1305 754,1305 754,1301 709,1301 709,1274 730,1274 730,1273 754,1273"/>
+	<Glyph id="c302">
+	<Coords points="709,1274 725,1274 725,1301 709,1301"/>
+	<TextEquiv>
+	<Unicode>d</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c303">
+	<Coords points="730,1273 735,1273 735,1301 730,1301"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c304">
+	<Coords points="740,1280 751,1280 751,1300 740,1300"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c305">
+	<Coords points="754,1271 767,1271 767,1305 754,1305"/>
+	<TextEquiv>
+	<Unicode>ſ</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c306">
+	<Coords points="765,1280 776,1280 776,1300 765,1300"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>dieſe</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w307" language="German" production="printed">
+	<Coords points="872,1270 889,1270 889,1278 909,1278 909,1280 921,1280 921,1297 909,1297 909,1301 839,1301 839,1304 820,1304 820,1302 790,1302 790,1274 872,1274"/>
+	<Glyph id="c308">
+	<Coords points="790,1274 817,1274 817,1302 790,1302"/>
+	<TextEquiv>
+	<Unicode>U</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c309">
+	<Coords points="820,1280 839,1280 839,1304 820,1304"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c310">
+	<Coords points="843,1280 867,1280 867,1299 843,1299"/>
+	<TextEquiv>
+	<Unicode>m</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c311">
+	<Coords points="872,1270 889,1270 889,1300 872,1300"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c312">
+	<Coords points="892,1278 909,1278 909,1301 892,1301"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c313">
+	<Coords points="912,1280 921,1280 921,1297 912,1297"/>
+	<TextEquiv>
+	<Unicode>-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>Unmn-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<TextEquiv>
+	<Unicode>zu bedienen. Selbverſuldet i dieſe Unmn-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
+	<TextLine id="l314" primaryLanguage="German" production="printed">
+	<Coords points="716,1318 872,1318 872,1325 912,1325 912,1327 924,1327 924,1343 912,1343 912,1345 890,1345 890,1346 872,1346 872,1348 740,1348 740,1352 716,1352 716,1347 602,1347 602,1348 593,1348 593,1352 503,1352 503,1353 479,1353 479,1352 449,1352 449,1350 406,1350 406,1348 379,1348 379,1347 226,1347 226,1351 161,1351 161,1353 144,1353 144,1347 114,1347 114,1320 134,1320 134,1319 177,1319 177,1323 217,1323 217,1326 351,1326 351,1323 368,1323 368,1320 449,1320 449,1319 462,1319 462,1320 578,1320 578,1319 716,1319"/>
+	<Word id="w315" language="German" production="printed">
+	<Coords points="134,1319 177,1319 177,1323 217,1323 217,1338 226,1338 226,1351 161,1351 161,1353 144,1353 144,1347 114,1347 114,1320 134,1320"/>
+	<Glyph id="c316">
+	<Coords points="114,1320 131,1320 131,1347 114,1347"/>
+	<TextEquiv>
+	<Unicode>d</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c317">
+	<Coords points="134,1319 142,1319 142,1346 134,1346"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c318">
+	<Coords points="144,1326 161,1326 161,1353 144,1353"/>
+	<TextEquiv>
+	<Unicode>g</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c319">
+	<Coords points="163,1319 177,1319 177,1346 163,1346"/>
+	<TextEquiv>
+	<Unicode>k</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c320">
+	<Coords points="179,1327 190,1327 190,1346 179,1346"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c321">
+	<Coords points="194,1326 201,1326 201,1345 194,1345"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c322">
+	<Coords points="204,1323 217,1323 217,1346 204,1346"/>
+	<TextEquiv>
+	<Unicode>t</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c323">
+	<Coords points="217,1338 226,1338 226,1351 217,1351"/>
+	<TextEquiv>
+	<Unicode>,</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>digkeit,</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w324" language="German" production="printed">
+	<Coords points="293,1326 310,1326 310,1328 332,1328 332,1347 247,1347 247,1327 293,1327"/>
+	<Glyph id="c325">
+	<Coords points="247,1327 273,1327 273,1347 247,1347"/>
+	<TextEquiv>
+	<Unicode>w</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c326">
+	<Coords points="279,1328 288,1328 288,1346 279,1346"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c327">
+	<Coords points="293,1326 310,1326 310,1346 293,1346"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c328">
+	<Coords points="314,1328 332,1328 332,1347 314,1347"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>wenn</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w329" language="German" production="printed">
+	<Coords points="368,1320 376,1320 376,1327 391,1327 391,1348 379,1348 379,1347 351,1347 351,1323 368,1323"/>
+	<Glyph id="c330">
+	<Coords points="351,1323 365,1323 365,1347 351,1347"/>
+	<TextEquiv>
+	<Unicode>d</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c331">
+	<Coords points="368,1320 376,1320 376,1347 368,1347"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c332">
+	<Coords points="379,1327 391,1327 391,1348 379,1348"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>die</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w333" language="German" production="printed">
+	<Coords points="449,1319 462,1319 462,1320 503,1320 503,1329 518,1329 518,1348 503,1348 503,1353 479,1353 479,1352 449,1352 449,1350 406,1350 406,1320 449,1320"/>
+	<Glyph id="c334">
+	<Coords points="406,1320 430,1320 430,1350 406,1350"/>
+	<TextEquiv>
+	<Unicode>U</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c335">
+	<Coords points="434,1328 445,1328 445,1347 434,1347"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c336">
+	<Coords points="449,1319 462,1319 462,1352 449,1352"/>
+	<TextEquiv>
+	<Unicode>ſ</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c337">
+	<Coords points="460,1329 476,1329 476,1348 460,1348"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c338" ligature="true">
+	<Coords points="479,1320 503,1320 503,1353 479,1353"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c340">
+	<Coords points="507,1329 518,1329 518,1348 507,1348"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>Urſae</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w341" language="German" production="printed">
+	<Coords points="578,1319 630,1319 630,1328 666,1328 666,1347 602,1347 602,1348 593,1348 593,1352 578,1352 578,1349 533,1349 533,1323 578,1323"/>
+	<Glyph id="c342">
+	<Coords points="533,1323 548,1323 548,1349 533,1349"/>
+	<TextEquiv>
+	<Unicode>d</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c343">
+	<Coords points="551,1329 563,1329 563,1349 551,1349"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c344">
+	<Coords points="566,1328 578,1328 578,1349 566,1349"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c345">
+	<Coords points="578,1319 593,1319 593,1352 578,1352"/>
+	<TextEquiv>
+	<Unicode>ſ</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c346">
+	<Coords points="591,1329 602,1329 602,1348 591,1348"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c347">
+	<Coords points="603,1320 613,1320 613,1347 603,1347"/>
+	<TextEquiv>
+	<Unicode>l</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c348">
+	<Coords points="617,1319 630,1319 630,1347 617,1347"/>
+	<TextEquiv>
+	<Unicode>b</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c349">
+	<Coords points="634,1328 646,1328 646,1347 634,1347"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c350">
+	<Coords points="648,1328 666,1328 666,1347 648,1347"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>derſelben</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w351" language="German" production="printed">
+	<Coords points="716,1318 740,1318 740,1323 756,1323 756,1346 740,1346 740,1352 716,1352 716,1347 683,1347 683,1328 703,1328 703,1319 716,1319"/>
+	<Glyph id="c352">
+	<Coords points="683,1328 701,1328 701,1347 683,1347"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c353">
+	<Coords points="703,1319 712,1319 712,1347 703,1347"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c354" ligature="true">
+	<Coords points="716,1318 740,1318 740,1352 716,1352"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c356">
+	<Coords points="744,1323 756,1323 756,1346 744,1346"/>
+	<TextEquiv>
+	<Unicode>t</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>nit</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w357" language="German" production="printed">
+	<Coords points="789,1326 817,1326 817,1347 770,1347 770,1327 789,1327"/>
+	<Glyph id="c358">
+	<Coords points="770,1327 785,1327 785,1347 770,1347"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c359">
+	<Coords points="789,1326 817,1326 817,1347 789,1347"/>
+	<TextEquiv>
+	<Unicode>m</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>am</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w360" language="German" production="printed">
+	<Coords points="830,1318 872,1318 872,1325 912,1325 912,1327 924,1327 924,1343 912,1343 912,1345 890,1345 890,1346 872,1346 872,1348 830,1348"/>
+	<Glyph id="c361">
+	<Coords points="830,1318 872,1318 872,1348 830,1348"/>
+	<TextEquiv>
+	<Unicode>M</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c362">
+	<Coords points="876,1326 890,1326 890,1346 876,1346"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c363">
+	<Coords points="893,1325 912,1325 912,1345 893,1345"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c364">
+	<Coords points="914,1327 924,1327 924,1343 914,1343"/>
+	<TextEquiv>
+	<Unicode>-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>Man-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<TextEquiv>
+	<Unicode>digkeit, wenn die Urſae derſelben nit am Man-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
+	<TextLine id="l365" primaryLanguage="German" production="printed">
+	<Coords points="232,1364 264,1364 264,1367 317,1367 317,1370 436,1370 436,1367 451,1367 451,1370 577,1370 577,1369 636,1369 636,1365 735,1365 735,1366 791,1366 791,1372 906,1372 906,1366 922,1366 922,1393 902,1393 902,1394 851,1394 851,1401 835,1401 835,1399 699,1399 699,1395 529,1395 529,1396 451,1396 451,1399 416,1399 416,1401 406,1401 406,1400 297,1400 297,1395 232,1395 232,1394 128,1394 128,1400 109,1400 109,1372 144,1372 144,1365 232,1365"/>
+	<Word id="w366" language="German" production="printed">
+	<Coords points="144,1365 154,1365 154,1394 128,1394 128,1400 109,1400 109,1372 144,1372"/>
+	<Glyph id="c367">
+	<Coords points="109,1372 128,1372 128,1400 109,1400"/>
+	<TextEquiv>
+	<Unicode>g</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c368">
+	<Coords points="131,1373 143,1373 143,1393 131,1393"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c369">
+	<Coords points="144,1365 154,1365 154,1394 144,1394"/>
+	<TextEquiv>
+	<Unicode>l</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>gel</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w370" language="German" production="printed">
+	<Coords points="168,1367 185,1367 185,1371 217,1371 217,1392 168,1392"/>
+	<Glyph id="c371">
+	<Coords points="168,1367 185,1367 185,1392 168,1392"/>
+	<TextEquiv>
+	<Unicode>d</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c372">
+	<Coords points="187,1373 201,1373 201,1391 187,1391"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c373">
+	<Coords points="202,1371 217,1371 217,1392 202,1392"/>
+	<TextEquiv>
+	<Unicode>s</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>des</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w374" language="German" production="printed">
+	<Coords points="232,1364 264,1364 264,1367 317,1367 317,1370 373,1370 373,1372 406,1372 406,1387 416,1387 416,1401 406,1401 406,1400 297,1400 297,1395 232,1395"/>
+	<Glyph id="c375">
+	<Coords points="232,1364 264,1364 264,1395 232,1395"/>
+	<TextEquiv>
+	<Unicode>V</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c376">
+	<Coords points="269,1374 280,1374 280,1393 269,1393"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c377">
+	<Coords points="282,1373 297,1373 297,1393 282,1393"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c378" ligature="true">
+	<Coords points="297,1367 317,1367 317,1400 297,1400"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c380">
+	<Coords points="318,1374 335,1374 335,1394 318,1394"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c381">
+	<Coords points="338,1374 355,1374 355,1394 338,1394"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c382">
+	<Coords points="358,1370 373,1370 373,1395 358,1395"/>
+	<TextEquiv>
+	<Unicode>d</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c383">
+	<Coords points="376,1375 388,1375 388,1394 376,1394"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c384">
+	<Coords points="390,1372 406,1372 406,1396 390,1396"/>
+	<TextEquiv>
+	<Unicode>s</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c385">
+	<Coords points="406,1387 416,1387 416,1401 406,1401"/>
+	<TextEquiv>
+	<Unicode>,</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>Verandes,</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w386" language="German" production="printed">
+	<Coords points="436,1367 451,1367 451,1370 501,1370 501,1374 550,1374 550,1395 529,1395 529,1396 451,1396 451,1399 436,1399"/>
+	<Glyph id="c387">
+	<Coords points="436,1367 451,1367 451,1399 436,1399"/>
+	<TextEquiv>
+	<Unicode>ſ</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c388">
+	<Coords points="448,1376 461,1376 461,1395 448,1395"/>
+	<TextEquiv>
+	<Unicode>o</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c389">
+	<Coords points="465,1375 482,1375 482,1395 465,1395"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c390">
+	<Coords points="485,1370 501,1370 501,1395 485,1395"/>
+	<TextEquiv>
+	<Unicode>d</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c391">
+	<Coords points="503,1375 515,1375 515,1395 503,1395"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c392">
+	<Coords points="517,1376 529,1376 529,1396 517,1396"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c393">
+	<Coords points="532,1374 550,1374 550,1395 532,1395"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>ſondern</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w394" language="German" production="printed">
+	<Coords points="577,1369 592,1369 592,1374 623,1374 623,1394 577,1394"/>
+	<Glyph id="c395">
+	<Coords points="577,1369 592,1369 592,1394 577,1394"/>
+	<TextEquiv>
+	<Unicode>d</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c396">
+	<Coords points="596,1374 607,1374 607,1394 596,1394"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c397">
+	<Coords points="609,1374 623,1374 623,1394 609,1394"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w398" language="German" production="printed">
+	<Coords points="636,1365 735,1365 735,1366 791,1366 791,1374 851,1374 851,1401 835,1401 835,1399 699,1399 699,1395 636,1395"/>
+	<Glyph id="c399">
+	<Coords points="636,1365 661,1365 661,1395 636,1395"/>
+	<TextEquiv>
+	<Unicode>E</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c400">
+	<Coords points="665,1375 682,1375 682,1393 665,1393"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c401">
+	<Coords points="685,1372 697,1372 697,1394 685,1394"/>
+	<TextEquiv>
+	<Unicode>t</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c402">
+	<Coords points="699,1365 713,1365 713,1399 699,1399"/>
+	<TextEquiv>
+	<Unicode>ſ</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c403" ligature="true">
+	<Coords points="709,1365 735,1365 735,1399 709,1399"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c405">
+	<Coords points="740,1366 748,1366 748,1393 740,1393"/>
+	<TextEquiv>
+	<Unicode>l</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c406">
+	<Coords points="748,1366 758,1366 758,1392 748,1392"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c407">
+	<Coords points="761,1373 772,1373 772,1392 761,1392"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c408">
+	<Coords points="776,1366 791,1366 791,1399 776,1399"/>
+	<TextEquiv>
+	<Unicode>ß</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c409">
+	<Coords points="794,1374 810,1374 810,1393 794,1393"/>
+	<TextEquiv>
+	<Unicode>u</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c410">
+	<Coords points="815,1374 832,1374 832,1394 815,1394"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c411">
+	<Coords points="835,1374 851,1374 851,1401 835,1401"/>
+	<TextEquiv>
+	<Unicode>g</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>Entſließung</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w412" language="German" production="printed">
+	<Coords points="906,1366 922,1366 922,1393 902,1393 902,1394 887,1394 887,1393 866,1393 866,1373 887,1373 887,1372 906,1372"/>
+	<Glyph id="c413">
+	<Coords points="866,1373 883,1373 883,1393 866,1393"/>
+	<TextEquiv>
+	<Unicode>u</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c414">
+	<Coords points="887,1372 902,1372 902,1394 887,1394"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c415">
+	<Coords points="906,1366 922,1366 922,1393 906,1393"/>
+	<TextEquiv>
+	<Unicode>d</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>und</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<TextEquiv>
+	<Unicode>gel des Verandes, ſondern der Entſließung und</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
+	<TextLine id="l416" primaryLanguage="German" production="printed">
+	<Coords points="182,1410 225,1410 225,1412 275,1412 275,1414 434,1414 434,1413 520,1413 520,1414 635,1414 635,1412 712,1412 712,1411 729,1411 729,1413 754,1413 754,1417 862,1417 862,1412 869,1412 869,1414 922,1414 922,1440 826,1440 826,1448 809,1448 809,1442 650,1442 650,1446 635,1446 635,1441 520,1441 520,1447 453,1447 453,1448 366,1448 366,1447 259,1447 259,1440 112,1440 112,1412 182,1412"/>
+	<Word id="w417" language="German" production="printed">
+	<Coords points="112,1412 129,1412 129,1416 162,1416 162,1438 145,1438 145,1439 129,1439 129,1440 112,1440"/>
+	<Glyph id="c418">
+	<Coords points="112,1412 129,1412 129,1440 112,1440"/>
+	<TextEquiv>
+	<Unicode>d</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c419">
+	<Coords points="134,1419 145,1419 145,1439 134,1439"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c420">
+	<Coords points="147,1416 162,1416 162,1438 147,1438"/>
+	<TextEquiv>
+	<Unicode>s</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>des</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w421" language="German" production="printed">
+	<Coords points="182,1410 225,1410 225,1412 275,1412 275,1418 308,1418 308,1440 291,1440 291,1441 275,1441 275,1447 259,1447 259,1440 182,1440"/>
+	<Glyph id="c422">
+	<Coords points="182,1410 225,1410 225,1440 182,1440"/>
+	<TextEquiv>
+	<Unicode>M</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c423">
+	<Coords points="228,1419 244,1419 244,1439 228,1439"/>
+	<TextEquiv>
+	<Unicode>u</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c424">
+	<Coords points="248,1419 256,1419 256,1439 248,1439"/>
+	<TextEquiv>
+	<Unicode>t</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c425">
+	<Coords points="259,1412 275,1412 275,1447 259,1447"/>
+	<TextEquiv>
+	<Unicode>h</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c426">
+	<Coords points="278,1420 291,1420 291,1441 278,1441"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c427">
+	<Coords points="294,1418 308,1418 308,1440 294,1440"/>
+	<TextEquiv>
+	<Unicode>s</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>Muthes</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w428" language="German" production="printed">
+	<Coords points="330,1414 348,1414 348,1418 396,1418 396,1433 406,1433 406,1447 380,1447 380,1448 366,1448 366,1440 341,1440 341,1439 330,1439"/>
+	<Glyph id="c429">
+	<Coords points="330,1414 341,1414 341,1439 330,1439"/>
+	<TextEquiv>
+	<Unicode>l</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c430">
+	<Coords points="341,1414 348,1414 348,1440 341,1440"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c431">
+	<Coords points="352,1420 363,1420 363,1440 352,1440"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c432">
+	<Coords points="366,1421 380,1421 380,1448 366,1448"/>
+	<TextEquiv>
+	<Unicode>g</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c433">
+	<Coords points="384,1418 396,1418 396,1441 384,1441"/>
+	<TextEquiv>
+	<Unicode>t</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c434">
+	<Coords points="396,1433 406,1433 406,1447 396,1447"/>
+	<TextEquiv>
+	<Unicode>,</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>liegt,</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w435" language="German" production="printed">
+	<Coords points="434,1413 482,1413 482,1447 453,1447 453,1448 434,1448"/>
+	<Glyph id="c436">
+	<Coords points="434,1413 453,1413 453,1448 434,1448"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c438" ligature="true">
+	<Coords points="456,1413 482,1413 482,1447 456,1447"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w440" language="German" production="printed">
+	<Coords points="508,1413 520,1413 520,1414 540,1414 540,1420 592,1420 592,1441 520,1441 520,1447 508,1447"/>
+	<Glyph id="c441">
+	<Coords points="508,1413 520,1413 520,1447 508,1447"/>
+	<TextEquiv>
+	<Unicode>ſ</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c442">
+	<Coords points="520,1422 530,1422 530,1441 520,1441"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c443">
+	<Coords points="533,1414 540,1414 540,1440 533,1440"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c444">
+	<Coords points="541,1421 561,1421 561,1441 541,1441"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c445">
+	<Coords points="565,1420 576,1420 576,1441 565,1441"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c446">
+	<Coords points="578,1420 592,1420 592,1441 578,1441"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>ſeiner</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w447" language="German" production="printed">
+	<Coords points="635,1412 650,1412 650,1420 671,1420 671,1421 687,1421 687,1440 650,1440 650,1446 635,1446 635,1440 618,1440 618,1421 635,1421"/>
+	<Glyph id="c448">
+	<Coords points="618,1421 631,1421 631,1440 618,1440"/>
+	<TextEquiv>
+	<Unicode>o</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c449">
+	<Coords points="635,1412 650,1412 650,1446 635,1446"/>
+	<TextEquiv>
+	<Unicode>h</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c450">
+	<Coords points="654,1420 671,1420 671,1440 654,1440"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c451">
+	<Coords points="675,1421 687,1421 687,1440 675,1440"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>ohne</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w452" language="German" production="printed">
+	<Coords points="712,1411 729,1411 729,1413 754,1413 754,1417 768,1417 768,1420 826,1420 826,1448 809,1448 809,1442 712,1442"/>
+	<Glyph id="c453">
+	<Coords points="712,1411 729,1411 729,1442 712,1442"/>
+	<TextEquiv>
+	<Unicode>L</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c454">
+	<Coords points="732,1420 744,1420 744,1438 732,1438"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c455">
+	<Coords points="747,1413 754,1413 754,1439 747,1439"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c456">
+	<Coords points="757,1417 768,1417 768,1439 757,1439"/>
+	<TextEquiv>
+	<Unicode>t</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c457">
+	<Coords points="771,1420 786,1420 786,1440 771,1440"/>
+	<TextEquiv>
+	<Unicode>u</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c458">
+	<Coords points="789,1420 807,1420 807,1440 789,1440"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c459">
+	<Coords points="809,1420 826,1420 826,1448 809,1448"/>
+	<TextEquiv>
+	<Unicode>g</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>Leitung</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w460" language="German" production="printed">
+	<Coords points="862,1412 869,1412 869,1414 922,1414 922,1440 847,1440 847,1420 862,1420"/>
+	<Glyph id="c461">
+	<Coords points="847,1420 859,1420 859,1440 847,1440"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c462">
+	<Coords points="862,1412 869,1412 869,1440 862,1440"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c463">
+	<Coords points="873,1417 889,1417 889,1439 873,1439"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c464">
+	<Coords points="893,1418 904,1418 904,1439 893,1439"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c465">
+	<Coords points="906,1414 922,1414 922,1440 906,1440"/>
+	<TextEquiv>
+	<Unicode>s</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>eines</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<TextEquiv>
+	<Unicode>des Muthes liegt,  ſeiner ohne Leitung eines</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
+	<TextLine id="l466" primaryLanguage="German" production="printed">
+	<Coords points="827,1455 869,1455 869,1456 923,1456 923,1493 907,1493 907,1487 750,1487 750,1494 718,1494 718,1485 669,1485 669,1484 532,1484 532,1492 516,1492 516,1487 400,1487 400,1486 259,1486 259,1493 249,1493 249,1486 135,1486 135,1485 113,1485 113,1465 155,1465 155,1460 170,1460 170,1466 302,1466 302,1458 320,1458 320,1459 361,1459 361,1466 480,1466 480,1460 498,1460 498,1466 629,1466 629,1458 718,1458 718,1456 827,1456"/>
+	<Word id="w467" language="German" production="printed">
+	<Coords points="155,1460 170,1460 170,1466 222,1466 222,1485 201,1485 201,1486 135,1486 135,1485 113,1485 113,1465 155,1465"/>
+	<Glyph id="c468">
+	<Coords points="113,1465 131,1465 131,1485 113,1485"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c469">
+	<Coords points="135,1465 151,1465 151,1486 135,1486"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c470">
+	<Coords points="155,1460 170,1460 170,1486 155,1486"/>
+	<TextEquiv>
+	<Unicode>d</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c471">
+	<Coords points="174,1466 186,1466 186,1486 174,1486"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c472">
+	<Coords points="190,1466 201,1466 201,1486 190,1486"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c473">
+	<Coords points="205,1466 222,1466 222,1485 205,1485"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>andern</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w474" language="German" production="printed">
+	<Coords points="249,1466 278,1466 278,1486 259,1486 259,1493 249,1493"/>
+	<Glyph id="c475">
+	<Coords points="249,1466 259,1466 259,1493 249,1493"/>
+	<TextEquiv>
+	<Unicode>z</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c476">
+	<Coords points="261,1466 278,1466 278,1486 261,1486"/>
+	<TextEquiv>
+	<Unicode>u</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>zu</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w477" language="German" production="printed">
+	<Coords points="302,1458 320,1458 320,1459 361,1459 361,1466 431,1466 431,1481 442,1481 442,1486 431,1486 431,1487 400,1487 400,1486 322,1486 322,1485 302,1485"/>
+	<Glyph id="c478">
+	<Coords points="302,1458 320,1458 320,1485 302,1485"/>
+	<TextEquiv>
+	<Unicode>b</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c479">
+	<Coords points="322,1468 334,1468 334,1486 322,1486"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c480">
+	<Coords points="335,1461 350,1461 350,1486 335,1486"/>
+	<TextEquiv>
+	<Unicode>d</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c481">
+	<Coords points="353,1459 361,1459 361,1486 353,1486"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c482">
+	<Coords points="365,1468 376,1468 376,1486 365,1486"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c483">
+	<Coords points="380,1467 396,1467 396,1486 380,1486"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c484">
+	<Coords points="400,1467 412,1467 412,1487 400,1487"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c485">
+	<Coords points="414,1466 431,1466 431,1487 414,1487"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c486">
+	<Coords points="436,1481 442,1481 442,1486 436,1486"/>
+	<TextEquiv>
+	<Unicode>.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>bedienen.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w487" language="Latin" production="printed">
+	<Coords points="480,1460 498,1460 498,1468 575,1468 575,1484 532,1484 532,1492 516,1492 516,1483 480,1483"/>
+	<Glyph id="c488">
+	<Coords points="480,1460 498,1460 498,1483 480,1483"/>
+	<TextEquiv>
+	<Unicode>S</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua"/></Glyph>
+	<Glyph id="c489">
+	<Coords points="500,1468 513,1468 513,1483 500,1483"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua"/></Glyph>
+	<Glyph id="c490">
+	<Coords points="516,1468 532,1468 532,1492 516,1492"/>
+	<TextEquiv>
+	<Unicode>p</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua"/></Glyph>
+	<Glyph id="c491">
+	<Coords points="535,1468 547,1468 547,1484 535,1484"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua"/></Glyph>
+	<Glyph id="c492">
+	<Coords points="549,1468 561,1468 561,1484 549,1484"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua"/></Glyph>
+	<Glyph id="c493">
+	<Coords points="562,1468 575,1468 575,1484 562,1484"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua"/></Glyph>
+	<TextEquiv>
+	<Unicode>Sapere</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua"/></Word>
+	<Word id="w494" language="Latin" production="printed">
+	<Coords points="629,1458 647,1458 647,1460 678,1460 678,1485 669,1485 669,1483 629,1483 629,1482 594,1482 594,1466 629,1466"/>
+	<Glyph id="c495">
+	<Coords points="594,1466 609,1466 609,1482 594,1482"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua"/></Glyph>
+	<Glyph id="c496">
+	<Coords points="612,1466 628,1466 628,1482 612,1482"/>
+	<TextEquiv>
+	<Unicode>u</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua"/></Glyph>
+	<Glyph id="c497">
+	<Coords points="629,1458 647,1458 647,1483 629,1483"/>
+	<TextEquiv>
+	<Unicode>d</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua"/></Glyph>
+	<Glyph id="c498">
+	<Coords points="649,1467 661,1467 661,1482 649,1482"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua"/></Glyph>
+	<Glyph id="c499">
+	<Coords points="669,1460 678,1460 678,1485 669,1485"/>
+	<TextEquiv>
+	<Unicode>!</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua"/></Glyph>
+	<TextEquiv>
+	<Unicode>aude!</Unicode></TextEquiv>
+	<TextStyle fontFamily="antiqua"/></Word>
+	<Word id="w500" language="German" production="printed">
+	<Coords points="718,1456 750,1456 750,1458 785,1458 785,1466 801,1466 801,1486 750,1486 750,1494 718,1494"/>
+	<Glyph id="c501">
+	<Coords points="718,1456 750,1456 750,1494 718,1494"/>
+	<TextEquiv>
+	<Unicode>H</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c502">
+	<Coords points="753,1467 767,1467 767,1486 753,1486"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c503">
+	<Coords points="772,1458 785,1458 785,1485 772,1485"/>
+	<TextEquiv>
+	<Unicode>b</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c504">
+	<Coords points="788,1466 801,1466 801,1486 788,1486"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>Habe</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w505" language="German" production="printed">
+	<Coords points="827,1455 869,1455 869,1456 923,1456 923,1493 907,1493 907,1487 827,1487"/>
+	<Glyph id="c506">
+	<Coords points="827,1455 869,1455 869,1487 827,1487"/>
+	<TextEquiv>
+	<Unicode>M</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c507">
+	<Coords points="872,1465 890,1465 890,1486 872,1486"/>
+	<TextEquiv>
+	<Unicode>u</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c508">
+	<Coords points="893,1462 903,1462 903,1486 893,1486"/>
+	<TextEquiv>
+	<Unicode>t</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c509">
+	<Coords points="907,1456 923,1456 923,1493 907,1493"/>
+	<TextEquiv>
+	<Unicode>h</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>Muth</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<TextEquiv>
+	<Unicode>andern zu bedienen. Sapere aude! Habe Muth</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
+	<TextLine id="l510" primaryLanguage="German" production="printed">
+	<Coords points="135,1504 170,1504 170,1505 321,1505 321,1513 436,1513 436,1504 467,1504 467,1507 518,1507 518,1508 668,1508 668,1505 835,1505 835,1504 914,1504 914,1513 926,1513 926,1530 914,1530 914,1532 901,1532 901,1533 869,1533 869,1540 847,1540 847,1534 634,1534 634,1541 622,1541 622,1535 518,1535 518,1541 499,1541 499,1534 342,1534 342,1541 323,1541 323,1534 312,1534 312,1533 295,1533 295,1532 170,1532 170,1536 145,1536 145,1532 135,1532 135,1531 112,1531 112,1505 135,1505"/>
+	<Word id="w511" language="German" production="printed">
+	<Coords points="135,1504 170,1504 170,1536 145,1536 145,1532 135,1532 135,1531 112,1531 112,1505 135,1505"/>
+	<Glyph id="c512">
+	<Coords points="112,1505 131,1505 131,1531 112,1531"/>
+	<TextEquiv>
+	<Unicode>d</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c513">
+	<Coords points="135,1504 141,1504 141,1532 135,1532"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c514" ligature="true">
+	<Coords points="145,1504 170,1504 170,1536 145,1536"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>dich</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w516" language="German" production="printed">
+	<Coords points="221,1505 227,1505 227,1510 280,1510 280,1532 188,1532 188,1507 221,1507"/>
+	<Glyph id="c517">
+	<Coords points="188,1507 202,1507 202,1532 188,1532"/>
+	<TextEquiv>
+	<Unicode>d</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c518">
+	<Coords points="206,1512 218,1512 218,1531 206,1531"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c519">
+	<Coords points="221,1505 227,1505 227,1530 221,1530"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c520">
+	<Coords points="232,1512 248,1512 248,1531 232,1531"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c521">
+	<Coords points="252,1513 263,1513 263,1531 252,1531"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c522">
+	<Coords points="266,1510 280,1510 280,1532 266,1532"/>
+	<TextEquiv>
+	<Unicode>s</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>deines</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w523" language="German" production="printed">
+	<Coords points="312,1505 321,1505 321,1513 420,1513 420,1533 342,1533 342,1541 323,1541 323,1534 312,1534 312,1533 295,1533 295,1513 312,1513"/>
+	<Glyph id="c524">
+	<Coords points="295,1513 308,1513 308,1533 295,1533"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c525">
+	<Coords points="312,1505 321,1505 321,1534 312,1534"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c526">
+	<Coords points="323,1513 342,1513 342,1541 323,1541"/>
+	<TextEquiv>
+	<Unicode>g</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c527">
+	<Coords points="345,1513 357,1513 357,1533 345,1533"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c528">
+	<Coords points="361,1513 381,1513 381,1533 361,1533"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c529">
+	<Coords points="385,1514 396,1514 396,1533 385,1533"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c530">
+	<Coords points="401,1513 420,1513 420,1533 401,1533"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>eigenen</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w531" language="German" production="printed">
+	<Coords points="436,1504 467,1504 467,1507 518,1507 518,1508 575,1508 575,1512 608,1512 608,1533 575,1533 575,1535 518,1535 518,1541 499,1541 499,1534 436,1534"/>
+	<Glyph id="c532">
+	<Coords points="436,1504 467,1504 467,1534 436,1534"/>
+	<TextEquiv>
+	<Unicode>V</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c533">
+	<Coords points="471,1515 482,1515 482,1533 471,1533"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c534">
+	<Coords points="486,1515 496,1515 496,1533 486,1533"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c535" ligature="true">
+	<Coords points="499,1507 518,1507 518,1541 499,1541"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c537">
+	<Coords points="521,1517 536,1517 536,1535 521,1535"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c538">
+	<Coords points="541,1515 557,1515 557,1534 541,1534"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c539">
+	<Coords points="561,1508 575,1508 575,1535 561,1535"/>
+	<TextEquiv>
+	<Unicode>d</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c540">
+	<Coords points="579,1514 591,1514 591,1533 579,1533"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c541">
+	<Coords points="594,1512 608,1512 608,1533 594,1533"/>
+	<TextEquiv>
+	<Unicode>s</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>Verandes</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w542" language="German" production="printed">
+	<Coords points="622,1513 634,1513 634,1514 653,1514 653,1534 634,1534 634,1541 622,1541"/>
+	<Glyph id="c543">
+	<Coords points="622,1513 634,1513 634,1541 622,1541"/>
+	<TextEquiv>
+	<Unicode>z</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c544">
+	<Coords points="636,1514 653,1514 653,1534 636,1534"/>
+	<TextEquiv>
+	<Unicode>u</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>zu</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w545" language="German" production="printed">
+	<Coords points="668,1505 816,1505 816,1534 668,1534"/>
+	<Glyph id="c546">
+	<Coords points="668,1505 683,1505 683,1534 668,1534"/>
+	<TextEquiv>
+	<Unicode>b</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c547">
+	<Coords points="687,1513 698,1513 698,1534 687,1534"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c548">
+	<Coords points="701,1507 716,1507 716,1533 701,1533"/>
+	<TextEquiv>
+	<Unicode>d</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c549">
+	<Coords points="717,1505 726,1505 726,1533 717,1533"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c550">
+	<Coords points="729,1512 740,1512 740,1534 729,1534"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c551">
+	<Coords points="744,1512 760,1512 760,1532 744,1532"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c552">
+	<Coords points="764,1512 775,1512 775,1533 764,1533"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c553">
+	<Coords points="776,1512 795,1512 795,1534 776,1534"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c554">
+	<Coords points="805,1505 816,1505 816,1534 805,1534"/>
+	<TextEquiv>
+	<Unicode>!</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>bedienen!</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w555" language="German" production="printed">
+	<Coords points="835,1504 845,1504 845,1505 869,1505 869,1540 847,1540 847,1533 835,1533"/>
+	<Glyph id="c556">
+	<Coords points="835,1504 845,1504 845,1533 835,1533"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c557" ligature="true">
+	<Coords points="847,1505 869,1505 869,1540 847,1540"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w559" language="German" production="printed">
+	<Coords points="904,1504 914,1504 914,1513 926,1513 926,1530 914,1530 914,1532 901,1532 901,1533 885,1533 885,1511 904,1511"/>
+	<Glyph id="c560">
+	<Coords points="885,1511 901,1511 901,1533 885,1533"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c561">
+	<Coords points="904,1504 914,1504 914,1532 904,1532"/>
+	<TextEquiv>
+	<Unicode>l</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c562">
+	<Coords points="915,1513 926,1513 926,1530 915,1530"/>
+	<TextEquiv>
+	<Unicode>-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>al-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<TextEquiv>
+	<Unicode>di deines eigenen Verandes zu bedienen! i al-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
+	<TextLine id="l563" primaryLanguage="German" production="printed">
+	<Coords points="110,1548 126,1548 126,1550 290,1550 290,1553 467,1553 467,1551 494,1551 494,1552 568,1552 568,1560 624,1560 624,1561 642,1561 642,1575 653,1575 653,1581 642,1581 642,1588 627,1588 627,1586 516,1586 516,1582 393,1582 393,1584 330,1584 330,1586 314,1586 314,1585 272,1585 272,1581 126,1581 126,1585 110,1585"/>
+	<Word id="w564" language="German" production="printed">
+	<Coords points="110,1548 126,1548 126,1557 139,1557 139,1578 126,1578 126,1585 110,1585"/>
+	<Glyph id="c565">
+	<Coords points="110,1548 126,1548 126,1585 110,1585"/>
+	<TextEquiv>
+	<Unicode>ſ</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c566">
+	<Coords points="125,1557 139,1557 139,1578 125,1578"/>
+	<TextEquiv>
+	<Unicode>o</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>ſo</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w567" language="German" production="printed">
+	<Coords points="154,1553 168,1553 168,1559 200,1559 200,1578 154,1578"/>
+	<Glyph id="c568">
+	<Coords points="154,1553 168,1553 168,1578 154,1578"/>
+	<TextEquiv>
+	<Unicode>d</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c569">
+	<Coords points="173,1559 185,1559 185,1577 173,1577"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c570">
+	<Coords points="187,1559 200,1559 200,1578 187,1578"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w571" language="German" production="printed">
+	<Coords points="215,1550 290,1550 290,1553 393,1553 393,1584 330,1584 330,1586 314,1586 314,1585 272,1585 272,1581 215,1581"/>
+	<Glyph id="c572">
+	<Coords points="215,1550 253,1550 253,1581 215,1581"/>
+	<TextEquiv>
+	<Unicode>W</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c573">
+	<Coords points="256,1559 271,1559 271,1579 256,1579"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c574">
+	<Coords points="272,1550 290,1550 290,1585 272,1585"/>
+	<TextEquiv>
+	<Unicode>h</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c575">
+	<Coords points="294,1554 301,1554 301,1579 294,1579"/>
+	<TextEquiv>
+	<Unicode>l</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c796">
+	<Coords points="304,1552 304,1588 313,1588 313,1552"/>
+	<TextEquiv>
+	<Unicode>ſ</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c576">
+	<Coords points="314,1560 330,1560 330,1586 314,1586"/>
+	<TextEquiv>
+	<Unicode>p</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c577">
+	<Coords points="333,1560 345,1560 345,1580 333,1580"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c578">
+	<Coords points="349,1561 364,1561 364,1580 349,1580"/>
+	<TextEquiv>
+	<Unicode>u</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c579" ligature="true">
+	<Coords points="368,1553 393,1553 393,1584 368,1584"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>Wahlſpru</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w581" language="German" production="printed">
+	<Coords points="406,1555 423,1555 423,1560 453,1560 453,1580 406,1580"/>
+	<Glyph id="c582">
+	<Coords points="406,1555 423,1555 423,1580 406,1580"/>
+	<TextEquiv>
+	<Unicode>d</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c583">
+	<Coords points="426,1560 437,1560 437,1579 426,1579"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c584">
+	<Coords points="440,1560 453,1560 453,1580 440,1580"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w585" language="German" production="printed">
+	<Coords points="467,1551 494,1551 494,1552 568,1552 568,1560 624,1560 624,1561 642,1561 642,1575 653,1575 653,1581 642,1581 642,1588 627,1588 627,1586 516,1586 516,1582 467,1582"/>
+	<Glyph id="c586">
+	<Coords points="467,1551 494,1551 494,1582 467,1582"/>
+	<TextEquiv>
+	<Unicode>A</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c587">
+	<Coords points="497,1561 512,1561 512,1581 497,1581"/>
+	<TextEquiv>
+	<Unicode>u</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c588">
+	<Coords points="516,1553 526,1553 526,1586 516,1586"/>
+	<TextEquiv>
+	<Unicode>f</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c589">
+	<Coords points="526,1554 539,1554 539,1581 526,1581"/>
+	<TextEquiv>
+	<Unicode>k</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c590">
+	<Coords points="543,1554 550,1554 550,1581 543,1581"/>
+	<TextEquiv>
+	<Unicode>l</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c591">
+	<Coords points="553,1552 568,1552 568,1582 553,1582"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c592">
+	<Coords points="571,1561 584,1561 584,1581 571,1581"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c593">
+	<Coords points="587,1561 603,1561 603,1580 587,1580"/>
+	<TextEquiv>
+	<Unicode>u</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c594">
+	<Coords points="607,1560 624,1560 624,1580 607,1580"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c595">
+	<Coords points="627,1561 642,1561 642,1588 627,1588"/>
+	<TextEquiv>
+	<Unicode>g</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c596">
+	<Coords points="645,1575 653,1575 653,1581 645,1581"/>
+	<TextEquiv>
+	<Unicode>.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>Aufklrung.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<TextEquiv>
+	<Unicode>ſo der Wahlſpru der Aufklrung.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
+	<TextEquiv>
+	<Unicode>ufklrung i der Ausgang des Men-
+ſen aus ſeiner ſelb verſuldeten Unmn-
+digkeit. Unmndigkeit i das Unvermgen,
+ſi ſeines Verandes ohne Leitung eines anderen
+zu bedienen. Selbverſuldet i dieſe Unmn-
+digkeit, wenn die Urſae derſelben nit am Man-
+gel des Verandes, ſondern der Entſließung und
+des Muthes liegt,  ſeiner ohne Leitung eines
+andern zu bedienen. Sapere aude! Habe Muth
+di deines eigenen Verandes zu bedienen! i al-
+ſo der Wahlſpru der Aufklrung.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="195,1604 195,1606 263,1606 263,1607 382,1607 382,1606 404,1606 404,1608 466,1608 466,1609 613,1609 613,1608 687,1608 687,1606 717,1606 717,1605 742,1605 742,1612 836,1612 836,1613 921,1613 921,1660 925,1660 925,1682 923,1682 923,1732 722,1732 722,1731 314,1731 314,1730 147,1730 147,1727 113,1727 113,1681 109,1681 109,1659 128,1659 128,1651 171,1651 171,1604"/>
+	<TextLine id="l598" primaryLanguage="German" production="printed">
+	<Coords points="171,1604 195,1604 195,1606 263,1606 263,1607 382,1607 382,1606 404,1606 404,1608 466,1608 466,1609 613,1609 613,1608 687,1608 687,1606 717,1606 717,1605 742,1605 742,1612 836,1612 836,1613 921,1613 921,1635 788,1635 788,1641 687,1641 687,1637 644,1637 644,1636 536,1636 536,1643 517,1643 517,1642 404,1642 404,1643 382,1643 382,1635 263,1635 263,1636 195,1636 195,1640 171,1640"/>
+	<Word id="w599" language="German" production="printed">
+	<Coords points="171,1604 195,1604 195,1606 263,1606 263,1607 287,1607 287,1612 302,1612 302,1635 263,1635 263,1636 195,1636 195,1640 171,1640"/>
+	<Glyph id="c600">
+	<Coords points="171,1604 195,1604 195,1640 171,1640"/>
+	<TextEquiv>
+	<Unicode>F</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c601">
+	<Coords points="197,1613 212,1613 212,1632 197,1632"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c602">
+	<Coords points="216,1613 233,1613 233,1633 216,1633"/>
+	<TextEquiv>
+	<Unicode>u</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c603">
+	<Coords points="236,1607 243,1607 243,1633 236,1633"/>
+	<TextEquiv>
+	<Unicode>l</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c604">
+	<Coords points="247,1606 263,1606 263,1636 247,1636"/>
+	<TextEquiv>
+	<Unicode>h</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c605">
+	<Coords points="266,1615 277,1615 277,1634 266,1634"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c606">
+	<Coords points="279,1607 287,1607 287,1634 279,1634"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c607">
+	<Coords points="291,1612 302,1612 302,1635 291,1635"/>
+	<TextEquiv>
+	<Unicode>t</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>Faulheit</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w608" language="German" production="printed">
+	<Coords points="354,1610 370,1610 370,1635 354,1635 354,1634 316,1634 316,1615 354,1615"/>
+	<Glyph id="c609">
+	<Coords points="316,1615 333,1615 333,1634 316,1634"/>
+	<TextEquiv>
+	<Unicode>u</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c611">
+	<Coords points="336,1616 354,1616 354,1634 336,1634"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c612">
+	<Coords points="354,1610 370,1610 370,1635 354,1635"/>
+	<TextEquiv>
+	<Unicode>d</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>und</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w613" language="German" production="printed">
+	<Coords points="382,1606 404,1606 404,1608 466,1608 466,1609 491,1609 491,1614 505,1614 505,1636 466,1636 466,1641 446,1641 446,1642 404,1642 404,1643 382,1643"/>
+	<Glyph id="c614">
+	<Coords points="382,1606 404,1606 404,1643 382,1643"/>
+	<TextEquiv>
+	<Unicode>F</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c615">
+	<Coords points="407,1615 418,1615 418,1636 407,1636"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c616">
+	<Coords points="420,1609 428,1609 428,1635 420,1635"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c617">
+	<Coords points="432,1616 446,1616 446,1642 432,1642"/>
+	<TextEquiv>
+	<Unicode>g</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c618">
+	<Coords points="450,1608 466,1608 466,1641 450,1641"/>
+	<TextEquiv>
+	<Unicode>h</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c619">
+	<Coords points="469,1616 481,1616 481,1635 469,1635"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c620">
+	<Coords points="484,1609 491,1609 491,1636 484,1636"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c621">
+	<Coords points="494,1614 505,1614 505,1636 494,1636"/>
+	<TextEquiv>
+	<Unicode>t</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>Feigheit</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w622" language="German" production="printed">
+	<Coords points="517,1609 575,1609 575,1636 536,1636 536,1643 517,1643"/>
+	<Glyph id="c623">
+	<Coords points="517,1609 536,1609 536,1643 517,1643"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c625">
+	<Coords points="540,1616 556,1616 556,1635 540,1635"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c626">
+	<Coords points="560,1609 575,1609 575,1636 560,1636"/>
+	<TextEquiv>
+	<Unicode>d</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>nd</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w627" language="German" production="printed">
+	<Coords points="613,1608 620,1608 620,1616 635,1616 635,1635 620,1635 620,1636 594,1636 594,1610 613,1610"/>
+	<Glyph id="c628">
+	<Coords points="594,1610 609,1610 609,1636 594,1636"/>
+	<TextEquiv>
+	<Unicode>d</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c629">
+	<Coords points="613,1608 620,1608 620,1636 613,1636"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c630">
+	<Coords points="623,1616 635,1616 635,1635 623,1635"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>die</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w631" language="German" production="printed">
+	<Coords points="717,1605 742,1605 742,1614 758,1614 758,1615 776,1615 776,1626 788,1626 788,1641 687,1641 687,1637 644,1637 644,1608 687,1608 687,1606 717,1606"/>
+	<Glyph id="c632">
+	<Coords points="644,1608 668,1608 668,1637 644,1637"/>
+	<TextEquiv>
+	<Unicode>U</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c633">
+	<Coords points="671,1615 683,1615 683,1636 671,1636"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c634">
+	<Coords points="687,1606 701,1606 701,1641 687,1641"/>
+	<TextEquiv>
+	<Unicode>s</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c635">
+	<Coords points="698,1616 713,1616 713,1635 698,1635"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c636" ligature="true">
+	<Coords points="717,1605 742,1605 742,1641 717,1641"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c638">
+	<Coords points="746,1614 758,1614 758,1635 746,1635"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c639">
+	<Coords points="758,1615 776,1615 776,1635 758,1635"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c640">
+	<Coords points="778,1626 788,1626 788,1641 778,1641"/>
+	<TextEquiv>
+	<Unicode>,</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>Ursaen,</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w641" language="German" production="printed">
+	<Coords points="809,1612 836,1612 836,1613 921,1613 921,1635 809,1635"/>
+	<Glyph id="c642">
+	<Coords points="809,1612 836,1612 836,1635 809,1635"/>
+	<TextEquiv>
+	<Unicode>w</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c643">
+	<Coords points="839,1615 854,1615 854,1635 839,1635"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c644">
+	<Coords points="858,1614 869,1614 869,1635 858,1635"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c645">
+	<Coords points="873,1613 889,1613 889,1635 873,1635"/>
+	<TextEquiv>
+	<Unicode>u</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c646">
+	<Coords points="893,1613 921,1613 921,1635 893,1635"/>
+	<TextEquiv>
+	<Unicode>m</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>warum</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<TextEquiv>
+	<Unicode>Faulheit und Feigheit nd die Ursaen, warum</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
+	<TextLine id="l647" primaryLanguage="German" production="printed">
+	<Coords points="128,1651 137,1651 137,1652 374,1652 374,1655 485,1655 485,1653 526,1653 526,1654 601,1654 601,1662 715,1662 715,1653 742,1653 742,1654 900,1654 900,1653 910,1653 910,1660 925,1660 925,1682 847,1682 847,1688 827,1688 827,1687 655,1687 655,1688 645,1688 645,1687 564,1687 564,1683 374,1683 374,1686 358,1686 358,1685 232,1685 232,1688 217,1688 217,1683 171,1683 171,1681 109,1681 109,1659 128,1659"/>
+	<Word id="w648" language="German" production="printed">
+	<Coords points="128,1651 137,1651 137,1658 158,1658 158,1678 137,1678 137,1679 126,1679 126,1681 109,1681 109,1659 128,1659"/>
+	<Glyph id="c649">
+	<Coords points="109,1659 126,1659 126,1681 109,1681"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c650">
+	<Coords points="128,1651 137,1651 137,1679 128,1679"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c651">
+	<Coords points="140,1658 158,1658 158,1678 140,1678"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>ein</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w652" language="German" production="printed">
+	<Coords points="171,1652 186,1652 186,1659 198,1659 198,1679 186,1679 186,1683 171,1683"/>
+	<Glyph id="c653">
+	<Coords points="171,1652 186,1652 186,1683 171,1683"/>
+	<TextEquiv>
+	<Unicode>ſ</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c654">
+	<Coords points="182,1659 198,1659 198,1679 182,1679"/>
+	<TextEquiv>
+	<Unicode>o</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>ſo</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w655" language="German" production="printed">
+	<Coords points="269,1652 283,1652 283,1661 314,1661 314,1681 283,1681 283,1685 232,1685 232,1688 217,1688 217,1661 269,1661"/>
+	<Glyph id="c656">
+	<Coords points="217,1661 232,1661 232,1688 217,1688"/>
+	<TextEquiv>
+	<Unicode>g</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c657">
+	<Coords points="235,1661 249,1661 249,1681 235,1681"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c658">
+	<Coords points="251,1661 265,1661 265,1681 251,1681"/>
+	<TextEquiv>
+	<Unicode>o</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c659">
+	<Coords points="269,1652 283,1652 283,1685 269,1685"/>
+	<TextEquiv>
+	<Unicode>ß</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c660">
+	<Coords points="286,1661 299,1661 299,1681 286,1681"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c661">
+	<Coords points="301,1661 314,1661 314,1681 301,1681"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>großer</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w662" language="German" production="printed">
+	<Coords points="330,1652 374,1652 374,1655 410,1655 410,1682 398,1682 398,1683 374,1683 374,1686 358,1686 358,1683 330,1683"/>
+	<Glyph id="c663">
+	<Coords points="330,1652 354,1652 354,1683 330,1683"/>
+	<TextEquiv>
+	<Unicode>T</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c664">
+	<Coords points="358,1652 374,1652 374,1686 358,1686"/>
+	<TextEquiv>
+	<Unicode>h</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c665">
+	<Coords points="376,1662 387,1662 387,1681 376,1681"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c666">
+	<Coords points="391,1653 398,1653 398,1683 391,1683"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c667">
+	<Coords points="401,1655 410,1655 410,1682 401,1682"/>
+	<TextEquiv>
+	<Unicode>l</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>Theil</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w668" language="German" production="printed">
+	<Coords points="426,1657 441,1657 441,1662 472,1662 472,1680 441,1680 441,1682 426,1682"/>
+	<Glyph id="c669">
+	<Coords points="426,1657 441,1657 441,1682 426,1682"/>
+	<TextEquiv>
+	<Unicode>d</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c670">
+	<Coords points="443,1662 457,1662 457,1680 443,1680"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c671">
+	<Coords points="459,1662 472,1662 472,1680 459,1680"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w672" language="German" production="printed">
+	<Coords points="485,1653 526,1653 526,1654 601,1654 601,1663 637,1663 637,1674 655,1674 655,1688 645,1688 645,1687 564,1687 564,1683 485,1683"/>
+	<Glyph id="c673">
+	<Coords points="485,1653 526,1653 526,1683 485,1683"/>
+	<TextEquiv>
+	<Unicode>M</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c674">
+	<Coords points="528,1664 540,1664 540,1682 528,1682"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c675">
+	<Coords points="542,1662 561,1662 561,1682 542,1682"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c676">
+	<Coords points="564,1654 578,1654 578,1687 564,1687"/>
+	<TextEquiv>
+	<Unicode>ſ</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c677" ligature="true">
+	<Coords points="575,1654 601,1654 601,1686 575,1686"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c679">
+	<Coords points="604,1663 617,1663 617,1682 604,1682"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c680">
+	<Coords points="619,1663 637,1663 637,1682 619,1682"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c681">
+	<Coords points="645,1674 655,1674 655,1688 645,1688"/>
+	<TextEquiv>
+	<Unicode>,</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>Menſen,</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w682" language="German" production="printed">
+	<Coords points="715,1653 742,1653 742,1656 759,1656 759,1661 805,1661 805,1682 742,1682 742,1687 715,1687 715,1683 676,1683 676,1662 715,1662"/>
+	<Glyph id="c683">
+	<Coords points="676,1662 694,1662 694,1683 676,1683"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c684">
+	<Coords points="697,1663 713,1663 713,1682 697,1682"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c685" ligature="true">
+	<Coords points="715,1653 742,1653 742,1687 715,1687"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c687">
+	<Coords points="745,1656 759,1656 759,1682 745,1682"/>
+	<TextEquiv>
+	<Unicode>d</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c688">
+	<Coords points="763,1662 775,1662 775,1682 763,1682"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c689">
+	<Coords points="776,1661 805,1661 805,1682 776,1682"/>
+	<TextEquiv>
+	<Unicode>m</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>nadem</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w690" language="German" production="printed">
+	<Coords points="827,1654 847,1654 847,1661 862,1661 862,1682 847,1682 847,1688 827,1688"/>
+	<Glyph id="c691">
+	<Coords points="827,1654 847,1654 847,1688 827,1688"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c693">
+	<Coords points="850,1661 862,1661 862,1682 850,1682"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w694" language="German" production="printed">
+	<Coords points="900,1653 910,1653 910,1660 925,1660 925,1682 909,1682 909,1681 881,1681 881,1654 900,1654"/>
+	<Glyph id="c695">
+	<Coords points="881,1654 898,1654 898,1681 881,1681"/>
+	<TextEquiv>
+	<Unicode>d</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c696">
+	<Coords points="900,1653 910,1653 910,1681 900,1681"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c697">
+	<Coords points="909,1660 925,1660 925,1682 909,1682"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>die</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<TextEquiv>
+	<Unicode>ein ſo großer Theil der Menſen, nadem e die</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
+	<TextLine id="l698" primaryLanguage="German" production="printed">
+	<Coords points="113,1695 149,1695 149,1698 261,1698 261,1699 322,1699 322,1700 434,1700 434,1704 553,1704 553,1701 570,1701 570,1702 685,1702 685,1701 798,1701 798,1699 860,1699 860,1698 887,1698 887,1706 922,1706 922,1728 887,1728 887,1733 825,1733 825,1735 811,1735 811,1736 701,1736 701,1737 666,1737 666,1738 650,1738 650,1731 434,1731 434,1733 421,1733 421,1732 298,1732 298,1734 285,1734 285,1727 113,1727"/>
+	<Word id="w699" language="German" production="printed">
+	<Coords points="113,1695 149,1695 149,1704 181,1704 181,1706 216,1706 216,1726 149,1726 149,1727 113,1727"/>
+	<Glyph id="c700">
+	<Coords points="113,1695 149,1695 149,1727 113,1727"/>
+	<TextEquiv>
+	<Unicode>N</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c701">
+	<Coords points="152,1705 167,1705 167,1725 152,1725"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c702">
+	<Coords points="172,1704 181,1704 181,1726 172,1726"/>
+	<TextEquiv>
+	<Unicode>t</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c703">
+	<Coords points="184,1706 200,1706 200,1726 184,1726"/>
+	<TextEquiv>
+	<Unicode>u</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c704">
+	<Coords points="204,1706 216,1706 216,1726 204,1726"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>Natur</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w705" language="German" production="printed">
+	<Coords points="234,1698 261,1698 261,1699 322,1699 322,1732 298,1732 298,1734 285,1734 285,1727 245,1727 245,1726 234,1726"/>
+	<Glyph id="c706">
+	<Coords points="234,1698 243,1698 243,1726 234,1726"/>
+	<TextEquiv>
+	<Unicode>l</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c707">
+	<Coords points="245,1698 261,1698 261,1727 245,1727"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c708">
+	<Coords points="264,1708 281,1708 281,1727 264,1727"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c709">
+	<Coords points="285,1707 298,1707 298,1734 285,1734"/>
+	<TextEquiv>
+	<Unicode>g</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c710" ligature="true">
+	<Coords points="302,1699 322,1699 322,1732 302,1732"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>lng</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w712" language="German" production="printed">
+	<Coords points="342,1708 397,1708 397,1728 342,1728"/>
+	<Glyph id="c713">
+	<Coords points="342,1708 358,1708 358,1728 342,1728"/>
+	<TextEquiv>
+	<Unicode>v</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c714">
+	<Coords points="362,1708 375,1708 375,1727 362,1727"/>
+	<TextEquiv>
+	<Unicode>o</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c715">
+	<Coords points="379,1708 397,1708 397,1728 379,1728"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>von</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w716" language="German" production="printed">
+	<Coords points="421,1700 434,1700 434,1704 507,1704 507,1708 522,1708 522,1709 538,1709 538,1730 507,1730 507,1731 434,1731 434,1733 421,1733"/>
+	<Glyph id="c717">
+	<Coords points="421,1700 434,1700 434,1733 421,1733"/>
+	<TextEquiv>
+	<Unicode>f</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c718">
+	<Coords points="434,1708 445,1708 445,1728 434,1728"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c719">
+	<Coords points="449,1708 460,1708 460,1727 449,1727"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c720">
+	<Coords points="463,1708 491,1708 491,1731 463,1731"/>
+	<TextEquiv>
+	<Unicode>m</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c721">
+	<Coords points="491,1704 507,1704 507,1731 491,1731"/>
+	<TextEquiv>
+	<Unicode>d</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c722">
+	<Coords points="512,1708 522,1708 522,1728 512,1728"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c723">
+	<Coords points="525,1709 538,1709 538,1730 525,1730"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>fremder</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w724" language="German" production="printed">
+	<Coords points="553,1701 570,1701 570,1702 595,1702 595,1707 609,1707 609,1710 666,1710 666,1738 650,1738 650,1731 553,1731"/>
+	<Glyph id="c725">
+	<Coords points="553,1701 570,1701 570,1731 553,1731"/>
+	<TextEquiv>
+	<Unicode>L</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c726">
+	<Coords points="573,1709 583,1709 583,1729 573,1729"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c727">
+	<Coords points="587,1702 595,1702 595,1729 587,1729"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c728">
+	<Coords points="598,1707 609,1707 609,1730 598,1730"/>
+	<TextEquiv>
+	<Unicode>t</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c729">
+	<Coords points="612,1710 627,1710 627,1731 612,1731"/>
+	<TextEquiv>
+	<Unicode>u</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c730">
+	<Coords points="630,1710 648,1710 648,1730 630,1730"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c731">
+	<Coords points="650,1710 666,1710 666,1738 650,1738"/>
+	<TextEquiv>
+	<Unicode>g</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>Leitung</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w732" language="German" production="printed">
+	<Coords points="685,1701 701,1701 701,1703 737,1703 737,1730 701,1730 701,1737 685,1737"/>
+	<Glyph id="c733">
+	<Coords points="685,1701 701,1701 701,1737 685,1737"/>
+	<TextEquiv>
+	<Unicode>f</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c734">
+	<Coords points="699,1709 711,1709 711,1729 699,1729"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c735">
+	<Coords points="714,1709 724,1709 724,1729 714,1729"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c736">
+	<Coords points="729,1703 737,1703 737,1730 729,1730"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>frei</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w737" language="German" production="printed">
+	<Coords points="860,1698 887,1698 887,1706 922,1706 922,1728 887,1728 887,1733 825,1733 825,1735 811,1735 811,1736 765,1736 765,1708 798,1708 798,1699 860,1699"/>
+	<Glyph id="c738">
+	<Coords points="765,1708 780,1708 780,1736 765,1736"/>
+	<TextEquiv>
+	<Unicode>g</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c739">
+	<Coords points="784,1709 795,1709 795,1729 784,1729"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c740">
+	<Coords points="798,1699 811,1699 811,1736 798,1736"/>
+	<TextEquiv>
+	<Unicode>ſ</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c741">
+	<Coords points="808,1709 825,1709 825,1735 808,1735"/>
+	<TextEquiv>
+	<Unicode>p</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c742">
+	<Coords points="828,1708 839,1708 839,1729 828,1729"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c743">
+	<Coords points="844,1708 857,1708 857,1728 844,1728"/>
+	<TextEquiv>
+	<Unicode>o</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c744" ligature="true">
+	<Coords points="860,1698 887,1698 887,1733 860,1733"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c746">
+	<Coords points="890,1706 902,1706 902,1727 890,1727"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c747">
+	<Coords points="904,1706 922,1706 922,1728 904,1728"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>geſproen</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<TextEquiv>
+	<Unicode>Natur lng von fremder Leitung frei geſproen</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
+	<TextEquiv>
+	<Unicode>Faulheit und Feigheit nd die Ursaen, warum
+ein ſo großer Theil der Menſen, nadem e die
+Natur lng von fremder Leitung frei geſproen</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark" primaryLanguage="German" production="printed">
+	<Coords points="310,1737 310,1738 714,1738 714,1739 784,1739 784,1761 785,1761 785,1777 743,1777 743,1784 685,1784 685,1776 366,1776 366,1777 340,1777 340,1780 328,1780 328,1775 194,1775 194,1772 147,1772 147,1737"/>
+	<TextLine id="l748" primaryLanguage="German" production="printed">
+	<Coords points="147,1742 178,1742 178,1744 369,1744 369,1746 583,1746 583,1747 875,1747 875,1753 910,1753 910,1759 923,1759 923,1767 910,1767 910,1771 875,1771 875,1777 750,1777 750,1784 691,1784 691,1775 369,1775 369,1777 343,1777 343,1780 331,1780 331,1774 196,1774 196,1771 147,1771"/>
+	<Word id="w749" language="German" production="printed">
+	<Coords points="147,1742 178,1742 178,1744 236,1744 236,1745 342,1745 342,1744 369,1744 369,1752 386,1752 386,1766 395,1766 395,1775 369,1775 369,1777 343,1777 343,1780 331,1780 331,1774 196,1774 196,1771 147,1771"/>
+	<Glyph id="c750">
+	<Coords points="147,1742 178,1742 178,1771 147,1771"/>
+	<TextEquiv>
+	<Unicode>B</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c751">
+	<Coords points="180,1762 186,1762 186,1771 180,1771"/>
+	<TextEquiv>
+	<Unicode>.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c752">
+	<Coords points="196,1744 236,1744 236,1774 196,1774"/>
+	<TextEquiv>
+	<Unicode>M</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c753">
+	<Coords points="238,1752 255,1752 255,1773 238,1773"/>
+	<TextEquiv>
+	<Unicode>o</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c754">
+	<Coords points="259,1752 278,1752 278,1774 259,1774"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c755">
+	<Coords points="278,1751 298,1751 298,1773 278,1773"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c797">
+	<Coords points="310,1774 310,1750 300,1750 300,1774"/>
+	<TextEquiv>
+	<Unicode>t</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c756">
+	<Coords points="312,1752 327,1752 327,1773 312,1773"/>
+	<TextEquiv>
+	<Unicode>s</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c757">
+	<Coords points="331,1745 343,1745 343,1780 331,1780"/>
+	<TextEquiv>
+	<Unicode>ſ</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c758" ligature="true">
+	<Coords points="342,1744 369,1744 369,1777 342,1777"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c760">
+	<Coords points="371,1752 386,1752 386,1772 371,1772"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c761">
+	<Coords points="387,1766 395,1766 395,1775 387,1775"/>
+	<TextEquiv>
+	<Unicode>.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>B.Monatsſr.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w762" language="German" production="printed">
+	<Coords points="410,1746 422,1746 422,1747 446,1747 446,1766 456,1766 456,1775 448,1775 448,1774 410,1774"/>
+	<Glyph id="c763">
+	<Coords points="410,1746 422,1746 422,1774 410,1774"/>
+	<TextEquiv>
+	<Unicode>I</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c764">
+	<Coords points="423,1747 446,1747 446,1773 423,1773"/>
+	<TextEquiv>
+	<Unicode>V</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c765">
+	<Coords points="448,1766 456,1766 456,1775 448,1775"/>
+	<TextEquiv>
+	<Unicode>.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>IV.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w766" language="German" production="printed">
+	<Coords points="462,1746 489,1746 489,1754 494,1754 494,1766 502,1766 502,1774 489,1774 489,1775 462,1775"/>
+	<Glyph id="c767">
+	<Coords points="462,1746 494,1746 494,1775 462,1775"/>
+	<TextEquiv>
+	<Unicode>B</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c769">
+	<Coords points="495,1766 502,1766 502,1774 495,1774"/>
+	<TextEquiv>
+	<Unicode>.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>B.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w770" language="German" production="printed">
+	<Coords points="517,1748 534,1748 534,1766 541,1766 541,1775 534,1775 534,1772 517,1772"/>
+	<Glyph id="c771">
+	<Coords points="517,1748 534,1748 534,1772 517,1772"/>
+	<TextEquiv>
+	<Unicode>6</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c772">
+	<Coords points="534,1766 541,1766 541,1775 534,1775"/>
+	<TextEquiv>
+	<Unicode>.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>6.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w773" language="German" production="printed">
+	<Coords points="554,1746 583,1746 583,1752 599,1752 599,1767 608,1767 608,1775 554,1775"/>
+	<Glyph id="c774">
+	<Coords points="554,1746 583,1746 583,1775 554,1775"/>
+	<TextEquiv>
+	<Unicode>S</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c775">
+	<Coords points="586,1752 599,1752 599,1773 586,1773"/>
+	<TextEquiv>
+	<Unicode>t</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c776">
+	<Coords points="599,1767 608,1767 608,1775 599,1775"/>
+	<TextEquiv>
+	<Unicode>.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>St.</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w777" language="German" production="printed">
+	<Coords points="691,1747 750,1747 750,1784 691,1784"/>
+	<Glyph id="c778">
+	<Coords points="691,1747 723,1747 723,1784 691,1784"/>
+	<TextEquiv>
+	<Unicode>H</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c779">
+	<Coords points="733,1747 750,1747 750,1784 733,1784"/>
+	<TextEquiv>
+	<Unicode>h</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>Hh</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<Word id="w780" language="German" production="printed">
+	<Coords points="860,1747 875,1747 875,1753 910,1753 910,1759 923,1759 923,1767 910,1767 910,1771 875,1771 875,1777 860,1777"/>
+	<Glyph id="c781">
+	<Coords points="860,1747 875,1747 875,1777 860,1777"/>
+	<TextEquiv>
+	<Unicode>(</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c782">
+	<Coords points="877,1753 895,1753 895,1770 877,1770"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c783">
+	<Coords points="895,1753 910,1753 910,1771 895,1771"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<Glyph id="c784">
+	<Coords points="913,1759 923,1759 923,1767 913,1767"/>
+	<TextEquiv>
+	<Unicode>-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
+	<TextEquiv>
+	<Unicode>(na-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
+	<TextEquiv>
+	<Unicode>B.Monatsſr. IV. B. 6. St. Hh (na-</Unicode></TextEquiv>
+	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
+	<TextEquiv>
+	<Unicode>B.Monatsſr. IV. B. 6. St. Hh (na-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords points="923,1741 923,1768 915,1768 915,1772 894,1772 894,1777 847,1777 847,1761 846,1761 846,1741"/>
+	<TextEquiv>
+	<Unicode>(na-</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r786">
+	<Coords points="520,228 520,229 728,229 728,230 865,230 865,232 896,232 896,233 910,233 910,245 108,245 108,236 177,236 177,235 217,235 217,234 243,234 243,233 284,233 284,232 325,232 325,231 367,231 367,230 415,230 415,229 507,229 507,228"/></SeparatorRegion>
+	<SeparatorRegion id="r787">
+	<Coords points="564,244 564,245 597,245 597,246 728,246 728,247 895,247 895,248 896,248 896,249 897,249 897,255 108,255 108,250 176,250 176,249 216,249 216,248 264,248 264,247 284,247 284,246 367,246 367,245 562,245 562,244"/></SeparatorRegion>
+	<SeparatorRegion id="r788">
+	<Coords points="894,667 894,668 903,668 903,669 913,669 913,673 912,673 912,674 903,674 903,675 902,675 902,676 804,676 804,677 730,677 730,678 416,678 416,679 262,679 262,680 172,680 172,681 124,681 124,680 118,680 118,676 119,676 119,675 176,675 176,674 229,674 229,673 263,673 263,672 293,672 293,671 417,671 417,670 727,670 727,669 874,669 874,668 879,668 879,667"/></SeparatorRegion></Page></PcGts>

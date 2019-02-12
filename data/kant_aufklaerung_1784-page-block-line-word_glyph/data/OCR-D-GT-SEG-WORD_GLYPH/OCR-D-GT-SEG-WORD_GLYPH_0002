@@ -3605,7 +3605,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>n</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>aen</Unicode></TextEquiv>
+		<Unicode>aen</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w747" language="German" production="printed">
 	<Coords points="1036,1118 1054,1118 1054,1119 1083,1119 1083,1128 1117,1128 1117,1147 1054,1147 1054,1148 1020,1148 1020,1150 986,1150 986,1119 1036,1119"/>

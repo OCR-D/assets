@@ -2797,7 +2797,7 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Unicode></Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>dich</Unicode></TextEquiv>
+	<Unicode>di</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w516" language="German" production="printed">
 	<Coords points="221,1505 227,1505 227,1510 280,1510 280,1532 188,1532 188,1507 221,1507"/>

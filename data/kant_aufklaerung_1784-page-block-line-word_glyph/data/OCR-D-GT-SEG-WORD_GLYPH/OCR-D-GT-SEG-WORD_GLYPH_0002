@@ -3703,7 +3703,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>ﬀentlien</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>von ſeiner Vernunft in aen Stkken ﬀentlihen</Unicode></TextEquiv>
+	<Unicode>von ſeiner Vernunft in aen Stkken ﬀentlien</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextLine id="l768" primaryLanguage="German" production="printed">
 	<Coords points="682,1164 704,1164 704,1173 812,1173 812,1166 922,1166 922,1164 956,1164 956,1166 1128,1166 1128,1167 1184,1167 1184,1174 1312,1174 1312,1167 1320,1167 1320,1178 1332,1178 1332,1192 1320,1192 1320,1196 1312,1196 1312,1195 1128,1195 1128,1199 1030,1199 1030,1201 1014,1201 1014,1195 837,1195 837,1200 729,1200 729,1202 717,1202 717,1200 682,1200 682,1195 528,1195 528,1165 566,1165 566,1166 682,1166"/>

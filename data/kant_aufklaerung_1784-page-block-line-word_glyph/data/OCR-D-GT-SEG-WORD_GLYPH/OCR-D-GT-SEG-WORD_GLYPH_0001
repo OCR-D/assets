@@ -69,7 +69,7 @@
 	<Glyph id="c59" ligature="true" symbol="false">
 	<Coords points="381,369 410,369 410,436 381,436 381,425 366,425 366,383 381,383"/>
 	<TextEquiv conf="0.79018">
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Glyph>
 	<Glyph id="c82">
 	<Coords points="421,382 441,382 441,426 421,426"/>
@@ -77,7 +77,7 @@
 	<Unicode>e</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Glyph>
 	<TextEquiv conf="0.53625">
-	<Unicode>Berliniſe</Unicode></TextEquiv>
+	<Unicode>Berliniſche</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Word>
 	<Word id="w13" language="German" production="printed">
 	<Coords points="483,367 917,367 917,436 483,436"/>
@@ -119,7 +119,7 @@
 	<Glyph id="c21" ligature="true">
 	<Coords points="748,371 789,371 789,436 748,436"/>
 	<TextEquiv conf="0.51391">
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Glyph>
 	<Glyph id="c143">
 	<Coords points="798,382 821,382 821,426 798,426"/>
@@ -147,10 +147,10 @@
 	<Unicode>.</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Glyph>
 	<TextEquiv conf="0.51391">
-	<Unicode>Monatsſrift.</Unicode></TextEquiv>
+	<Unicode>Monatsſchrift.</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></Word>
 	<TextEquiv conf="0.52508">
-	<Unicode>Berliniſe Monatsſrift.</Unicode></TextEquiv>
+	<Unicode>Berliniſche Monatsſchrift.</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="17.00000"/></TextLine>
 	<TextLine id="l27">
 	<Coords points="399,484 614,483 614,529 398,530"/>
@@ -219,7 +219,7 @@
 	<Glyph id="c307">
 	<Coords points="319,572 335,572 335,609 319,609"/>
 	<TextEquiv conf="0.57553">
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>oͤ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
 	<Glyph id="c315">
 	<Coords points="339,575 347,575 347,610 339,610"/>
@@ -247,7 +247,7 @@
 	<Unicode>s</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
 	<TextEquiv>
-	<Unicode>Zwlftes</Unicode></TextEquiv>
+	<Unicode>Zwoͤlftes</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
 	<Word id="w547" language="German" production="printed">
 	<Coords points="496,569 496,570 497,570 497,571 498,571 498,574 522,574 522,599 528,599 528,600 530,600 530,601 531,601 531,602 534,602 534,604 533,604 533,605 532,605 532,606 531,606 531,608 530,608 530,609 529,609 529,610 529,609 445,609 445,608 442,608 442,607 441,607 441,606 439,606 439,605 438,605 438,604 436,604 436,603 435,603 435,602 434,602 434,600 433,600 433,599 432,599 432,596 431,596 431,594 430,594 430,586 431,586 431,582 432,582 432,581 433,581 433,579 434,579 434,577 435,577 435,576 436,576 436,575 438,575 438,574 440,574 440,573 442,573 442,572 446,572 446,571 492,571 492,570 493,570 493,569"/>
@@ -261,10 +261,10 @@
 	<TextEquiv conf="0.76763">
 	<Unicode>t</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
-	<Glyph id="c398" ligature="false" symbol="false">
+	<Glyph id="c398">
 	<Coords points="488,569 500,569 500,584 506,584 506,608 488,608"/>
 	<TextEquiv conf="0.66800">
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>uͤ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
 	<Glyph id="c53">
 	<Coords points="509,574 523,574 523,609 509,609"/>
@@ -277,7 +277,7 @@
 	<Unicode>.</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
 	<TextEquiv>
-	<Unicode>Stk.</Unicode></TextEquiv>
+	<Unicode>Stuͤk.</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
 	<Word id="w430" language="German" production="printed">
 	<Coords points="588,571 778,571 778,611 588,611"/>
@@ -330,12 +330,12 @@
 	<Unicode>December.</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
 	<TextEquiv conf="0.54046">
-	<Unicode>Zwlftes Stk. December.</Unicode></TextEquiv>
+	<Unicode>Zwoͤlftes Stuͤk. December.</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></TextLine>
 	<TextEquiv>
-	<Unicode>Berliniſe Monatsſrift.
+	<Unicode>Berliniſche Monatsſchrift.
 1 7 8 4.
-Zwlftes Stk. December.</Unicode></TextEquiv></TextRegion>
+Zwoͤlftes Stuͤk. December.</Unicode></TextEquiv></TextRegion>
 	<TextRegion id="r1" type="heading">
 	<Coords points="500,747 512,747 512,761 526,761 526,809 653,809 653,805 686,805 686,812 756,812 756,814 776,814 776,817 796,817 796,886 859,886 859,924 825,924 825,937 800,937 800,934 719,934 719,928 575,928 575,937 556,937 556,928 417,928 417,939 390,939 390,930 237,930 237,932 175,932 175,886 232,886 232,806 276,806 276,813 448,813 448,812 500,812"/>
 	<TextLine id="l2" primaryLanguage="German" production="printed">
@@ -515,10 +515,10 @@ Zwlftes Stk. December.</Unicode></TextEquiv></TextRegion>
 	<Glyph id="c39" ligature="true">
 	<Coords points="390,887 417,887 417,939 390,939"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ﬅ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
 	<TextEquiv>
-	<Unicode>i</Unicode></TextEquiv>
+	<Unicode>iﬅ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
 	<Word id="w41" language="German" production="printed">
 	<Coords points="556,885 575,885 575,886 670,886 670,896 839,896 839,886 859,886 859,924 825,924 825,937 800,937 800,934 719,934 719,928 575,928 575,937 556,937 556,928 463,928 463,889 556,889"/>
@@ -550,7 +550,7 @@ Zwlftes Stk. December.</Unicode></TextEquiv></TextRegion>
 	<Glyph id="c47">
 	<Coords points="648,886 670,886 670,927 648,927"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>aͤ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
 	<Glyph id="c48">
 	<Coords points="687,899 704,899 704,927 687,927"/>
@@ -578,15 +578,15 @@ Zwlftes Stk. December.</Unicode></TextEquiv></TextRegion>
 	<Unicode>?</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Glyph>
 	<TextEquiv>
-	<Unicode>Aufklrung?</Unicode></TextEquiv>
+	<Unicode>Aufklaͤrung?</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></Word>
 	<TextEquiv>
-	<Unicode>Was i Aufklrung?</Unicode></TextEquiv>
+	<Unicode>Was iﬅ Aufklaͤrung?</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="12.00000"/></TextLine>
 	<TextEquiv>
 	<Unicode>I.
 Beantwortung der Frage:
-Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
+Was iﬅ Aufklaͤrung?</Unicode></TextEquiv></TextRegion>
 	<TextRegion id="r2" type="paragraph">
 	<Coords points="607,978 750,978 750,1014 681,1014 681,1015 664,1015 664,1013 537,1013 537,1014 521,1014 521,1008 416,1008 416,1009 385,1009 385,1010 337,1010 337,1011 293,1011 293,1016 277,1016 277,980 295,980 295,979 477,979 477,985 607,985"/>
 	<TextLine id="l54" primaryLanguage="German" production="printed">
@@ -779,7 +779,7 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Glyph id="c95">
 	<Coords points="263,1083 280,1083 280,1116 263,1116"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>aͤ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c96">
 	<Coords points="287,1094 304,1094 304,1115 287,1115"/>
@@ -802,7 +802,7 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Unicode>g</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>ufklrung</Unicode></TextEquiv>
+	<Unicode>ufklaͤrung</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w100" language="German" production="printed">
 	<Coords points="428,1085 451,1085 451,1119 428,1119 428,1117 413,1117 413,1087 428,1087"/>
@@ -814,10 +814,10 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Glyph id="c102" ligature="true">
 	<Coords points="428,1085 451,1085 451,1119 428,1119"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ﬅ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>i</Unicode></TextEquiv>
+	<Unicode>iﬅ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w104" language="German" production="printed">
 	<Coords points="473,1088 492,1088 492,1095 526,1095 526,1114 508,1114 508,1115 473,1115"/>
@@ -925,7 +925,7 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Unicode>Men-</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>ufklrung i der Ausgang des Men-</Unicode></TextEquiv>
+	<Unicode>ufklaͤrung iﬅ der Ausgang des Men-</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextLine id="l125" primaryLanguage="German" production="printed">
 	<Coords points="864,1130 885,1130 885,1139 911,1139 911,1140 922,1140 922,1158 911,1158 911,1161 699,1161 699,1162 626,1162 626,1167 594,1167 594,1169 580,1169 580,1166 432,1166 432,1168 297,1168 297,1162 163,1162 163,1169 129,1169 129,1167 114,1167 114,1132 163,1132 163,1141 297,1141 297,1133 415,1133 415,1132 503,1132 503,1133 662,1133 662,1135 774,1135 774,1133 864,1133"/>
@@ -939,7 +939,7 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Glyph id="c128" ligature="true">
 	<Coords points="129,1132 163,1132 163,1169 129,1169"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c130">
 	<Coords points="168,1141 180,1141 180,1161 168,1161"/>
@@ -952,7 +952,7 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Unicode>n</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>ſen</Unicode></TextEquiv>
+	<Unicode>ſchen</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w132" language="German" production="printed">
 	<Coords points="239,1141 280,1141 280,1161 258,1161 258,1162 239,1162 239,1161 218,1161 218,1142 239,1142"/>
@@ -1034,10 +1034,10 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Glyph id="c148" ligature="true">
 	<Coords points="479,1132 503,1132 503,1166 479,1166"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ﬅ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>ſelb</Unicode></TextEquiv>
+	<Unicode>ſelbﬅ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w150" language="German" production="printed">
 	<Coords points="580,1133 662,1133 662,1135 683,1135 683,1137 715,1137 715,1140 755,1140 755,1160 729,1160 729,1161 699,1161 699,1162 626,1162 626,1167 594,1167 594,1169 580,1169 580,1162 519,1162 519,1142 544,1142 544,1141 580,1141"/>
@@ -1064,7 +1064,7 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Glyph id="c155" ligature="true">
 	<Coords points="591,1133 626,1133 626,1167 591,1167"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c157">
 	<Coords points="630,1141 650,1141 650,1161 630,1161"/>
@@ -1102,7 +1102,7 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Unicode>n</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>verſuldeten</Unicode></TextEquiv>
+	<Unicode>verſchuldeten</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w164" language="German" production="printed">
 	<Coords points="864,1130 885,1130 885,1139 911,1139 911,1140 922,1140 922,1158 911,1158 911,1161 774,1161 774,1133 864,1133"/>
@@ -1124,7 +1124,7 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Glyph id="c168">
 	<Coords points="864,1130 885,1130 885,1161 864,1161"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>uͤ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c169">
 	<Coords points="889,1139 911,1139 911,1161 889,1161"/>
@@ -1137,10 +1137,10 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Unicode>-</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>Unmn-</Unicode></TextEquiv>
+	<Unicode>Unmuͤn-</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>ſen aus ſeiner ſelb verſuldeten Unmn-</Unicode></TextEquiv>
+	<Unicode>ſchen aus ſeiner ſelbﬅ verſchuldeten Unmuͤn-</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextLine id="l171" primaryLanguage="German" production="printed">
 	<Coords points="375,1177 396,1177 396,1180 524,1180 524,1181 604,1181 604,1182 713,1182 713,1178 739,1178 739,1179 855,1179 855,1185 910,1185 910,1197 921,1197 921,1213 873,1213 873,1215 857,1215 857,1208 739,1208 739,1209 713,1209 713,1208 604,1208 604,1213 584,1213 584,1209 477,1209 477,1215 458,1215 458,1210 286,1210 286,1209 168,1209 168,1215 149,1215 149,1208 113,1208 113,1181 138,1181 138,1180 168,1180 168,1179 187,1179 187,1180 215,1180 215,1181 375,1181"/>
@@ -1209,7 +1209,7 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Glyph id="c185">
 	<Coords points="375,1177 396,1177 396,1210 375,1210"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>uͤ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c186">
 	<Coords points="400,1188 420,1188 420,1208 400,1208"/>
@@ -1252,7 +1252,7 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Unicode>t</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>Unmndigkeit</Unicode></TextEquiv>
+	<Unicode>Unmuͤndigkeit</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w194" language="German" production="printed">
 	<Coords points="584,1181 604,1181 604,1213 584,1213 584,1208 571,1208 571,1182 584,1182"/>
@@ -1264,10 +1264,10 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Glyph id="c196" ligature="true">
 	<Coords points="584,1181 604,1181 604,1213 584,1213"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ﬅ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>i</Unicode></TextEquiv>
+	<Unicode>iﬅ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w198" language="German" production="printed">
 	<Coords points="633,1182 649,1182 649,1186 684,1186 684,1208 633,1208"/>
@@ -1324,7 +1324,7 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Glyph id="c209">
 	<Coords points="839,1179 855,1179 855,1207 839,1207"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>oͤ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c210">
 	<Coords points="857,1187 873,1187 873,1215 857,1215"/>
@@ -1347,10 +1347,10 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Unicode>,</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>Unvermgen,</Unicode></TextEquiv>
+	<Unicode>Unvermoͤgen,</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>digkeit. Unmndigkeit i das Unvermgen,</Unicode></TextEquiv>
+	<Unicode>digkeit. Unmuͤndigkeit iﬅ das Unvermoͤgen,</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextLine id="l214" primaryLanguage="German" production="printed">
 	<Coords points="562,1225 579,1225 579,1228 603,1228 603,1233 616,1233 616,1234 719,1234 719,1227 725,1227 725,1231 839,1231 839,1228 855,1228 855,1232 920,1232 920,1255 901,1255 901,1254 674,1254 674,1263 659,1263 659,1257 505,1257 505,1259 491,1259 491,1256 362,1256 362,1261 344,1261 344,1256 193,1256 193,1258 163,1258 163,1260 125,1260 125,1261 114,1261 114,1226 310,1226 310,1228 362,1228 362,1231 491,1231 491,1228 562,1228"/>
@@ -1369,10 +1369,10 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Glyph id="c218" ligature="true">
 	<Coords points="135,1226 163,1226 163,1260 135,1260"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>ſi</Unicode></TextEquiv>
+	<Unicode>ſich</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w220" language="German" production="printed">
 	<Coords points="179,1226 193,1226 193,1228 212,1228 212,1232 265,1232 265,1255 193,1255 193,1258 179,1258"/>
@@ -1429,7 +1429,7 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Glyph id="c231" ligature="true">
 	<Coords points="344,1228 362,1228 362,1261 344,1261"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ﬅ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c233">
 	<Coords points="365,1234 381,1234 381,1255 365,1255"/>
@@ -1457,7 +1457,7 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Unicode>s</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>Verandes</Unicode></TextEquiv>
+	<Unicode>Verﬅandes</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w238" language="German" production="printed">
 	<Coords points="491,1228 505,1228 505,1235 541,1235 541,1255 505,1255 505,1259 491,1259 491,1254 471,1254 471,1235 491,1235"/>
@@ -1595,7 +1595,7 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Unicode>anderen</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>ſi ſeines Verandes ohne Leitung eines anderen</Unicode></TextEquiv>
+	<Unicode>ſich ſeines Verﬅandes ohne Leitung eines anderen</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextLine id="l265" primaryLanguage="German" production="printed">
 	<Coords points="872,1270 889,1270 889,1278 909,1278 909,1280 921,1280 921,1297 909,1297 909,1301 839,1301 839,1304 767,1304 767,1305 694,1305 694,1308 675,1308 675,1302 556,1302 556,1309 523,1309 523,1308 510,1308 510,1307 427,1307 427,1303 338,1303 338,1301 125,1301 125,1308 111,1308 111,1279 160,1279 160,1272 175,1272 175,1274 219,1274 219,1280 234,1280 234,1281 338,1281 338,1272 446,1272 446,1273 754,1273 754,1271 767,1271 767,1274 872,1274"/>
@@ -1689,7 +1689,7 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Glyph id="c284" ligature="true">
 	<Coords points="427,1272 450,1272 450,1307 427,1307"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ﬅ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c286">
 	<Coords points="451,1282 472,1282 472,1301 451,1301"/>
@@ -1714,7 +1714,7 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Glyph id="c290" ligature="true">
 	<Coords points="523,1273 556,1273 556,1309 523,1309"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c292">
 	<Coords points="561,1281 581,1281 581,1302 561,1302"/>
@@ -1742,7 +1742,7 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Unicode>t</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>Selbverſuldet</Unicode></TextEquiv>
+	<Unicode>Selbﬅverſchuldet</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w297" language="German" production="printed">
 	<Coords points="675,1273 694,1273 694,1308 675,1308 675,1302 662,1302 662,1275 675,1275"/>
@@ -1754,10 +1754,10 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Glyph id="c299" ligature="true">
 	<Coords points="675,1273 694,1273 694,1308 675,1308"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ﬅ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>i</Unicode></TextEquiv>
+	<Unicode>iﬅ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w301" language="German" production="printed">
 	<Coords points="754,1271 767,1271 767,1280 776,1280 776,1300 767,1300 767,1305 754,1305 754,1301 709,1301 709,1274 730,1274 730,1273 754,1273"/>
@@ -1809,7 +1809,7 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Glyph id="c311">
 	<Coords points="872,1270 889,1270 889,1300 872,1300"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>uͤ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c312">
 	<Coords points="892,1278 909,1278 909,1301 892,1301"/>
@@ -1822,10 +1822,10 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Unicode>-</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>Unmn-</Unicode></TextEquiv>
+	<Unicode>Unmuͤn-</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>zu bedienen. Selbverſuldet i dieſe Unmn-</Unicode></TextEquiv>
+	<Unicode>zu bedienen. Selbﬅverſchuldet iﬅ dieſe Unmuͤn-</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextLine id="l314" primaryLanguage="German" production="printed">
 	<Coords points="716,1318 872,1318 872,1325 912,1325 912,1327 924,1327 924,1343 912,1343 912,1345 890,1345 890,1346 872,1346 872,1348 740,1348 740,1352 716,1352 716,1347 602,1347 602,1348 593,1348 593,1352 503,1352 503,1353 479,1353 479,1352 449,1352 449,1350 406,1350 406,1348 379,1348 379,1347 226,1347 226,1351 161,1351 161,1353 144,1353 144,1347 114,1347 114,1320 134,1320 134,1319 177,1319 177,1323 217,1323 217,1326 351,1326 351,1323 368,1323 368,1320 449,1320 449,1319 462,1319 462,1320 578,1320 578,1319 716,1319"/>
@@ -1944,7 +1944,7 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Glyph id="c338" ligature="true">
 	<Coords points="479,1320 503,1320 503,1353 479,1353"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c340">
 	<Coords points="507,1329 518,1329 518,1348 507,1348"/>
@@ -1952,7 +1952,7 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Unicode>e</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>Urſae</Unicode></TextEquiv>
+	<Unicode>Urſache</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w341" language="German" production="printed">
 	<Coords points="578,1319 630,1319 630,1328 666,1328 666,1347 602,1347 602,1348 593,1348 593,1352 578,1352 578,1349 533,1349 533,1323 578,1323"/>
@@ -2019,7 +2019,7 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Glyph id="c354" ligature="true">
 	<Coords points="716,1318 740,1318 740,1352 716,1352"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c356">
 	<Coords points="744,1323 756,1323 756,1346 744,1346"/>
@@ -2027,7 +2027,7 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Unicode>t</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>nit</Unicode></TextEquiv>
+	<Unicode>nicht</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w357" language="German" production="printed">
 	<Coords points="789,1326 817,1326 817,1347 770,1347 770,1327 789,1327"/>
@@ -2070,7 +2070,7 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Unicode>Man-</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>digkeit, wenn die Urſae derſelben nit am Man-</Unicode></TextEquiv>
+	<Unicode>digkeit, wenn die Urſache derſelben nicht am Man-</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextLine id="l365" primaryLanguage="German" production="printed">
 	<Coords points="232,1364 264,1364 264,1367 317,1367 317,1370 436,1370 436,1367 451,1367 451,1370 577,1370 577,1369 636,1369 636,1365 735,1365 735,1366 791,1366 791,1372 906,1372 906,1366 922,1366 922,1393 902,1393 902,1394 851,1394 851,1401 835,1401 835,1399 699,1399 699,1395 529,1395 529,1396 451,1396 451,1399 416,1399 416,1401 406,1401 406,1400 297,1400 297,1395 232,1395 232,1394 128,1394 128,1400 109,1400 109,1372 144,1372 144,1365 232,1365"/>
@@ -2134,7 +2134,7 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Glyph id="c378" ligature="true">
 	<Coords points="297,1367 317,1367 317,1400 297,1400"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ﬅ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c380">
 	<Coords points="318,1374 335,1374 335,1394 318,1394"/>
@@ -2167,7 +2167,7 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Unicode>,</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>Verandes,</Unicode></TextEquiv>
+	<Unicode>Verﬅandes,</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w386" language="German" production="printed">
 	<Coords points="436,1367 451,1367 451,1370 501,1370 501,1374 550,1374 550,1395 529,1395 529,1396 451,1396 451,1399 436,1399"/>
@@ -2254,7 +2254,7 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Glyph id="c403" ligature="true">
 	<Coords points="709,1365 735,1365 735,1399 709,1399"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c405">
 	<Coords points="740,1366 748,1366 748,1393 740,1393"/>
@@ -2292,7 +2292,7 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Unicode>g</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>Entſließung</Unicode></TextEquiv>
+	<Unicode>Entſchließung</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w412" language="German" production="printed">
 	<Coords points="906,1366 922,1366 922,1393 902,1393 902,1394 887,1394 887,1393 866,1393 866,1373 887,1373 887,1372 906,1372"/>
@@ -2315,7 +2315,7 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Unicode>und</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>gel des Verandes, ſondern der Entſließung und</Unicode></TextEquiv>
+	<Unicode>gel des Verﬅandes, ſondern der Entſchließung und</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextLine id="l416" primaryLanguage="German" production="printed">
 	<Coords points="182,1410 225,1410 225,1412 275,1412 275,1414 434,1414 434,1413 520,1413 520,1414 635,1414 635,1412 712,1412 712,1411 729,1411 729,1413 754,1413 754,1417 862,1417 862,1412 869,1412 869,1414 922,1414 922,1440 826,1440 826,1448 809,1448 809,1442 650,1442 650,1446 635,1446 635,1441 520,1441 520,1447 453,1447 453,1448 366,1448 366,1447 259,1447 259,1440 112,1440 112,1412 182,1412"/>
@@ -2411,18 +2411,18 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w435" language="German" production="printed">
 	<Coords points="434,1413 482,1413 482,1447 453,1447 453,1448 434,1448"/>
-	<Glyph id="c436">
+	<Glyph id="c436" ligature="true">
 	<Coords points="434,1413 453,1413 453,1448 434,1448"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ſi</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c438" ligature="true">
 	<Coords points="456,1413 482,1413 482,1447 456,1447"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ſich</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w440" language="German" production="printed">
 	<Coords points="508,1413 520,1413 520,1414 540,1414 540,1420 592,1420 592,1441 520,1441 520,1447 508,1447"/>
@@ -2555,7 +2555,7 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Unicode>eines</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>des Muthes liegt,  ſeiner ohne Leitung eines</Unicode></TextEquiv>
+	<Unicode>des Muthes liegt, ſich ſeiner ohne Leitung eines</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextLine id="l466" primaryLanguage="German" production="printed">
 	<Coords points="827,1455 869,1455 869,1456 923,1456 923,1493 907,1493 907,1487 750,1487 750,1494 718,1494 718,1485 669,1485 669,1484 532,1484 532,1492 516,1492 516,1487 400,1487 400,1486 259,1486 259,1493 249,1493 249,1486 135,1486 135,1485 113,1485 113,1465 155,1465 155,1460 170,1460 170,1466 302,1466 302,1458 320,1458 320,1459 361,1459 361,1466 480,1466 480,1460 498,1460 498,1466 629,1466 629,1458 718,1458 718,1456 827,1456"/>
@@ -2794,10 +2794,10 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Glyph id="c514" ligature="true">
 	<Coords points="145,1504 170,1504 170,1536 145,1536"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>di</Unicode></TextEquiv>
+	<Unicode>dich</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w516" language="German" production="printed">
 	<Coords points="221,1505 227,1505 227,1510 280,1510 280,1532 188,1532 188,1507 221,1507"/>
@@ -2894,7 +2894,7 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Glyph id="c535" ligature="true">
 	<Coords points="499,1507 518,1507 518,1541 499,1541"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ﬅ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c537">
 	<Coords points="521,1517 536,1517 536,1535 521,1535"/>
@@ -2922,7 +2922,7 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Unicode>s</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>Verandes</Unicode></TextEquiv>
+	<Unicode>Verﬅandes</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w542" language="German" production="printed">
 	<Coords points="622,1513 634,1513 634,1514 653,1514 653,1534 634,1534 634,1541 622,1541"/>
@@ -2999,10 +2999,10 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Glyph id="c557" ligature="true">
 	<Coords points="847,1505 869,1505 869,1540 847,1540"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ﬅ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>i</Unicode></TextEquiv>
+	<Unicode>iﬅ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w559" language="German" production="printed">
 	<Coords points="904,1504 914,1504 914,1513 926,1513 926,1530 914,1530 914,1532 901,1532 901,1533 885,1533 885,1511 904,1511"/>
@@ -3025,7 +3025,7 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Unicode>al-</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>di deines eigenen Verandes zu bedienen! i al-</Unicode></TextEquiv>
+	<Unicode>dich deines eigenen Verﬅandes zu bedienen! iﬅ al-</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextLine id="l563" primaryLanguage="German" production="printed">
 	<Coords points="110,1548 126,1548 126,1550 290,1550 290,1553 467,1553 467,1551 494,1551 494,1552 568,1552 568,1560 624,1560 624,1561 642,1561 642,1575 653,1575 653,1581 642,1581 642,1588 627,1588 627,1586 516,1586 516,1582 393,1582 393,1584 330,1584 330,1586 314,1586 314,1585 272,1585 272,1581 126,1581 126,1585 110,1585"/>
@@ -3109,10 +3109,10 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Glyph id="c579" ligature="true">
 	<Coords points="368,1553 393,1553 393,1584 368,1584"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>Wahlſpru</Unicode></TextEquiv>
+	<Unicode>Wahlſpruch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w581" language="German" production="printed">
 	<Coords points="406,1555 423,1555 423,1560 453,1560 453,1580 406,1580"/>
@@ -3164,7 +3164,7 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Glyph id="c591">
 	<Coords points="553,1552 568,1552 568,1582 553,1582"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>aͤ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c592">
 	<Coords points="571,1561 584,1561 584,1581 571,1581"/>
@@ -3192,23 +3192,23 @@ Was i Aufklrung?</Unicode></TextEquiv></TextRegion>
 	<Unicode>.</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>Aufklrung.</Unicode></TextEquiv>
+	<Unicode>Aufklaͤrung.</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>ſo der Wahlſpru der Aufklrung.</Unicode></TextEquiv>
+	<Unicode>ſo der Wahlſpruch der Aufklaͤrung.</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextEquiv>
-	<Unicode>ufklrung i der Ausgang des Men-
-ſen aus ſeiner ſelb verſuldeten Unmn-
-digkeit. Unmndigkeit i das Unvermgen,
-ſi ſeines Verandes ohne Leitung eines anderen
-zu bedienen. Selbverſuldet i dieſe Unmn-
-digkeit, wenn die Urſae derſelben nit am Man-
-gel des Verandes, ſondern der Entſließung und
-des Muthes liegt,  ſeiner ohne Leitung eines
+	<Unicode>ufklaͤrung iﬅ der Ausgang des Men-
+ſchen aus ſeiner ſelbﬅ verſchuldeten Unmuͤn-
+digkeit. Unmuͤndigkeit iﬅ das Unvermoͤgen,
+ſich ſeines Verﬅandes ohne Leitung eines anderen
+zu bedienen. Selbﬅverſchuldet iﬅ dieſe Unmuͤn-
+digkeit, wenn die Urſache derſelben nicht am Man-
+gel des Verﬅandes, ſondern der Entſchließung und
+des Muthes liegt, ſich ſeiner ohne Leitung eines
 andern zu bedienen. Sapere aude! Habe Muth
-di deines eigenen Verandes zu bedienen! i al-
-ſo der Wahlſpru der Aufklrung.</Unicode></TextEquiv></TextRegion>
+dich deines eigenen Verﬅandes zu bedienen! iﬅ al-
+ſo der Wahlſpruch der Aufklaͤrung.</Unicode></TextEquiv></TextRegion>
 	<TextRegion id="r5" type="paragraph">
 	<Coords points="195,1604 195,1606 263,1606 263,1607 382,1607 382,1606 404,1606 404,1608 466,1608 466,1609 613,1609 613,1608 687,1608 687,1606 717,1606 717,1605 742,1605 742,1612 836,1612 836,1613 921,1613 921,1660 925,1660 925,1682 923,1682 923,1732 722,1732 722,1731 314,1731 314,1730 147,1730 147,1727 113,1727 113,1681 109,1681 109,1659 128,1659 128,1651 171,1651 171,1604"/>
 	<TextLine id="l598" primaryLanguage="German" production="printed">
@@ -3325,10 +3325,10 @@ di deines eigenen Verandes zu bedienen! i al-
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w622" language="German" production="printed">
 	<Coords points="517,1609 575,1609 575,1636 536,1636 536,1643 517,1643"/>
-	<Glyph id="c623">
+	<Glyph id="c623" ligature="true">
 	<Coords points="517,1609 536,1609 536,1643 517,1643"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ſi</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c625">
 	<Coords points="540,1616 556,1616 556,1635 540,1635"/>
@@ -3341,7 +3341,7 @@ di deines eigenen Verandes zu bedienen! i al-
 	<Unicode>d</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>nd</Unicode></TextEquiv>
+	<Unicode>ſind</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w627" language="German" production="printed">
 	<Coords points="613,1608 620,1608 620,1616 635,1616 635,1635 620,1635 620,1636 594,1636 594,1610 613,1610"/>
@@ -3388,7 +3388,7 @@ di deines eigenen Verandes zu bedienen! i al-
 	<Glyph id="c636" ligature="true">
 	<Coords points="717,1605 742,1605 742,1641 717,1641"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c638">
 	<Coords points="746,1614 758,1614 758,1635 746,1635"/>
@@ -3406,7 +3406,7 @@ di deines eigenen Verandes zu bedienen! i al-
 	<Unicode>,</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>Ursaen,</Unicode></TextEquiv>
+	<Unicode>Ursachen,</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w641" language="German" production="printed">
 	<Coords points="809,1612 836,1612 836,1613 921,1613 921,1635 809,1635"/>
@@ -3439,7 +3439,7 @@ di deines eigenen Verandes zu bedienen! i al-
 	<Unicode>warum</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>Faulheit und Feigheit nd die Ursaen, warum</Unicode></TextEquiv>
+	<Unicode>Faulheit und Feigheit ſind die Ursachen, warum</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextLine id="l647" primaryLanguage="German" production="printed">
 	<Coords points="128,1651 137,1651 137,1652 374,1652 374,1655 485,1655 485,1653 526,1653 526,1654 601,1654 601,1662 715,1662 715,1653 742,1653 742,1654 900,1654 900,1653 910,1653 910,1660 925,1660 925,1682 847,1682 847,1688 827,1688 827,1687 655,1687 655,1688 645,1688 645,1687 564,1687 564,1683 374,1683 374,1686 358,1686 358,1685 232,1685 232,1688 217,1688 217,1683 171,1683 171,1681 109,1681 109,1659 128,1659"/>
@@ -3588,7 +3588,7 @@ di deines eigenen Verandes zu bedienen! i al-
 	<Glyph id="c677" ligature="true">
 	<Coords points="575,1654 601,1654 601,1686 575,1686"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c679">
 	<Coords points="604,1663 617,1663 617,1682 604,1682"/>
@@ -3606,7 +3606,7 @@ di deines eigenen Verandes zu bedienen! i al-
 	<Unicode>,</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>Menſen,</Unicode></TextEquiv>
+	<Unicode>Menſchen,</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w682" language="German" production="printed">
 	<Coords points="715,1653 742,1653 742,1656 759,1656 759,1661 805,1661 805,1682 742,1682 742,1687 715,1687 715,1683 676,1683 676,1662 715,1662"/>
@@ -3623,7 +3623,7 @@ di deines eigenen Verandes zu bedienen! i al-
 	<Glyph id="c685" ligature="true">
 	<Coords points="715,1653 742,1653 742,1687 715,1687"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c687">
 	<Coords points="745,1656 759,1656 759,1682 745,1682"/>
@@ -3641,14 +3641,14 @@ di deines eigenen Verandes zu bedienen! i al-
 	<Unicode>m</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>nadem</Unicode></TextEquiv>
+	<Unicode>nachdem</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w690" language="German" production="printed">
 	<Coords points="827,1654 847,1654 847,1661 862,1661 862,1682 847,1682 847,1688 827,1688"/>
-	<Glyph id="c691">
+	<Glyph id="c691" ligature="true">
 	<Coords points="827,1654 847,1654 847,1688 827,1688"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ſi</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c693">
 	<Coords points="850,1661 862,1661 862,1682 850,1682"/>
@@ -3656,7 +3656,7 @@ di deines eigenen Verandes zu bedienen! i al-
 	<Unicode>e</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>e</Unicode></TextEquiv>
+	<Unicode>ſie</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w694" language="German" production="printed">
 	<Coords points="900,1653 910,1653 910,1660 925,1660 925,1682 909,1682 909,1681 881,1681 881,1654 900,1654"/>
@@ -3679,7 +3679,7 @@ di deines eigenen Verandes zu bedienen! i al-
 	<Unicode>die</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>ein ſo großer Theil der Menſen, nadem e die</Unicode></TextEquiv>
+	<Unicode>ein ſo großer Theil der Menſchen, nachdem ſie die</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextLine id="l698" primaryLanguage="German" production="printed">
 	<Coords points="113,1695 149,1695 149,1698 261,1698 261,1699 322,1699 322,1700 434,1700 434,1704 553,1704 553,1701 570,1701 570,1702 685,1702 685,1701 798,1701 798,1699 860,1699 860,1698 887,1698 887,1706 922,1706 922,1728 887,1728 887,1733 825,1733 825,1735 811,1735 811,1736 701,1736 701,1737 666,1737 666,1738 650,1738 650,1731 434,1731 434,1733 421,1733 421,1732 298,1732 298,1734 285,1734 285,1727 113,1727"/>
@@ -3723,7 +3723,7 @@ di deines eigenen Verandes zu bedienen! i al-
 	<Glyph id="c707">
 	<Coords points="245,1698 261,1698 261,1727 245,1727"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>aͤ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c708">
 	<Coords points="264,1708 281,1708 281,1727 264,1727"/>
@@ -3738,10 +3738,10 @@ di deines eigenen Verandes zu bedienen! i al-
 	<Glyph id="c710" ligature="true">
 	<Coords points="302,1699 322,1699 322,1732 302,1732"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ﬅ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>lng</Unicode></TextEquiv>
+	<Unicode>laͤngﬅ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w712" language="German" production="printed">
 	<Coords points="342,1708 397,1708 397,1728 342,1728"/>
@@ -3903,7 +3903,7 @@ di deines eigenen Verandes zu bedienen! i al-
 	<Glyph id="c744" ligature="true">
 	<Coords points="860,1698 887,1698 887,1733 860,1733"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c746">
 	<Coords points="890,1706 902,1706 902,1727 890,1727"/>
@@ -3916,15 +3916,15 @@ di deines eigenen Verandes zu bedienen! i al-
 	<Unicode>n</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>geſproen</Unicode></TextEquiv>
+	<Unicode>geſprochen</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>Natur lng von fremder Leitung frei geſproen</Unicode></TextEquiv>
+	<Unicode>Natur laͤngﬅ von fremder Leitung frei geſprochen</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextEquiv>
-	<Unicode>Faulheit und Feigheit nd die Ursaen, warum
-ein ſo großer Theil der Menſen, nadem e die
-Natur lng von fremder Leitung frei geſproen</Unicode></TextEquiv></TextRegion>
+	<Unicode>Faulheit und Feigheit ſind die Ursachen, warum
+ein ſo großer Theil der Menſchen, nachdem ſie die
+Natur laͤngﬅ von fremder Leitung frei geſprochen</Unicode></TextEquiv></TextRegion>
 	<TextRegion id="r6" type="signature-mark" primaryLanguage="German" production="printed">
 	<Coords points="310,1737 310,1738 714,1738 714,1739 784,1739 784,1761 785,1761 785,1777 743,1777 743,1784 685,1784 685,1776 366,1776 366,1777 340,1777 340,1780 328,1780 328,1775 194,1775 194,1772 147,1772 147,1737"/>
 	<TextLine id="l748" primaryLanguage="German" production="printed">
@@ -3979,7 +3979,7 @@ Natur lng von fremder Leitung frei geſproen</Unicode></TextEquiv></Tex
 	<Glyph id="c758" ligature="true">
 	<Coords points="342,1744 369,1744 369,1777 342,1777"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c760">
 	<Coords points="371,1752 386,1752 386,1772 371,1772"/>
@@ -3992,7 +3992,7 @@ Natur lng von fremder Leitung frei geſproen</Unicode></TextEquiv></Tex
 	<Unicode>.</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>B.Monatsſr.</Unicode></TextEquiv>
+	<Unicode>B.Monatsſchr.</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w762" language="German" production="printed">
 	<Coords points="410,1746 422,1746 422,1747 446,1747 446,1766 456,1766 456,1775 448,1775 448,1774 410,1774"/>
@@ -4105,10 +4105,10 @@ Natur lng von fremder Leitung frei geſproen</Unicode></TextEquiv></Tex
 	<Unicode>(na-</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>B.Monatsſr. IV. B. 6. St. Hh (na-</Unicode></TextEquiv>
+	<Unicode>B.Monatsſchr. IV. B. 6. St. Hh (na-</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextEquiv>
-	<Unicode>B.Monatsſr. IV. B. 6. St. Hh (na-</Unicode></TextEquiv></TextRegion>
+	<Unicode>B.Monatsſchr. IV. B. 6. St. Hh (na-</Unicode></TextEquiv></TextRegion>
 	<TextRegion id="r7" type="catch-word">
 	<Coords points="923,1741 923,1768 915,1768 915,1772 894,1772 894,1777 847,1777 847,1761 846,1761 846,1741"/>
 	<TextEquiv>

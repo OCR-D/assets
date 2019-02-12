@@ -181,12 +181,12 @@
 	<Glyph id="c35" ligature="true">
 	<Coords points="888,417 913,417 913,451 888,451"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c37">
 	<Coords points="915,417 932,417 932,446 915,446"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>aͤ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c38">
 	<Coords points="934,420 949,420 949,447 934,447"/>
@@ -206,10 +206,10 @@
 		<Glyph id="c41" ligature="true">
 	<Coords points="974,417 1001,417 1001,454 974,454"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>ſdli</Unicode></TextEquiv>
+	<Unicode>ſchaͤdlich</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w43" language="German" production="printed">
 	<Coords points="1015,419 1047,419 1047,454 1026,454 1026,448 1015,448"/>
@@ -221,10 +221,10 @@
 	<Glyph id="c45" ligature="true">
 	<Coords points="1026,419 1047,419 1047,454 1026,454"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ﬅ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>i</Unicode></TextEquiv>
+	<Unicode>iﬅ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w47" language="German" production="printed">
 	<Coords points="1079,423 1094,423 1094,447 1064,447 1064,427 1079,427"/>
@@ -317,7 +317,7 @@
 	<Unicode>zu</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>gewiegelt worden; ſo ſdli i es Vorurtheile zu</Unicode></TextEquiv>
+	<Unicode>gewiegelt worden; ſo ſchaͤdlich iﬅ es Vorurtheile zu</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextLine id="l65" primaryLanguage="German" production="printed">
 	<Coords points="549,463 567,463 567,471 691,471 691,470 736,470 736,465 746,465 746,464 865,464 865,465 922,465 922,466 955,466 955,467 1141,467 1141,464 1154,464 1154,467 1214,467 1214,468 1284,468 1284,477 1318,477 1318,487 1331,487 1331,503 1321,503 1321,497 1214,497 1214,502 1194,502 1194,499 1141,499 1141,494 1000,494 1000,495 955,495 955,501 936,501 936,500 878,500 878,499 768,499 768,497 547,497 547,499 527,499 527,472 549,472"/>
@@ -331,7 +331,7 @@
 		<Glyph id="c68" ligature="true">
 	<Coords points="549,463 567,463 567,497 549,497"/>
 	<TextEquiv>
-	<Unicode>ﬂ</Unicode></TextEquiv>
+	<Unicode>fl</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c70">
 	<Coords points="569,472 584,472 584,491 569,491"/>
@@ -364,7 +364,7 @@
 	<Unicode>,</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>pﬂanzen,</Unicode></TextEquiv>
+	<Unicode>pflanzen,</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w76" language="German" production="printed">
 	<Coords points="746,464 754,464 754,492 721,492 721,491 691,491 691,470 736,470 736,465 746,465"/>
@@ -396,7 +396,7 @@
 	<Glyph id="c82" ligature="true">
 	<Coords points="768,465 787,465 787,499 768,499"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ſi</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c84">
 	<Coords points="790,472 803,472 803,492 790,492"/>
@@ -404,22 +404,22 @@
 	<Unicode>e</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>e</Unicode></TextEquiv>
+	<Unicode>ſie</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w85" language="German" production="printed">
 	<Coords points="818,464 865,464 865,499 840,499 840,498 818,498"/>
 	<Glyph id="c86" ligature="true">
 	<Coords points="818,464 836,464 836,498 818,498"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ſi</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 		<Glyph id="c88" ligature="true">
 	<Coords points="840,464 865,464 865,499 840,499"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ſich</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w90" language="German" production="printed">
 	<Coords points="913,465 922,465 922,466 955,466 955,471 970,471 970,494 955,494 955,501 936,501 936,500 878,500 878,473 913,473"/>
@@ -446,7 +446,7 @@
 	<Glyph id="c95" ligature="true">
 	<Coords points="936,466 955,466 955,501 936,501"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>tz</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c97">
 	<Coords points="959,471 970,471 970,494 959,494"/>
@@ -454,7 +454,7 @@
 	<Unicode>t</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>zulet</Unicode></TextEquiv>
+	<Unicode>zuletzt</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w98" language="German" production="printed">
 	<Coords points="983,474 1021,474 1021,493 1000,493 1000,495 983,495"/>
@@ -526,10 +526,10 @@
 	<Glyph id="c112" ligature="true">
 	<Coords points="1194,467 1214,467 1214,502 1194,502"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ﬅ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>ſelb</Unicode></TextEquiv>
+	<Unicode>ſelbﬅ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w114" language="German" production="printed">
 	<Coords points="1244,468 1284,468 1284,477 1318,477 1318,487 1331,487 1331,503 1321,503 1321,497 1244,497 1244,495 1229,495 1229,475 1244,475"/>
@@ -541,12 +541,12 @@
 	<Glyph id="c116">
 	<Coords points="1244,468 1258,468 1258,497 1244,497"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>aͤ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 		<Glyph id="c117" ligature="true">
 	<Coords points="1261,468 1284,468 1284,497 1261,497"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c119">
 	<Coords points="1288,477 1298,477 1298,495 1288,495"/>
@@ -564,10 +564,10 @@
 	<Unicode>,</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>ren,</Unicode></TextEquiv>
+	<Unicode>raͤchen,</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>pﬂanzen, weil e  zulet an denen ſelb ren,</Unicode></TextEquiv>
+	<Unicode>pflanzen, weil ſie ſich zuletzt an denen ſelbﬅ raͤchen,</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextLine id="l122" primaryLanguage="German" production="printed">
 	<Coords points="792,509 823,509 823,510 892,510 892,512 1004,512 1004,510 1019,510 1019,511 1164,511 1164,520 1178,520 1178,521 1291,521 1291,513 1305,513 1305,522 1334,522 1334,544 1305,544 1305,548 1232,548 1232,549 1216,549 1216,547 1116,547 1116,546 929,546 929,547 858,547 858,540 690,540 690,539 581,539 581,543 571,543 571,539 548,539 548,538 528,538 528,512 548,512 548,510 555,510 555,513 690,513 690,512 792,512"/>
@@ -676,7 +676,7 @@
 	<Glyph id="c144">
 	<Coords points="877,510 892,510 892,540 877,540"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>aͤ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c145">
 	<Coords points="895,519 912,519 912,539 895,539"/>
@@ -704,7 +704,7 @@
 	<Unicode>,</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>Vorgnger,</Unicode></TextEquiv>
+	<Unicode>Vorgaͤnger,</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w150" language="German" production="printed">
 	<Coords points="1004,510 1019,510 1019,520 1049,520 1049,540 1019,540 1019,546 1004,546 1004,541 992,541 992,512 1004,512"/>
@@ -812,7 +812,7 @@
 	<Unicode>geweſen</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>die, oder deren Vorgnger, ihre Urheber geweſen</Unicode></TextEquiv>
+	<Unicode>die, oder deren Vorgaͤnger, ihre Urheber geweſen</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextLine id="l171" primaryLanguage="German" production="printed">
 	<Coords points="692,555 708,555 708,557 764,557 764,558 899,558 899,557 929,557 929,558 1005,558 1005,566 1147,566 1147,557 1155,557 1155,560 1225,560 1225,568 1335,568 1335,590 1300,590 1300,595 1210,595 1210,596 1194,596 1194,588 1157,588 1157,587 1111,587 1111,586 1005,586 1005,588 929,588 929,593 899,593 899,586 840,586 840,585 738,585 738,586 708,586 708,592 692,592 692,587 547,587 547,592 526,592 526,556 692,556"/>
@@ -821,7 +821,7 @@
 	<Glyph id="c173" ligature="true">
 	<Coords points="526,556 547,556 547,592 526,592"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ſi</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c175">
 	<Coords points="550,565 568,565 568,585 550,585"/>
@@ -839,7 +839,7 @@
 	<Unicode>.</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>nd.</Unicode></TextEquiv>
+	<Unicode>ſind.</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w178" language="German" production="printed">
 	<Coords points="692,555 708,555 708,564 738,564 738,586 708,586 708,592 692,592 692,587 637,587 637,556 692,556"/>
@@ -1042,7 +1042,7 @@
 	<Unicode>zur</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>nd. Daher kann ein Publikum nur langſam zur</Unicode></TextEquiv>
+	<Unicode>ſind. Daher kann ein Publikum nur langſam zur</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextLine id="l218" primaryLanguage="German" production="printed">
 	<Coords points="579,602 633,602 633,610 753,610 753,604 761,604 761,611 902,611 902,604 975,604 975,603 1001,603 1001,605 1105,605 1105,606 1166,606 1166,607 1300,607 1300,608 1335,608 1335,637 1317,637 1317,635 1001,635 1001,639 975,639 975,634 817,634 817,640 801,640 801,639 690,639 690,637 579,637 579,633 527,633 527,603 579,603"/>
@@ -1076,7 +1076,7 @@
 	<Glyph id="c225">
 	<Coords points="616,602 633,602 633,631 616,631"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>aͤ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c226">
 	<Coords points="635,611 647,611 647,632 635,632"/>
@@ -1099,7 +1099,7 @@
 	<Unicode>g</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>Aufklrung</Unicode></TextEquiv>
+	<Unicode>Aufklaͤrung</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w230" language="German" production="printed">
 	<Coords points="753,604 761,604 761,611 817,611 817,612 854,612 854,627 862,627 862,632 817,632 817,640 801,640 801,639 719,639 719,610 753,610"/>
@@ -1171,10 +1171,10 @@
 		<Glyph id="c244" ligature="true">
 	<Coords points="975,603 1001,603 1001,639 975,639"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>Dur</Unicode></TextEquiv>
+	<Unicode>Durch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w246" language="German" production="printed">
 	<Coords points="1024,606 1031,606 1031,613 1067,613 1067,633 1009,633 1009,613 1024,613"/>
@@ -1282,7 +1282,7 @@
 	<Unicode>wird</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>Aufklrung gelangen. Dur eine Revolution wird</Unicode></TextEquiv>
+	<Unicode>Aufklaͤrung gelangen. Durch eine Revolution wird</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextLine id="l267" primaryLanguage="German" production="printed">
 	<Coords points="719,648 735,648 735,650 869,650 869,649 881,649 881,650 916,650 916,658 952,658 952,659 1062,659 1062,651 1073,651 1073,652 1255,652 1255,658 1287,658 1287,661 1324,661 1324,663 1336,663 1336,680 1324,680 1324,681 1305,681 1305,685 1290,685 1290,683 1157,683 1157,685 1132,685 1132,684 1029,684 1029,686 1013,686 1013,681 881,681 881,685 869,685 869,680 735,680 735,685 719,685 719,683 619,683 619,679 526,679 526,656 547,656 547,651 573,651 573,650 619,650 619,649 719,649"/>
@@ -1306,7 +1306,7 @@
 	<Glyph id="c272" ligature="true">
 	<Coords points="573,650 590,650 590,679 573,679"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ll</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c274">
 	<Coords points="593,658 605,658 605,677 593,677"/>
@@ -1321,7 +1321,7 @@
 		<Glyph id="c276" ligature="true">
 	<Coords points="619,649 643,649 643,683 619,683"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c278">
 	<Coords points="648,656 658,656 658,679 648,679"/>
@@ -1329,7 +1329,7 @@
 	<Unicode>t</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>vieeit</Unicode></TextEquiv>
+	<Unicode>vielleicht</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w279" language="German" production="printed">
 	<Coords points="719,648 735,648 735,650 746,650 746,678 735,678 735,685 719,685 719,678 673,678 673,657 719,657"/>
@@ -1401,10 +1401,10 @@
 	<Glyph id="c293" ligature="true">
 	<Coords points="899,650 916,650 916,678 899,678"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ll</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>Abfa</Unicode></TextEquiv>
+	<Unicode>Abfall</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w295" language="German" production="printed">
 	<Coords points="936,658 952,658 952,659 991,659 991,681 975,681 975,680 936,680"/>
@@ -1451,7 +1451,7 @@
 	<Glyph id="c304">
 	<Coords points="1073,652 1086,652 1086,680 1073,680"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>oͤ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c305">
 	<Coords points="1091,660 1108,660 1108,680 1091,680"/>
@@ -1471,7 +1471,7 @@
 		<Glyph id="c308" ligature="true">
 	<Coords points="1132,652 1157,652 1157,685 1132,685"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c310">
 	<Coords points="1162,661 1172,661 1172,681 1162,681"/>
@@ -1484,7 +1484,7 @@
 	<Unicode>m</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>perſnliem</Unicode></TextEquiv>
+	<Unicode>perſoͤnlichem</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w312" language="German" production="printed">
 	<Coords points="1222,652 1255,652 1255,658 1287,658 1287,661 1324,661 1324,663 1336,663 1336,680 1324,680 1324,681 1305,681 1305,685 1290,685 1290,683 1222,683"/>
@@ -1522,7 +1522,7 @@
 	<Unicode>Despo-</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>vieeit wohl ein Abfa von perſnliem Despo-</Unicode></TextEquiv>
+	<Unicode>vielleicht wohl ein Abfall von perſoͤnlichem Despo-</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextLine id="l319" primaryLanguage="German" production="printed">
 	<Coords points="797,695 811,695 811,696 826,696 826,697 877,697 877,701 1031,701 1031,698 1135,698 1135,697 1147,697 1147,698 1162,698 1162,699 1309,699 1309,708 1326,708 1326,710 1338,710 1338,726 1326,726 1326,728 1309,728 1309,729 1235,729 1235,736 1216,736 1216,734 1031,734 1031,727 895,727 895,732 879,732 879,730 700,730 700,732 683,732 683,726 542,726 542,725 527,725 527,702 542,702 542,697 551,697 551,701 654,701 654,700 745,700 745,697 797,697"/>
@@ -1611,12 +1611,12 @@
 	<Glyph id="c337">
 	<Coords points="807,696 826,696 826,725 807,725"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>uͤ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 		<Glyph id="c338" ligature="true">
 	<Coords points="828,697 853,697 853,730 828,730"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c340">
 	<Coords points="857,702 868,702 868,724 857,724"/>
@@ -1644,7 +1644,7 @@
 	<Unicode>r</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>gewinnſtiger</Unicode></TextEquiv>
+	<Unicode>gewinnſuͤchtiger</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w345" language="German" production="printed">
 	<Coords points="964,701 980,701 980,705 994,705 994,706 1010,706 1010,727 982,727 982,726 946,726 946,705 964,705"/>
@@ -1701,7 +1701,7 @@
 		<Glyph id="c356" ligature="true">
 	<Coords points="1105,698 1131,698 1131,734 1105,734"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c358">
 	<Coords points="1135,697 1147,697 1147,731 1135,731"/>
@@ -1711,12 +1711,12 @@
 	<Glyph id="c359">
 	<Coords points="1145,698 1162,698 1162,727 1145,727"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>uͤ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 		<Glyph id="c360" ligature="true">
 	<Coords points="1166,699 1191,699 1191,732 1166,732"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c362">
 	<Coords points="1194,706 1204,706 1204,728 1194,728"/>
@@ -1744,7 +1744,7 @@
 	<Unicode>r</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>herrſſtiger</Unicode></TextEquiv>
+	<Unicode>herrſchſuͤchtiger</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w367" language="German" production="printed">
 	<Coords points="1276,699 1309,699 1309,708 1326,708 1326,710 1338,710 1338,726 1326,726 1326,728 1309,728 1309,729 1276,729"/>
@@ -1767,7 +1767,7 @@
 	<Unicode>Be-</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>tism und gewinnſtiger oder herrſſtiger Be-</Unicode></TextEquiv>
+	<Unicode>tism und gewinnſuͤchtiger oder herrſchſuͤchtiger Be-</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextLine id="l371" primaryLanguage="German" production="printed">
 	<Coords points="721,742 823,742 823,743 1000,743 1000,744 1110,744 1110,749 1253,749 1253,746 1287,746 1287,755 1323,755 1323,757 1336,757 1336,773 1323,773 1323,775 1287,775 1287,776 1253,776 1253,775 1110,775 1110,779 1000,779 1000,780 983,780 983,772 935,772 935,771 680,771 680,776 667,776 667,780 651,780 651,773 530,773 530,745 563,745 563,743 609,743 609,750 721,750"/>
@@ -1786,7 +1786,7 @@
 	<Glyph id="c375">
 	<Coords points="563,743 581,743 581,773 563,773"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>uͤ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c376">
 	<Coords points="584,743 593,743 593,771 584,771"/>
@@ -1819,7 +1819,7 @@
 	<Unicode>,</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>drkkung,</Unicode></TextEquiv>
+	<Unicode>druͤkkung,</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w382" language="German" production="printed">
 	<Coords points="721,742 736,742 736,750 766,750 766,770 736,770 736,771 701,771 701,750 721,750"/>
@@ -1997,7 +1997,7 @@
 	<Unicode>Den-</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>drkkung, aber niemals wahre Reform der Den-</Unicode></TextEquiv>
+	<Unicode>druͤkkung, aber niemals wahre Reform der Den-</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextLine id="l417" primaryLanguage="German" production="printed">
 	<Coords points="737,788 770,788 770,791 877,791 877,788 890,788 890,797 1039,797 1039,790 1052,790 1052,793 1103,793 1103,798 1153,798 1153,801 1259,801 1259,792 1288,792 1288,801 1324,801 1324,802 1335,802 1335,819 1324,819 1324,821 1288,821 1288,822 1259,822 1259,821 1178,821 1178,819 1052,819 1052,824 1039,824 1039,823 1011,823 1011,819 970,819 970,818 939,818 939,817 822,817 822,819 696,819 696,825 600,825 600,826 585,826 585,819 529,819 529,790 544,790 544,795 737,795"/>
@@ -2740,14 +2740,14 @@
 	<Unicode>dienen.</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextEquiv>
-	<Unicode>gewiegelt worden; ſo ſdli i es Vorurtheile zu
-pﬂanzen, weil e  zulet an denen ſelb ren,
-die, oder deren Vorgnger, ihre Urheber geweſen
-nd. Daher kann ein Publikum nur langſam zur
-Aufklrung gelangen. Dur eine Revolution wird
-vieeit wohl ein Abfa von perſnliem Despo-
-tism und gewinnſtiger oder herrſſtiger Be-
-drkkung, aber niemals wahre Reform der Den-
+	<Unicode>gewiegelt worden; ſo ſchaͤdlich iﬅ es Vorurtheile zu
+pflanzen, weil ſie ſich zuletzt an denen ſelbﬅ raͤchen,
+die, oder deren Vorgaͤnger, ihre Urheber geweſen
+ſind. Daher kann ein Publikum nur langſam zur
+Aufklaͤrung gelangen. Durch eine Revolution wird
+vielleicht wohl ein Abfall von perſoͤnlichem Despo-
+tism und gewinnſuͤchtiger oder herrſchſuͤchtiger Be-
+druͤkkung, aber niemals wahre Reform der Den-
 kungsart zu Stande kommen; ſondern neue Vor-
 urtheile werden, eben ſowohl als die alten, zum
 Leitbande des gedankenloſen großen Haufens
@@ -2837,7 +2837,7 @@ dienen.</Unicode></TextEquiv>
 	<Glyph id="c585">
 	<Coords points="826,977 841,977 841,1008 826,1008"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>aͤ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c586">
 	<Coords points="845,984 856,984 856,1006 845,1006"/>
@@ -2860,7 +2860,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>g</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>Aufklrung</Unicode></TextEquiv>
+	<Unicode>Aufklaͤrung</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w590" language="German" production="printed">
 	<Coords points="947,976 962,976 962,985 993,985 993,1007 928,1007 928,985 947,985"/>
@@ -2927,7 +2927,7 @@ dienen.</Unicode></TextEquiv>
 		<Glyph id="c603" ligature="true">
 	<Coords points="1126,977 1150,977 1150,1009 1126,1009"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c605">
 	<Coords points="1155,983 1165,983 1165,1008 1155,1008"/>
@@ -2940,7 +2940,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>s</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>nits</Unicode></TextEquiv>
+	<Unicode>nichts</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w607" language="German" production="printed">
 	<Coords points="1229,979 1242,979 1242,981 1289,981 1289,984 1334,984 1334,1009 1242,1009 1242,1014 1229,1014 1229,1008 1199,1008 1199,988 1229,988"/>
@@ -2993,7 +2993,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>erfordert</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>Zu dieſer Aufklrung aber wird nits erfordert</Unicode></TextEquiv>
+	<Unicode>Zu dieſer Aufklaͤrung aber wird nichts erfordert</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextLine id="l617" primaryLanguage="German" production="printed">
 	<Coords points="595,1022 620,1022 620,1023 713,1023 713,1025 758,1025 758,1029 860,1029 860,1026 874,1026 874,1031 976,1031 976,1026 1079,1026 1079,1025 1136,1025 1136,1027 1223,1027 1223,1031 1304,1031 1304,1034 1335,1034 1335,1057 1223,1057 1223,1061 1204,1061 1204,1060 1090,1060 1090,1058 1079,1058 1079,1055 900,1055 900,1060 889,1060 889,1058 713,1058 713,1061 693,1061 693,1059 595,1059 595,1055 530,1055 530,1032 550,1032 550,1024 595,1024"/>
@@ -3152,12 +3152,12 @@ dienen.</Unicode></TextEquiv>
 		<Glyph id="c650" ligature="true">
 	<Coords points="1090,1025 1115,1025 1115,1060 1090,1060"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c652">
 	<Coords points="1119,1025 1136,1025 1136,1055 1119,1055"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>aͤ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c653">
 	<Coords points="1137,1027 1150,1027 1150,1055 1137,1055"/>
@@ -3177,12 +3177,12 @@ dienen.</Unicode></TextEquiv>
 		<Glyph id="c656" ligature="true">
 	<Coords points="1176,1027 1200,1027 1200,1059 1176,1059"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c658" ligature="true">
 	<Coords points="1204,1027 1223,1027 1223,1061 1204,1061"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ﬅ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c660">
 	<Coords points="1226,1035 1238,1035 1238,1056 1226,1056"/>
@@ -3190,7 +3190,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>e</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>unſdlie</Unicode></TextEquiv>
+	<Unicode>unſchaͤdlichﬅe</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w661" language="German" production="printed">
 	<Coords points="1294,1031 1304,1031 1304,1034 1335,1034 1335,1057 1320,1057 1320,1056 1253,1056 1253,1034 1294,1034"/>
@@ -3223,7 +3223,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>unter</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>als Freiheit; und zwar die unſdlie unter</Unicode></TextEquiv>
+	<Unicode>als Freiheit; und zwar die unſchaͤdlichﬅe unter</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextLine id="l667" primaryLanguage="German" production="printed">
 	<Coords points="788,1071 810,1071 810,1072 870,1072 870,1073 984,1073 984,1080 1157,1080 1157,1073 1172,1073 1172,1074 1299,1074 1299,1081 1333,1081 1333,1103 1252,1103 1252,1106 1223,1106 1223,1102 1115,1102 1115,1105 1103,1105 1103,1108 1088,1108 1088,1101 984,1101 984,1105 938,1105 938,1106 870,1106 870,1107 854,1107 854,1106 788,1106 788,1101 672,1101 672,1102 625,1102 625,1105 616,1105 616,1102 531,1102 531,1081 552,1081 552,1073 569,1073 569,1080 695,1080 695,1077 788,1077"/>
@@ -3237,7 +3237,7 @@ dienen.</Unicode></TextEquiv>
 	<Glyph id="c670" ligature="true">
 	<Coords points="552,1073 569,1073 569,1101 552,1101"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ll</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c672">
 	<Coords points="572,1081 583,1081 583,1101 572,1101"/>
@@ -3255,7 +3255,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>,</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>aem,</Unicode></TextEquiv>
+	<Unicode>allem,</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w675" language="German" production="printed">
 	<Coords points="695,1077 708,1077 708,1100 672,1100 672,1102 646,1102 646,1080 695,1080"/>
@@ -3412,7 +3412,7 @@ dienen.</Unicode></TextEquiv>
 	<Glyph id="c706">
 	<Coords points="1157,1073 1172,1073 1172,1102 1157,1102"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>aͤ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c707">
 	<Coords points="1175,1081 1200,1081 1200,1102 1175,1102"/>
@@ -3432,10 +3432,10 @@ dienen.</Unicode></TextEquiv>
 		<Glyph id="c710" ligature="true">
 	<Coords points="1223,1074 1252,1074 1252,1106 1223,1106"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>nmli</Unicode></TextEquiv>
+	<Unicode>naͤmlich</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w712" language="German" production="printed">
 	<Coords points="1292,1074 1299,1074 1299,1081 1333,1081 1333,1103 1273,1103 1273,1076 1292,1076"/>
@@ -3463,7 +3463,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>die:</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>aem, was nur Freiheit heißen mag, nmli die:</Unicode></TextEquiv>
+	<Unicode>allem, was nur Freiheit heißen mag, naͤmlich die:</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextLine id="l717" primaryLanguage="German" production="printed">
 	<Coords points="1130,1115 1151,1115 1151,1117 1182,1117 1182,1119 1292,1119 1292,1128 1332,1128 1332,1150 1292,1150 1292,1154 1182,1154 1182,1156 1153,1156 1153,1148 1020,1148 1020,1150 986,1150 986,1147 845,1147 845,1148 833,1148 833,1154 819,1154 819,1149 608,1149 608,1152 597,1152 597,1148 529,1148 529,1126 597,1126 597,1118 1130,1118"/>
@@ -3592,7 +3592,7 @@ dienen.</Unicode></TextEquiv>
 	<Glyph id="c743" ligature="true">
 	<Coords points="920,1118 938,1118 938,1146 920,1146"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ll</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c745">
 	<Coords points="941,1127 954,1127 954,1147 941,1147"/>
@@ -3605,7 +3605,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>n</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-		<Unicode>aen</Unicode></TextEquiv>
+		<Unicode>allen</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w747" language="German" production="printed">
 	<Coords points="1036,1118 1054,1118 1054,1119 1083,1119 1083,1128 1117,1128 1117,1147 1054,1147 1054,1148 1020,1148 1020,1150 986,1150 986,1119 1036,1119"/>
@@ -3622,7 +3622,7 @@ dienen.</Unicode></TextEquiv>
 	<Glyph id="c750">
 	<Coords points="1036,1118 1054,1118 1054,1148 1036,1148"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>uͤ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c751">
 	<Coords points="1057,1119 1069,1119 1069,1146 1057,1146"/>
@@ -3645,19 +3645,19 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>n</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>Stkken</Unicode></TextEquiv>
+	<Unicode>Stuͤkken</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w755" language="German" production="printed">
 	<Coords points="1130,1115 1151,1115 1151,1117 1182,1117 1182,1119 1292,1119 1292,1128 1332,1128 1332,1150 1292,1150 1292,1154 1182,1154 1182,1156 1153,1156 1153,1148 1130,1148"/>
 	<Glyph id="c756">
 	<Coords points="1130,1115 1151,1115 1151,1148 1130,1148"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>oͤ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c757" ligature="true">
 	<Coords points="1153,1117 1182,1117 1182,1156 1153,1156"/>
 	<TextEquiv>
-	<Unicode>ﬀ</Unicode></TextEquiv>
+	<Unicode>ff</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c759">
 	<Coords points="1178,1129 1190,1129 1190,1148 1178,1148"/>
@@ -3687,7 +3687,7 @@ dienen.</Unicode></TextEquiv>
 		<Glyph id="c765" ligature="true">
 	<Coords points="1256,1119 1292,1119 1292,1154 1256,1154"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c766">
 	<Coords points="1295,1128 1307,1128 1307,1148 1295,1148"/>
@@ -3700,10 +3700,10 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>n</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>ﬀentlien</Unicode></TextEquiv>
+	<Unicode>oͤffentlichen</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>von ſeiner Vernunft in aen Stkken ﬀentlien</Unicode></TextEquiv>
+	<Unicode>von ſeiner Vernunft in allen Stuͤkken oͤffentlichen</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextLine id="l768" primaryLanguage="German" production="printed">
 	<Coords points="682,1164 704,1164 704,1173 812,1173 812,1166 922,1166 922,1164 956,1164 956,1166 1128,1166 1128,1167 1184,1167 1184,1174 1312,1174 1312,1167 1320,1167 1320,1178 1332,1178 1332,1192 1320,1192 1320,1196 1312,1196 1312,1195 1128,1195 1128,1199 1030,1199 1030,1201 1014,1201 1014,1195 837,1195 837,1200 729,1200 729,1202 717,1202 717,1200 682,1200 682,1195 528,1195 528,1165 566,1165 566,1166 682,1166"/>
@@ -3742,10 +3742,10 @@ dienen.</Unicode></TextEquiv>
 		<Glyph id="c777" ligature="true">
 	<Coords points="668,1164 704,1164 704,1200 668,1200"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>Gebrau</Unicode></TextEquiv>
+	<Unicode>Gebrauch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w778" language="German" production="printed">
 	<Coords points="717,1173 729,1173 729,1174 748,1174 748,1195 729,1195 729,1202 717,1202"/>
@@ -3777,7 +3777,7 @@ dienen.</Unicode></TextEquiv>
 		<Glyph id="c784" ligature="true">
 	<Coords points="812,1166 837,1166 837,1200 812,1200"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c786">
 	<Coords points="841,1174 852,1174 852,1194 841,1194"/>
@@ -3795,7 +3795,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>.</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>maen.</Unicode></TextEquiv>
+	<Unicode>machen.</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w789" language="German" production="printed">
 	<Coords points="922,1164 956,1164 956,1174 998,1174 998,1194 956,1194 956,1195 922,1195"/>
@@ -3827,7 +3827,7 @@ dienen.</Unicode></TextEquiv>
 	<Glyph id="c795">
 	<Coords points="1033,1166 1046,1166 1046,1193 1033,1193"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>oͤ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c796">
 	<Coords points="1051,1173 1062,1173 1062,1193 1051,1193"/>
@@ -3840,7 +3840,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>e</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>hre</Unicode></TextEquiv>
+	<Unicode>hoͤre</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w798" language="German" production="printed">
 	<Coords points="1092,1166 1128,1166 1128,1199 1102,1199 1102,1193 1092,1193"/>
@@ -3852,10 +3852,10 @@ dienen.</Unicode></TextEquiv>
 		<Glyph id="c800" ligature="true">
 	<Coords points="1102,1166 1128,1166 1128,1199 1102,1199"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>i</Unicode></TextEquiv>
+	<Unicode>ich</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w802" language="German" production="printed">
 	<Coords points="1170,1167 1184,1167 1184,1175 1198,1175 1198,1176 1213,1176 1213,1194 1166,1194 1166,1195 1149,1195 1149,1174 1170,1174"/>
@@ -3923,7 +3923,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>al-</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>Gebrau zu maen. Nun hre i aber von al-</Unicode></TextEquiv>
+	<Unicode>Gebrauch zu machen. Nun hoͤre ich aber von al-</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextLine id="l815" primaryLanguage="German" production="printed">
 	<Coords points="863,1210 881,1210 881,1211 899,1211 899,1212 1054,1212 1054,1211 1079,1211 1079,1210 1100,1210 1100,1213 1258,1213 1258,1212 1311,1212 1311,1213 1319,1213 1319,1222 1333,1222 1333,1241 1319,1241 1319,1242 1311,1242 1311,1248 1290,1248 1290,1243 1100,1243 1100,1247 1079,1247 1079,1241 899,1241 899,1246 884,1246 884,1241 767,1241 767,1247 755,1247 755,1242 737,1242 737,1241 625,1241 625,1243 530,1243 530,1213 591,1213 591,1212 625,1212 625,1215 651,1215 651,1219 755,1219 755,1212 863,1212"/>
@@ -4027,7 +4027,7 @@ dienen.</Unicode></TextEquiv>
 	<Glyph id="c836">
 	<Coords points="863,1210 881,1210 881,1241 863,1241"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>aͤ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c837">
 	<Coords points="884,1211 899,1211 899,1246 884,1246"/>
@@ -4065,7 +4065,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>t</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>rſonnirt</Unicode></TextEquiv>
+	<Unicode>raͤſonnirt</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w844" language="German" production="printed">
 	<Coords points="1079,1210 1100,1210 1100,1214 1133,1214 1133,1240 1100,1240 1100,1247 1079,1247 1079,1240 1029,1240 1029,1219 1054,1219 1054,1211 1079,1211"/>
@@ -4082,7 +4082,7 @@ dienen.</Unicode></TextEquiv>
 		<Glyph id="c848" ligature="true">
 	<Coords points="1065,1210 1100,1210 1100,1247 1065,1247"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c849">
 	<Coords points="1105,1216 1118,1216 1118,1240 1105,1240"/>
@@ -4095,7 +4095,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>!</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>nit!</Unicode></TextEquiv>
+	<Unicode>nicht!</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w851" language="German" production="printed">
 	<Coords points="1172,1213 1204,1213 1204,1221 1235,1221 1235,1242 1204,1242 1204,1243 1172,1243"/>
@@ -4127,7 +4127,7 @@ dienen.</Unicode></TextEquiv>
 	<Glyph id="c857" ligature="true">
 	<Coords points="1290,1212 1311,1212 1311,1248 1290,1248"/>
 	<TextEquiv>
-	<Unicode>ﬀ</Unicode></TextEquiv>
+	<Unicode>ff</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c859">
 	<Coords points="1312,1213 1319,1213 1319,1242 1312,1242"/>
@@ -4140,10 +4140,10 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>-</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>Oﬀi-</Unicode></TextEquiv>
+	<Unicode>Offi-</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>len Seiten rufen: rſonnirt nit! Der Oﬀi-</Unicode></TextEquiv>
+	<Unicode>len Seiten rufen: raͤſonnirt nicht! Der Offi-</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextLine id="l861" primaryLanguage="German" production="printed">
 	<Coords points="968,1257 981,1257 981,1261 1030,1261 1030,1265 1178,1265 1178,1261 1268,1261 1268,1259 1301,1259 1301,1267 1334,1267 1334,1289 1301,1289 1301,1290 1268,1290 1268,1289 1132,1289 1132,1291 1119,1291 1119,1287 981,1287 981,1291 914,1291 914,1293 889,1293 889,1288 745,1288 745,1294 649,1294 649,1296 545,1296 545,1297 530,1297 530,1266 545,1266 545,1260 604,1260 604,1258 730,1258 730,1260 745,1260 745,1261 879,1261 879,1260 968,1260"/>
@@ -4212,7 +4212,7 @@ dienen.</Unicode></TextEquiv>
 	<Glyph id="c875">
 	<Coords points="715,1258 730,1258 730,1288 715,1288"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>aͤ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c876">
 	<Coords points="733,1260 745,1260 745,1294 733,1294"/>
@@ -4250,7 +4250,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>t</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>rſonnirt</Unicode></TextEquiv>
+	<Unicode>raͤſonnirt</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w883" language="German" production="printed">
 	<Coords points="879,1260 914,1260 914,1264 928,1264 928,1278 940,1278 940,1291 914,1291 914,1293 889,1293 889,1287 858,1287 858,1268 879,1268"/>
@@ -4267,7 +4267,7 @@ dienen.</Unicode></TextEquiv>
 		<Glyph id="c886" ligature="true">
 	<Coords points="889,1260 914,1260 914,1293 889,1293"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c888">
 	<Coords points="918,1264 928,1264 928,1287 918,1287"/>
@@ -4280,7 +4280,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>,</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>nit,</Unicode></TextEquiv>
+	<Unicode>nicht,</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w890" language="German" production="printed">
 	<Coords points="968,1257 981,1257 981,1261 1030,1261 1030,1266 1080,1266 1080,1286 1046,1286 1046,1287 981,1287 981,1291 968,1291"/>
@@ -4393,7 +4393,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>Der</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>zier ſagt: rſonnirt nit, ſondern exercirt! Der</Unicode></TextEquiv>
+	<Unicode>zier ſagt: raͤſonnirt nicht, ſondern exercirt! Der</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextLine id="l912" primaryLanguage="German" production="printed">
 	<Coords points="1128,1304 1144,1304 1144,1306 1268,1306 1268,1305 1301,1305 1301,1313 1332,1313 1332,1336 1206,1336 1206,1340 1172,1340 1172,1341 1161,1341 1161,1333 1024,1333 1024,1334 1012,1334 1012,1339 927,1339 927,1335 787,1335 787,1338 703,1338 703,1340 555,1340 555,1342 530,1342 530,1306 555,1306 555,1307 565,1307 565,1314 674,1314 674,1312 687,1312 687,1305 787,1305 787,1307 917,1307 917,1306 927,1306 927,1305 952,1305 952,1306 1012,1306 1012,1308 1128,1308"/>
@@ -4467,7 +4467,7 @@ dienen.</Unicode></TextEquiv>
 	<Glyph id="c927">
 	<Coords points="758,1306 772,1306 772,1335 758,1335"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>aͤ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c928">
 	<Coords points="775,1305 787,1305 787,1338 775,1338"/>
@@ -4505,7 +4505,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>t</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>rſonnirt</Unicode></TextEquiv>
+	<Unicode>raͤſonnirt</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w935" language="German" production="printed">
 	<Coords points="927,1305 952,1305 952,1311 967,1311 967,1325 979,1325 979,1339 927,1339 927,1334 917,1334 917,1333 895,1333 895,1314 917,1314 917,1306 927,1306"/>
@@ -4522,7 +4522,7 @@ dienen.</Unicode></TextEquiv>
 		<Glyph id="c938" ligature="true">
 	<Coords points="927,1305 952,1305 952,1339 927,1339"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c940">
 	<Coords points="956,1311 967,1311 967,1335 956,1335"/>
@@ -4535,7 +4535,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>,</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>nit,</Unicode></TextEquiv>
+	<Unicode>nicht,</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w942" language="German" production="printed">
 	<Coords points="999,1306 1012,1306 1012,1308 1061,1308 1061,1313 1113,1313 1113,1333 1024,1333 1024,1334 1012,1334 1012,1339 999,1339"/>
@@ -4643,7 +4643,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>Der</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>Finanzrath: rſonnirt nit, ſondern bezahlt! Der</Unicode></TextEquiv>
+	<Unicode>Finanzrath: raͤſonnirt nicht, ſondern bezahlt! Der</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextLine id="l963" primaryLanguage="German" production="printed">
 	<Coords points="1265,1351 1298,1351 1298,1360 1335,1360 1335,1382 1263,1382 1263,1387 1247,1387 1247,1381 1115,1381 1115,1387 1097,1387 1097,1381 984,1381 984,1386 938,1386 938,1385 897,1385 897,1382 662,1382 662,1383 613,1383 613,1386 593,1386 593,1384 529,1384 529,1353 636,1353 636,1352 746,1352 746,1353 761,1353 761,1354 897,1354 897,1353 984,1353 984,1355 1117,1355 1117,1352 1125,1352 1125,1353 1265,1353"/>
@@ -4667,7 +4667,7 @@ dienen.</Unicode></TextEquiv>
 	<Glyph id="c969" ligature="true">
 	<Coords points="593,1353 613,1353 613,1386 593,1386"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ﬅ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c970">
 	<Coords points="615,1353 624,1353 624,1381 615,1381"/>
@@ -4682,7 +4682,7 @@ dienen.</Unicode></TextEquiv>
 		<Glyph id="c972" ligature="true">
 	<Coords points="636,1352 662,1352 662,1383 636,1383"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c974">
 	<Coords points="665,1360 677,1360 677,1381 665,1381"/>
@@ -4695,7 +4695,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>:</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>Geilie:</Unicode></TextEquiv>
+	<Unicode>Geiﬅliche:</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w976" language="German" production="printed">
 	<Coords points="730,1352 746,1352 746,1353 761,1353 761,1354 824,1354 824,1358 855,1358 855,1381 840,1381 840,1382 730,1382 730,1381 715,1381 715,1360 730,1360"/>
@@ -4707,7 +4707,7 @@ dienen.</Unicode></TextEquiv>
 	<Glyph id="c978">
 	<Coords points="730,1352 746,1352 746,1382 730,1382"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>aͤ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c979">
 	<Coords points="748,1353 761,1353 761,1382 748,1382"/>
@@ -4745,7 +4745,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>t</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>rſonnirt</Unicode></TextEquiv>
+	<Unicode>raͤſonnirt</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w986" language="German" production="printed">
 	<Coords points="897,1353 924,1353 924,1359 938,1359 938,1371 948,1371 948,1386 938,1386 938,1385 897,1385 897,1381 888,1381 888,1380 867,1380 867,1361 888,1361 888,1354 897,1354"/>
@@ -4762,7 +4762,7 @@ dienen.</Unicode></TextEquiv>
 		<Glyph id="c989" ligature="true">
 	<Coords points="897,1353 924,1353 924,1385 897,1385"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c991">
 	<Coords points="927,1359 938,1359 938,1380 927,1380"/>
@@ -4775,7 +4775,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>,</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>nit,</Unicode></TextEquiv>
+	<Unicode>nicht,</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w993" language="German" production="printed">
 	<Coords points="970,1353 984,1353 984,1355 1034,1355 1034,1359 1064,1359 1064,1360 1084,1360 1084,1379 1050,1379 1050,1381 984,1381 984,1386 970,1386"/>
@@ -4883,7 +4883,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>(Nur</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>Geilie: rſonnirt nit, ſondern glaubt! (Nur</Unicode></TextEquiv>
+	<Unicode>Geiﬅliche: raͤſonnirt nicht, ſondern glaubt! (Nur</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextLine id="l1014" primaryLanguage="German" production="printed">
 	<Coords points="1128,1395 1146,1395 1146,1396 1165,1396 1165,1398 1320,1398 1320,1407 1334,1407 1334,1429 1320,1429 1320,1433 1306,1433 1306,1432 1273,1432 1273,1428 1165,1428 1165,1433 1054,1433 1054,1435 1038,1435 1038,1433 1009,1433 1009,1430 912,1430 912,1429 752,1429 752,1437 720,1437 720,1436 637,1436 637,1430 531,1430 531,1408 548,1408 548,1401 556,1401 556,1402 720,1402 720,1397 752,1397 752,1403 912,1403 912,1400 1009,1400 1009,1399 1022,1399 1022,1404 1128,1404"/>
@@ -5077,7 +5077,7 @@ dienen.</Unicode></TextEquiv>
 	<Glyph id="c1053">
 	<Coords points="1128,1395 1146,1395 1146,1426 1128,1426"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>aͤ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c1054">
 	<Coords points="1150,1396 1165,1396 1165,1433 1150,1433"/>
@@ -5120,7 +5120,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>,</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>rſonnirt,</Unicode></TextEquiv>
+	<Unicode>raͤſonnirt,</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w1062" language="German" production="printed">
 	<Coords points="1306,1398 1320,1398 1320,1407 1334,1407 1334,1429 1320,1429 1320,1433 1306,1433"/>
@@ -5138,7 +5138,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>ſo</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>ein einziger Herr in der Welt ſagt: rſonnirt, ſo</Unicode></TextEquiv>
+	<Unicode>ein einziger Herr in der Welt ſagt: raͤſonnirt, ſo</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextLine id="l1065" primaryLanguage="German" production="printed">
 	<Coords points="1113,1444 1131,1444 1131,1445 1233,1445 1233,1453 1306,1453 1306,1454 1336,1454 1336,1472 1322,1472 1322,1474 1306,1474 1306,1480 1287,1480 1287,1474 1162,1474 1162,1478 1151,1478 1151,1473 1032,1473 1032,1480 1016,1480 1016,1475 756,1475 756,1481 745,1481 745,1475 631,1475 631,1479 615,1479 615,1476 529,1476 529,1453 550,1453 550,1448 575,1448 575,1447 615,1447 615,1446 631,1446 631,1447 730,1447 730,1450 914,1450 914,1446 1016,1446 1016,1445 1113,1445"/>
@@ -5202,7 +5202,7 @@ dienen.</Unicode></TextEquiv>
 	<Glyph id="c1078" ligature="true">
 	<Coords points="713,1447 730,1447 730,1475 713,1475"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ll</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c1080">
 	<Coords points="733,1452 745,1452 745,1475 733,1475"/>
@@ -5215,7 +5215,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>,</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>wot,</Unicode></TextEquiv>
+	<Unicode>wollt,</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w1082" language="German" production="printed">
 	<Coords points="817,1450 833,1450 833,1475 777,1475 777,1455 817,1455"/>
@@ -5257,7 +5257,7 @@ dienen.</Unicode></TextEquiv>
 	<Glyph id="c1090">
 	<Coords points="914,1446 933,1446 933,1475 914,1475"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>uͤ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c1091">
 	<Coords points="936,1446 950,1446 950,1474 936,1474"/>
@@ -5275,7 +5275,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>r</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>worber</Unicode></TextEquiv>
+	<Unicode>woruͤber</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w1094" language="German" production="printed">
 	<Coords points="1016,1445 1032,1445 1032,1453 1048,1453 1048,1473 1032,1473 1032,1480 1016,1480 1016,1474 1004,1474 1004,1447 1016,1447"/>
@@ -5312,7 +5312,7 @@ dienen.</Unicode></TextEquiv>
 	<Glyph id="c1101" ligature="true">
 	<Coords points="1113,1444 1131,1444 1131,1473 1113,1473"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ll</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c1103">
 	<Coords points="1133,1451 1144,1451 1144,1472 1133,1472"/>
@@ -5325,7 +5325,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>;</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>wot;</Unicode></TextEquiv>
+	<Unicode>wollt;</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w1105" language="German" production="printed">
 	<Coords points="1210,1445 1233,1445 1233,1454 1267,1454 1267,1474 1192,1474 1192,1453 1210,1453"/>
@@ -5373,7 +5373,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>ge-</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>viel ihr wot, und worber ihr wot; aber ge-</Unicode></TextEquiv>
+	<Unicode>viel ihr wollt, und woruͤber ihr wollt; aber ge-</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextLine id="l1114" primaryLanguage="German" production="printed">
 	<Coords points="1032,1491 1135,1491 1135,1494 1261,1494 1261,1491 1282,1491 1282,1493 1323,1493 1323,1502 1335,1502 1335,1523 1282,1523 1282,1527 1193,1527 1193,1528 1178,1528 1178,1521 1157,1521 1157,1520 1045,1520 1045,1525 1032,1525 1032,1524 975,1524 975,1522 847,1522 847,1530 758,1530 758,1531 727,1531 727,1529 555,1529 555,1530 529,1530 529,1493 610,1493 610,1492 631,1492 631,1493 758,1493 758,1494 860,1494 860,1492 1032,1492"/>
@@ -5397,7 +5397,7 @@ dienen.</Unicode></TextEquiv>
 		<Glyph id="c1120" ligature="true">
 	<Coords points="597,1492 631,1492 631,1529 597,1529"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c1121">
 	<Coords points="635,1497 648,1497 648,1522 635,1522"/>
@@ -5415,7 +5415,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>)</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>hort!)</Unicode></TextEquiv>
+	<Unicode>horcht!)</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w1125" language="German" production="printed">
 	<Coords points="727,1493 758,1493 758,1496 770,1496 770,1502 799,1502 799,1522 758,1522 758,1531 727,1531"/>
@@ -5452,17 +5452,17 @@ dienen.</Unicode></TextEquiv>
 	<Glyph id="c1132" ligature="true">
 	<Coords points="824,1494 847,1494 847,1530 824,1530"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ﬅ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>i</Unicode></TextEquiv>
+	<Unicode>iﬅ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w1134" language="German" production="printed">
 	<Coords points="860,1492 877,1492 877,1494 963,1494 963,1521 942,1521 942,1522 926,1522 926,1521 860,1521"/>
 	<Glyph id="c1135">
 	<Coords points="860,1492 877,1492 877,1521 860,1521"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>uͤ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c1136">
 	<Coords points="881,1494 895,1494 895,1520 881,1520"/>
@@ -5487,10 +5487,10 @@ dienen.</Unicode></TextEquiv>
 	<Glyph id="c1140" ligature="true">
 	<Coords points="945,1494 963,1494 963,1521 945,1521"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ll</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>bera</Unicode></TextEquiv>
+	<Unicode>uͤberall</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w1142" language="German" production="printed">
 	<Coords points="1032,1491 1135,1491 1135,1499 1157,1499 1157,1500 1174,1500 1174,1501 1193,1501 1193,1528 1178,1528 1178,1521 1157,1521 1157,1520 1045,1520 1045,1525 1032,1525 1032,1524 975,1524 975,1492 1032,1492"/>
@@ -5517,7 +5517,7 @@ dienen.</Unicode></TextEquiv>
 		<Glyph id="c1147" ligature="true">
 	<Coords points="1043,1491 1068,1491 1068,1520 1043,1520"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c1149">
 	<Coords points="1070,1500 1083,1500 1083,1519 1070,1519"/>
@@ -5527,7 +5527,7 @@ dienen.</Unicode></TextEquiv>
 	<Glyph id="c1150">
 	<Coords points="1085,1492 1099,1492 1099,1520 1085,1520"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>aͤ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c1151">
 	<Coords points="1104,1500 1121,1500 1121,1520 1104,1520"/>
@@ -5555,7 +5555,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>g</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>Einſrnkung</Unicode></TextEquiv>
+	<Unicode>Einſchraͤnkung</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w1156" language="German" production="printed">
 	<Coords points="1208,1494 1223,1494 1223,1500 1253,1500 1253,1521 1241,1521 1241,1520 1208,1520"/>
@@ -5608,7 +5608,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>Frei-</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>hort!) Hier i bera Einſrnkung der Frei-</Unicode></TextEquiv>
+	<Unicode>horcht!) Hier iﬅ uͤberall Einſchraͤnkung der Frei-</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextLine id="l1166" primaryLanguage="German" production="printed">
 	<Coords points="1268,1537 1321,1537 1321,1548 1333,1548 1333,1565 1321,1565 1321,1568 1279,1568 1279,1572 1268,1572 1268,1568 1136,1568 1136,1570 1117,1570 1117,1567 989,1567 989,1576 974,1576 974,1568 840,1568 840,1574 827,1574 827,1570 552,1570 552,1577 533,1577 533,1540 637,1540 637,1539 703,1539 703,1540 930,1540 930,1548 1038,1548 1038,1540 1105,1540 1105,1539 1117,1539 1117,1538 1268,1538"/>
@@ -5662,7 +5662,7 @@ dienen.</Unicode></TextEquiv>
 		<Glyph id="c1177" ligature="true">
 	<Coords points="705,1540 730,1540 730,1569 705,1569"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c1179">
 	<Coords points="734,1549 746,1549 746,1570 734,1570"/>
@@ -5670,7 +5670,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>e</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>Wele</Unicode></TextEquiv>
+	<Unicode>Welche</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w1180" language="German" production="printed">
 	<Coords points="827,1540 930,1540 930,1548 948,1548 948,1549 989,1549 989,1576 974,1576 974,1568 840,1568 840,1574 827,1574 827,1570 767,1570 767,1541 827,1541"/>
@@ -5697,7 +5697,7 @@ dienen.</Unicode></TextEquiv>
 		<Glyph id="c1185" ligature="true">
 	<Coords points="838,1540 863,1540 863,1568 838,1568"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c1187">
 	<Coords points="867,1547 879,1547 879,1568 867,1568"/>
@@ -5707,7 +5707,7 @@ dienen.</Unicode></TextEquiv>
 	<Glyph id="c1188">
 	<Coords points="882,1540 896,1540 896,1568 882,1568"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>aͤ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c1189">
 	<Coords points="899,1548 916,1548 916,1568 899,1568"/>
@@ -5735,7 +5735,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>g</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>Einſrnkung</Unicode></TextEquiv>
+	<Unicode>Einſchraͤnkung</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w1194" language="German" production="printed">
 	<Coords points="1038,1540 1051,1540 1051,1546 1082,1546 1082,1566 1051,1566 1051,1567 1019,1567 1019,1549 1038,1549"/>
@@ -5772,10 +5772,10 @@ dienen.</Unicode></TextEquiv>
 	<Glyph id="c1201" ligature="true">
 	<Coords points="1117,1538 1136,1538 1136,1570 1117,1570"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ﬅ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>i</Unicode></TextEquiv>
+	<Unicode>iﬅ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w1203" language="German" production="printed">
 	<Coords points="1156,1541 1171,1541 1171,1547 1200,1547 1200,1568 1174,1568 1174,1567 1156,1567"/>
@@ -5827,7 +5827,7 @@ dienen.</Unicode></TextEquiv>
 	<Glyph id="c1213">
 	<Coords points="1304,1537 1321,1537 1321,1568 1304,1568"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>aͤ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c1214">
 	<Coords points="1322,1548 1333,1548 1333,1565 1322,1565"/>
@@ -5835,10 +5835,10 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>-</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>Aufkl-</Unicode></TextEquiv>
+	<Unicode>Aufklaͤ-</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>heit. Wele Einſrnkung aber i der Aufkl-</Unicode></TextEquiv>
+	<Unicode>heit. Welche Einſchraͤnkung aber iﬅ der Aufklaͤ-</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextLine id="l1215" primaryLanguage="German" production="printed">
 	<Coords points="1139,1584 1257,1584 1257,1585 1269,1585 1269,1592 1335,1592 1335,1614 1299,1614 1299,1619 1283,1619 1283,1615 1167,1615 1167,1620 1150,1620 1150,1613 1043,1613 1043,1614 1031,1614 1031,1617 997,1617 997,1620 987,1620 987,1617 946,1617 946,1616 764,1616 764,1618 739,1618 739,1615 637,1615 637,1621 606,1621 606,1623 591,1623 591,1617 533,1617 533,1595 620,1595 620,1586 637,1586 637,1587 739,1587 739,1586 787,1586 787,1587 946,1587 946,1586 1031,1586 1031,1587 1139,1587"/>
@@ -5912,7 +5912,7 @@ dienen.</Unicode></TextEquiv>
 		<Glyph id="c1230" ligature="true">
 	<Coords points="739,1586 764,1586 764,1618 739,1618"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c1232">
 	<Coords points="773,1586 787,1586 787,1615 773,1615"/>
@@ -5920,7 +5920,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>?</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>hinderli?</Unicode></TextEquiv>
+	<Unicode>hinderlich?</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w1233" language="German" production="printed">
 	<Coords points="851,1587 887,1587 887,1595 903,1595 903,1614 887,1614 887,1616 808,1616 808,1593 851,1593"/>
@@ -5942,7 +5942,7 @@ dienen.</Unicode></TextEquiv>
 		<Glyph id="c1237" ligature="true">
 	<Coords points="862,1587 887,1587 887,1616 862,1616"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c1239">
 	<Coords points="891,1595 903,1595 903,1614 891,1614"/>
@@ -5950,7 +5950,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>e</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>wele</Unicode></TextEquiv>
+	<Unicode>welche</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w1240" language="German" production="printed">
 	<Coords points="946,1586 972,1586 972,1593 985,1593 985,1606 997,1606 997,1620 987,1620 987,1617 946,1617 946,1615 935,1615 935,1614 915,1614 915,1595 935,1595 935,1587 946,1587"/>
@@ -5967,7 +5967,7 @@ dienen.</Unicode></TextEquiv>
 		<Glyph id="c1243" ligature="true">
 	<Coords points="946,1586 972,1586 972,1617 946,1617"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c1245">
 	<Coords points="975,1593 985,1593 985,1615 975,1615"/>
@@ -5980,7 +5980,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>,</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>nit,</Unicode></TextEquiv>
+	<Unicode>nicht,</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w1247" language="German" production="printed">
 	<Coords points="1018,1586 1031,1586 1031,1587 1081,1587 1081,1593 1130,1593 1130,1612 1111,1612 1111,1613 1043,1613 1043,1614 1031,1614 1031,1617 1018,1617"/>
@@ -6088,7 +6088,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>gar</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>rung hinderli? wele nit, ſondern ihr wohl gar</Unicode></TextEquiv>
+	<Unicode>rung hinderlich? welche nicht, ſondern ihr wohl gar</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextLine id="l1268" primaryLanguage="German" production="printed">
 	<Coords points="1152,1627 1173,1627 1173,1631 1278,1631 1278,1628 1313,1628 1313,1639 1331,1639 1331,1660 1313,1660 1313,1666 1202,1666 1202,1669 1176,1669 1176,1662 1152,1662 1152,1660 1040,1660 1040,1661 939,1661 939,1662 883,1662 883,1663 855,1663 855,1669 824,1669 824,1662 628,1662 628,1663 581,1663 581,1667 568,1667 568,1661 532,1661 532,1633 712,1633 712,1632 855,1632 855,1634 883,1634 883,1641 1016,1641 1016,1638 1085,1638 1085,1634 1152,1634"/>
@@ -6112,7 +6112,7 @@ dienen.</Unicode></TextEquiv>
 	<Glyph id="c1273">
 	<Coords points="580,1633 594,1633 594,1661 580,1661"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>oͤ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c1274">
 	<Coords points="596,1642 609,1642 609,1662 596,1662"/>
@@ -6147,7 +6147,7 @@ dienen.</Unicode></TextEquiv>
 		<Glyph id="c1280" ligature="true">
 	<Coords points="680,1633 705,1633 705,1661 680,1661"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c1282">
 	<Coords points="712,1632 728,1632 728,1662 712,1662"/>
@@ -6155,7 +6155,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>?</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>befrderli?</Unicode></TextEquiv>
+	<Unicode>befoͤrderlich?</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w1283" language="German" production="printed">
 	<Coords points="748,1649 785,1649 785,1654 748,1654"/>
@@ -6177,10 +6177,10 @@ dienen.</Unicode></TextEquiv>
 		<Glyph id="c1287" ligature="true">
 	<Coords points="857,1634 883,1634 883,1663 857,1663"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>I</Unicode></TextEquiv>
+	<Unicode>Ich</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w1289" language="German" production="printed">
 	<Coords points="1016,1638 1027,1638 1027,1639 1058,1639 1058,1660 1040,1660 1040,1661 939,1661 939,1662 922,1662 922,1660 903,1660 903,1642 943,1642 943,1641 1016,1641"/>
@@ -6257,12 +6257,12 @@ dienen.</Unicode></TextEquiv>
 	<Glyph id="c1304">
 	<Coords points="1152,1627 1173,1627 1173,1662 1152,1662"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>oͤ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c1305" ligature="true">
 	<Coords points="1176,1631 1202,1631 1202,1669 1176,1669"/>
 	<TextEquiv>
-		<Unicode>ﬀ</Unicode></TextEquiv>
+		<Unicode>ff</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c1307">
 	<Coords points="1200,1640 1211,1640 1211,1660 1200,1660"/>
@@ -6292,7 +6292,7 @@ dienen.</Unicode></TextEquiv>
 		<Glyph id="c1312" ligature="true">
 	<Coords points="1278,1628 1313,1628 1313,1666 1278,1666"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c1314">
 	<Coords points="1316,1639 1331,1639 1331,1660 1316,1660"/>
@@ -6300,10 +6300,10 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>e</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>ﬀentlie</Unicode></TextEquiv>
+	<Unicode>oͤffentliche</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>befrderli? — I antworte: der ﬀentlie</Unicode></TextEquiv>
+	<Unicode>befoͤrderlich? — Ich antworte: der oͤffentliche</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextLine id="l1315" primaryLanguage="German" production="printed">
 	<Coords points="530,1678 565,1678 565,1679 693,1679 693,1678 827,1678 827,1680 1052,1680 1052,1679 1198,1679 1198,1678 1300,1678 1300,1685 1320,1685 1320,1697 1335,1697 1335,1713 1322,1713 1322,1711 1210,1711 1210,1712 1137,1712 1137,1713 1030,1713 1030,1714 1015,1714 1015,1710 827,1710 827,1711 707,1711 707,1713 679,1713 679,1715 653,1715 653,1710 530,1710"/>
@@ -6342,10 +6342,10 @@ dienen.</Unicode></TextEquiv>
 		<Glyph id="c1323" ligature="true">
 	<Coords points="653,1679 679,1679 679,1715 653,1715"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>Gebrau</Unicode></TextEquiv>
+	<Unicode>Gebrauch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w1325" language="German" production="printed">
 	<Coords points="693,1678 707,1678 707,1679 726,1679 726,1687 748,1687 748,1689 777,1689 777,1709 748,1709 748,1710 707,1710 707,1713 693,1713"/>
@@ -6553,7 +6553,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>ſein,</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>Gebrau ſeiner Vernunft muß jederzeit frei ſein,</Unicode></TextEquiv>
+	<Unicode>Gebrauch ſeiner Vernunft muß jederzeit frei ſein,</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextLine id="l1366" primaryLanguage="German" production="printed">
 	<Coords points="1136,1722 1179,1722 1179,1724 1252,1724 1252,1732 1313,1732 1313,1733 1333,1733 1333,1754 1313,1754 1313,1759 1228,1759 1228,1761 1136,1761 1136,1756 1023,1756 1023,1763 1007,1763 1007,1762 951,1762 951,1761 898,1761 898,1758 748,1758 748,1759 730,1759 730,1758 554,1758 554,1757 530,1757 530,1734 554,1734 554,1733 574,1733 574,1729 684,1729 684,1726 701,1726 701,1727 849,1727 849,1726 951,1726 951,1733 1084,1733 1084,1730 1136,1730"/>
@@ -6607,7 +6607,7 @@ dienen.</Unicode></TextEquiv>
 	<Glyph id="c1377" ligature="true">
 	<Coords points="684,1726 701,1726 701,1756 684,1756"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ll</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c1379">
 	<Coords points="704,1736 716,1736 716,1757 704,1757"/>
@@ -6625,7 +6625,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>n</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>aein</Unicode></TextEquiv>
+	<Unicode>allein</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w1382" language="German" production="printed">
 	<Coords points="763,1727 774,1727 774,1735 812,1735 812,1736 833,1736 833,1757 812,1757 812,1758 763,1758"/>
@@ -6682,7 +6682,7 @@ dienen.</Unicode></TextEquiv>
 	<Glyph id="c1393">
 	<Coords points="934,1726 951,1726 951,1758 934,1758"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>aͤ</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c1394">
 	<Coords points="951,1736 965,1736 965,1762 951,1762"/>
@@ -6705,7 +6705,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>g</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>Aufklrung</Unicode></TextEquiv>
+	<Unicode>Aufklaͤrung</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w1398" language="German" production="printed">
 	<Coords points="1084,1730 1094,1730 1094,1732 1108,1732 1108,1733 1123,1733 1123,1754 1108,1754 1108,1755 1061,1755 1061,1756 1043,1756 1043,1733 1084,1733"/>
@@ -6762,7 +6762,7 @@ dienen.</Unicode></TextEquiv>
 		<Glyph id="c1409" ligature="true">
 	<Coords points="1226,1724 1252,1724 1252,1758 1226,1758"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv>
+	<Unicode>ch</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<Glyph id="c1411">
 	<Coords points="1255,1732 1266,1732 1266,1752 1255,1752"/>
@@ -6775,7 +6775,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>n</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>Menſen</Unicode></TextEquiv>
+	<Unicode>Menſchen</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w1413" language="German" production="printed">
 	<Coords points="1300,1732 1313,1732 1313,1733 1333,1733 1333,1754 1313,1754 1313,1759 1300,1759"/>
@@ -6793,26 +6793,26 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>zu</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<TextEquiv>
-	<Unicode>und der aein kann Aufklrung unter Menſen zu</Unicode></TextEquiv>
+	<Unicode>und der allein kann Aufklaͤrung unter Menſchen zu</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextLine>
 	<TextEquiv>
-	<Unicode>Zu dieſer Aufklrung aber wird nits erfordert
-als Freiheit; und zwar die unſdlie unter
-aem, was nur Freiheit heißen mag, nmli die:
-von ſeiner Vernunft in aen Stkken ﬀentlien
-Gebrau zu maen. Nun hre i aber von al-
-len Seiten rufen: rſonnirt nit! Der Oﬀi-
-zier ſagt: rſonnirt nit, ſondern exercirt! Der
-Finanzrath: rſonnirt nit, ſondern bezahlt! Der
-Geilie: rſonnirt nit, ſondern glaubt! (Nur
-ein einziger Herr in der Welt ſagt: rſonnirt, ſo
-viel ihr wot, und worber ihr wot; aber ge-
-hort!) Hier i bera Einſrnkung der Frei-
-heit. Wele Einſrnkung aber i der Aufkl-
-rung hinderli? wele nit, ſondern ihr wohl gar
-befrderli? — I antworte: der ﬀentlie
-Gebrau ſeiner Vernunft muß jederzeit frei ſein,
-und der aein kann Aufklrung unter Menſen zu</Unicode></TextEquiv>
+	<Unicode>Zu dieſer Aufklaͤrung aber wird nichts erfordert
+als Freiheit; und zwar die unſchaͤdlichﬅe unter
+allem, was nur Freiheit heißen mag, naͤmlich die:
+von ſeiner Vernunft in allen Stuͤkken oͤffentlichen
+Gebrauch zu machen. Nun hoͤre ich aber von al-
+len Seiten rufen: raͤſonnirt nicht! Der Offi-
+zier ſagt: raͤſonnirt nicht, ſondern exercirt! Der
+Finanzrath: raͤſonnirt nicht, ſondern bezahlt! Der
+Geiﬅliche: raͤſonnirt nicht, ſondern glaubt! (Nur
+ein einziger Herr in der Welt ſagt: raͤſonnirt, ſo
+viel ihr wollt, und woruͤber ihr wollt; aber ge-
+horcht!) Hier iﬅ uͤberall Einſchraͤnkung der Frei-
+heit. Welche Einſchraͤnkung aber iﬅ der Aufklaͤ-
+rung hinderlich? welche nicht, ſondern ihr wohl gar
+befoͤrderlich? — Ich antworte: der oͤffentliche
+Gebrauch ſeiner Vernunft muß jederzeit frei ſein,
+und der allein kann Aufklaͤrung unter Menſchen zu</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></TextRegion>
 	<TextRegion id="r3" type="signature-mark" primaryLanguage="German" production="printed">
 	<Coords points="1234,1770 1269,1770 1269,1777 1283,1777 1283,1778 1325,1778 1325,1779 1335,1779 1335,1798 1325,1798 1325,1800 1283,1800 1283,1802 1269,1802 1269,1804 1234,1804"/>

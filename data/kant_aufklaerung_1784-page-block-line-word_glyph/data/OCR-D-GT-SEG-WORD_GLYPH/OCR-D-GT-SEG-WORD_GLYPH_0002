@@ -4535,7 +4535,7 @@ dienen.</Unicode></TextEquiv>
 	<Unicode>,</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Glyph>
 	<TextEquiv>
-	<Unicode>nit,</Unicode></TextEquiv>
+		<Unicode>nit,</Unicode></TextEquiv>
 	<TextStyle fontFamily="blackletter" fontSize="7.50000"/></Word>
 	<Word id="w942" language="German" production="printed">
 	<Coords points="999,1306 1012,1306 1012,1308 1061,1308 1061,1313 1113,1313 1113,1333 1024,1333 1024,1334 1012,1334 1012,1339 999,1339"/>

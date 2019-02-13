@@ -132,36 +132,36 @@
       <mets:fileGrp USE="OCR-D-GT-SEG-PAGE">
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0001">
             <mets:FLocat LOCTYPE="URL"
-               xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/OCR-D-GT-PAGE/PAGE_0017_PAGE"
+               xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/data/OCR-D-GT-PAGE/PAGE_0017_PAGE"
             />
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0002">
             <mets:FLocat LOCTYPE="URL"
-               xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/OCR-D-GT-PAGE/PAGE_0020_PAGE"
+               xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/data/OCR-D-GT-PAGE/PAGE_0020_PAGE"
             />
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-GT-SEG-BLOCK">
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0001">
             <mets:FLocat LOCTYPE="URL"
-               xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/OCR-D-GT-PAGE/PAGE_0017_PAGE"
+               xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/data/OCR-D-GT-PAGE/PAGE_0017_PAGE"
             />
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-BLOCK_0002">
             <mets:FLocat LOCTYPE="URL"
-               xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/OCR-D-GT-PAGE/PAGE_0020_PAGE"
+               xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/data/OCR-D-GT-PAGE/PAGE_0020_PAGE"
             />
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-GT-SEG-LINE">
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0001">
             <mets:FLocat LOCTYPE="URL"
-               xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/OCR-D-GT-PAGE/PAGE_0017_PAGE"
+               xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/data/OCR-D-GT-PAGE/PAGE_0017_PAGE"
             />
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0002">
             <mets:FLocat LOCTYPE="URL"
-               xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/OCR-D-GT-PAGE/PAGE_0020_PAGE"
+               xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/data/OCR-D-GT-PAGE/PAGE_0020_PAGE"
             />
          </mets:file>
       </mets:fileGrp>

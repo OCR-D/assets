@@ -96,6 +96,15 @@
             </mets:mdWrap>
         </mets:digiprovMD>
     </mets:amdSec>
+
+    <mets:structMap TYPE="PHYSICAL">
+        <mets:div TYPE="physSequence">
+            <mets:div ID="PHYS_0001" ORDER="1" ORDERLABEL="page 1" TYPE="page">
+              <mets:fptr FILEID="FILE_0005_IMAGE"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+
     <mets:fileSec>
         <mets:fileGrp USE="OCR-D-IMG">
             <mets:file ID="FILE_0005_IMAGE" MIMETYPE="image/tiff">

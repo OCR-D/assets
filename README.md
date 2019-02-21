@@ -10,7 +10,7 @@
 * [kant_aufklaerung_1784-page-block-line-word_glyph](./data/kant_aufklaerung_1784-page-block-line-word_glyph): Sample Page file with region, word and glyphs.
 * [test.ocrd.zip](./data/test.ocrd.zip): OCRD-ZIP of `kant_aufklaerung_1784`.
 * [param-binarize.json](./data/param-binarize.json): Sample parameter JSON file
-* [sample_bagit-with-fetch](./data/sample_bagit-with-fetch/sample_bagit-with-fetch): OCRD-ZIP of `PPN595930174` (simplified to file group GDZOCR and PRESENTATION).
+* [sample_bagit-with-fetch](./data/sample_bagit-with-fetch): OCRD-ZIP of `PPN595930174` (simplified to file group GDZOCR and PRESENTATION).
 * [dfki-testdata](./data/sample_bagit-with-fetch/dfki-testdata): Test assets from https://github.com/syedsaqibbukhari/docanalysis
 * [pembroke_werke_1766](./data/pembroke_werke_1766): Page 10 of [http://resolver.staatsbibliothek-berlin.de/SBB0001CA7900000000](http://resolver.staatsbibliothek-berlin.de/SBB0001CA7900000000)
 * [dietrich_fuehrer_1839](./data/dietrich_fuehrer_1839): Full METS for [http://digital.slub-dresden.de/id284175080](http://digital.slub-dresden.de/id284175080)

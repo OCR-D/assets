@@ -1,0 +1,32 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-0.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/version17/mets.v1-7.xsd http://www.loc.gov/mix/v10 http://www.loc.gov/standards/mix/mix10/mix10.xsd">
+  <mets:metsHdr CREATEDATE="2019-03-24 22:16:26.006316">
+    <mets:agent TYPE="OTHER" OTHERTYPE="SOFTWARE" ROLE="CREATOR">
+      <mets:name>ocrd/core v1.0.0b7</mets:name>
+    </mets:agent>
+  </mets:metsHdr>
+  <mets:structMap TYPE="PHYSICAL">
+    <mets:div TYPE="physSequence">
+      <mets:div TYPE="page" ID="P0015">
+        <mets:fptr FILEID="OCR-D-IMG_0015"/>
+      </mets:div>
+    </mets:div>
+  </mets:structMap>
+  <mets:dmdSec ID="DMDLOG_0001">
+    <mets:mdWrap MDTYPE="MODS">
+      <mets:xmlData>
+        <mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+          <mods:identifier type="purl">urn:ocrd:communist_manifesto</mods:identifier>
+        </mods:mods>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:amdSec ID="AMD">
+    </mets:amdSec>
+  <mets:fileSec>
+    <mets:fileGrp USE="OCR-D-IMG">
+      <mets:file MIMETYPE="image/png" ID="OCR-D-IMG_0015">
+        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG_0015"/>
+      </mets:file>
+    </mets:fileGrp>
+  </mets:fileSec>
+</mets:mets>

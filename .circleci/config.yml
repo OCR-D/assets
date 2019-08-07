@@ -7,7 +7,7 @@ jobs:
       - image: python:3.6.0
     steps:
       - checkout
-      - run: pip install git+https://github.com/OCR-D/core
+      - run: git clone --depth 1 https://github.com/OCR-D/core; cd core; make install;cd ..;rm -rf core
       - run: make validate
 
 workflows:

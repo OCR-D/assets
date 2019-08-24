@@ -1,4 +1,21 @@
-import os
+from tempfile import mkdtemp
+from os import makedirs, environ
+from os.path import isdir, exists, abspath, dirname, realpath
+from shutil import copytree, rmtree
+from contextlib import contextmanager
+
+@contextmanager
+def copy_of_directory(src, dst=None):
+    if not dst:
+        dst = mkdtemp(prefix='ocrd-test-tempdir-')
+    if isdir(dst):
+        rmtree(dst)
+    if not isdir(dirname(dst)):
+        makedirs(dirname(dst))
+    copytree(src, dst)
+    yield dst
+    rmtree(dst)
+
 
 class Assets(object):
     """
@@ -19,7 +36,7 @@ class Assets(object):
     def path_to(self, path, baseurl=None):
         return self.url_of(path, baseurl).replace('file://', '')
 
-if 'OCRD_BASEURL' in os.environ:
-    assets = Assets(os.environ['OCRD_BASEURL'])
+if 'OCRD_BASEURL' in environ:
+    assets = Assets(environ['OCRD_BASEURL'])
 else:
-    assets = Assets('file://' + os.path.dirname(os.path.realpath(__file__)) + '/')
+    assets = Assets('file://' + dirname(realpath(__file__)) + '/')

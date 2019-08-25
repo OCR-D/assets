@@ -17,7 +17,7 @@ def copy_of_directory(src, dst=None):
     rmtree(dst)
 
 
-class Assets(object):
+class Assets():
     """
     Access test assets in OCR-D/assets
     """
@@ -34,9 +34,9 @@ class Assets(object):
         return self.baseurl + path
 
     def path_to(self, path, baseurl=None):
-        return self.url_of(path, baseurl).replace('file://', '')
+        return self.url_of(path, baseurl)
 
 if 'OCRD_BASEURL' in environ:
     assets = Assets(environ['OCRD_BASEURL'])
 else:
-    assets = Assets('file://' + dirname(realpath(__file__)) + '/')
+    assets = Assets(dirname(realpath(__file__)) + '/')

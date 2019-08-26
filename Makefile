@@ -83,8 +83,12 @@ update-bagit:
 			-not -name 'schema' \
 			-not -name 'glyph-consistency' \
 			-not -name 'sample_bagit-with-fetch' \
-		|while read dataset;do \
-			(cd $$dataset; update-bagit; update-bagit; echo "Updated $$dataset"); \
-		done
+		|while read dataset;do ( \
+			cd $$dataset; \
+				update-bagit; \
+				update-bagit; \
+				update-bagit; \
+				echo "Updated $$dataset"; \
+		); done
 
 

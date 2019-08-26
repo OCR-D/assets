@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-0.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/version17/mets.v1-7.xsd http://www.loc.gov/mix/v10 http://www.loc.gov/standards/mix/mix10/mix10.xsd">
   <mets:metsHdr CREATEDATE="2018-11-22 10:31:05.897472">
     <mets:agent TYPE="OTHER" OTHERTYPE="SOFTWARE" ROLE="CREATOR">
@@ -8,7 +9,7 @@
     <mets:mdWrap MDTYPE="MODS">
       <mets:xmlData>
         <mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
-            <mods:identifier type="urn">urn:ocr-d/dfki-testdata</mods:identifier>
+          <mods:identifier type="urn">urn:ocr-d/dfki-testdata</mods:identifier>
         </mods:mods>
       </mets:xmlData>
     </mets:mdWrap>
@@ -31,32 +32,32 @@
   <mets:fileSec>
     <mets:fileGrp USE="OCR-D-IMG">
       <mets:file MIMETYPE="image/tiff" ID="becker_quaestio_1586_00013.tiff">
-        <mets:FLocat xlink:href="OCR-D-IMG/becker_quaestio_1586_00013.tiff"/>
+        <mets:FLocat xlink:href="OCR-D-IMG/becker_quaestio_1586_00013.tif"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-IMG-BIN">
       <mets:file MIMETYPE="image/png" ID="becker_quaestio_1586_00013.bin">
-        <mets:FLocat xlink:href="OCR-D-IMG-BIN/becker_quaestio_1586_00013.bin"/>
+        <mets:FLocat xlink:href="OCR-D-IMG-BIN/becker_quaestio_1586_00013.bin.png"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-IMG-DESKEW">
       <mets:file MIMETYPE="image/png" ID="becker_quaestio_1586_00013.ds">
-        <mets:FLocat xlink:href="OCR-D-IMG-DESKEW/becker_quaestio_1586_00013.ds"/>
+        <mets:FLocat xlink:href="OCR-D-IMG-DESKEW/becker_quaestio_1586_00013.ds.png"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-IMG-DEWARP">
       <mets:file MIMETYPE="image/png" ID="becker_quaestio_1586_00013.dw">
-        <mets:FLocat xlink:href="OCR-D-IMG-DEWARP/becker_quaestio_1586_00013.dw"/>
+        <mets:FLocat xlink:href="OCR-D-IMG-DEWARP/becker_quaestio_1586_00013.dw.png"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-IMG-BIN-NRM">
       <mets:file MIMETYPE="image/png" ID="becker_quaestio_1586_00013.nrm">
-        <mets:FLocat xlink:href="OCR-D-IMG-BIN-NRM/becker_quaestio_1586_00013.nrm"/>
+        <mets:FLocat xlink:href="OCR-D-IMG-BIN-NRM/becker_quaestio_1586_00013.nrm.png"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-IMG-CROP">
       <mets:file MIMETYPE="image/png" ID="becker_quaestio_1586_00013.pf">
-        <mets:FLocat xlink:href="OCR-D-IMG-CROP/becker_quaestio_1586_00013.pf"/>
+        <mets:FLocat xlink:href="OCR-D-IMG-CROP/becker_quaestio_1586_00013.pf.png"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-IMG-PRINTSPACE">

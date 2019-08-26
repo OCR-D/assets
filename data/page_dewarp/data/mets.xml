@@ -19,16 +19,16 @@
   <mets:fileSec>
     <mets:fileGrp USE="OCR-D-IMG">
       <mets:file MIMETYPE="image/jpg" ID="OCR-D-IMG-boston_cooking_a">
-        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG-boston_cooking_a"/>
+        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG-boston_cooking_a.jpg"/>
       </mets:file>
       <mets:file MIMETYPE="image/jpg" ID="OCR-D-IMG-boston_cooking_b">
-        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG-boston_cooking_b"/>
+        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG-boston_cooking_b.jpg"/>
       </mets:file>
       <mets:file MIMETYPE="image/jpg" ID="OCR-D-IMG-linguistics_thesis_a">
-        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG-linguistics_thesis_a"/>
+        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG-linguistics_thesis_a.jpg"/>
       </mets:file>
       <mets:file MIMETYPE="image/jpg" ID="OCR-D-IMG-linguistics_thesis_b">
-        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG-linguistics_thesis_b"/>
+        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG-linguistics_thesis_b.jpg"/>
       </mets:file>
     </mets:fileGrp>
   </mets:fileSec>

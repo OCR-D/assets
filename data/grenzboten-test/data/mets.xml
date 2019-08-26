@@ -7,9 +7,9 @@
   </mets:metsHdr>
   <mets:structMap TYPE="PHYSICAL">
     <mets:div TYPE="physSequence">
-        <mets:div TYPE="page" ID="PHYS_0001">
-            <mets:fptr FILEID="p179470"/>
-        </mets:div>
+      <mets:div TYPE="page" ID="PHYS_0001">
+        <mets:fptr FILEID="p179470"/>
+      </mets:div>
     </mets:div>
   </mets:structMap>
   <mets:dmdSec ID="DMDLOG_0001">
@@ -26,7 +26,7 @@
   <mets:fileSec>
     <mets:fileGrp USE="OCRD-IMG-BIN">
       <mets:file MIMETYPE="image/tiff" ID="p179470">
-        <mets:FLocat xlink:href="OCR-D-IMG-BIN/p179470"/>
+        <mets:FLocat xlink:href="OCR-D-IMG-BIN/p179470.tif"/>
       </mets:file>
     </mets:fileGrp>
   </mets:fileSec>

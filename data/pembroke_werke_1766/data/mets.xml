@@ -1,4 +1,4 @@
-<!-- This METS file was created on Wed Oct 19 10:01:34 CEST 2016 using the UGH Metadata Library: ugh.fileformats.mets.MetsModsImportExport (version 1.9-20100505) -->
+<?xml version="1.0" encoding="UTF-8"?>
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/version17/mets.v1-7.xsd">
   <mets:dmdSec ID="DMDLOG_0000">
     <mets:mdWrap MDTYPE="MODS">
@@ -528,7 +528,7 @@
         <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="http://content.staatsbibliothek-berlin.de/dms/PPN85249078X/800/0/00000010.tif"/>
       </mets:file>
       <mets:file ID="FILE_0010_DEFAULT" MIMETYPE="image/tiff">
-          <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="DEFAULT/FILE_0010_DEFAULT"/>
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="DEFAULT/FILE_0010_DEFAULT.tif"/>
       </mets:file>
       <mets:file ID="FILE_0011_DEFAULT" MIMETYPE="image/tiff">
         <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="http://content.staatsbibliothek-berlin.de/dms/PPN85249078X/800/0/00000012.tif"/>

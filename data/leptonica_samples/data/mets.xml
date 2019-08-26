@@ -19,10 +19,10 @@
   <mets:fileSec>
     <mets:fileGrp USE="OCR-D-IMG">
       <mets:file MIMETYPE="image/jpg" ID="OCR-D-IMG_1555_003">
-        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG_1555_003"/>
+        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG_1555_003.jpg"/>
       </mets:file>
       <mets:file MIMETYPE="image/jpg" ID="OCR-D-IMG_1555_007">
-        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG_1555_007"/>
+        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG_1555_007.jpg"/>
       </mets:file>
     </mets:fileGrp>
   </mets:fileSec>

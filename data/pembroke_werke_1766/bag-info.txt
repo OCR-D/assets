@@ -3,4 +3,4 @@ BagIt-Profile-Identifier: https://ocr-d.github.io/bagit-profile.json
 Bagging-Date: 2018-11-22 17:48:38.834870
 Ocrd-Identifier: ocrd:pembroke_werke_1766
 Ocrd-Manifestation-Depth: partial
-Payload-Oxum: 518219.2
+Payload-Oxum: 518094.2

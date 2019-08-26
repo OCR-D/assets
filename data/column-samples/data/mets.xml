@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-0.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/version17/mets.v1-7.xsd http://www.loc.gov/mix/v10 http://www.loc.gov/standards/mix/mix10/mix10.xsd">
   <mets:metsHdr CREATEDATE="2017-11-30T16:18:26">
     <mets:agent OTHERTYPE="SOFTWARE" ROLE="CREATOR" TYPE="OTHER">
@@ -9,7 +10,7 @@
     <mets:mdWrap MDTYPE="MODS">
       <mets:xmlData>
         <mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
-            <mods:identifier type="urn">urn:ocr-d/column-sample</mods:identifier>
+          <mods:identifier type="urn">urn:ocr-d/column-sample</mods:identifier>
         </mods:mods>
       </mets:xmlData>
     </mets:mdWrap>
@@ -38,19 +39,19 @@
   <mets:fileSec>
     <mets:fileGrp USE="OCR-D-IMG">
       <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG-bengel_abriss01_1751-0007">
-        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG-bengel_abriss01_1751-0007"/>
+        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG-bengel_abriss01_1751-0007.jpg"/>
       </mets:file>
       <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG-eiteritz_affe_1719-0206">
-        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG-eiteritz_affe_1719-0206"/>
+        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG-eiteritz_affe_1719-0206.jpg"/>
       </mets:file>
       <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG-dannhauer_catechismus04_1653-0585">
-        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG-dannhauer_catechismus04_1653-0585"/>
+        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG-dannhauer_catechismus04_1653-0585.jpg"/>
       </mets:file>
       <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG-fleming_jaeger01_1719-0117">
-        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG-fleming_jaeger01_1719-0117"/>
+        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG-fleming_jaeger01_1719-0117.jpg"/>
       </mets:file>
       <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG-corvinus_frauenzimmer_1715-0054">
-        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG-corvinus_frauenzimmer_1715-0054"/>
+        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG-corvinus_frauenzimmer_1715-0054.jpg"/>
       </mets:file>
     </mets:fileGrp>
   </mets:fileSec>

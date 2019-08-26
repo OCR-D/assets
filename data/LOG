@@ -1,0 +1,195 @@
+05:02:08.654 INFO update-bags - >>>>> /home/kba/build/github.com/OCR-D/monorepo/assets/data/kant_aufklaerung_1784-page-block-line-word_glyph
+05:02:08.658 INFO update-bags - Renaming https:/github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/data/OCR-D-GT-PAGE/PAGE_0017_PAGE{,.xml}
+05:02:08.659 INFO update-bags - Renaming https:/github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/data/OCR-D-GT-PAGE/PAGE_0020_PAGE{,.xml}
+05:02:08.659 INFO update-bags - Renaming https:/github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/data/OCR-D-GT-PAGE/PAGE_0017_PAGE{,.xml}
+05:02:08.660 INFO update-bags - Renaming https:/github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/data/OCR-D-GT-PAGE/PAGE_0020_PAGE{,.xml}
+05:02:08.660 INFO update-bags - Renaming https:/github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/data/OCR-D-GT-PAGE/PAGE_0017_PAGE{,.xml}
+05:02:08.661 INFO update-bags - Renaming https:/github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/data/OCR-D-GT-PAGE/PAGE_0020_PAGE{,.xml}
+05:02:08.661 INFO update-bags - Renaming OCR-D-GT-SEG-WORD_GLYPH/OCR-D-GT-SEG-WORD_GLYPH_0001{,.xml}
+05:02:08.662 INFO update-bags - Renaming OCR-D-GT-SEG-WORD_GLYPH/OCR-D-GT-SEG-WORD_GLYPH_0002{,.xml}
+05:02:08.662 INFO update-bags - Renaming OCR-D-GT-SEG-WORD_GLYPH/OCR-D-GT-SEG-WORD_GLYPH_0001{,.xml}
+05:02:08.663 INFO update-bags - Renaming OCR-D-GT-SEG-WORD_GLYPH/OCR-D-GT-SEG-WORD_GLYPH_0002{,.xml}
+05:02:08.663 INFO update-bags - Renaming https:/github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/data/OCR-D-IMG/INPUT_0017{,.tif}
+05:02:08.664 INFO update-bags - Renaming https:/github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/data/OCR-D-IMG/INPUT_0020{,.tif}
+05:02:08.664 INFO ocrd.workspace - Saving mets '/home/kba/build/github.com/OCR-D/monorepo/assets/data/kant_aufklaerung_1784-page-block-line-word_glyph/data/mets.xml'
+05:02:08.751 INFO update-bags - FINISHED: /home/kba/build/github.com/OCR-D/monorepo/assets/data/kant_aufklaerung_1784-page-block-line-word_glyph
+05:02:08.751 INFO update-bags - >>>>> /home/kba/build/github.com/OCR-D/monorepo/assets/data/dietrich_fuehrer_1839
+05:02:09.876 INFO ocrd.workspace - Saving mets '/home/kba/build/github.com/OCR-D/monorepo/assets/data/dietrich_fuehrer_1839/data/mets.xml'
+05:02:09.960 INFO update-bags - FINISHED: /home/kba/build/github.com/OCR-D/monorepo/assets/data/dietrich_fuehrer_1839
+05:02:09.960 INFO update-bags - >>>>> /home/kba/build/github.com/OCR-D/monorepo/assets/data/kant_aufklaerung_1784
+05:02:09.963 INFO update-bags - Renaming OCR-D-IMG/INPUT_0017{,.tif}
+05:02:09.964 INFO update-bags - Renaming OCR-D-IMG/INPUT_0020{,.tif}
+05:02:09.964 INFO update-bags - Renaming OCR-D-GT-PAGE/PAGE_0017_PAGE{,.xml}
+05:02:09.965 INFO update-bags - Renaming OCR-D-GT-PAGE/PAGE_0020_PAGE{,.xml}
+05:02:09.966 INFO update-bags - Renaming OCR-D-GT-ALTO/PAGE_0017_ALTO{,.xml}
+05:02:09.966 INFO update-bags - Renaming OCR-D-GT-ALTO/PAGE_0020_ALTO{,.xml}
+05:02:09.966 INFO ocrd.workspace - Saving mets '/home/kba/build/github.com/OCR-D/monorepo/assets/data/kant_aufklaerung_1784/data/mets.xml'
+05:02:10.038 INFO update-bags - FINISHED: /home/kba/build/github.com/OCR-D/monorepo/assets/data/kant_aufklaerung_1784
+05:02:10.038 INFO update-bags - >>>>> /home/kba/build/github.com/OCR-D/monorepo/assets/data/kant_aufklaerung_1784-page-block
+05:02:10.053 INFO update-bags - Renaming OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0001{,.xml}
+05:02:10.054 INFO update-bags - Renaming OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0002{,.xml}
+05:02:10.055 INFO update-bags - Renaming OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0003{,.xml}
+05:02:10.055 INFO update-bags - Renaming OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0004{,.xml}
+05:02:10.056 INFO update-bags - Renaming OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0005{,.xml}
+05:02:10.056 INFO update-bags - Renaming OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0006{,.xml}
+05:02:10.057 INFO update-bags - Renaming OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0007{,.xml}
+05:02:10.057 INFO update-bags - Renaming OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0008{,.xml}
+05:02:10.058 INFO update-bags - Renaming OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0009{,.xml}
+05:02:10.058 INFO update-bags - Renaming OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0010{,.xml}
+05:02:10.059 INFO update-bags - Renaming OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0011{,.xml}
+05:02:10.059 INFO update-bags - Renaming OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0012{,.xml}
+05:02:10.060 INFO update-bags - Renaming OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0013{,.xml}
+05:02:10.060 INFO update-bags - Renaming OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0014{,.xml}
+05:02:10.061 INFO update-bags - Renaming OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0015{,.xml}
+05:02:10.061 INFO update-bags - Renaming OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0016{,.xml}
+05:02:10.062 INFO update-bags - Renaming OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0017{,.xml}
+05:02:10.062 INFO update-bags - Renaming OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0018{,.xml}
+05:02:10.063 INFO update-bags - Renaming OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0019{,.xml}
+05:02:10.063 INFO update-bags - Renaming OCR-D-GT-SEG-PAGE/OCR-D-GT-SEG-PAGE_0020{,.xml}
+05:02:10.064 INFO update-bags - Renaming OCR-D-GT-SEG-BLOCK/OCR-D-GT-SEG-BLOCK_0001{,.xml}
+05:02:10.064 INFO update-bags - Renaming OCR-D-GT-SEG-BLOCK/OCR-D-GT-SEG-BLOCK_0002{,.xml}
+05:02:10.065 INFO update-bags - Renaming OCR-D-GT-SEG-BLOCK/OCR-D-GT-SEG-BLOCK_0003{,.xml}
+05:02:10.065 INFO update-bags - Renaming OCR-D-GT-SEG-BLOCK/OCR-D-GT-SEG-BLOCK_0004{,.xml}
+05:02:10.068 INFO update-bags - Renaming OCR-D-GT-SEG-BLOCK/OCR-D-GT-SEG-BLOCK_0005{,.xml}
+05:02:10.069 INFO update-bags - Renaming OCR-D-GT-SEG-BLOCK/OCR-D-GT-SEG-BLOCK_0006{,.xml}
+05:02:10.069 INFO update-bags - Renaming OCR-D-GT-SEG-BLOCK/OCR-D-GT-SEG-BLOCK_0007{,.xml}
+05:02:10.069 INFO update-bags - Renaming OCR-D-GT-SEG-BLOCK/OCR-D-GT-SEG-BLOCK_0008{,.xml}
+05:02:10.070 INFO update-bags - Renaming OCR-D-GT-SEG-BLOCK/OCR-D-GT-SEG-BLOCK_0009{,.xml}
+05:02:10.070 INFO update-bags - Renaming OCR-D-GT-SEG-BLOCK/OCR-D-GT-SEG-BLOCK_0010{,.xml}
+05:02:10.070 INFO update-bags - Renaming OCR-D-GT-SEG-BLOCK/OCR-D-GT-SEG-BLOCK_0011{,.xml}
+05:02:10.070 INFO update-bags - Renaming OCR-D-GT-SEG-BLOCK/OCR-D-GT-SEG-BLOCK_0012{,.xml}
+05:02:10.070 INFO update-bags - Renaming OCR-D-GT-SEG-BLOCK/OCR-D-GT-SEG-BLOCK_0013{,.xml}
+05:02:10.071 INFO update-bags - Renaming OCR-D-GT-SEG-BLOCK/OCR-D-GT-SEG-BLOCK_0014{,.xml}
+05:02:10.071 INFO update-bags - Renaming OCR-D-GT-SEG-BLOCK/OCR-D-GT-SEG-BLOCK_0015{,.xml}
+05:02:10.071 INFO update-bags - Renaming OCR-D-GT-SEG-BLOCK/OCR-D-GT-SEG-BLOCK_0016{,.xml}
+05:02:10.071 INFO update-bags - Renaming OCR-D-GT-SEG-BLOCK/OCR-D-GT-SEG-BLOCK_0017{,.xml}
+05:02:10.072 INFO update-bags - Renaming OCR-D-GT-SEG-BLOCK/OCR-D-GT-SEG-BLOCK_0018{,.xml}
+05:02:10.072 INFO update-bags - Renaming OCR-D-GT-SEG-BLOCK/OCR-D-GT-SEG-BLOCK_0019{,.xml}
+05:02:10.072 INFO update-bags - Renaming OCR-D-GT-SEG-BLOCK/OCR-D-GT-SEG-BLOCK_0020{,.xml}
+05:02:10.072 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG_0001{,.tif}
+05:02:10.072 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG_0002{,.tif}
+05:02:10.073 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG_0003{,.tif}
+05:02:10.073 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG_0004{,.tif}
+05:02:10.073 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG_0005{,.tif}
+05:02:10.074 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG_0006{,.tif}
+05:02:10.075 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG_0007{,.tif}
+05:02:10.075 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG_0008{,.tif}
+05:02:10.076 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG_0009{,.tif}
+05:02:10.076 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG_0010{,.tif}
+05:02:10.076 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG_0011{,.tif}
+05:02:10.077 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG_0012{,.tif}
+05:02:10.078 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG_0013{,.tif}
+05:02:10.078 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG_0014{,.tif}
+05:02:10.078 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG_0015{,.tif}
+05:02:10.079 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG_0016{,.tif}
+05:02:10.079 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG_0017{,.tif}
+05:02:10.080 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG_0018{,.tif}
+05:02:10.080 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG_0019{,.tif}
+05:02:10.081 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG_0020{,.tif}
+05:02:10.081 INFO ocrd.workspace - Saving mets '/home/kba/build/github.com/OCR-D/monorepo/assets/data/kant_aufklaerung_1784-page-block/data/mets.xml'
+05:02:10.236 INFO update-bags - FINISHED: /home/kba/build/github.com/OCR-D/monorepo/assets/data/kant_aufklaerung_1784-page-block
+05:02:10.237 INFO update-bags - >>>>> /home/kba/build/github.com/OCR-D/monorepo/assets/data/pembroke_werke_1766
+05:02:10.287 INFO update-bags - Renaming DEFAULT/FILE_0010_DEFAULT{,.tif}
+05:02:10.301 INFO ocrd.workspace - Saving mets '/home/kba/build/github.com/OCR-D/monorepo/assets/data/pembroke_werke_1766/data/mets.xml'
+05:02:10.360 INFO update-bags - FINISHED: /home/kba/build/github.com/OCR-D/monorepo/assets/data/pembroke_werke_1766
+05:02:10.361 INFO update-bags - >>>>> /home/kba/build/github.com/OCR-D/monorepo/assets/data/page_dewarp
+05:02:10.363 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG-boston_cooking_a{,.jpg}
+05:02:10.364 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG-boston_cooking_b{,.jpg}
+05:02:10.367 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG-linguistics_thesis_a{,.jpg}
+05:02:10.367 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG-linguistics_thesis_b{,.jpg}
+05:02:10.367 INFO ocrd.workspace - Saving mets '/home/kba/build/github.com/OCR-D/monorepo/assets/data/page_dewarp/data/mets.xml'
+05:02:10.455 INFO update-bags - FINISHED: /home/kba/build/github.com/OCR-D/monorepo/assets/data/page_dewarp
+05:02:10.456 INFO update-bags - >>>>> /home/kba/build/github.com/OCR-D/monorepo/assets/data/leptonica_samples
+05:02:10.457 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG_1555_003{,.jpg}
+05:02:10.458 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG_1555_007{,.jpg}
+05:02:10.459 INFO ocrd.workspace - Saving mets '/home/kba/build/github.com/OCR-D/monorepo/assets/data/leptonica_samples/data/mets.xml'
+05:02:10.504 INFO update-bags - FINISHED: /home/kba/build/github.com/OCR-D/monorepo/assets/data/leptonica_samples
+05:02:10.505 INFO update-bags - >>>>> /home/kba/build/github.com/OCR-D/monorepo/assets/data/glyph-consistency
+05:02:10.506 INFO update-bags - Renaming OCR-D-GT-PAGE/FAULTY_GLYPHS{,.xml}
+05:02:10.508 INFO ocrd.workspace - Saving mets '/home/kba/build/github.com/OCR-D/monorepo/assets/data/glyph-consistency/data/mets.xml'
+05:02:10.551 INFO update-bags - FINISHED: /home/kba/build/github.com/OCR-D/monorepo/assets/data/glyph-consistency
+05:02:10.552 INFO update-bags - >>>>> /home/kba/build/github.com/OCR-D/monorepo/assets/data/column-samples
+05:02:10.554 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG-bengel_abriss01_1751-0007{,.jpg}
+05:02:10.554 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG-eiteritz_affe_1719-0206{,.jpg}
+05:02:10.554 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG-dannhauer_catechismus04_1653-0585{,.jpg}
+05:02:10.555 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG-fleming_jaeger01_1719-0117{,.jpg}
+05:02:10.555 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG-corvinus_frauenzimmer_1715-0054{,.jpg}
+05:02:10.555 INFO ocrd.workspace - Saving mets '/home/kba/build/github.com/OCR-D/monorepo/assets/data/column-samples/data/mets.xml'
+05:02:10.621 INFO update-bags - FINISHED: /home/kba/build/github.com/OCR-D/monorepo/assets/data/column-samples
+05:02:10.621 INFO update-bags - >>>>> /home/kba/build/github.com/OCR-D/monorepo/assets/data/DIBCO11-machine_printed
+05:02:10.625 INFO update-bags - Renaming OCR-D-IMG-BIN/OCR-D-IMG-BIN_PR1{,.tif}
+05:02:10.627 INFO update-bags - Renaming OCR-D-IMG-BIN/OCR-D-IMG-BIN_PR2{,.tif}
+05:02:10.628 INFO update-bags - Renaming OCR-D-IMG-BIN/OCR-D-IMG-BIN_PR3{,.tif}
+05:02:10.629 INFO update-bags - Renaming OCR-D-IMG-BIN/OCR-D-IMG-BIN_PR4{,.tif}
+05:02:10.629 INFO update-bags - Renaming OCR-D-IMG-BIN/OCR-D-IMG-BIN_PR5{,.tif}
+05:02:10.630 INFO update-bags - Renaming OCR-D-IMG-BIN/OCR-D-IMG-BIN_PR6{,.tif}
+05:02:10.631 INFO update-bags - Renaming OCR-D-IMG-BIN/OCR-D-IMG-BIN_PR7{,.tif}
+05:02:10.631 INFO update-bags - Renaming OCR-D-IMG-BIN/OCR-D-IMG-BIN_PR8{,.tif}
+05:02:10.632 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG_PR1{,.png}
+05:02:10.632 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG_PR2{,.png}
+05:02:10.633 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG_PR3{,.png}
+05:02:10.634 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG_PR4{,.png}
+05:02:10.634 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG_PR5{,.png}
+05:02:10.635 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG_PR6{,.png}
+05:02:10.635 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG_PR7{,.png}
+05:02:10.636 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG_PR8{,.png}
+05:02:10.636 INFO ocrd.workspace - Saving mets '/home/kba/build/github.com/OCR-D/monorepo/assets/data/DIBCO11-machine_printed/data/mets.xml'
+05:02:10.738 INFO update-bags - FINISHED: /home/kba/build/github.com/OCR-D/monorepo/assets/data/DIBCO11-machine_printed
+05:02:10.739 INFO update-bags - >>>>> /home/kba/build/github.com/OCR-D/monorepo/assets/data/grenzboten-test
+05:02:10.740 INFO update-bags - Renaming OCR-D-IMG-BIN/p179470{,.tif}
+05:02:10.741 INFO ocrd.workspace - Saving mets '/home/kba/build/github.com/OCR-D/monorepo/assets/data/grenzboten-test/data/mets.xml'
+05:02:10.788 INFO update-bags - FINISHED: /home/kba/build/github.com/OCR-D/monorepo/assets/data/grenzboten-test
+05:02:10.788 INFO update-bags - >>>>> /home/kba/build/github.com/OCR-D/monorepo/assets/data/SBB0000F29300010000
+05:02:10.795 INFO update-bags - Renaming OCR-D-IMG/FILE_0001_IMAGE{,.tif}
+05:02:10.796 INFO update-bags - Renaming OCR-D-IMG/FILE_0002_IMAGE{,.tif}
+05:02:10.796 INFO update-bags - Renaming OCR-D-IMG/FILE_0005_IMAGE{,.tif}
+05:02:10.797 INFO update-bags - Renaming OCR-D-IMG-BIN/FILE_0001_IMAGE_BIN{,.tif}
+05:02:10.797 INFO update-bags - Renaming OCR-D-IMG-BIN/FILE_0002_IMAGE_BIN{,.tif}
+05:02:10.799 INFO update-bags - Renaming OCR-D-GT-PAGE/FILE_0001_FULLTEXT{,.xml}
+05:02:10.799 INFO update-bags - Renaming OCR-D-GT-PAGE/FILE_0002_FULLTEXT{,.xml}
+05:02:10.799 INFO ocrd.workspace - Saving mets '/home/kba/build/github.com/OCR-D/monorepo/assets/data/SBB0000F29300010000/data/mets.xml'
+05:02:10.899 INFO update-bags - FINISHED: /home/kba/build/github.com/OCR-D/monorepo/assets/data/SBB0000F29300010000
+05:02:10.900 INFO update-bags - >>>>> /home/kba/build/github.com/OCR-D/monorepo/assets/data/kant_aufklaerung_1784-binarized
+05:02:10.902 INFO update-bags - Renaming OCR-D-GT-WORD/INPUT_0017{,.xml}
+05:02:10.902 INFO update-bags - Renaming OCR-D-GT-WORD/INPUT_0020{,.xml}
+05:02:10.902 INFO update-bags - Renaming https:/github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/data/OCR-D-IMG/INPUT_0017{,.tif}
+05:02:10.903 INFO update-bags - Renaming https:/github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/data/OCR-D-IMG/INPUT_0020{,.tif}
+05:02:10.903 INFO update-bags - Renaming OCR-D-IMG-BIN/BIN_0017{,.png}
+05:02:10.903 INFO update-bags - Renaming OCR-D-IMG-BIN/BIN_0020{,.png}
+05:02:10.904 INFO update-bags - Renaming OCR-D-IMG-NRM/OCR-D-IMG-NRM_0017{,.png}
+05:02:10.904 INFO update-bags - Renaming OCR-D-IMG-NRM/OCR-D-IMG-NRM_0020{,.png}
+05:02:10.904 INFO update-bags - Renaming OCR-D-IMG-1BIT/OCR-D-IMG-1BIT_0017{,.png}
+05:02:10.904 INFO ocrd.workspace - Saving mets '/home/kba/build/github.com/OCR-D/monorepo/assets/data/kant_aufklaerung_1784-binarized/data/mets.xml'
+05:02:10.969 INFO update-bags - FINISHED: /home/kba/build/github.com/OCR-D/monorepo/assets/data/kant_aufklaerung_1784-binarized
+05:02:10.970 INFO update-bags - >>>>> /home/kba/build/github.com/OCR-D/monorepo/assets/data/sample_bagit-with-fetch
+05:02:10.970 ERROR update-bags - Something's wrong with OCRD-ZIP at /home/kba/build/github.com/OCR-D/monorepo/assets/data/sample_bagit-with-fetch, no data/mets.xml!
+05:02:10.970 INFO update-bags - >>>>> /home/kba/build/github.com/OCR-D/monorepo/assets/data/schema
+05:02:10.970 ERROR update-bags - Something's wrong with OCRD-ZIP at /home/kba/build/github.com/OCR-D/monorepo/assets/data/schema, no data/mets.xml!
+05:02:10.970 INFO update-bags - >>>>> /home/kba/build/github.com/OCR-D/monorepo/assets/data/scribo-test
+05:02:10.972 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG-orig_tiff{,.tif}
+05:02:10.972 INFO update-bags - Renaming OCR-D-IMG-BIN-SAUVOLA-MS-FG/OCR-D-IMG-orig_sauvola-ms-fg_png{,.jpg}
+05:02:10.973 INFO update-bags - Renaming OCR-D-IMG-BIN-SAUVOLA-MS/OCR-D-IMG-orig_sauvola-ms_png{,.jpg}
+05:02:10.973 INFO update-bags - Renaming OCR-D-IMG-BIN-SAUVOLA-MS-SPLIT/OCR-D-IMG-orig_sauvola-ms-split_png{,.jpg}
+05:02:10.973 INFO update-bags - Renaming OCR-D-IMG-BIN-SAUVOLA/OCR-D-IMG-orig_sauvola_png{,.jpg}
+05:02:10.973 INFO ocrd.workspace - Saving mets '/home/kba/build/github.com/OCR-D/monorepo/assets/data/scribo-test/data/mets.xml'
+05:02:11.037 INFO update-bags - FINISHED: /home/kba/build/github.com/OCR-D/monorepo/assets/data/scribo-test
+05:02:11.037 INFO update-bags - >>>>> /home/kba/build/github.com/OCR-D/monorepo/assets/data/kant_aufklaerung_1784-jp2
+05:02:11.039 INFO update-bags - Renaming OCR-D-IMG/INPUT_0020{,.jp2}
+05:02:11.039 INFO update-bags - Renaming OCR-D-GT-PAGE/PAGE_0020_PAGE{,.xml}
+05:02:11.040 INFO ocrd.workspace - Saving mets '/home/kba/build/github.com/OCR-D/monorepo/assets/data/kant_aufklaerung_1784-jp2/data/mets.xml'
+05:02:11.093 INFO update-bags - FINISHED: /home/kba/build/github.com/OCR-D/monorepo/assets/data/kant_aufklaerung_1784-jp2
+05:02:11.093 INFO update-bags - >>>>> /home/kba/build/github.com/OCR-D/monorepo/assets/data/communist_manifesto
+05:02:11.094 INFO update-bags - Renaming OCR-D-IMG/OCR-D-IMG_0015{,.png}
+05:02:11.095 INFO ocrd.workspace - Saving mets '/home/kba/build/github.com/OCR-D/monorepo/assets/data/communist_manifesto/data/mets.xml'
+05:02:11.172 INFO update-bags - FINISHED: /home/kba/build/github.com/OCR-D/monorepo/assets/data/communist_manifesto
+05:02:11.173 INFO update-bags - >>>>> /home/kba/build/github.com/OCR-D/monorepo/assets/data/dfki-testdata
+05:02:11.176 WARNING update-bags - Has the WRONG extension, is '.tiff' should be '.tif'
+05:02:11.176 INFO update-bags - Renaming OCR-D-IMG/becker_quaestio_1586_00013.tiff{,.tif}
+05:02:11.176 INFO update-bags - Renaming OCR-D-IMG-BIN/becker_quaestio_1586_00013.bin{,.png}
+05:02:11.177 INFO update-bags - Renaming OCR-D-IMG-DESKEW/becker_quaestio_1586_00013.ds{,.png}
+05:02:11.177 INFO update-bags - Renaming OCR-D-IMG-DEWARP/becker_quaestio_1586_00013.dw{,.png}
+05:02:11.178 INFO update-bags - Renaming OCR-D-IMG-BIN-NRM/becker_quaestio_1586_00013.nrm{,.png}
+05:02:11.178 INFO update-bags - Renaming OCR-D-IMG-CROP/becker_quaestio_1586_00013.pf{,.png}
+05:02:11.179 ERROR update-bags - No rule to translate 'text/plain' to an extension. Skipping OCR-D-IMG-PRINTSPACE/becker_quaestio_1586_00013-frame-pf.dat
+05:02:11.179 INFO ocrd.workspace - Saving mets '/home/kba/build/github.com/OCR-D/monorepo/assets/data/dfki-testdata/data/mets.xml'
+05:02:11.343 INFO update-bags - FINISHED: /home/kba/build/github.com/OCR-D/monorepo/assets/data/dfki-testdata

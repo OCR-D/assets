@@ -5,7 +5,7 @@
 	<Created>2019-02-04T04:51:06</Created>
 	<LastChange>2019-02-08T14:50:57</LastChange>
 	<Comments>Coordinates are relative to original image</Comments></Metadata>
-	<Page imageFilename="https://raw.githubusercontent.com/OCR-D/assets/master/data/kant_aufklaerung_1784/data/OCR-D-IMG/INPUT_0020" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="1457" imageHeight="2084" type="content" readingDirection="left-to-right" textLineOrder="top-to-bottom" primaryLanguage="German">
+	<Page imageFilename="https://raw.githubusercontent.com/OCR-D/assets/master/data/kant_aufklaerung_1784/data/OCR-D-IMG/INPUT_0020.tif" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="1457" imageHeight="2084" type="content" readingDirection="left-to-right" textLineOrder="top-to-bottom" primaryLanguage="German">
 	<ReadingOrder>
 	<OrderedGroup id="ro357564684568544579089">
 	<RegionRefIndexed regionRef="r0" index="0"/>

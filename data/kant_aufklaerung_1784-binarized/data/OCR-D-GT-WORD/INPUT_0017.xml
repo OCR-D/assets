@@ -6,15 +6,15 @@
         <LastChange>2017-03-06T17:01:59.992+01:00</LastChange>
     </Metadata>
     <Page
-        imageFilename="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/kant_aufklaerung_1784_0017.tif"
+        imageFilename="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/data/OCR-D-IMG/INPUT_0017.tif"
         imageWidth="1457"
         imageHeight="2083"
         type="content">
         <AlternativeImage
-            filename="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784-binarized/kant_aufklaerung_1784_0017.bin.png"
+            filename="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784-binarized/data/OCR-D-IMG-BIN/BIN_0017.png"
             comments="binarized"/>
         <AlternativeImage
-            filename="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784-binarized/kant_aufklaerung_1784_0017.nrm.png"
+            filename="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784-binarized/data/OCR-D-IMG-NRM/OCR-D-IMG-NRM_0017.png"
             comments="gray"/>
         <PrintSpace>
             <Coords points="101,232 932,232 932,1794 101,1794"/>

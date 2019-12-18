@@ -156,10 +156,10 @@
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-IMG">
       <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0001">
-        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/data/OCR-D-IMG/INPUT_0017.tif"/>
+        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-IMG/OCR-D-IMG_0001.tif"/>
       </mets:file>
       <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0002">
-        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/data/OCR-D-IMG/INPUT_0020.tif"/>
+        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-IMG/OCR-D-IMG_0002.tif"/>
       </mets:file>
     </mets:fileGrp>
   </mets:fileSec>

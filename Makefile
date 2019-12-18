@@ -38,7 +38,7 @@ start: dist
 	cd dist && python2 -m SimpleHTTPServer $(PORT)
 
 # Validate all
-validate: validate-workspace validate-ocrdzip
+validate: validate-ocrdzip validate-workspace
 
 WORKSPACE_VALIDATE_FILE = /tmp/ocrd-assets-failed-workspace
 

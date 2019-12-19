@@ -18,38 +18,38 @@
   <mets:structMap TYPE="PHYSICAL">
     <mets:div TYPE="physSequence">
       <mets:div ID="SAME" TYPE="page">
-        <mets:fptr FILEID="OCR-D-IMG-orig_tiff"/>
-        <mets:fptr FILEID="OCR-D-IMG-orig_sauvola-ms-fg_png"/>
-        <mets:fptr FILEID="OCR-D-IMG-orig_sauvola-ms_png"/>
-        <mets:fptr FILEID="OCR-D-IMG-orig_sauvola-ms-split_png"/>
-        <mets:fptr FILEID="OCR-D-IMG-orig_sauvola_png"/>
+        <mets:fptr FILEID="OCR-D-IMG-orig"/>
+        <mets:fptr FILEID="OCR-D-IMG-BIN_sauvola-ms-fg"/>
+        <mets:fptr FILEID="OCR-D-IMG-BIN_sauvola-ms"/>
+        <mets:fptr FILEID="OCR-D-IMG-BIN_sauvola-ms-split"/>
+        <mets:fptr FILEID="OCR-D-IMG-BIN_sauvola"/>
       </mets:div>
     </mets:div>
   </mets:structMap>
   <mets:fileSec>
     <mets:fileGrp USE="OCR-D-IMG">
-      <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG-orig_tiff">
-        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG-orig_tiff.tif"/>
+      <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG-orig">
+        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG-orig.tif"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-IMG-BIN-SAUVOLA-MS-FG">
-      <mets:file MIMETYPE="image/jpg" ID="OCR-D-IMG-orig_sauvola-ms-fg_png">
-        <mets:FLocat xlink:href="OCR-D-IMG-BIN-SAUVOLA-MS-FG/OCR-D-IMG-orig_sauvola-ms-fg_png.jpg"/>
+      <mets:file MIMETYPE="image/png" ID="OCR-D-IMG-BIN_sauvola-ms-fg">
+        <mets:FLocat xlink:href="OCR-D-IMG-BIN-SAUVOLA-MS-FG/OCR-D-IMG-BIN_sauvola-ms-fg.png"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-IMG-BIN-SAUVOLA-MS">
-      <mets:file MIMETYPE="image/jpg" ID="OCR-D-IMG-orig_sauvola-ms_png">
-        <mets:FLocat xlink:href="OCR-D-IMG-BIN-SAUVOLA-MS/OCR-D-IMG-orig_sauvola-ms_png.jpg"/>
+      <mets:file MIMETYPE="image/png" ID="OCR-D-IMG-BIN_sauvola-ms">
+        <mets:FLocat xlink:href="OCR-D-IMG-BIN-SAUVOLA-MS/OCR-D-IMG-BIN_sauvola-ms.png"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-IMG-BIN-SAUVOLA-MS-SPLIT">
-      <mets:file MIMETYPE="image/jpg" ID="OCR-D-IMG-orig_sauvola-ms-split_png">
-        <mets:FLocat xlink:href="OCR-D-IMG-BIN-SAUVOLA-MS-SPLIT/OCR-D-IMG-orig_sauvola-ms-split_png.jpg"/>
+      <mets:file MIMETYPE="image/png" ID="OCR-D-IMG-BIN_sauvola-ms-split">
+        <mets:FLocat xlink:href="OCR-D-IMG-BIN-SAUVOLA-MS-SPLIT/OCR-D-IMG-BIN_sauvola-ms-split.png"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-IMG-BIN-SAUVOLA">
-      <mets:file MIMETYPE="image/jpg" ID="OCR-D-IMG-orig_sauvola_png">
-        <mets:FLocat xlink:href="OCR-D-IMG-BIN-SAUVOLA/OCR-D-IMG-orig_sauvola_png.jpg"/>
+      <mets:file MIMETYPE="image/png" ID="OCR-D-IMG-BIN_sauvola">
+        <mets:FLocat xlink:href="OCR-D-IMG-BIN-SAUVOLA/OCR-D-IMG-BIN_sauvola.png"/>
       </mets:file>
     </mets:fileGrp>
   </mets:fileSec>

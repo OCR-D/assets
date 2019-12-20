@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns:xsl="http://www.w3.org/1999/XSL/Transform#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>OCR-D/core 2.0.2</Creator>
+    <Created>2019-12-20T11:15:20</Created>
+    <LastChange>2019-12-20T11:15:20</LastChange>
+    <MetadataItem type="processingStep" name="preprocessing/optimization/binarization" value="ocrd-olena-binarize">
+      <Labels>
+        <Label value="otsu" type="impl"/>
+        <Label value="0.34" type="k"/>
+        <Label value="101" type="win-size"/>
+      </Labels>
+    </MetadataItem>
+  </Metadata>
+  <Page imageFilename="OCR-D-IMG/OCR-D-IMG-orig_tiff.tif" imageWidth="2097" imageHeight="3062" type="content">
+    <AlternativeImage filename="OCR-D-IMG-BIN-OTSU/OCR-D-PAGE-BIN-OTSU-orig_tiff-BIN_otsu.png" comments="binarized"/>
+  </Page>
+</PcGts>

@@ -1,55 +1,140 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-0.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/version17/mets.v1-7.xsd http://www.loc.gov/mix/v10 http://www.loc.gov/standards/mix/mix10/mix10.xsd">
-  <mets:metsHdr CREATEDATE="2018-11-14 18:35:02.995493">
+  <mets:metsHdr CREATEDATE="2019-12-20T13:08:50.693051">
     <mets:agent TYPE="OTHER" OTHERTYPE="SOFTWARE" ROLE="CREATOR">
-      <mets:name>ocrd/core v0.9.0</mets:name>
+      <mets:name>ocrd/core v2.0.2</mets:name>
     </mets:agent>
   </mets:metsHdr>
+  <mets:structMap TYPE="PHYSICAL">
+    <mets:div TYPE="physSequence">
+      <mets:div TYPE="page" ID="page">
+        <mets:fptr FILEID="OCR-D-IMG-orig_tiff"/>
+        <mets:fptr FILEID="OCR-D-SEG-PAGE-SAUVOLA-orig_tiff-BIN_sauvola"/>
+        <mets:fptr FILEID="OCR-D-SEG-PAGE-SAUVOLA-orig_tiff"/>
+        <mets:fptr FILEID="OCR-D-SEG-PAGE-SAUVOLA-MS-FG-orig_tiff-BIN_sauvola-ms-fg"/>
+        <mets:fptr FILEID="OCR-D-SEG-PAGE-SAUVOLA-MS-FG-orig_tiff"/>
+        <mets:fptr FILEID="OCR-D-SEG-PAGE-SAUVOLA-MS-orig_tiff-BIN_sauvola-ms"/>
+        <mets:fptr FILEID="OCR-D-SEG-PAGE-SAUVOLA-MS-orig_tiff"/>
+        <mets:fptr FILEID="OCR-D-SEG-PAGE-SAUVOLA-MS-SPLIT-orig_tiff-BIN_sauvola-ms-split"/>
+        <mets:fptr FILEID="OCR-D-SEG-PAGE-SAUVOLA-MS-SPLIT-orig_tiff"/>
+        <mets:fptr FILEID="OCR-D-SEG-PAGE-WOLF-orig_tiff-BIN_wolf"/>
+        <mets:fptr FILEID="OCR-D-SEG-PAGE-WOLF-orig_tiff"/>
+        <mets:fptr FILEID="OCR-D-SEG-PAGE-NIBLACK-orig_tiff-BIN_niblack"/>
+        <mets:fptr FILEID="OCR-D-SEG-PAGE-NIBLACK-orig_tiff"/>
+        <mets:fptr FILEID="OCR-D-SEG-PAGE-KIM-orig_tiff-BIN_kim"/>
+        <mets:fptr FILEID="OCR-D-SEG-PAGE-KIM-orig_tiff"/>
+        <mets:fptr FILEID="OCR-D-SEG-PAGE-SINGH-orig_tiff-BIN_singh"/>
+        <mets:fptr FILEID="OCR-D-SEG-PAGE-SINGH-orig_tiff"/>
+        <mets:fptr FILEID="OCR-D-SEG-PAGE-OTSU-orig_tiff-BIN_otsu"/>
+        <mets:fptr FILEID="OCR-D-SEG-PAGE-OTSU-orig_tiff"/>
+      </mets:div>
+    </mets:div>
+  </mets:structMap>
   <mets:dmdSec ID="DMDLOG_0001">
     <mets:mdWrap MDTYPE="MODS">
       <mets:xmlData>
         <mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
-          <mods:identifier type="urn">urn:ocr-d/scribo</mods:identifier>
+          <mods:identifier type="purl">urn:ocr-d/scribo</mods:identifier>
         </mods:mods>
       </mets:xmlData>
     </mets:mdWrap>
   </mets:dmdSec>
-  <mets:amdSec ID="AMD"> </mets:amdSec>
-  <mets:structMap TYPE="PHYSICAL">
-    <mets:div TYPE="physSequence">
-      <mets:div ID="SAME" TYPE="page">
-        <mets:fptr FILEID="OCR-D-IMG-orig"/>
-        <mets:fptr FILEID="OCR-D-IMG-BIN_sauvola-ms-fg"/>
-        <mets:fptr FILEID="OCR-D-IMG-BIN_sauvola-ms"/>
-        <mets:fptr FILEID="OCR-D-IMG-BIN_sauvola-ms-split"/>
-        <mets:fptr FILEID="OCR-D-IMG-BIN_sauvola"/>
-      </mets:div>
-    </mets:div>
-  </mets:structMap>
+  <mets:amdSec ID="AMD">
+    </mets:amdSec>
   <mets:fileSec>
     <mets:fileGrp USE="OCR-D-IMG">
-      <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG-orig">
-        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG-orig.tif"/>
-      </mets:file>
-    </mets:fileGrp>
-    <mets:fileGrp USE="OCR-D-IMG-BIN-SAUVOLA-MS-FG">
-      <mets:file MIMETYPE="image/png" ID="OCR-D-IMG-BIN_sauvola-ms-fg">
-        <mets:FLocat xlink:href="OCR-D-IMG-BIN-SAUVOLA-MS-FG/OCR-D-IMG-BIN_sauvola-ms-fg.png"/>
-      </mets:file>
-    </mets:fileGrp>
-    <mets:fileGrp USE="OCR-D-IMG-BIN-SAUVOLA-MS">
-      <mets:file MIMETYPE="image/png" ID="OCR-D-IMG-BIN_sauvola-ms">
-        <mets:FLocat xlink:href="OCR-D-IMG-BIN-SAUVOLA-MS/OCR-D-IMG-BIN_sauvola-ms.png"/>
-      </mets:file>
-    </mets:fileGrp>
-    <mets:fileGrp USE="OCR-D-IMG-BIN-SAUVOLA-MS-SPLIT">
-      <mets:file MIMETYPE="image/png" ID="OCR-D-IMG-BIN_sauvola-ms-split">
-        <mets:FLocat xlink:href="OCR-D-IMG-BIN-SAUVOLA-MS-SPLIT/OCR-D-IMG-BIN_sauvola-ms-split.png"/>
+      <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG-orig_tiff">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG/OCR-D-IMG-orig_tiff.tif"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-IMG-BIN-SAUVOLA">
-      <mets:file MIMETYPE="image/png" ID="OCR-D-IMG-BIN_sauvola">
-        <mets:FLocat xlink:href="OCR-D-IMG-BIN-SAUVOLA/OCR-D-IMG-BIN_sauvola.png"/>
+      <mets:file MIMETYPE="image/png" ID="OCR-D-SEG-PAGE-SAUVOLA-orig_tiff-BIN_sauvola">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG-BIN-SAUVOLA/OCR-D-SEG-PAGE-SAUVOLA-orig_tiff-BIN_sauvola.png"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-SEG-PAGE-SAUVOLA">
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-SEG-PAGE-SAUVOLA-orig_tiff">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-SEG-PAGE-SAUVOLA/OCR-D-SEG-PAGE-SAUVOLA-orig_tiff.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-IMG-BIN-SAUVOLA-MS-FG">
+      <mets:file MIMETYPE="image/png" ID="OCR-D-SEG-PAGE-SAUVOLA-MS-FG-orig_tiff-BIN_sauvola-ms-fg">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG-BIN-SAUVOLA-MS-FG/OCR-D-SEG-PAGE-SAUVOLA-MS-FG-orig_tiff-BIN_sauvola-ms-fg.png"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-SEG-PAGE-SAUVOLA-MS-FG">
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-SEG-PAGE-SAUVOLA-MS-FG-orig_tiff">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-SEG-PAGE-SAUVOLA-MS-FG/OCR-D-SEG-PAGE-SAUVOLA-MS-FG-orig_tiff.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-IMG-BIN-SAUVOLA-MS">
+      <mets:file MIMETYPE="image/png" ID="OCR-D-SEG-PAGE-SAUVOLA-MS-orig_tiff-BIN_sauvola-ms">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG-BIN-SAUVOLA-MS/OCR-D-SEG-PAGE-SAUVOLA-MS-orig_tiff-BIN_sauvola-ms.png"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-SEG-PAGE-SAUVOLA-MS">
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-SEG-PAGE-SAUVOLA-MS-orig_tiff">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-SEG-PAGE-SAUVOLA-MS/OCR-D-SEG-PAGE-SAUVOLA-MS-orig_tiff.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-IMG-BIN-SAUVOLA-MS-SPLIT">
+      <mets:file MIMETYPE="image/png" ID="OCR-D-SEG-PAGE-SAUVOLA-MS-SPLIT-orig_tiff-BIN_sauvola-ms-split">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG-BIN-SAUVOLA-MS-SPLIT/OCR-D-SEG-PAGE-SAUVOLA-MS-SPLIT-orig_tiff-BIN_sauvola-ms-split.png"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-SEG-PAGE-SAUVOLA-MS-SPLIT">
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-SEG-PAGE-SAUVOLA-MS-SPLIT-orig_tiff">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-SEG-PAGE-SAUVOLA-MS-SPLIT/OCR-D-SEG-PAGE-SAUVOLA-MS-SPLIT-orig_tiff.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-IMG-BIN-WOLF">
+      <mets:file MIMETYPE="image/png" ID="OCR-D-SEG-PAGE-WOLF-orig_tiff-BIN_wolf">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG-BIN-WOLF/OCR-D-SEG-PAGE-WOLF-orig_tiff-BIN_wolf.png"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-SEG-PAGE-WOLF">
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-SEG-PAGE-WOLF-orig_tiff">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-SEG-PAGE-WOLF/OCR-D-SEG-PAGE-WOLF-orig_tiff.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-IMG-BIN-NIBLACK">
+      <mets:file MIMETYPE="image/png" ID="OCR-D-SEG-PAGE-NIBLACK-orig_tiff-BIN_niblack">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG-BIN-NIBLACK/OCR-D-SEG-PAGE-NIBLACK-orig_tiff-BIN_niblack.png"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-SEG-PAGE-NIBLACK">
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-SEG-PAGE-NIBLACK-orig_tiff">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-SEG-PAGE-NIBLACK/OCR-D-SEG-PAGE-NIBLACK-orig_tiff.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-IMG-BIN-KIM">
+      <mets:file MIMETYPE="image/png" ID="OCR-D-SEG-PAGE-KIM-orig_tiff-BIN_kim">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG-BIN-KIM/OCR-D-SEG-PAGE-KIM-orig_tiff-BIN_kim.png"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-SEG-PAGE-KIM">
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-SEG-PAGE-KIM-orig_tiff">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-SEG-PAGE-KIM/OCR-D-SEG-PAGE-KIM-orig_tiff.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-IMG-BIN-SINGH">
+      <mets:file MIMETYPE="image/png" ID="OCR-D-SEG-PAGE-SINGH-orig_tiff-BIN_singh">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG-BIN-SINGH/OCR-D-SEG-PAGE-SINGH-orig_tiff-BIN_singh.png"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-SEG-PAGE-SINGH">
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-SEG-PAGE-SINGH-orig_tiff">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-SEG-PAGE-SINGH/OCR-D-SEG-PAGE-SINGH-orig_tiff.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-IMG-BIN-OTSU">
+      <mets:file MIMETYPE="image/png" ID="OCR-D-SEG-PAGE-OTSU-orig_tiff-BIN_otsu">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG-BIN-OTSU/OCR-D-SEG-PAGE-OTSU-orig_tiff-BIN_otsu.png"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-SEG-PAGE-OTSU">
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-SEG-PAGE-OTSU-orig_tiff">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-SEG-PAGE-OTSU/OCR-D-SEG-PAGE-OTSU-orig_tiff.xml"/>
       </mets:file>
     </mets:fileGrp>
   </mets:fileSec>

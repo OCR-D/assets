@@ -2,17 +2,17 @@
 <PcGts xmlns:xsl="http://www.w3.org/1999/XSL/Transform#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata>
     <Creator>OCR-D/core 2.0.2</Creator>
-    <Created>2019-12-20T12:21:58</Created>
-    <LastChange>2019-12-20T12:21:59</LastChange>
+    <Created>2019-12-20T12:22:13</Created>
+    <LastChange>2019-12-20T12:22:13</LastChange>
     <MetadataItem type="processingStep" name="preprocessing/optimization/binarization" value="ocrd-olena-binarize">
       <Labels>
-        <Label value="kim" type="impl"/>
+        <Label value="otsu" type="impl"/>
         <Label value="0.34" type="k"/>
         <Label value="101" type="win-size"/>
       </Labels>
     </MetadataItem>
   </Metadata>
-  <Page imageFilename="OCR-D-IMG/OCR-D-IMG-orig_tiff.tif" imageWidth="2097" imageHeight="3062" type="content">
-    <AlternativeImage filename="OCR-D-IMG-BIN-kim/OCR-D-SEG-PAGE-kim-orig_tiff-BIN_kim.png" comments="binarized"/>
+  <Page imageFilename="OCR-D-IMG/OCR-D-IMG_ORIG_TIFF.tif.tif" imageWidth="2097" imageHeight="3062" type="content">
+    <AlternativeImage filename="OCR-D-IMG-BIN-otsu/OCR-D-SEG-PAGE-otsu_ORIG_TIFF.tif-BIN_otsu.png" comments="binarized"/>
   </Page>
 </PcGts>

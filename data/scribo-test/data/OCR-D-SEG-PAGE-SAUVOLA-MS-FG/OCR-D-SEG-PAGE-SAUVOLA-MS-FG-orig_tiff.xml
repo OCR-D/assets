@@ -12,7 +12,7 @@
       </Labels>
     </MetadataItem>
   </Metadata>
-  <Page imageFilename="OCR-D-IMG/OCR-D-IMG-orig_tiff.tif" imageWidth="2097" imageHeight="3062" type="content">
-    <AlternativeImage filename="OCR-D-IMG-BIN-SAUVOLA-MS-FG/OCR-D-SEG-PAGE-SAUVOLA-MS-FG-orig_tiff-BIN_sauvola-ms-fg.png" comments="binarized"/>
+  <Page imageFilename="OCR-D-IMG/OCR-D-IMG_ORIG_TIFF.tif.tif" imageWidth="2097" imageHeight="3062" type="content">
+    <AlternativeImage filename="OCR-D-IMG-BIN-SAUVOLA-MS-FG/OCR-D-SEG-PAGE-SAUVOLA-MS-FG_ORIG_TIFF.tif-BIN_sauvola-ms-fg.png" comments="binarized"/>
   </Page>
 </PcGts>

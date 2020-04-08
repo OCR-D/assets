@@ -7,7 +7,7 @@
 * [SBB0000F29300010000](./data/SBB0000F29300010000/): Pages 1-5 of [http://resolver.staatsbibliothek-berlin.de/SBB0000F29300010000](http://resolver.staatsbibliothek-berlin.de/SBB0000F29300010000)
 * [kant_aufklaerung_1784](./data/kant_aufklaerung_1784): [http://ocr-d.de/sites/all/GTDaten/kant_aufklaerung_1784.zip](http://ocr-d.de/sites/all/GTDaten/kant_aufklaerung_1784.zip), with TIFF compressed with JPEG + METS for second page
 * [kant_aufklaerung_1784-binarized](./data/kant_aufklaerung_1784): [http://ocr-d.de/sites/all/GTDaten/kant_aufklaerung_1784.zip](http://ocr-d.de/sites/all/GTDaten/kant_aufklaerung_1784.zip), with binarized/gray produced by ocropus-nlbin + METS for all
-* [kant_aufklaerung_1784-page-block-line-word_glyph](./data/kant_aufklaerung_1784-page-block-line-word_glyph): Sample Page file with region, word and glyphs.
+* [kant_aufklaerung_1784-page-region-line-word_glyph](./data/kant_aufklaerung_1784-page-region-line-word_glyph): Sample Page file with region, word and glyphs.
 * [test.ocrd.zip](./data/test.ocrd.zip): OCRD-ZIP of `kant_aufklaerung_1784`.
 * [param-binarize.json](./data/param-binarize.json): Sample parameter JSON file
 * [sample_bagit-with-fetch](./data/sample_bagit-with-fetch): OCRD-ZIP of `PPN595930174` (simplified to file group GDZOCR and PRESENTATION).

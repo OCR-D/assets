@@ -18,9 +18,9 @@
         <AlternativeImage
             filename="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784-binarized/data/OCR-D-IMG-NRM/OCR-D-IMG-NRM_0020.png"
             comments="gray"/>
-        <PrintSpace>
+        <Border>
             <Coords points="468,250 1349,250 1349,1830 468,1830"/>
-        </PrintSpace>
+        </Border>
         <ReadingOrder>
             <OrderedGroup id="ro_1488818689634" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r_1_1"/>

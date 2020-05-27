@@ -10,9 +10,9 @@
         imageWidth="1457"
         imageHeight="2083"
         type="content">
-        <PrintSpace>
+        <Border>
             <Coords points="101,232 932,232 932,1794 101,1794"/>
-        </PrintSpace>
+        </Border>
         <ReadingOrder>
             <OrderedGroup id="ro_1488816120026" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r_1_1"/>

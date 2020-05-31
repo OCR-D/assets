@@ -48,6 +48,7 @@ validate-workspace:
 	@find $(PWD)/data -mindepth 1 -maxdepth 1 -type d \
 			-not -name '.data' \
 			-not -name 'schema' \
+			-not -name 'kant_aufklaerung_1784-complex' \
 			-not -name 'glyph-consistency' \
 			-not -name 'sample_bagit-with-fetch' \
 		|while read dataset;do \

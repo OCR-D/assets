@@ -97,6 +97,13 @@
         </mets:digiprovMD>
     </mets:amdSec>
 
+    <mets:fileSec>
+        <mets:fileGrp USE="OCR-D-IMG">
+            <mets:file ID="FILE_0005_IMAGE" MIMETYPE="image/tiff">
+                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/SBB0000F29300010000/data/OCR-D-IMG/FILE_0005_IMAGE.tif" /></mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+
     <mets:structMap TYPE="PHYSICAL">
         <mets:div TYPE="physSequence">
             <mets:div ID="PHYS_0001" ORDER="1" ORDERLABEL="page 1" TYPE="page">
@@ -105,10 +112,4 @@
         </mets:div>
     </mets:structMap>
 
-    <mets:fileSec>
-        <mets:fileGrp USE="OCR-D-IMG">
-            <mets:file ID="FILE_0005_IMAGE" MIMETYPE="image/tiff">
-                <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/SBB0000F29300010000/data/OCR-D-IMG/FILE_0005_IMAGE.tif" /></mets:file>
-        </mets:fileGrp>
-    </mets:fileSec>
 </mets:mets>

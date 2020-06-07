@@ -87,14 +87,15 @@ validate-ocrdzip:
 # Update those pesky checksums
 update-bagit:
 	@find $(PWD)/data -mindepth 1 -maxdepth 1 -type d \
-			-not -name '.data' \
+			-not -name 'BAK' \
+			-not -name 'dta19*' \
+			-not -name '.*' \
 			-not -name 'schema' \
 			-not -name 'glyph-consistency' \
 			-not -name 'sample_bagit-with-fetch' \
 		|while read dataset;do ( \
+			set -x ; \
 			cd $$dataset; \
-				update-bagit; \
-				update-bagit; \
 				update-bagit; \
 				echo "Updated $$dataset"; \
 		); done

@@ -47,7 +47,6 @@ validate-workspace:
 	@rm -f $(WORKSPACE_VALIDATE_FILE)
 	@find $(PWD)/data -mindepth 1 -maxdepth 1 -type d \
 			-not -name '.data' \
-			-not -name 'schema' \
 			-not -name 'kant_aufklaerung_1784-complex' \
 			-not -name 'glyph-consistency' \
 			-not -name 'sample_bagit-with-fetch' \
@@ -74,7 +73,6 @@ validate-ocrdzip:
 	@rm -f $(OCRDZIP_VALIDATE_FILE)
 	@find $(PWD)/data -mindepth 1 -maxdepth 1 -type d \
 			-not -name '.data' \
-			-not -name 'schema' \
 			-not -name 'sample_bagit-with-fetch' \
 		|while read dataset;do \
 		echo -n "Validating ocrdzip $$(basename $$dataset) ... "; \
@@ -90,7 +88,6 @@ update-bagit:
 			-not -name 'BAK' \
 			-not -name 'dta19*' \
 			-not -name '.*' \
-			-not -name 'schema' \
 			-not -name 'glyph-consistency' \
 			-not -name 'sample_bagit-with-fetch' \
 		|while read dataset;do ( \

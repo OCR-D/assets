@@ -1,0 +1,6 @@
+Bag-Software-Agent: ocrd/core 2.8.1 (bagit.py 1.7.0, bagit_profile 1.3.1) [cmdline: "/home/kba/env/py3/bin/ocrd zip bag -D partial --skip-zip --in-place --id ocrd:assets:gutachten -d ."]
+BagIt-Profile-Identifier: https://ocr-d.github.io/bagit-profile.json
+Bagging-Date: 2020-06-08 18:13:57.130446
+Ocrd-Identifier: ocrd:assets:gutachten
+Ocrd-Manifestation-Depth: partial
+Payload-Oxum: 17922111.5

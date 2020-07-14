@@ -27,6 +27,22 @@
         <mets:fptr FILEID="OCR-D-SEG-PAGE-SINGH-orig_tiff"/>
         <mets:fptr FILEID="OCR-D-SEG-PAGE-OTSU-orig_tiff-BIN_otsu"/>
         <mets:fptr FILEID="OCR-D-SEG-PAGE-OTSU-orig_tiff"/>
+        <mets:fptr FILEID="OCR-D-PRE-BIN-KIM-orig_tiff-BIN_kim"/>
+        <mets:fptr FILEID="OCR-D-PRE-BIN-KIM-orig_tiff"/>
+        <mets:fptr FILEID="OCR-D-PRE-BIN-NIBLACK-orig_tiff-BIN_niblack"/>
+        <mets:fptr FILEID="OCR-D-PRE-BIN-NIBLACK-orig_tiff"/>
+        <mets:fptr FILEID="OCR-D-PRE-BIN-SAUVOLA-orig_tiff-BIN_sauvola"/>
+        <mets:fptr FILEID="OCR-D-PRE-BIN-SAUVOLA-orig_tiff"/>
+        <mets:fptr FILEID="OCR-D-PRE-BIN-SAUVOLA-MS-orig_tiff-BIN_sauvola-ms"/>
+        <mets:fptr FILEID="OCR-D-PRE-BIN-SAUVOLA-MS-orig_tiff"/>
+        <mets:fptr FILEID="OCR-D-PRE-BIN-SAUVOLA-MS-FG-orig_tiff-BIN_sauvola-ms-fg"/>
+        <mets:fptr FILEID="OCR-D-PRE-BIN-SAUVOLA-MS-FG-orig_tiff"/>
+        <mets:fptr FILEID="OCR-D-PRE-BIN-SAUVOLA-MS-SPLIT-orig_tiff-BIN_sauvola-ms-split"/>
+        <mets:fptr FILEID="OCR-D-PRE-BIN-SAUVOLA-MS-SPLIT-orig_tiff"/>
+        <mets:fptr FILEID="OCR-D-PRE-BIN-SINGH-orig_tiff-BIN_singh"/>
+        <mets:fptr FILEID="OCR-D-PRE-BIN-SINGH-orig_tiff"/>
+        <mets:fptr FILEID="OCR-D-PRE-BIN-WOLF-orig_tiff-BIN_wolf"/>
+        <mets:fptr FILEID="OCR-D-PRE-BIN-WOLF-orig_tiff"/>
       </mets:div>
     </mets:div>
   </mets:structMap>
@@ -135,6 +151,72 @@
     <mets:fileGrp USE="OCR-D-SEG-PAGE-OTSU">
       <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-SEG-PAGE-OTSU-orig_tiff">
         <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-SEG-PAGE-OTSU/OCR-D-SEG-PAGE-OTSU-orig_tiff.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-IMG-BIN">
+      <mets:file MIMETYPE="image/png" ID="OCR-D-PRE-BIN-KIM-orig_tiff-BIN_kim">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG-BIN/OCR-D-PRE-BIN-KIM-orig_tiff-BIN_kim.png"/>
+      </mets:file>
+      <mets:file MIMETYPE="image/png" ID="OCR-D-PRE-BIN-NIBLACK-orig_tiff-BIN_niblack">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG-BIN/OCR-D-PRE-BIN-NIBLACK-orig_tiff-BIN_niblack.png"/>
+      </mets:file>
+      <mets:file MIMETYPE="image/png" ID="OCR-D-PRE-BIN-SAUVOLA-orig_tiff-BIN_sauvola">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG-BIN/OCR-D-PRE-BIN-SAUVOLA-orig_tiff-BIN_sauvola.png"/>
+      </mets:file>
+      <mets:file MIMETYPE="image/png" ID="OCR-D-PRE-BIN-SAUVOLA-MS-orig_tiff-BIN_sauvola-ms">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG-BIN/OCR-D-PRE-BIN-SAUVOLA-MS-orig_tiff-BIN_sauvola-ms.png"/>
+      </mets:file>
+      <mets:file MIMETYPE="image/png" ID="OCR-D-PRE-BIN-SAUVOLA-MS-FG-orig_tiff-BIN_sauvola-ms-fg">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG-BIN/OCR-D-PRE-BIN-SAUVOLA-MS-FG-orig_tiff-BIN_sauvola-ms-fg.png"/>
+      </mets:file>
+      <mets:file MIMETYPE="image/png" ID="OCR-D-PRE-BIN-SAUVOLA-MS-SPLIT-orig_tiff-BIN_sauvola-ms-split">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG-BIN/OCR-D-PRE-BIN-SAUVOLA-MS-SPLIT-orig_tiff-BIN_sauvola-ms-split.png"/>
+      </mets:file>
+      <mets:file MIMETYPE="image/png" ID="OCR-D-PRE-BIN-SINGH-orig_tiff-BIN_singh">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG-BIN/OCR-D-PRE-BIN-SINGH-orig_tiff-BIN_singh.png"/>
+      </mets:file>
+      <mets:file MIMETYPE="image/png" ID="OCR-D-PRE-BIN-WOLF-orig_tiff-BIN_wolf">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG-BIN/OCR-D-PRE-BIN-WOLF-orig_tiff-BIN_wolf.png"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-PRE-BIN-KIM">
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-PRE-BIN-KIM-orig_tiff">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-PRE-BIN-KIM/OCR-D-PRE-BIN-KIM-orig_tiff.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-PRE-BIN-NIBLACK">
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-PRE-BIN-NIBLACK-orig_tiff">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-PRE-BIN-NIBLACK/OCR-D-PRE-BIN-NIBLACK-orig_tiff.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-PRE-BIN-SAUVOLA">
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-PRE-BIN-SAUVOLA-orig_tiff">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-PRE-BIN-SAUVOLA/OCR-D-PRE-BIN-SAUVOLA-orig_tiff.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-PRE-BIN-SAUVOLA-MS">
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-PRE-BIN-SAUVOLA-MS-orig_tiff">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-PRE-BIN-SAUVOLA-MS/OCR-D-PRE-BIN-SAUVOLA-MS-orig_tiff.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-PRE-BIN-SAUVOLA-MS-FG">
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-PRE-BIN-SAUVOLA-MS-FG-orig_tiff">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-PRE-BIN-SAUVOLA-MS-FG/OCR-D-PRE-BIN-SAUVOLA-MS-FG-orig_tiff.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-PRE-BIN-SAUVOLA-MS-SPLIT">
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-PRE-BIN-SAUVOLA-MS-SPLIT-orig_tiff">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-PRE-BIN-SAUVOLA-MS-SPLIT/OCR-D-PRE-BIN-SAUVOLA-MS-SPLIT-orig_tiff.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-PRE-BIN-SINGH">
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-PRE-BIN-SINGH-orig_tiff">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-PRE-BIN-SINGH/OCR-D-PRE-BIN-SINGH-orig_tiff.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-PRE-BIN-WOLF">
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-PRE-BIN-WOLF-orig_tiff">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-PRE-BIN-WOLF/OCR-D-PRE-BIN-WOLF-orig_tiff.xml"/>
       </mets:file>
     </mets:fileGrp>
   </mets:fileSec>

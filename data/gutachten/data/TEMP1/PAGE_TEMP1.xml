@@ -69,7 +69,7 @@
             </pc:Labels>
         </pc:MetadataItem>
     </pc:Metadata>
-    <pc:Page imageFilename="Gutachten2-2.tif" imageWidth="2088" imageHeight="2634" type="content">
+    <pc:Page imageFilename="IMG/IMG_1.tif" imageWidth="2088" imageHeight="2634" type="content">
         <pc:AlternativeImage filename="OCR-D-IMG-BIN/OCR-D-IMG-BINPAGE-sauvola_Gutachten2-2-BIN_sauvola-ms-split.png" comments="binarized"/>
         <pc:AlternativeImage filename="OCR-D-IMG-CLIP/TEMP4_Gutachten2-2_clip.png" comments="binarized,clipped"/>
         <pc:ReadingOrder>

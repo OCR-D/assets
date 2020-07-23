@@ -25,11 +25,11 @@
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-IMG">
-      <mets:file ID="P_0017" MIMETYPE="image/tiff">
-        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/data/OCR-D-IMG/INPUT_0017.tif"/>
+      <mets:file ID="OCR-D-IMG_0017" MIMETYPE="image/tiff">
+        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-IMG/OCR-D-IMG_0017.tif"/>
       </mets:file>
-      <mets:file ID="P_0020" MIMETYPE="image/tiff">
-        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/data/OCR-D-IMG/INPUT_0020.tif"/>
+      <mets:file ID="OCR-D-IMG_0020" MIMETYPE="image/tiff">
+        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-IMG/OCR-D-IMG_0020.tif"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-IMG-BIN">
@@ -58,16 +58,16 @@
     <mets:div TYPE="physSequence">
       <mets:div TYPE="page" ID="P_0017">
         <mets:fptr FILEID="INPUT_0017"/>
-        <mets:fptr FILEID="P_0017"/>
         <mets:fptr FILEID="BIN_0017"/>
         <mets:fptr FILEID="OCR-D-IMG-NRM_0017"/>
         <mets:fptr FILEID="OCR-D-IMG-1BIT_0017"/>
+        <mets:fptr FILEID="OCR-D-IMG_0017"/>
       </mets:div>
       <mets:div TYPE="page" ID="P_0020">
         <mets:fptr FILEID="INPUT_0020"/>
-        <mets:fptr FILEID="P_0020"/>
         <mets:fptr FILEID="BIN_0020"/>
         <mets:fptr FILEID="OCR-D-IMG-NRM_0020"/>
+        <mets:fptr FILEID="OCR-D-IMG_0020"/>
       </mets:div>
     </mets:div>
   </mets:structMap>

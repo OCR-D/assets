@@ -17,6 +17,25 @@
   </mets:dmdSec>
   <mets:amdSec ID="AMD">
   </mets:amdSec>
+  <mets:fileSec>
+    <mets:fileGrp USE="OCR-D-IMG">
+      <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG-bengel_abriss01_1751-0007">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"  xlink:href="OCR-D-IMG/OCR-D-IMG-bengel_abriss01_1751-0007.jpg"/>
+      </mets:file>
+      <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG-eiteritz_affe_1719-0206">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"  xlink:href="OCR-D-IMG/OCR-D-IMG-eiteritz_affe_1719-0206.jpg"/>
+      </mets:file>
+      <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG-dannhauer_catechismus04_1653-0585">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"  xlink:href="OCR-D-IMG/OCR-D-IMG-dannhauer_catechismus04_1653-0585.jpg"/>
+      </mets:file>
+      <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG-fleming_jaeger01_1719-0117">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"  xlink:href="OCR-D-IMG/OCR-D-IMG-fleming_jaeger01_1719-0117.jpg"/>
+      </mets:file>
+      <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG-corvinus_frauenzimmer_1715-0054">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"  xlink:href="OCR-D-IMG/OCR-D-IMG-corvinus_frauenzimmer_1715-0054.jpg"/>
+      </mets:file>
+    </mets:fileGrp>
+  </mets:fileSec>
   <mets:structMap TYPE="PHYSICAL">
     <mets:div TYPE="physSequence">
       <mets:div TYPE="page" ID="bengel_abriss01_1751-0007">
@@ -36,23 +55,4 @@
       </mets:div>
     </mets:div>
   </mets:structMap>
-  <mets:fileSec>
-    <mets:fileGrp USE="OCR-D-IMG">
-      <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG-bengel_abriss01_1751-0007">
-        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG-bengel_abriss01_1751-0007.jpg"/>
-      </mets:file>
-      <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG-eiteritz_affe_1719-0206">
-        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG-eiteritz_affe_1719-0206.jpg"/>
-      </mets:file>
-      <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG-dannhauer_catechismus04_1653-0585">
-        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG-dannhauer_catechismus04_1653-0585.jpg"/>
-      </mets:file>
-      <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG-fleming_jaeger01_1719-0117">
-        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG-fleming_jaeger01_1719-0117.jpg"/>
-      </mets:file>
-      <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG-corvinus_frauenzimmer_1715-0054">
-        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG-corvinus_frauenzimmer_1715-0054.jpg"/>
-      </mets:file>
-    </mets:fileGrp>
-  </mets:fileSec>
 </mets:mets>

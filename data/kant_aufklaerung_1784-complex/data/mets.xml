@@ -444,12 +444,12 @@
         <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-OCR-TESS-Fraktur-SEG-LINE-tesseract-ocropy-DEWARP/OCR-D-OCR-TESS-Fraktur-SEG-LINE-tesseract-ocropy-DEWARP_0002.xml"/>
       </mets:file>
     </mets:fileGrp>
-    <mets:fileGrp USE="OCR-D-OCR-TESS-Fraktur+Latin-SEG-LINE-tesseract-ocropy-DEWARP">
-      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-OCR-TESS-Fraktur+Latin-SEG-LINE-tesseract-ocropy-DEWARP_0001">
-        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-OCR-TESS-Fraktur+Latin-SEG-LINE-tesseract-ocropy-DEWARP/OCR-D-OCR-TESS-Fraktur+Latin-SEG-LINE-tesseract-ocropy-DEWARP_0001.xml"/>
+    <mets:fileGrp USE="OCR-D-OCR-TESS-Fraktur--Latin-SEG-LINE-tesseract-ocropy-DEWARP">
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-OCR-TESS-Fraktur--Latin-SEG-LINE-tesseract-ocropy-DEWARP_0001">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-OCR-TESS-Fraktur--Latin-SEG-LINE-tesseract-ocropy-DEWARP/OCR-D-OCR-TESS-Fraktur--Latin-SEG-LINE-tesseract-ocropy-DEWARP_0001.xml"/>
       </mets:file>
-      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-OCR-TESS-Fraktur+Latin-SEG-LINE-tesseract-ocropy-DEWARP_0002">
-        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-OCR-TESS-Fraktur+Latin-SEG-LINE-tesseract-ocropy-DEWARP/OCR-D-OCR-TESS-Fraktur+Latin-SEG-LINE-tesseract-ocropy-DEWARP_0002.xml"/>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-OCR-TESS-Fraktur--Latin-SEG-LINE-tesseract-ocropy-DEWARP_0002">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-OCR-TESS-Fraktur--Latin-SEG-LINE-tesseract-ocropy-DEWARP/OCR-D-OCR-TESS-Fraktur--Latin-SEG-LINE-tesseract-ocropy-DEWARP_0002.xml"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-OCR-TESS-frk-SEG-LINE-tesseract-ocropy-DEWARP">
@@ -460,12 +460,12 @@
         <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-OCR-TESS-frk-SEG-LINE-tesseract-ocropy-DEWARP/OCR-D-OCR-TESS-frk-SEG-LINE-tesseract-ocropy-DEWARP_0002.xml"/>
       </mets:file>
     </mets:fileGrp>
-    <mets:fileGrp USE="OCR-D-OCR-TESS-frk+deu-SEG-LINE-tesseract-ocropy-DEWARP">
-      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-OCR-TESS-frk+deu-SEG-LINE-tesseract-ocropy-DEWARP_0001">
-        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-OCR-TESS-frk+deu-SEG-LINE-tesseract-ocropy-DEWARP/OCR-D-OCR-TESS-frk+deu-SEG-LINE-tesseract-ocropy-DEWARP_0001.xml"/>
+    <mets:fileGrp USE="OCR-D-OCR-TESS-frk--deu-SEG-LINE-tesseract-ocropy-DEWARP">
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-OCR-TESS-frk--deu-SEG-LINE-tesseract-ocropy-DEWARP_0001">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-OCR-TESS-frk--deu-SEG-LINE-tesseract-ocropy-DEWARP/OCR-D-OCR-TESS-frk--deu-SEG-LINE-tesseract-ocropy-DEWARP_0001.xml"/>
       </mets:file>
-      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-OCR-TESS-frk+deu-SEG-LINE-tesseract-ocropy-DEWARP_0002">
-        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-OCR-TESS-frk+deu-SEG-LINE-tesseract-ocropy-DEWARP/OCR-D-OCR-TESS-frk+deu-SEG-LINE-tesseract-ocropy-DEWARP_0002.xml"/>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-OCR-TESS-frk--deu-SEG-LINE-tesseract-ocropy-DEWARP_0002">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-OCR-TESS-frk--deu-SEG-LINE-tesseract-ocropy-DEWARP/OCR-D-OCR-TESS-frk--deu-SEG-LINE-tesseract-ocropy-DEWARP_0002.xml"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-OCR-TESS-gt4histocr-SEG-LINE-tesseract-ocropy-DEWARP">
@@ -541,9 +541,9 @@
         <mets:fptr FILEID="OCR-D-OCR-OCRO-fraktur-SEG-LINE-tesseract-ocropy-DEWARP_0001"/>
         <mets:fptr FILEID="OCR-D-OCR-OCRO-frakturjze-SEG-LINE-tesseract-ocropy-DEWARP_0001"/>
         <mets:fptr FILEID="OCR-D-OCR-TESS-Fraktur-SEG-LINE-tesseract-ocropy-DEWARP_0001"/>
-        <mets:fptr FILEID="OCR-D-OCR-TESS-Fraktur+Latin-SEG-LINE-tesseract-ocropy-DEWARP_0001"/>
+        <mets:fptr FILEID="OCR-D-OCR-TESS-Fraktur--Latin-SEG-LINE-tesseract-ocropy-DEWARP_0001"/>
         <mets:fptr FILEID="OCR-D-OCR-TESS-frk-SEG-LINE-tesseract-ocropy-DEWARP_0001"/>
-        <mets:fptr FILEID="OCR-D-OCR-TESS-frk+deu-SEG-LINE-tesseract-ocropy-DEWARP_0001"/>
+        <mets:fptr FILEID="OCR-D-OCR-TESS-frk--deu-SEG-LINE-tesseract-ocropy-DEWARP_0001"/>
         <mets:fptr FILEID="OCR-D-OCR-TESS-gt4histocr-SEG-LINE-tesseract-ocropy-DEWARP_0001"/>
         <mets:fptr FILEID="OCR-D-OCR-CALA-gt4histocr-SEG-LINE-tesseract-ocropy-DEWARP_0001"/>
       </mets:div>
@@ -604,9 +604,9 @@
         <mets:fptr FILEID="OCR-D-OCR-OCRO-fraktur-SEG-LINE-tesseract-ocropy-DEWARP_0002"/>
         <mets:fptr FILEID="OCR-D-OCR-OCRO-frakturjze-SEG-LINE-tesseract-ocropy-DEWARP_0002"/>
         <mets:fptr FILEID="OCR-D-OCR-TESS-Fraktur-SEG-LINE-tesseract-ocropy-DEWARP_0002"/>
-        <mets:fptr FILEID="OCR-D-OCR-TESS-Fraktur+Latin-SEG-LINE-tesseract-ocropy-DEWARP_0002"/>
+        <mets:fptr FILEID="OCR-D-OCR-TESS-Fraktur--Latin-SEG-LINE-tesseract-ocropy-DEWARP_0002"/>
         <mets:fptr FILEID="OCR-D-OCR-TESS-frk-SEG-LINE-tesseract-ocropy-DEWARP_0002"/>
-        <mets:fptr FILEID="OCR-D-OCR-TESS-frk+deu-SEG-LINE-tesseract-ocropy-DEWARP_0002"/>
+        <mets:fptr FILEID="OCR-D-OCR-TESS-frk--deu-SEG-LINE-tesseract-ocropy-DEWARP_0002"/>
         <mets:fptr FILEID="OCR-D-OCR-TESS-gt4histocr-SEG-LINE-tesseract-ocropy-DEWARP_0002"/>
         <mets:fptr FILEID="OCR-D-OCR-CALA-gt4histocr-SEG-LINE-tesseract-ocropy-DEWARP_0002"/>
       </mets:div>

@@ -3,4 +3,4 @@ BagIt-Profile-Identifier: https://ocr-d.github.io/bagit-profile.json
 Bagging-Date: 2020-06-07 22:37:13.384702
 Ocrd-Identifier: ocrd:kant_aufklaerung_1784-complex
 Ocrd-Manifestation-Depth: partial
-Payload-Oxum: 11458988.120
+Payload-Oxum: 11459006.120

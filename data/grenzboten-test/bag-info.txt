@@ -3,4 +3,4 @@ BagIt-Profile-Identifier: https://ocr-d.github.io/bagit-profile.json
 Bagging-Date: 2019-08-07 17:54:37.776295
 Ocrd-Identifier: grenzboten-test
 Ocrd-Manifestation-Depth: partial
-Payload-Oxum: 286548.2
+Payload-Oxum: 286585.2

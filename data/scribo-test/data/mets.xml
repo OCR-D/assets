@@ -86,6 +86,14 @@
         <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-PRE-BIN-WOLF/OCR-D-PRE-BIN-WOLF_0001.xml"/>
       </mets:file>
     </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-PRE-BIN-OTSU">
+      <mets:file MIMETYPE="image/png" ID="OCR-D-PRE-BIN-OTSU_0001-BIN_otsu">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-PRE-BIN-OTSU/OCR-D-PRE-BIN-OTSU_0001-BIN_otsu.png"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-PRE-BIN-OTSU_0001">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-PRE-BIN-OTSU/OCR-D-PRE-BIN-OTSU_0001.xml"/>
+      </mets:file>
+    </mets:fileGrp>
   </mets:fileSec>
   <mets:structMap TYPE="PHYSICAL">
     <mets:div TYPE="physSequence">
@@ -95,6 +103,8 @@
         <mets:fptr FILEID="OCR-D-PRE-BIN-KIM_0001"/>
         <mets:fptr FILEID="OCR-D-PRE-BIN-NIBLACK_0001-BIN_niblack"/>
         <mets:fptr FILEID="OCR-D-PRE-BIN-NIBLACK_0001"/>
+        <mets:fptr FILEID="OCR-D-PRE-BIN-OTSU_0001-BIN_otsu"/>
+        <mets:fptr FILEID="OCR-D-PRE-BIN-OTSU_0001"/>
         <mets:fptr FILEID="OCR-D-PRE-BIN-SAUVOLA_0001-BIN_sauvola"/>
         <mets:fptr FILEID="OCR-D-PRE-BIN-SAUVOLA_0001"/>
         <mets:fptr FILEID="OCR-D-PRE-BIN-SAUVOLA-MS_0001-BIN_sauvola-ms"/>

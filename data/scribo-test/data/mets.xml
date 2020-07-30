@@ -18,10 +18,7 @@
     </mets:amdSec>
   <mets:fileSec>
     <mets:fileGrp USE="OCR-D-IMG">
-      <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG-orig_tiff">
-        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG/OCR-D-IMG-orig_tiff.tif"/>
-      </mets:file>
-    </mets:fileGrp>
+      </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-IMG-BIN-SAUVOLA">
       <mets:file MIMETYPE="image/png" ID="OCR-D-SEG-PAGE-SAUVOLA-orig_tiff-BIN_sauvola">
         <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG-BIN-SAUVOLA/OCR-D-SEG-PAGE-SAUVOLA-orig_tiff-BIN_sauvola.png"/>
@@ -156,7 +153,6 @@
   <mets:structMap TYPE="PHYSICAL">
     <mets:div TYPE="physSequence">
       <mets:div TYPE="page" ID="page">
-        <mets:fptr FILEID="OCR-D-IMG-orig_tiff"/>
         <mets:fptr FILEID="OCR-D-SEG-PAGE-SAUVOLA-orig_tiff-BIN_sauvola"/>
         <mets:fptr FILEID="OCR-D-SEG-PAGE-SAUVOLA-orig_tiff"/>
         <mets:fptr FILEID="OCR-D-SEG-PAGE-SAUVOLA-MS-FG-orig_tiff-BIN_sauvola-ms-fg"/>

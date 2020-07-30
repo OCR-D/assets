@@ -1,6 +1,5 @@
 rebuild:
 	cd data ; \
-	rm -rf OCR-D-PRE* ;\
 	ocrd-olena-binarize --overwrite -P impl kim              -I OCR-D-IMG -O OCR-D-PRE-BIN-KIM ;\
 	ocrd-olena-binarize --overwrite -P impl niblack          -I OCR-D-IMG -O OCR-D-PRE-BIN-NIBLACK ;\
 	ocrd-olena-binarize --overwrite -P impl otsu             -I OCR-D-IMG -O OCR-D-PRE-BIN-OTSU ;\

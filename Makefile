@@ -97,6 +97,9 @@ update-bagit:
 		|while read dataset;do ( \
 			set -x ; \
 			cd $$dataset; \
+				# once
+				bash $(SCRIPT_UPDATE_BAGIT); \
+				# twice because bag-info.txt was changed
 				bash $(SCRIPT_UPDATE_BAGIT); \
 				echo "Updated $$dataset"; \
 		); done

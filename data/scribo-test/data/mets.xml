@@ -5,47 +5,6 @@
       <mets:name>ocrd/core v2.0.2</mets:name>
     </mets:agent>
   </mets:metsHdr>
-  <mets:structMap TYPE="PHYSICAL">
-    <mets:div TYPE="physSequence">
-      <mets:div TYPE="page" ID="page">
-        <mets:fptr FILEID="OCR-D-IMG-orig_tiff"/>
-        <mets:fptr FILEID="OCR-D-SEG-PAGE-SAUVOLA-orig_tiff-BIN_sauvola"/>
-        <mets:fptr FILEID="OCR-D-SEG-PAGE-SAUVOLA-orig_tiff"/>
-        <mets:fptr FILEID="OCR-D-SEG-PAGE-SAUVOLA-MS-FG-orig_tiff-BIN_sauvola-ms-fg"/>
-        <mets:fptr FILEID="OCR-D-SEG-PAGE-SAUVOLA-MS-FG-orig_tiff"/>
-        <mets:fptr FILEID="OCR-D-SEG-PAGE-SAUVOLA-MS-orig_tiff-BIN_sauvola-ms"/>
-        <mets:fptr FILEID="OCR-D-SEG-PAGE-SAUVOLA-MS-orig_tiff"/>
-        <mets:fptr FILEID="OCR-D-SEG-PAGE-SAUVOLA-MS-SPLIT-orig_tiff-BIN_sauvola-ms-split"/>
-        <mets:fptr FILEID="OCR-D-SEG-PAGE-SAUVOLA-MS-SPLIT-orig_tiff"/>
-        <mets:fptr FILEID="OCR-D-SEG-PAGE-WOLF-orig_tiff-BIN_wolf"/>
-        <mets:fptr FILEID="OCR-D-SEG-PAGE-WOLF-orig_tiff"/>
-        <mets:fptr FILEID="OCR-D-SEG-PAGE-NIBLACK-orig_tiff-BIN_niblack"/>
-        <mets:fptr FILEID="OCR-D-SEG-PAGE-NIBLACK-orig_tiff"/>
-        <mets:fptr FILEID="OCR-D-SEG-PAGE-KIM-orig_tiff-BIN_kim"/>
-        <mets:fptr FILEID="OCR-D-SEG-PAGE-KIM-orig_tiff"/>
-        <mets:fptr FILEID="OCR-D-SEG-PAGE-SINGH-orig_tiff-BIN_singh"/>
-        <mets:fptr FILEID="OCR-D-SEG-PAGE-SINGH-orig_tiff"/>
-        <mets:fptr FILEID="OCR-D-SEG-PAGE-OTSU-orig_tiff-BIN_otsu"/>
-        <mets:fptr FILEID="OCR-D-SEG-PAGE-OTSU-orig_tiff"/>
-        <mets:fptr FILEID="OCR-D-PRE-BIN-KIM-orig_tiff-BIN_kim"/>
-        <mets:fptr FILEID="OCR-D-PRE-BIN-KIM-orig_tiff"/>
-        <mets:fptr FILEID="OCR-D-PRE-BIN-NIBLACK-orig_tiff-BIN_niblack"/>
-        <mets:fptr FILEID="OCR-D-PRE-BIN-NIBLACK-orig_tiff"/>
-        <mets:fptr FILEID="OCR-D-PRE-BIN-SAUVOLA-orig_tiff-BIN_sauvola"/>
-        <mets:fptr FILEID="OCR-D-PRE-BIN-SAUVOLA-orig_tiff"/>
-        <mets:fptr FILEID="OCR-D-PRE-BIN-SAUVOLA-MS-orig_tiff-BIN_sauvola-ms"/>
-        <mets:fptr FILEID="OCR-D-PRE-BIN-SAUVOLA-MS-orig_tiff"/>
-        <mets:fptr FILEID="OCR-D-PRE-BIN-SAUVOLA-MS-FG-orig_tiff-BIN_sauvola-ms-fg"/>
-        <mets:fptr FILEID="OCR-D-PRE-BIN-SAUVOLA-MS-FG-orig_tiff"/>
-        <mets:fptr FILEID="OCR-D-PRE-BIN-SAUVOLA-MS-SPLIT-orig_tiff-BIN_sauvola-ms-split"/>
-        <mets:fptr FILEID="OCR-D-PRE-BIN-SAUVOLA-MS-SPLIT-orig_tiff"/>
-        <mets:fptr FILEID="OCR-D-PRE-BIN-SINGH-orig_tiff-BIN_singh"/>
-        <mets:fptr FILEID="OCR-D-PRE-BIN-SINGH-orig_tiff"/>
-        <mets:fptr FILEID="OCR-D-PRE-BIN-WOLF-orig_tiff-BIN_wolf"/>
-        <mets:fptr FILEID="OCR-D-PRE-BIN-WOLF-orig_tiff"/>
-      </mets:div>
-    </mets:div>
-  </mets:structMap>
   <mets:dmdSec ID="DMDLOG_0001">
     <mets:mdWrap MDTYPE="MODS">
       <mets:xmlData>
@@ -220,4 +179,29 @@
       </mets:file>
     </mets:fileGrp>
   </mets:fileSec>
+  <mets:structMap TYPE="PHYSICAL">
+    <mets:div TYPE="physSequence">
+      <mets:div TYPE="page" ID="page">
+        <mets:fptr FILEID="OCR-D-IMG-orig_tiff"/>
+        <mets:fptr FILEID="OCR-D-SEG-PAGE-SAUVOLA-orig_tiff-BIN_sauvola"/>
+        <mets:fptr FILEID="OCR-D-SEG-PAGE-SAUVOLA-orig_tiff"/>
+        <mets:fptr FILEID="OCR-D-SEG-PAGE-SAUVOLA-MS-FG-orig_tiff-BIN_sauvola-ms-fg"/>
+        <mets:fptr FILEID="OCR-D-SEG-PAGE-SAUVOLA-MS-FG-orig_tiff"/>
+        <mets:fptr FILEID="OCR-D-SEG-PAGE-SAUVOLA-MS-orig_tiff-BIN_sauvola-ms"/>
+        <mets:fptr FILEID="OCR-D-SEG-PAGE-SAUVOLA-MS-orig_tiff"/>
+        <mets:fptr FILEID="OCR-D-SEG-PAGE-SAUVOLA-MS-SPLIT-orig_tiff-BIN_sauvola-ms-split"/>
+        <mets:fptr FILEID="OCR-D-SEG-PAGE-SAUVOLA-MS-SPLIT-orig_tiff"/>
+        <mets:fptr FILEID="OCR-D-SEG-PAGE-WOLF-orig_tiff-BIN_wolf"/>
+        <mets:fptr FILEID="OCR-D-SEG-PAGE-WOLF-orig_tiff"/>
+        <mets:fptr FILEID="OCR-D-SEG-PAGE-NIBLACK-orig_tiff-BIN_niblack"/>
+        <mets:fptr FILEID="OCR-D-SEG-PAGE-NIBLACK-orig_tiff"/>
+        <mets:fptr FILEID="OCR-D-SEG-PAGE-KIM-orig_tiff-BIN_kim"/>
+        <mets:fptr FILEID="OCR-D-SEG-PAGE-KIM-orig_tiff"/>
+        <mets:fptr FILEID="OCR-D-SEG-PAGE-SINGH-orig_tiff-BIN_singh"/>
+        <mets:fptr FILEID="OCR-D-SEG-PAGE-SINGH-orig_tiff"/>
+        <mets:fptr FILEID="OCR-D-SEG-PAGE-OTSU-orig_tiff-BIN_otsu"/>
+        <mets:fptr FILEID="OCR-D-SEG-PAGE-OTSU-orig_tiff"/>
+      </mets:div>
+    </mets:div>
+  </mets:structMap>
 </mets:mets>

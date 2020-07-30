@@ -25,6 +25,9 @@ PAGE_STRICTNESS = lax
 # Port to run the asset server on
 PORT=5001
 
+# BagIt update script
+SCRIPT_UPDATE_BAGIT = $(PWD)/scripts/update-bagit.sh
+
 # Copy test fixtures to another dir and replace URL
 .PHONY: dist
 dist:
@@ -73,6 +76,8 @@ validate-ocrdzip:
 	@rm -f $(OCRDZIP_VALIDATE_FILE)
 	@find $(PWD)/data -mindepth 1 -maxdepth 1 -type d \
 			-not -name '.data' \
+			-not -name 'schema' \
+			-not -name 'glyph-consistency' \
 			-not -name 'sample_bagit-with-fetch' \
 		|while read dataset;do \
 		echo -n "Validating ocrdzip $$(basename $$dataset) ... "; \
@@ -88,12 +93,11 @@ update-bagit:
 			-not -name 'BAK' \
 			-not -name 'dta19*' \
 			-not -name '.*' \
-			-not -name 'glyph-consistency' \
 			-not -name 'sample_bagit-with-fetch' \
 		|while read dataset;do ( \
 			set -x ; \
 			cd $$dataset; \
-				update-bagit; \
+				bash $(SCRIPT_UPDATE_BAGIT); \
 				echo "Updated $$dataset"; \
 		); done
 

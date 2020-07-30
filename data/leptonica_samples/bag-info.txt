@@ -3,4 +3,4 @@ BagIt-Profile-Identifier: https://ocr-d.github.io/bagit-profile.json
 Bagging-Date: 2018-11-14 18:21:46.948348
 Ocrd-Identifier: ocrd:leptonica-samples
 Ocrd-Manifestation-Depth: partial
-Payload-Oxum: 409982.3
+Payload-Oxum: 410054.3

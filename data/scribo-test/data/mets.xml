@@ -21,11 +21,91 @@
         <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG/OCR-D-IMG-orig.tif"/>
       </mets:file>
     </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-PRE-BIN-KIM">
+      <mets:file MIMETYPE="image/png" ID="OCR-D-PRE-BIN-KIM_0001-BIN_kim">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-PRE-BIN-KIM/OCR-D-PRE-BIN-KIM_0001-BIN_kim.png"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-PRE-BIN-KIM_0001">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-PRE-BIN-KIM/OCR-D-PRE-BIN-KIM_0001.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-PRE-BIN-NIBLACK">
+      <mets:file MIMETYPE="image/png" ID="OCR-D-PRE-BIN-NIBLACK_0001-BIN_niblack">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-PRE-BIN-NIBLACK/OCR-D-PRE-BIN-NIBLACK_0001-BIN_niblack.png"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-PRE-BIN-NIBLACK_0001">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-PRE-BIN-NIBLACK/OCR-D-PRE-BIN-NIBLACK_0001.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-PRE-BIN-SAUVOLA">
+      <mets:file MIMETYPE="image/png" ID="OCR-D-PRE-BIN-SAUVOLA_0001-BIN_sauvola">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-PRE-BIN-SAUVOLA/OCR-D-PRE-BIN-SAUVOLA_0001-BIN_sauvola.png"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-PRE-BIN-SAUVOLA_0001">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-PRE-BIN-SAUVOLA/OCR-D-PRE-BIN-SAUVOLA_0001.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-PRE-BIN-SAUVOLA-MS">
+      <mets:file MIMETYPE="image/png" ID="OCR-D-PRE-BIN-SAUVOLA-MS_0001-BIN_sauvola-ms">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-PRE-BIN-SAUVOLA-MS/OCR-D-PRE-BIN-SAUVOLA-MS_0001-BIN_sauvola-ms.png"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-PRE-BIN-SAUVOLA-MS_0001">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-PRE-BIN-SAUVOLA-MS/OCR-D-PRE-BIN-SAUVOLA-MS_0001.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-PRE-BIN-SAUVOLA-MS-FG">
+      <mets:file MIMETYPE="image/png" ID="OCR-D-PRE-BIN-SAUVOLA-MS-FG_0001-BIN_sauvola-ms-fg">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-PRE-BIN-SAUVOLA-MS-FG/OCR-D-PRE-BIN-SAUVOLA-MS-FG_0001-BIN_sauvola-ms-fg.png"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-PRE-BIN-SAUVOLA-MS-FG_0001">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-PRE-BIN-SAUVOLA-MS-FG/OCR-D-PRE-BIN-SAUVOLA-MS-FG_0001.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-PRE-BIN-SAUVOLA-MS-SPLIT">
+      <mets:file MIMETYPE="image/png" ID="OCR-D-PRE-BIN-SAUVOLA-MS-SPLIT_0001-BIN_sauvola-ms-split">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-PRE-BIN-SAUVOLA-MS-SPLIT/OCR-D-PRE-BIN-SAUVOLA-MS-SPLIT_0001-BIN_sauvola-ms-split.png"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-PRE-BIN-SAUVOLA-MS-SPLIT_0001">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-PRE-BIN-SAUVOLA-MS-SPLIT/OCR-D-PRE-BIN-SAUVOLA-MS-SPLIT_0001.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-PRE-BIN-SINGH">
+      <mets:file MIMETYPE="image/png" ID="OCR-D-PRE-BIN-SINGH_0001-BIN_singh">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-PRE-BIN-SINGH/OCR-D-PRE-BIN-SINGH_0001-BIN_singh.png"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-PRE-BIN-SINGH_0001">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-PRE-BIN-SINGH/OCR-D-PRE-BIN-SINGH_0001.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-PRE-BIN-WOLF">
+      <mets:file MIMETYPE="image/png" ID="OCR-D-PRE-BIN-WOLF_0001-BIN_wolf">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-PRE-BIN-WOLF/OCR-D-PRE-BIN-WOLF_0001-BIN_wolf.png"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-PRE-BIN-WOLF_0001">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-PRE-BIN-WOLF/OCR-D-PRE-BIN-WOLF_0001.xml"/>
+      </mets:file>
+    </mets:fileGrp>
   </mets:fileSec>
   <mets:structMap TYPE="PHYSICAL">
     <mets:div TYPE="physSequence">
       <mets:div TYPE="page" ID="page_orig">
         <mets:fptr FILEID="file_orig"/>
+        <mets:fptr FILEID="OCR-D-PRE-BIN-KIM_0001-BIN_kim"/>
+        <mets:fptr FILEID="OCR-D-PRE-BIN-KIM_0001"/>
+        <mets:fptr FILEID="OCR-D-PRE-BIN-NIBLACK_0001-BIN_niblack"/>
+        <mets:fptr FILEID="OCR-D-PRE-BIN-NIBLACK_0001"/>
+        <mets:fptr FILEID="OCR-D-PRE-BIN-SAUVOLA_0001-BIN_sauvola"/>
+        <mets:fptr FILEID="OCR-D-PRE-BIN-SAUVOLA_0001"/>
+        <mets:fptr FILEID="OCR-D-PRE-BIN-SAUVOLA-MS_0001-BIN_sauvola-ms"/>
+        <mets:fptr FILEID="OCR-D-PRE-BIN-SAUVOLA-MS_0001"/>
+        <mets:fptr FILEID="OCR-D-PRE-BIN-SAUVOLA-MS-FG_0001-BIN_sauvola-ms-fg"/>
+        <mets:fptr FILEID="OCR-D-PRE-BIN-SAUVOLA-MS-FG_0001"/>
+        <mets:fptr FILEID="OCR-D-PRE-BIN-SAUVOLA-MS-SPLIT_0001-BIN_sauvola-ms-split"/>
+        <mets:fptr FILEID="OCR-D-PRE-BIN-SAUVOLA-MS-SPLIT_0001"/>
+        <mets:fptr FILEID="OCR-D-PRE-BIN-SINGH_0001-BIN_singh"/>
+        <mets:fptr FILEID="OCR-D-PRE-BIN-SINGH_0001"/>
+        <mets:fptr FILEID="OCR-D-PRE-BIN-WOLF_0001-BIN_wolf"/>
+        <mets:fptr FILEID="OCR-D-PRE-BIN-WOLF_0001"/>
       </mets:div>
     </mets:div>
   </mets:structMap>

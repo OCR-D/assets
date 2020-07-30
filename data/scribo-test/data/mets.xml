@@ -9,7 +9,8 @@
     <mets:mdWrap MDTYPE="MODS">
       <mets:xmlData>
         <mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
-                </mods:mods>
+          <mods:identifier type="purl">urn:ocrd:scribo-test</mods:identifier>
+        </mods:mods>
       </mets:xmlData>
     </mets:mdWrap>
   </mets:dmdSec>

@@ -89,7 +89,7 @@ validate-ocrdzip:
 
 # Update those pesky checksums
 update-bagit:
-	@find $(PWD)/data -mindepth 1 -maxdepth 1 -type d \
+	find $(PWD)/data -mindepth 1 -maxdepth 1 -type d \
 			-not -name 'BAK' \
 			-not -name 'dta19*' \
 			-not -name '.*' \
@@ -97,9 +97,7 @@ update-bagit:
 		|while read dataset;do ( \
 			set -x ; \
 			cd $$dataset; \
-				# once
 				bash $(SCRIPT_UPDATE_BAGIT); \
-				# twice because bag-info.txt was changed
 				bash $(SCRIPT_UPDATE_BAGIT); \
 				echo "Updated $$dataset"; \
 		); done

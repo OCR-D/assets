@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pc:PcGts xmlns:pc="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="DESKEW_1586">
+    <pc:Metadata>
+        <pc:Creator>OCR-D/core 2.13.1</pc:Creator>
+        <pc:Created>2020-08-21T11:43:19.124614</pc:Created>
+        <pc:LastChange>2020-08-21T11:43:19.124614</pc:LastChange>
+        <pc:MetadataItem type="processingStep" name="preprocessing/optimization" value="ocrd-preprocess-image">
+            <pc:Labels externalModel="ocrd-tool" externalId="parameters">
+                <pc:Label value="cat @INFILE &gt; @OUTFILE" type="command"/>
+                <pc:Label value="binarized,deskewed" type="output_feature_added"/>
+                <pc:Label value="page" type="level-of-operation"/>
+                <pc:Label value="" type="input_feature_selector"/>
+                <pc:Label value="" type="input_feature_filter"/>
+                <pc:Label value="image/png" type="input_mimetype"/>
+                <pc:Label value="image/png" type="output_mimetype"/>
+            </pc:Labels>
+        </pc:MetadataItem>
+    </pc:Metadata>
+    <pc:Page imageFilename="MAX/MAX_1586.tif" imageWidth="2323" imageHeight="3214">
+        <pc:AlternativeImage filename="BIN/BIN_1586.IMG-BINARIZED.png" comments=",binarized"/>
+        <pc:AlternativeImage filename="BIN-NRM/BIN-NRM_1586.IMG-GRAYSCALE_NORMALIZED.png" comments=",grayscale_normalized"/>
+        <pc:AlternativeImage filename="DESKEW/DESKEW_1586.IMG-BINARIZED-DESKEWED.png" comments=",binarized,deskewed"/>
+    </pc:Page>
+</pc:PcGts>

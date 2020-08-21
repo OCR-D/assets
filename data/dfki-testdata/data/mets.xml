@@ -4,6 +4,30 @@
     <mets:agent TYPE="OTHER" OTHERTYPE="SOFTWARE" ROLE="CREATOR">
       <mets:name>ocrd/core v0.11.0</mets:name>
     </mets:agent>
+    <mets:agent TYPE="OTHER" OTHERTYPE="SOFTWARE" ROLE="OTHER" OTHERROLE="preprocessing/optimization">
+      <mets:name>ocrd-preprocess-image v0.1.0</mets:name>
+    </mets:agent>
+    <mets:agent TYPE="OTHER" OTHERTYPE="SOFTWARE" ROLE="OTHER" OTHERROLE="preprocessing/optimization">
+      <mets:name>ocrd-preprocess-image v0.1.0</mets:name>
+    </mets:agent>
+    <mets:agent TYPE="OTHER" OTHERTYPE="SOFTWARE" ROLE="OTHER" OTHERROLE="preprocessing/optimization">
+      <mets:name>ocrd-preprocess-image v0.1.0</mets:name>
+    </mets:agent>
+    <mets:agent TYPE="OTHER" OTHERTYPE="SOFTWARE" ROLE="OTHER" OTHERROLE="preprocessing/optimization">
+      <mets:name>ocrd-preprocess-image v0.1.0</mets:name>
+    </mets:agent>
+    <mets:agent TYPE="OTHER" OTHERTYPE="SOFTWARE" ROLE="OTHER" OTHERROLE="preprocessing/optimization">
+      <mets:name>ocrd-preprocess-image v0.1.0</mets:name>
+    </mets:agent>
+    <mets:agent TYPE="OTHER" OTHERTYPE="SOFTWARE" ROLE="OTHER" OTHERROLE="preprocessing/optimization">
+      <mets:name>ocrd-preprocess-image v0.1.0</mets:name>
+    </mets:agent>
+    <mets:agent TYPE="OTHER" OTHERTYPE="SOFTWARE" ROLE="OTHER" OTHERROLE="preprocessing/optimization/cropping">
+      <mets:name>ocrd-anybaseocr-crop v0.0.5</mets:name>
+    </mets:agent>
+    <mets:agent TYPE="OTHER" OTHERTYPE="SOFTWARE" ROLE="OTHER" OTHERROLE="preprocessing/optimization/cropping">
+      <mets:name>ocrd-anybaseocr-crop v0.0.5</mets:name>
+    </mets:agent>
   </mets:metsHdr>
   <mets:dmdSec ID="DMDLOG_0001">
     <mets:mdWrap MDTYPE="MODS">
@@ -18,51 +42,87 @@
   </mets:amdSec>
   <mets:fileSec>
     <mets:fileGrp USE="OCR-D-IMG">
-      <mets:file MIMETYPE="image/tiff" ID="becker_quaestio_1586_00013.tiff">
-        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"  xlink:href="OCR-D-IMG/becker_quaestio_1586_00013.tif"/>
-      </mets:file>
-    </mets:fileGrp>
+      </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-IMG-BIN">
-      <mets:file MIMETYPE="image/png" ID="becker_quaestio_1586_00013.bin">
-        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"  xlink:href="OCR-D-IMG-BIN/becker_quaestio_1586_00013.bin.png"/>
-      </mets:file>
-    </mets:fileGrp>
+      </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-IMG-DESKEW">
-      <mets:file MIMETYPE="image/png" ID="becker_quaestio_1586_00013.ds">
-        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"  xlink:href="OCR-D-IMG-DESKEW/becker_quaestio_1586_00013.ds.png"/>
-      </mets:file>
-    </mets:fileGrp>
+      </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-IMG-DEWARP">
-      <mets:file MIMETYPE="image/png" ID="becker_quaestio_1586_00013.dw">
-        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"  xlink:href="OCR-D-IMG-DEWARP/becker_quaestio_1586_00013.dw.png"/>
-      </mets:file>
-    </mets:fileGrp>
+      </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-IMG-BIN-NRM">
-      <mets:file MIMETYPE="image/png" ID="becker_quaestio_1586_00013.nrm">
-        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"  xlink:href="OCR-D-IMG-BIN-NRM/becker_quaestio_1586_00013.nrm.png"/>
-      </mets:file>
-    </mets:fileGrp>
+      </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-IMG-CROP">
-      <mets:file MIMETYPE="image/png" ID="becker_quaestio_1586_00013.pf">
-        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"  xlink:href="OCR-D-IMG-CROP/becker_quaestio_1586_00013.pf.png"/>
-      </mets:file>
-    </mets:fileGrp>
+      </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-IMG-PRINTSPACE">
       <mets:file MIMETYPE="text/plain" ID="becker_quaestio_1586_00013-frame-pf.dat">
-        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"  xlink:href="OCR-D-IMG-PRINTSPACE/becker_quaestio_1586_00013-frame-pf.dat"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG-PRINTSPACE/becker_quaestio_1586_00013-frame-pf.dat"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="MAX">
+      <mets:file MIMETYPE="image/tiff" ID="MAX_1586.IMG">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="MAX/MAX_1586.tif"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="MAX_1586">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="MAX/MAX_1586.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="BIN">
+      <mets:file MIMETYPE="image/png" ID="BIN_1586.IMG-BINARIZED">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="BIN/BIN_1586.IMG-BINARIZED.png"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="BIN_1586">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="BIN/BIN_1586.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="BIN-NRM">
+      <mets:file MIMETYPE="image/png" ID="BIN-NRM_1586.IMG-GRAYSCALE_NORMALIZED">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="BIN-NRM/BIN-NRM_1586.IMG-GRAYSCALE_NORMALIZED.png"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="BIN-NRM_1586">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="BIN-NRM/BIN-NRM_1586.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="DESKEW">
+      <mets:file MIMETYPE="image/png" ID="DESKEW_1586.IMG-BINARIZED-DESKEWED">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="DESKEW/DESKEW_1586.IMG-BINARIZED-DESKEWED.png"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="DESKEW_1586">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="DESKEW/DESKEW_1586.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="DEWARP">
+      <mets:file MIMETYPE="image/png" ID="DEWARP_1586.IMG-BINARIZED-DESKEWED-CROPPED-DEWARPED">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="DEWARP/DEWARP_1586.IMG-BINARIZED-DESKEWED-CROPPED-DEWARPED.png"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="DEWARP_1586">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="DEWARP/DEWARP_1586.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="CROP">
+      <mets:file MIMETYPE="image/png" ID="CROP_1586-IMG">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="CROP/CROP_1586-IMG.png"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="CROP_1586">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="CROP/CROP_1586.xml"/>
       </mets:file>
     </mets:fileGrp>
   </mets:fileSec>
   <mets:structMap TYPE="PHYSICAL">
     <mets:div TYPE="physSequence">
       <mets:div TYPE="page" ID="becker_quaestio_1586_00013">
-        <mets:fptr FILEID="becker_quaestio_1586_00013.tiff"/>
-        <mets:fptr FILEID="becker_quaestio_1586_00013.bin"/>
-        <mets:fptr FILEID="becker_quaestio_1586_00013.ds"/>
-        <mets:fptr FILEID="becker_quaestio_1586_00013.dw"/>
-        <mets:fptr FILEID="becker_quaestio_1586_00013.nrm"/>
-        <mets:fptr FILEID="becker_quaestio_1586_00013.pf"/>
         <mets:fptr FILEID="becker_quaestio_1586_00013-frame-pf.dat"/>
+        <mets:fptr FILEID="MAX_1586.IMG"/>
+        <mets:fptr FILEID="MAX_1586"/>
+        <mets:fptr FILEID="BIN_1586.IMG-BINARIZED"/>
+        <mets:fptr FILEID="BIN_1586"/>
+        <mets:fptr FILEID="BIN-NRM_1586.IMG-GRAYSCALE_NORMALIZED"/>
+        <mets:fptr FILEID="BIN-NRM_1586"/>
+        <mets:fptr FILEID="DESKEW_1586.IMG-BINARIZED-DESKEWED"/>
+        <mets:fptr FILEID="DESKEW_1586"/>
+        <mets:fptr FILEID="DEWARP_1586.IMG-BINARIZED-DESKEWED-CROPPED-DEWARPED"/>
+        <mets:fptr FILEID="DEWARP_1586"/>
+        <mets:fptr FILEID="CROP_1586-IMG"/>
+        <mets:fptr FILEID="CROP_1586"/>
       </mets:div>
     </mets:div>
   </mets:structMap>

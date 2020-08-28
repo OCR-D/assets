@@ -23,7 +23,7 @@ _prompt_yn "Downloading images?" && {
 }
 
 _prompt_yn "METSify?" && {
-    ocrd workspace init .
+    ocrd workspace init
     while read l;do
         work=$(echo "$l"|cut -d, -f 1)
         page=$(echo "$l"|cut -d, -f 2)

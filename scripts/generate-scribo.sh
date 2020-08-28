@@ -5,7 +5,7 @@ set -ex
 cd data/scribo-test/data
 rm mets.xml
 rm -rf OCR-D-IMG-*
-ocrd workspace init .
+ocrd workspace init
 ocrd workspace set-id 'urn:ocr-d/scribo'
 ocrd workspace add -g page -m image/tiff -G OCR-D-IMG -i OCR-D-IMG-orig_tiff OCR-D-IMG/OCR-D-IMG-orig_tiff.tif
 

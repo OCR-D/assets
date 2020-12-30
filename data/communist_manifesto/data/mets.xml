@@ -19,7 +19,15 @@
   <mets:fileSec>
     <mets:fileGrp USE="OCR-D-IMG">
       <mets:file MIMETYPE="image/png" ID="OCR-D-IMG_0015">
-        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"  xlink:href="OCR-D-IMG/OCR-D-IMG_0015.png"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG/OCR-D-IMG_0015.png"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-IMG-BIN">
+      <mets:file MIMETYPE="image/png" ID="OCR-D-IMG-BIN_0015-BIN_sauvola-ms-split">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG-BIN/OCR-D-IMG-BIN_0015-BIN_sauvola-ms-split.png"/>
+      </mets:file>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-IMG-BIN_0015">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG-BIN/OCR-D-IMG-BIN_0015.xml"/>
       </mets:file>
     </mets:fileGrp>
   </mets:fileSec>
@@ -27,6 +35,8 @@
     <mets:div TYPE="physSequence">
       <mets:div TYPE="page" ID="P0015">
         <mets:fptr FILEID="OCR-D-IMG_0015"/>
+        <mets:fptr FILEID="OCR-D-IMG-BIN_0015-BIN_sauvola-ms-split"/>
+        <mets:fptr FILEID="OCR-D-IMG-BIN_0015"/>
       </mets:div>
     </mets:div>
   </mets:structMap>

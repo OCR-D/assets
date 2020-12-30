@@ -3,4 +3,4 @@ BagIt-Profile-Identifier: https://ocr-d.github.io/bagit-profile.json
 Bagging-Date: 2019-03-24 22:25:20.442892
 Ocrd-Identifier: urn:ocrd:communist_manifesto
 Ocrd-Manifestation-Depth: partial
-Payload-Oxum: 7532407.4
+Payload-Oxum: 7554104.5

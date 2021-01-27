@@ -12,7 +12,7 @@ def copy_of_directory(src, dst=None):
         rmtree(dst)
     if not isdir(dirname(dst)):
         makedirs(dirname(dst))
-    copytree(src, dst)
+    copytree(src, dst, symlinks=True)
     yield dst
     rmtree(dst)
 

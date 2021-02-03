@@ -13,10 +13,10 @@
         type="content"
         >
         <AlternativeImage
-            filename="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784-binarized/data/OCR-D-IMG-BIN/BIN_0020.png"
+            filename="OCR-D-IMG-BIN/BIN_0020.png"
             comments="binarized"/>
         <AlternativeImage
-            filename="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784-binarized/data/OCR-D-IMG-NRM/OCR-D-IMG-NRM_0020.png"
+            filename="OCR-D-IMG-NRM/OCR-D-IMG-NRM_0020.png"
             comments="gray"/>
         <Border>
             <Coords points="468,250 1349,250 1349,1830 468,1830"/>

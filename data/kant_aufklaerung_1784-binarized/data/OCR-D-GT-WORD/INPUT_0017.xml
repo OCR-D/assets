@@ -11,10 +11,10 @@
         imageHeight="2083"
         type="content">
         <AlternativeImage
-            filename="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784-binarized/data/OCR-D-IMG-BIN/BIN_0017.png"
+            filename="OCR-D-IMG-BIN/BIN_0017.png"
             comments="binarized"/>
         <AlternativeImage
-            filename="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784-binarized/data/OCR-D-IMG-NRM/OCR-D-IMG-NRM_0017.png"
+            filename="OCR-D-IMG-NRM/OCR-D-IMG-NRM_0017.png"
             comments="gray"/>
         <Border>
             <Coords points="101,232 932,232 932,1794 101,1794"/>

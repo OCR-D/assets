@@ -21,6 +21,11 @@
         <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="IMG/IMG_1.tif"/>
       </mets:file>
     </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-IMG-CLIP">
+      <mets:file MIMETYPE="image/png" ID="t4g2-2clip-png">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG-CLIP/TEMP4_Gutachten2-2_clip.png"/>
+      </mets:file>
+    </mets:fileGrp>
     <mets:fileGrp USE="TEMP1">
       <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="PAGE_TEMP1">
         <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="TEMP1/PAGE_TEMP1.xml"/>

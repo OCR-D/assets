@@ -115,35 +115,35 @@
   </mets:amdSec>
   <mets:fileSec>
     <mets:fileGrp USE="OCR-D-GT-SEG-PAGE">
-      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0001">
-        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/data/OCR-D-GT-PAGE/PAGE_0017_PAGE.xml"/>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="PAGE_0017_PAGE">
+        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-PAGE/PAGE_0017_PAGE.xml"/>
       </mets:file>
-      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-PAGE_0002">
-        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/data/OCR-D-GT-PAGE/PAGE_0020_PAGE.xml"/>
+      <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="PAGE_0020_PAGE">
+        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-PAGE/PAGE_0020_PAGE.xml"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-GT-SEG-REGION">
       <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-REGION_0001">
-        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/data/OCR-D-GT-PAGE/PAGE_0017_PAGE.xml"/>
+          <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-SEG-REGION/OCR-D-GT-SEG-REGION_0001.xml"/>
       </mets:file>
       <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-REGION_0002">
-        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/data/OCR-D-GT-PAGE/PAGE_0020_PAGE.xml"/>
+          <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-SEG-REGION/OCR-D-GT-SEG-REGION_0002.xml"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-GT-SEG-LINE">
       <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0001">
-        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/data/OCR-D-GT-PAGE/PAGE_0017_PAGE.xml"/>
+          <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-SEG-LINE/OCR-D-GT-SEG-LINE_0001.xml"/>
       </mets:file>
       <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0002">
-        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/kant_aufklaerung_1784/data/OCR-D-GT-PAGE/PAGE_0020_PAGE.xml"/>
+          <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-SEG-LINE/OCR-D-GT-SEG-LINE_0002.xml"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-GT-SEG-WORD">
       <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-WORD_0001">
-        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-SEG-WORD_GLYPH/OCR-D-GT-SEG-WORD_GLYPH_0001.xml"/>
+        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-SEG-WORD/OCR-D-GT-SEG-WORD_0001.xml"/>
       </mets:file>
       <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-WORD_0002">
-        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-SEG-WORD_GLYPH/OCR-D-GT-SEG-WORD_GLYPH_0002.xml"/>
+        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-SEG-WORD/OCR-D-GT-SEG-WORD_0002.xml"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-GT-SEG-WORD-GLYPH">
@@ -156,10 +156,10 @@
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-IMG">
       <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0001">
-        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-IMG/OCR-D-IMG_0001.tif"/>
+        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-IMG/INPUT_0017.tif"/>
       </mets:file>
       <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0002">
-        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-IMG/OCR-D-IMG_0002.tif"/>
+        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-IMG/INPUT_0020.tif"/>
       </mets:file>
     </mets:fileGrp>
   </mets:fileSec>
@@ -171,7 +171,7 @@
   <mets:structMap TYPE="PHYSICAL">
     <mets:div TYPE="physSequence" ID="phys_0000">
       <mets:div TYPE="page" ORDER="1" ID="phys_0001" DMDID="DMDGT_0001">
-        <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0001"/>
+        <mets:fptr FILEID="PAGE_0017_PAGE"/>
         <mets:fptr FILEID="OCR-D-GT-SEG-REGION_0001"/>
         <mets:fptr FILEID="OCR-D-GT-SEG-LINE_0001"/>
         <mets:fptr FILEID="OCR-D-GT-SEG-WORD_0001"/>
@@ -179,7 +179,7 @@
         <mets:fptr FILEID="OCR-D-IMG_0001"/>
       </mets:div>
       <mets:div TYPE="page" ORDER="2" ID="phys_0002" DMDID="DMDGT_0002">
-        <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0002"/>
+        <mets:fptr FILEID="PAGE_0020_PAGE"/>
         <mets:fptr FILEID="OCR-D-GT-SEG-REGION_0002"/>
         <mets:fptr FILEID="OCR-D-GT-SEG-LINE_0002"/>
         <mets:fptr FILEID="OCR-D-GT-SEG-WORD_0002"/>

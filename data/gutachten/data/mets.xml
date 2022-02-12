@@ -22,6 +22,9 @@
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-IMG-CLIP">
+      <mets:file MIMETYPE="image/png" ID="t1g2-2clip-png">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG-CLIP/TEMP1_Gutachten2-2_clip.png"/>
+      </mets:file>
       <mets:file MIMETYPE="image/png" ID="t4g2-2clip-png">
         <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG-CLIP/TEMP4_Gutachten2-2_clip.png"/>
       </mets:file>
@@ -44,6 +47,8 @@
     <mets:div TYPE="physSequence">
       <mets:div TYPE="page" ID="PHYS_1">
         <mets:fptr FILEID="IMG_1"/>
+        <mets:fptr FILEID="t1g2-2clip-png"/>
+        <mets:fptr FILEID="t4g2-2clip-png"/>
         <mets:fptr FILEID="PAGE_TEMP1"/>
         <mets:fptr FILEID="PAGE_TEMP2_1"/>
         <mets:fptr FILEID="PAGE_TEMP2_2"/>

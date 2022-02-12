@@ -3,4 +3,4 @@ BagIt-Profile-Identifier: https://ocr-d.github.io/bagit-profile.json
 Bagging-Date: 2020-06-08 18:13:57.130446
 Ocrd-Identifier: ocrd:assets:gutachten
 Ocrd-Manifestation-Depth: partial
-Payload-Oxum: 17934482.10
+Payload-Oxum: 17934596.10

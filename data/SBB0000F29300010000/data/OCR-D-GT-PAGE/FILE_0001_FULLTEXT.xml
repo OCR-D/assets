@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="00000001">
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="p00000001">
+	<Metadata>
+        <Creator>OCR-D</Creator>
+        <Created>2019-02-04T04:51:06</Created>
+        <LastChange>2019-02-08T14:50:57</LastChange>
+    </Metadata>
     <Page 
         imageFilename="OCR-D-IMG/FILE_0001_IMAGE.tif"
         imageHeight="3749"
         imageWidth="2875"
-        >
-		...
-	</Page>
+        />
 </PcGts>

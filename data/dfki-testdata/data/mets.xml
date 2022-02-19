@@ -41,18 +41,6 @@
   <mets:amdSec ID="AMD">
   </mets:amdSec>
   <mets:fileSec>
-    <mets:fileGrp USE="OCR-D-IMG">
-      </mets:fileGrp>
-    <mets:fileGrp USE="OCR-D-IMG-BIN">
-      </mets:fileGrp>
-    <mets:fileGrp USE="OCR-D-IMG-DESKEW">
-      </mets:fileGrp>
-    <mets:fileGrp USE="OCR-D-IMG-DEWARP">
-      </mets:fileGrp>
-    <mets:fileGrp USE="OCR-D-IMG-BIN-NRM">
-      </mets:fileGrp>
-    <mets:fileGrp USE="OCR-D-IMG-CROP">
-      </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-IMG-PRINTSPACE">
       <mets:file MIMETYPE="text/plain" ID="becker_quaestio_1586_00013-frame-pf.dat">
         <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG-PRINTSPACE/becker_quaestio_1586_00013-frame-pf.dat"/>
@@ -111,17 +99,11 @@
     <mets:div TYPE="physSequence">
       <mets:div TYPE="page" ID="becker_quaestio_1586_00013">
         <mets:fptr FILEID="becker_quaestio_1586_00013-frame-pf.dat"/>
-        <mets:fptr FILEID="MAX_1586.IMG"/>
         <mets:fptr FILEID="MAX_1586"/>
-        <mets:fptr FILEID="BIN_1586.IMG-BINARIZED"/>
         <mets:fptr FILEID="BIN_1586"/>
-        <mets:fptr FILEID="BIN-NRM_1586.IMG-GRAYSCALE_NORMALIZED"/>
         <mets:fptr FILEID="BIN-NRM_1586"/>
-        <mets:fptr FILEID="DESKEW_1586.IMG-BINARIZED-DESKEWED"/>
         <mets:fptr FILEID="DESKEW_1586"/>
-        <mets:fptr FILEID="DEWARP_1586.IMG-BINARIZED-DESKEWED-CROPPED-DEWARPED"/>
         <mets:fptr FILEID="DEWARP_1586"/>
-        <mets:fptr FILEID="CROP_1586-IMG"/>
         <mets:fptr FILEID="CROP_1586"/>
       </mets:div>
     </mets:div>

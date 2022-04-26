@@ -6,14 +6,8 @@ help:
 	@echo ""
 	@echo "  Targets"
 	@echo ""
-	@echo "    dist                Copy test fixtures to another dir and replace URL"
-	@echo "    start               Start the asset server"
 	@echo "    validate-workspace  Validate all assets as workspaces"
 	@echo "    validate-ocrdzip    Validate all assets as workspaces"
-	@echo ""
-	@echo "  Variables"
-	@echo ""
-	@echo "    PORT  Port to run the asset server on"
 
 # END-EVAL
 
@@ -22,23 +16,8 @@ REPO_URL = https://github.com/OCR-D/assets/raw/master/data/
 # Strictness for page consistency checks
 PAGE_STRICTNESS = lax
 
-# Port to run the asset server on
-PORT=5001
-
 # BagIt update script
 SCRIPT_UPDATE_BAGIT = $(PWD)/scripts/update-bagit.sh
-
-# Copy test fixtures to another dir and replace URL
-.PHONY: dist
-dist:
-	mkdir -p $@
-	cp -r data/* $@
-	sed -i 's,$(REPO_URL),http://localhost:$(PORT)/,' $@/**/*.xml
-
-# Start the asset server
-start: dist
-	find $(PWD)/dist -name '*.xml'
-	cd dist && python2 -m SimpleHTTPServer $(PORT)
 
 # Validate all
 validate: validate-ocrdzip validate-workspace

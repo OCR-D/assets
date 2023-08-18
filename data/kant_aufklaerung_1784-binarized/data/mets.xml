@@ -18,39 +18,39 @@
   <mets:fileSec>
     <mets:fileGrp USE="OCR-D-GT-WORD">
       <mets:file ID="INPUT_0017" MIMETYPE="application/vnd.prima.page+xml">
-        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-WORD/INPUT_0017.xml"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-WORD/INPUT_0017.xml"/>
       </mets:file>
       <mets:file ID="INPUT_0020" MIMETYPE="application/vnd.prima.page+xml">
-        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-WORD/INPUT_0020.xml"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-WORD/INPUT_0020.xml"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-IMG">
       <mets:file ID="OCR-D-IMG_0017" MIMETYPE="image/tiff">
-        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-IMG/OCR-D-IMG_0017.tif"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG/OCR-D-IMG_0017.tif"/>
       </mets:file>
       <mets:file ID="OCR-D-IMG_0020" MIMETYPE="image/tiff">
-        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-IMG/OCR-D-IMG_0020.tif"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG/OCR-D-IMG_0020.tif"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-IMG-BIN">
       <mets:file ID="BIN_0017" MIMETYPE="image/png">
-        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-IMG-BIN/BIN_0017.png"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG-BIN/BIN_0017.png"/>
       </mets:file>
       <mets:file ID="BIN_0020" MIMETYPE="image/png">
-        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-IMG-BIN/BIN_0020.png"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG-BIN/BIN_0020.png"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-IMG-NRM">
       <mets:file ID="OCR-D-IMG-NRM_0017" MIMETYPE="image/png">
-        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-IMG-NRM/OCR-D-IMG-NRM_0017.png"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG-NRM/OCR-D-IMG-NRM_0017.png"/>
       </mets:file>
       <mets:file ID="OCR-D-IMG-NRM_0020" MIMETYPE="image/png">
-        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-IMG-NRM/OCR-D-IMG-NRM_0020.png"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG-NRM/OCR-D-IMG-NRM_0020.png"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-IMG-1BIT">
       <mets:file ID="OCR-D-IMG-1BIT_0017" MIMETYPE="image/png">
-        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-IMG-1BIT/OCR-D-IMG-1BIT_0017.png"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG-1BIT/OCR-D-IMG-1BIT_0017.png"/>
       </mets:file>
     </mets:fileGrp>
   </mets:fileSec>

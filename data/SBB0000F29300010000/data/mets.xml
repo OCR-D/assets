@@ -149,13 +149,13 @@
     -->
     <mets:fileGrp USE="OCR-D-IMG">
       <mets:file ID="FILE_0001_IMAGE" MIMETYPE="image/tiff">
-        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-IMG/FILE_0001_IMAGE.tif"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG/FILE_0001_IMAGE.tif"/>
       </mets:file>
       <mets:file ID="FILE_0002_IMAGE" MIMETYPE="image/tiff">
-        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-IMG/FILE_0002_IMAGE.tif"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG/FILE_0002_IMAGE.tif"/>
       </mets:file>
       <mets:file ID="FILE_0005_IMAGE" MIMETYPE="image/tiff">
-        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-IMG/FILE_0005_IMAGE.tif"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG/FILE_0005_IMAGE.tif"/>
       </mets:file>
     </mets:fileGrp>
     <!--
@@ -196,10 +196,10 @@
     -->
     <mets:fileGrp USE="OCR-D-IMG-CROP">
       <mets:file ID="FILE_0001_IMAGE_CROP" MIMETYPE="image/tiff">
-        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-IMG-BIN/FILE_0001_IMAGE_BIN.tif"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG-BIN/FILE_0001_IMAGE_BIN.tif"/>
       </mets:file>
       <mets:file ID="FILE_0002_IMAGE_CROP" MIMETYPE="image/tiff">
-        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-IMG-BIN/FILE_0002_IMAGE_BIN.tif"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG-BIN/FILE_0002_IMAGE_BIN.tif"/>
       </mets:file>
     </mets:fileGrp>
     <!--
@@ -207,10 +207,10 @@
     -->
     <mets:fileGrp USE="OCR-D-IMG-BIN">
       <mets:file ID="FILE_0001_IMAGE_BIN" MIMETYPE="image/tiff">
-        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-IMG-BIN/FILE_0001_IMAGE_BIN.tif"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG-BIN/FILE_0001_IMAGE_BIN.tif"/>
       </mets:file>
       <mets:file ID="FILE_0002_IMAGE_BIN" MIMETYPE="image/tiff">
-        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-IMG-BIN/FILE_0002_IMAGE_BIN.tif"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG-BIN/FILE_0002_IMAGE_BIN.tif"/>
       </mets:file>
     </mets:fileGrp>
     <!-- 
@@ -218,10 +218,10 @@
     -->
     <mets:fileGrp USE="OCR-D-SEG-PAGE">
       <mets:file ID="FILE_0001_SEG_PAGE" MIMETYPE="application/vnd.prima.page+xml">
-          <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-PAGE/FILE_0001_FULLTEXT.xml"/>
+          <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0001_FULLTEXT.xml"/>
       </mets:file>
       <mets:file ID="FILE_0002_SEG_PAGE" MIMETYPE="application/vnd.prima.page+xml">
-          <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-PAGE/FILE_0002_FULLTEXT.xml"/>
+          <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0002_FULLTEXT.xml"/>
       </mets:file>
     </mets:fileGrp>
     <!-- 
@@ -229,10 +229,10 @@
     -->
     <mets:fileGrp USE="OCR-D-SEG-REGION">
       <mets:file ID="FILE_0001_SEG_REGION" MIMETYPE="application/vnd.prima.page+xml">
-          <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-PAGE/FILE_0001_FULLTEXT.xml"/>
+          <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0001_FULLTEXT.xml"/>
       </mets:file>
       <mets:file ID="FILE_0002_SEG_REGION" MIMETYPE="application/vnd.prima.page+xml">
-          <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-PAGE/FILE_0002_FULLTEXT.xml"/>
+          <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0002_FULLTEXT.xml"/>
       </mets:file>
     </mets:fileGrp>
     <!-- 
@@ -240,10 +240,10 @@
     -->
     <mets:fileGrp USE="OCR-D-SEG-LINE">
       <mets:file ID="FILE_0001_SEG_LINE" MIMETYPE="application/vnd.prima.page+xml">
-        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-PAGE/FILE_0001_FULLTEXT.xml"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0001_FULLTEXT.xml"/>
       </mets:file>
       <mets:file ID="FILE_0002_SEG_LINE" MIMETYPE="application/vnd.prima.page+xml">
-          <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-PAGE/FILE_0002_FULLTEXT.xml"/>
+          <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0002_FULLTEXT.xml"/>
       </mets:file>
     </mets:fileGrp>
     <!-- 
@@ -251,10 +251,10 @@
     -->
     <mets:fileGrp USE="OCR-D-SEG-CLASS">
       <mets:file ID="FILE_0001_SEG_CLASS" MIMETYPE="application/vnd.prima.page+xml">
-          <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-PAGE/FILE_0001_FULLTEXT.xml"/>
+          <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0001_FULLTEXT.xml"/>
       </mets:file>
       <mets:file ID="FILE_0002_SEG_CLASS" MIMETYPE="application/vnd.prima.page+xml">
-          <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-PAGE/FILE_0002_FULLTEXT.xml"/>
+          <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0002_FULLTEXT.xml"/>
       </mets:file>
     </mets:fileGrp>
     <!-- 
@@ -262,10 +262,10 @@
      -->
     <mets:fileGrp USE="OCR-D-SEG-DOC">
       <mets:file ID="FILE_0001_SEG_DOC" MIMETYPE="application/vnd.prima.page+xml">
-          <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-PAGE/FILE_0001_FULLTEXT.xml"/>
+          <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0001_FULLTEXT.xml"/>
       </mets:file>
       <mets:file ID="FILE_0002_SEG_DOC" MIMETYPE="application/vnd.prima.page+xml">
-          <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-PAGE/FILE_0002_FULLTEXT.xml"/>
+          <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0002_FULLTEXT.xml"/>
       </mets:file>
     </mets:fileGrp>
     <!-- 
@@ -273,10 +273,10 @@
     -->
     <mets:fileGrp USE="OCR-D-OCR-TESS">
       <mets:file ID="FILE_0001_OCR_TESS" MIMETYPE="application/vnd.prima.page+xml">
-        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-PAGE/FILE_0001_FULLTEXT.xml"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0001_FULLTEXT.xml"/>
       </mets:file>
       <mets:file ID="FILE_0002_OCR_TESS" MIMETYPE="application/vnd.prima.page+xml">
-          <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-PAGE/FILE_0002_FULLTEXT.xml"/>
+          <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0002_FULLTEXT.xml"/>
       </mets:file>
     </mets:fileGrp>
     <!-- 
@@ -284,10 +284,10 @@
     -->
     <mets:fileGrp USE="OCR-D-OCR-ANY">
       <mets:file ID="FILE_0001_OCR_ANY" MIMETYPE="application/vnd.prima.page+xml">
-        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-PAGE/FILE_0001_FULLTEXT.xml"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0001_FULLTEXT.xml"/>
       </mets:file>
       <mets:file ID="FILE_0002_OCR_ANY" MIMETYPE="application/vnd.prima.page+xml">
-          <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-PAGE/FILE_0002_FULLTEXT.xml"/>
+          <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0002_FULLTEXT.xml"/>
       </mets:file>
     </mets:fileGrp>
     <!-- 
@@ -295,10 +295,10 @@
     -->
     <mets:fileGrp USE="OCR-D-COR-CIS">
       <mets:file ID="FILE_0001_COR_CIS" MIMETYPE="application/vnd.prima.page+xml">
-          <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-PAGE/FILE_0001_FULLTEXT.xml"/>
+          <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0001_FULLTEXT.xml"/>
       </mets:file>
       <mets:file ID="FILE_0002_COR_CIS" MIMETYPE="application/vnd.prima.page+xml">
-          <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-PAGE/FILE_0002_FULLTEXT.xml"/>
+          <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0002_FULLTEXT.xml"/>
       </mets:file>
     </mets:fileGrp>
     <!-- 
@@ -306,10 +306,10 @@
     -->
     <mets:fileGrp USE="OCR-D-COR-ASV">
       <mets:file ID="FILE_0001_COR_ASV" MIMETYPE="application/vnd.prima.page+xml">
-          <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-PAGE/FILE_0001_FULLTEXT.xml"/>
+          <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0001_FULLTEXT.xml"/>
       </mets:file>
       <mets:file ID="FILE_0002_COR_ASV" MIMETYPE="application/vnd.prima.page+xml">
-          <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-PAGE/FILE_0002_FULLTEXT.xml"/>
+          <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0002_FULLTEXT.xml"/>
       </mets:file>
     </mets:fileGrp>
     <!-- 
@@ -317,10 +317,10 @@
     -->
     <mets:fileGrp USE="OCR-D-GT-PAGE">
       <mets:file ID="FILE_0001_FULLTEXT" MIMETYPE="application/vnd.prima.page+xml">
-        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-PAGE/FILE_0001_FULLTEXT.xml"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0001_FULLTEXT.xml"/>
       </mets:file>
       <mets:file ID="FILE_0002_FULLTEXT" MIMETYPE="application/vnd.prima.page+xml">
-        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-PAGE/FILE_0002_FULLTEXT.xml"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0002_FULLTEXT.xml"/>
       </mets:file>
     </mets:fileGrp>
     <!-- 
@@ -328,10 +328,10 @@
     -->
     <mets:fileGrp USE="OCR-D-GT-ALTO">
       <mets:file ID="FILE_0001_FULLTEXT_ALTO" MIMETYPE="application/alto+xml">
-          <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-PAGE/FILE_0001_FULLTEXT.xml"/>
+          <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0001_FULLTEXT.xml"/>
       </mets:file>
       <mets:file ID="FILE_0002_FULLTEXT_ALTO" MIMETYPE="application/alto+xml">
-          <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-PAGE/FILE_0002_FULLTEXT.xml"/>
+          <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0002_FULLTEXT.xml"/>
       </mets:file>
     </mets:fileGrp>
   </mets:fileSec>

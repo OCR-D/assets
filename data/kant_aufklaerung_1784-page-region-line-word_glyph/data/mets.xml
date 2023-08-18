@@ -116,50 +116,50 @@
   <mets:fileSec>
     <mets:fileGrp USE="OCR-D-GT-SEG-PAGE">
       <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="PAGE_0017_PAGE">
-        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-PAGE/PAGE_0017_PAGE.xml"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/PAGE_0017_PAGE.xml"/>
       </mets:file>
       <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="PAGE_0020_PAGE">
-        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-PAGE/PAGE_0020_PAGE.xml"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/PAGE_0020_PAGE.xml"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-GT-SEG-REGION">
       <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-REGION_0001">
-          <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-SEG-REGION/OCR-D-GT-SEG-REGION_0001.xml"/>
+          <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-SEG-REGION/OCR-D-GT-SEG-REGION_0001.xml"/>
       </mets:file>
       <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-REGION_0002">
-          <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-SEG-REGION/OCR-D-GT-SEG-REGION_0002.xml"/>
+          <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-SEG-REGION/OCR-D-GT-SEG-REGION_0002.xml"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-GT-SEG-LINE">
       <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0001">
-          <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-SEG-LINE/OCR-D-GT-SEG-LINE_0001.xml"/>
+          <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-SEG-LINE/OCR-D-GT-SEG-LINE_0001.xml"/>
       </mets:file>
       <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-LINE_0002">
-          <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-SEG-LINE/OCR-D-GT-SEG-LINE_0002.xml"/>
+          <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-SEG-LINE/OCR-D-GT-SEG-LINE_0002.xml"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-GT-SEG-WORD">
       <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-WORD_0001">
-        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-SEG-WORD/OCR-D-GT-SEG-WORD_0001.xml"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-SEG-WORD/OCR-D-GT-SEG-WORD_0001.xml"/>
       </mets:file>
       <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-WORD_0002">
-        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-SEG-WORD/OCR-D-GT-SEG-WORD_0002.xml"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-SEG-WORD/OCR-D-GT-SEG-WORD_0002.xml"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-GT-SEG-WORD-GLYPH">
       <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-WORD_GLYPH_0001">
-        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-SEG-WORD_GLYPH/OCR-D-GT-SEG-WORD_GLYPH_0001.xml"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-SEG-WORD_GLYPH/OCR-D-GT-SEG-WORD_GLYPH_0001.xml"/>
       </mets:file>
       <mets:file MIMETYPE="application/vnd.prima.page+xml" ID="OCR-D-GT-SEG-WORD_GLYPH_0002">
-        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-SEG-WORD_GLYPH/OCR-D-GT-SEG-WORD_GLYPH_0002.xml"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-SEG-WORD_GLYPH/OCR-D-GT-SEG-WORD_GLYPH_0002.xml"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-IMG">
       <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0001">
-        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-IMG/INPUT_0017.tif"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG/INPUT_0017.tif"/>
       </mets:file>
       <mets:file MIMETYPE="image/tiff" ID="OCR-D-IMG_0002">
-        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-IMG/INPUT_0020.tif"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG/INPUT_0020.tif"/>
       </mets:file>
     </mets:fileGrp>
   </mets:fileSec>

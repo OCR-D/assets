@@ -528,7 +528,7 @@
         <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="http://content.staatsbibliothek-berlin.de/dms/PPN85249078X/800/0/00000010.tif"/>
       </mets:file>
       <mets:file ID="FILE_0010_DEFAULT" MIMETYPE="image/tiff">
-        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="DEFAULT/FILE_0010_DEFAULT.tif"/>
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="DEFAULT/FILE_0010_DEFAULT.tif"/>
       </mets:file>
       <mets:file ID="FILE_0011_DEFAULT" MIMETYPE="image/tiff">
         <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="http://content.staatsbibliothek-berlin.de/dms/PPN85249078X/800/0/00000012.tif"/>

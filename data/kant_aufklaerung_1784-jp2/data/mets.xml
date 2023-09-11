@@ -18,12 +18,12 @@
   <mets:fileSec>
     <mets:fileGrp USE="OCR-D-IMG">
       <mets:file ID="INPUT_0020" MIMETYPE="image/jp2">
-        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-IMG/INPUT_0020.jp2"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG/INPUT_0020.jp2"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="OCR-D-GT-PAGE">
       <mets:file ID="PAGE_0020_PAGE" MIMETYPE="application/vnd.prima.page+xml">
-        <mets:FLocat LOCTYPE="URL" xlink:href="OCR-D-GT-PAGE/PAGE_0020_PAGE.xml"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/PAGE_0020_PAGE.xml"/>
       </mets:file>
     </mets:fileGrp>
   </mets:fileSec>

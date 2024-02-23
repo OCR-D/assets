@@ -1,8 +1,9 @@
-from tempfile import mkdtemp
-from os import makedirs, environ
-from os.path import isdir, exists, abspath, dirname, realpath
-from shutil import copytree, rmtree
 from contextlib import contextmanager
+from os import environ, makedirs
+from os.path import abspath, dirname, exists, isdir, realpath
+from shutil import copytree, rmtree
+from tempfile import mkdtemp
+
 
 @contextmanager
 def copy_of_directory(src, dst=None):

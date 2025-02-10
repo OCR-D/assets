@@ -4,7 +4,7 @@ jobs:
 
   build:
     docker:
-      - image: python:3.8.0
+      - image: python:3.9
     steps:
       - checkout
       - run: git clone --depth 1 https://github.com/OCR-D/core; cd core; make install;cd ..;rm -rf core

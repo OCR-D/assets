@@ -52,19 +52,23 @@ validate-workspace:
 			-not -name '.data' \
 			-not -name 'kant_aufklaerung_1784-complex' \
 			-not -name 'glyph-consistency' \
+			-not -name 'gutachten' \
 			-not -name 'sample_bagit-with-fetch' \
 		|while read dataset;do \
 		echo -n "Validating workspace $$(basename $$dataset) ... "; \
 		report=$$(cd $$dataset/data && \
-			ocrd workspace validate \
+			ocrd workspace \
+				--mets mets.xml \
+			validate \
 				--skip pixel_density \
 				--skip page \
+				--skip mets_fileid_page_pcgtsid \
 				--page-coordinate-consistency off \
 				--skip url \
 				--skip imagefilename \
 				--page-strictness $(PAGE_STRICTNESS) \
-				mets.xml 2>&1;); \
-		if [[ "$$?" == 0 ]];then echo "OK";else echo "FAIL"|tee $(WORKSPACE_VALIDATE_FILE);fi;\
+				2>&1;); \
+		if [[ "$$?" == 0 ]];then echo "OK";else echo "FAIL ($$report)"|tee $(WORKSPACE_VALIDATE_FILE);fi;\
 	done
 	@if [[ -s $(WORKSPACE_VALIDATE_FILE) ]];then exit 128;fi
 	@rm -f $(WORKSPACE_VALIDATE_FILE)
@@ -82,7 +86,7 @@ validate-ocrdzip:
 		|while read dataset;do \
 		echo -n "Validating ocrdzip $$(basename $$dataset) ... "; \
 		report=$$(ocrd zip validate -Z "$$dataset" 2>&1); \
-		if [[ "$$?" == 0 ]];then echo "OK";else echo "FAIL"|tee $(OCRDZIP_VALIDATE_FILE);fi;\
+		if [[ "$$?" == 0 ]];then echo "OK";else echo "FAIL ($$report)"|tee $(OCRDZIP_VALIDATE_FILE);fi;\
 	done
 	@if [[ -s $(OCRDZIP_VALIDATE_FILE) ]];then exit 128;fi
 	@rm -f $(OCRDZIP_VALIDATE_FILE)

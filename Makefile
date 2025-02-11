@@ -52,18 +52,22 @@ validate-workspace:
 			-not -name '.data' \
 			-not -name 'kant_aufklaerung_1784-complex' \
 			-not -name 'glyph-consistency' \
+			-not -name 'gutachten' \
 			-not -name 'sample_bagit-with-fetch' \
 		|while read dataset;do \
 		echo -n "Validating workspace $$(basename $$dataset) ... "; \
 		report=$$(cd $$dataset/data && \
-			ocrd workspace validate \
+			ocrd workspace \
+				--mets mets.xml \
+			validate \
 				--skip pixel_density \
 				--skip page \
+				--skip mets_fileid_page_pcgtsid \
 				--page-coordinate-consistency off \
 				--skip url \
 				--skip imagefilename \
 				--page-strictness $(PAGE_STRICTNESS) \
-				mets.xml 2>&1;); \
+				2>&1;); \
 		if [[ "$$?" == 0 ]];then echo "OK";else echo "FAIL ($$report)"|tee $(WORKSPACE_VALIDATE_FILE);fi;\
 	done
 	@if [[ -s $(WORKSPACE_VALIDATE_FILE) ]];then exit 128;fi

@@ -118,35 +118,6 @@
     </mets:digiprovMD>
   </mets:amdSec>
   <mets:fileSec>
-    <!-- The following fileGrps are predefined (in the order in which they may appear):
-               &#8221;OCR-D-IMG&#8221;           The unmanipulated source images.
-               &#8221;OCR-D-IMG-DESKEW&#8221;,   Deskewed images. (Module 1, submodule B: image optimization)
-               &#8221;OCR-D-IMG-DESPECK&#8221;,  Despeckled images. (Module 1, submodule B: image optimization)
-               &#8221;OCR-D-IMG-DEWARP&#8221;,   Dewarped images. (Module 1, submodule B: image optimization)
-               &#8221;OCR-D-IMG-CROP&#8221;,     Cropped images. (Module 1, submodule B: image optimization)
-                                     (Cropped to whole page or only text region?)
-               &#8221;OCR-D-IMG-BIN&#8221;       Binarized images. (Module 1, submodule B: image optimization)
-               &#8221;OCR-D-SEG-PAGE&#8221;      Page segmentation. (Module 2, submodule A: page segmentation)
-               &#8221;OCR-D-SEG-REGION&#8221;     Region segmentation. (Module 2, submodule A: page segmentation)
-               &#8221;OCR-D-SEG-LINE&#8221;      Line segmentation. (Module 2, submodule B: line segmentation)
-               &#8221;OCR-D-SEG-CLASS&#8221;     Region classification. (Module 2, submodule C: segment classification)
-               &#8221;OCR-D-SEG-DOC&#8221;       Document analysis. (Module 2, submodule D: document analysis)
-               "OCR-D-OCR-..."       OCR with any algorithm. Examples: Tesseract, anyOCR (Module 3, submodule A: OCR)
-               "OCR-D-COR-..."       Post correction with any algorithm. Examples: CIS, ASV (Module 3, submodule B: OCR)
-               "OCR-D-GT-..."        Ground Truth data in any format: Examples: PAGE XML, ALTO, TXT, TEI.
-               
-         Not all fileGrps are mandatory.     
-         For all fileGrps belonging to Module 1 or 2 at least the unmanipulated source images (&#8221;OCR-D-IMG&#8221;) have to be available.   
-         For all fileGrps belonging to Module 3 submodule A at least the lines should be segmented (&#8221;OCR-D-SEG-LINE&#8221;). 
-         For all fileGrps belonging to Module 3 submodule B at least the OCR has to be available (&#8221;OCR-D-OCR-*&#8221;). 
-         
-         IMPORTANT:      
-         Files which corresponds to the same source image are linked via the same groupId. 
-         (Suggestions for a specific groupID: FILE_0001_IMAGE (id of the original image)
-    -->
-    <!-- 
-               &#8221;OCR-D-IMG&#8221;           The unmanipulated source images.
-    -->
     <mets:fileGrp USE="OCR-D-IMG">
       <mets:file ID="FILE_0001_IMAGE" MIMETYPE="image/tiff">
         <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG/FILE_0001_IMAGE.tif"/>
@@ -158,53 +129,6 @@
         <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG/FILE_0005_IMAGE.tif"/>
       </mets:file>
     </mets:fileGrp>
-    <!--
-               &#8221;OCR-D-IMG-DESKEW&#8221;,   Deskewed images. (Module 1, submodule B: image optimization)
-    -->
-    <mets:fileGrp USE="OCR-D-IMG-DESKEW">
-      <mets:file ID="FILE_0001_IMAGE_DESKEW" MIMETYPE="image/tiff">
-        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/SBB0000F29300010000/00000001_DESKEW.tif"/>
-      </mets:file>
-      <mets:file ID="FILE_0002_IMAGE_DESKEW" MIMETYPE="image/tiff">
-        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/SBB0000F29300010000/00000002_DESKEW.tif"/>
-      </mets:file>
-    </mets:fileGrp>
-    <!-- 
-               &#8221;OCR-D-IMG-DESPECK&#8221;,  Despeckled images. (Module 1, submodule B: image optimization)
-    -->
-    <mets:fileGrp USE="OCR-D-IMG-DESPECK">
-      <mets:file ID="FILE_0001_IMAGE_DESPECK" MIMETYPE="image/tiff">
-        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/SBB0000F29300010000/00000001_DESPECK.tif"/>
-      </mets:file>
-      <mets:file ID="FILE_0002_IMAGE_DESPECK" MIMETYPE="image/tiff">
-        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/SBB0000F29300010000/00000002_DESPECK.tif"/>
-      </mets:file>
-    </mets:fileGrp>
-    <!-- 
-               &#8221;OCR-D-IMG-DEWARP&#8221;,   Dewarped images. (Module 1, submodule B: image optimization)
-    -->
-    <mets:fileGrp USE="OCR-D-IMG-DEWARP">
-      <mets:file ID="FILE_0001_IMAGE_DEWARP" MIMETYPE="image/tiff">
-        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/SBB0000F29300010000/00000001_DEWARP.tif"/>
-      </mets:file>
-      <mets:file ID="FILE_0002_IMAGE_DEWARP" MIMETYPE="image/tiff">
-        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/SBB0000F29300010000/00000002_DEWARP.tif"/>
-      </mets:file>
-    </mets:fileGrp>
-    <!-- 
-               &#8221;OCR-D-IMG-CROP&#8221;,     Cropped images. (Module 1, submodule B: image optimization)
-    -->
-    <mets:fileGrp USE="OCR-D-IMG-CROP">
-      <mets:file ID="FILE_0001_IMAGE_CROP" MIMETYPE="image/tiff">
-        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG-BIN/FILE_0001_IMAGE_BIN.tif"/>
-      </mets:file>
-      <mets:file ID="FILE_0002_IMAGE_CROP" MIMETYPE="image/tiff">
-        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG-BIN/FILE_0002_IMAGE_BIN.tif"/>
-      </mets:file>
-    </mets:fileGrp>
-    <!--
-               &#8221;OCR-D-IMG-BIN&#8221;       Binarized images. (Module 1, submodule B: image optimization)
-    -->
     <mets:fileGrp USE="OCR-D-IMG-BIN">
       <mets:file ID="FILE_0001_IMAGE_BIN" MIMETYPE="image/tiff">
         <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG-BIN/FILE_0001_IMAGE_BIN.tif"/>
@@ -213,108 +137,6 @@
         <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-IMG-BIN/FILE_0002_IMAGE_BIN.tif"/>
       </mets:file>
     </mets:fileGrp>
-    <!-- 
-               &#8221;OCR-D-SEG-PAGE&#8221;      Page segmentation. (Module 2, submodule A: page segmentation)
-    -->
-    <mets:fileGrp USE="OCR-D-SEG-PAGE">
-      <mets:file ID="FILE_0001_SEG_PAGE" MIMETYPE="application/vnd.prima.page+xml">
-          <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0001_FULLTEXT.xml"/>
-      </mets:file>
-      <mets:file ID="FILE_0002_SEG_PAGE" MIMETYPE="application/vnd.prima.page+xml">
-          <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0002_FULLTEXT.xml"/>
-      </mets:file>
-    </mets:fileGrp>
-    <!-- 
-               &#8221;OCR-D-SEG-REGION&#8221;     Region segmentation. (Module 2, submodule A: page segmentation)
-    -->
-    <mets:fileGrp USE="OCR-D-SEG-REGION">
-      <mets:file ID="FILE_0001_SEG_REGION" MIMETYPE="application/vnd.prima.page+xml">
-          <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0001_FULLTEXT.xml"/>
-      </mets:file>
-      <mets:file ID="FILE_0002_SEG_REGION" MIMETYPE="application/vnd.prima.page+xml">
-          <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0002_FULLTEXT.xml"/>
-      </mets:file>
-    </mets:fileGrp>
-    <!-- 
-               &#8221;OCR-D-SEG-LINE&#8221;      Line segmentation. (Module 2, submodule B: line segmentation)
-    -->
-    <mets:fileGrp USE="OCR-D-SEG-LINE">
-      <mets:file ID="FILE_0001_SEG_LINE" MIMETYPE="application/vnd.prima.page+xml">
-        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0001_FULLTEXT.xml"/>
-      </mets:file>
-      <mets:file ID="FILE_0002_SEG_LINE" MIMETYPE="application/vnd.prima.page+xml">
-          <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0002_FULLTEXT.xml"/>
-      </mets:file>
-    </mets:fileGrp>
-    <!-- 
-               &#8221;OCR-D-SEG-CLASS&#8221;     Region classification. (Module 2, submodule C: segment classification)
-    -->
-    <mets:fileGrp USE="OCR-D-SEG-CLASS">
-      <mets:file ID="FILE_0001_SEG_CLASS" MIMETYPE="application/vnd.prima.page+xml">
-          <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0001_FULLTEXT.xml"/>
-      </mets:file>
-      <mets:file ID="FILE_0002_SEG_CLASS" MIMETYPE="application/vnd.prima.page+xml">
-          <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0002_FULLTEXT.xml"/>
-      </mets:file>
-    </mets:fileGrp>
-    <!-- 
-               &#8221;OCR-D-SEG-DOC&#8221;       Document analysis. (Module 2, submodule D: document analysis)
-     -->
-    <mets:fileGrp USE="OCR-D-SEG-DOC">
-      <mets:file ID="FILE_0001_SEG_DOC" MIMETYPE="application/vnd.prima.page+xml">
-          <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0001_FULLTEXT.xml"/>
-      </mets:file>
-      <mets:file ID="FILE_0002_SEG_DOC" MIMETYPE="application/vnd.prima.page+xml">
-          <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0002_FULLTEXT.xml"/>
-      </mets:file>
-    </mets:fileGrp>
-    <!-- 
-               &#8221;OCR-D-OCR-TESS"      OCR with Tesseract. (Module 3, submodule A: OCR)
-    -->
-    <mets:fileGrp USE="OCR-D-OCR-TESS">
-      <mets:file ID="FILE_0001_OCR_TESS" MIMETYPE="application/vnd.prima.page+xml">
-        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0001_FULLTEXT.xml"/>
-      </mets:file>
-      <mets:file ID="FILE_0002_OCR_TESS" MIMETYPE="application/vnd.prima.page+xml">
-          <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0002_FULLTEXT.xml"/>
-      </mets:file>
-    </mets:fileGrp>
-    <!-- 
-               "OCR-D-OCR-ANY"       OCR with anyOCR. (Module 3, submodule A: OCR)
-    -->
-    <mets:fileGrp USE="OCR-D-OCR-ANY">
-      <mets:file ID="FILE_0001_OCR_ANY" MIMETYPE="application/vnd.prima.page+xml">
-        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0001_FULLTEXT.xml"/>
-      </mets:file>
-      <mets:file ID="FILE_0002_OCR_ANY" MIMETYPE="application/vnd.prima.page+xml">
-          <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0002_FULLTEXT.xml"/>
-      </mets:file>
-    </mets:fileGrp>
-    <!-- 
-               "OCR-D-COR-CIS"       CIS (Centrum f&#252;r Informations- und Sprachverarbeitung) post correction. (Module 3, submodule B: OCR)
-    -->
-    <mets:fileGrp USE="OCR-D-COR-CIS">
-      <mets:file ID="FILE_0001_COR_CIS" MIMETYPE="application/vnd.prima.page+xml">
-          <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0001_FULLTEXT.xml"/>
-      </mets:file>
-      <mets:file ID="FILE_0002_COR_CIS" MIMETYPE="application/vnd.prima.page+xml">
-          <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0002_FULLTEXT.xml"/>
-      </mets:file>
-    </mets:fileGrp>
-    <!-- 
-               "OCR-D-COR-ASV"       ASV (Institut f&#252;r Automatische Sprachverarbeitung) post correction. (Module 3, submodule B: OCR)
-    -->
-    <mets:fileGrp USE="OCR-D-COR-ASV">
-      <mets:file ID="FILE_0001_COR_ASV" MIMETYPE="application/vnd.prima.page+xml">
-          <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0001_FULLTEXT.xml"/>
-      </mets:file>
-      <mets:file ID="FILE_0002_COR_ASV" MIMETYPE="application/vnd.prima.page+xml">
-          <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0002_FULLTEXT.xml"/>
-      </mets:file>
-    </mets:fileGrp>
-    <!-- 
-               "OCR-D-GT-PAGE"       Ground Truth data in PAGE XML format.
-    -->
     <mets:fileGrp USE="OCR-D-GT-PAGE">
       <mets:file ID="FILE_0001_FULLTEXT" MIMETYPE="application/vnd.prima.page+xml">
         <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0001_FULLTEXT.xml"/>
@@ -323,9 +145,6 @@
         <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0002_FULLTEXT.xml"/>
       </mets:file>
     </mets:fileGrp>
-    <!-- 
-               "OCR-D-GT-ALTO"       Ground Truth data in ALTO format.
-    -->
     <mets:fileGrp USE="OCR-D-GT-ALTO">
       <mets:file ID="FILE_0001_FULLTEXT_ALTO" MIMETYPE="application/alto+xml">
           <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="OCR-D-GT-PAGE/FILE_0001_FULLTEXT.xml"/>
@@ -341,39 +160,13 @@
         <mets:fptr FILEID="FILE_0001_FULLTEXT"/>
         <mets:fptr FILEID="FILE_0001_FULLTEXT_ALTO"/>
         <mets:fptr FILEID="FILE_0001_IMAGE"/>
-        <mets:fptr FILEID="FILE_0001_IMAGE_DESKEW"/>
-        <mets:fptr FILEID="FILE_0001_IMAGE_DESPECK"/>
-        <mets:fptr FILEID="FILE_0001_IMAGE_DEWARP"/>
-        <mets:fptr FILEID="FILE_0001_IMAGE_CROP"/>
         <mets:fptr FILEID="FILE_0001_IMAGE_BIN"/>
-        <mets:fptr FILEID="FILE_0001_SEG_PAGE"/>
-        <mets:fptr FILEID="FILE_0001_SEG_REGION"/>
-        <mets:fptr FILEID="FILE_0001_SEG_LINE"/>
-        <mets:fptr FILEID="FILE_0001_SEG_CLASS"/>
-        <mets:fptr FILEID="FILE_0001_SEG_DOC"/>
-        <mets:fptr FILEID="FILE_0001_OCR_TESS"/>
-        <mets:fptr FILEID="FILE_0001_OCR_ANY"/>
-        <mets:fptr FILEID="FILE_0001_COR_CIS"/>
-        <mets:fptr FILEID="FILE_0001_COR_ASV"/>
       </mets:div>
       <mets:div ID="PHYS_0002" ORDER="2" ORDERLABEL="page 2" TYPE="page">
         <mets:fptr FILEID="FILE_0002_FULLTEXT"/>
         <mets:fptr FILEID="FILE_0002_FULLTEXT_ALTO"/>
         <mets:fptr FILEID="FILE_0002_IMAGE"/>
-        <mets:fptr FILEID="FILE_0002_IMAGE_DESKEW"/>
-        <mets:fptr FILEID="FILE_0002_IMAGE_DESPECK"/>
-        <mets:fptr FILEID="FILE_0002_IMAGE_DEWARP"/>
-        <mets:fptr FILEID="FILE_0002_IMAGE_CROP"/>
         <mets:fptr FILEID="FILE_0002_IMAGE_BIN"/>
-        <mets:fptr FILEID="FILE_0002_SEG_PAGE"/>
-        <mets:fptr FILEID="FILE_0002_SEG_REGION"/>
-        <mets:fptr FILEID="FILE_0002_SEG_LINE"/>
-        <mets:fptr FILEID="FILE_0002_SEG_CLASS"/>
-        <mets:fptr FILEID="FILE_0002_SEG_DOC"/>
-        <mets:fptr FILEID="FILE_0002_OCR_TESS"/>
-        <mets:fptr FILEID="FILE_0002_OCR_ANY"/>
-        <mets:fptr FILEID="FILE_0002_COR_CIS"/>
-        <mets:fptr FILEID="FILE_0002_COR_ASV"/>
       </mets:div>
       <mets:div ID="PHYS_0005" ORDER="5" ORDERLABEL="page 5" TYPE="page">
         <mets:fptr FILEID="FILE_0005_IMAGE"/>

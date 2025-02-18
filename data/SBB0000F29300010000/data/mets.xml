@@ -163,10 +163,10 @@
     -->
     <mets:fileGrp USE="OCR-D-IMG-DESKEW">
       <mets:file ID="FILE_0001_IMAGE_DESKEW" MIMETYPE="image/tiff">
-        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="00000001_DESKEW.tif"/>
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/SBB0000F29300010000/00000001_DESKEW.tif"/>
       </mets:file>
       <mets:file ID="FILE_0002_IMAGE_DESKEW" MIMETYPE="image/tiff">
-        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="00000002_DESKEW.tif"/>
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/SBB0000F29300010000/00000002_DESKEW.tif"/>
       </mets:file>
     </mets:fileGrp>
     <!-- 
@@ -174,10 +174,10 @@
     -->
     <mets:fileGrp USE="OCR-D-IMG-DESPECK">
       <mets:file ID="FILE_0001_IMAGE_DESPECK" MIMETYPE="image/tiff">
-        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="00000001_DESPECK.tif"/>
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/SBB0000F29300010000/00000001_DESPECK.tif"/>
       </mets:file>
       <mets:file ID="FILE_0002_IMAGE_DESPECK" MIMETYPE="image/tiff">
-        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="00000002_DESPECK.tif"/>
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/SBB0000F29300010000/00000002_DESPECK.tif"/>
       </mets:file>
     </mets:fileGrp>
     <!-- 
@@ -185,10 +185,10 @@
     -->
     <mets:fileGrp USE="OCR-D-IMG-DEWARP">
       <mets:file ID="FILE_0001_IMAGE_DEWARP" MIMETYPE="image/tiff">
-        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="00000001_DEWARP.tif"/>
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/SBB0000F29300010000/00000001_DEWARP.tif"/>
       </mets:file>
       <mets:file ID="FILE_0002_IMAGE_DEWARP" MIMETYPE="image/tiff">
-        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="00000002_DEWARP.tif"/>
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/OCR-D/assets/raw/master/data/SBB0000F29300010000/00000002_DEWARP.tif"/>
       </mets:file>
     </mets:fileGrp>
     <!-- 

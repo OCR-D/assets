@@ -17,6 +17,6 @@
         </pc:MetadataItem>
     </pc:Metadata>
     <pc:Page imageFilename="MAX/MAX_1586.tif" imageWidth="2323" imageHeight="3214">
-        <pc:AlternativeImage filename="BIN/BIN_1586.IMG-BINARIZED.png" comments=",binarized"/>
+        <pc:AlternativeImage filename="BIN/BIN_1586.IMG-BINARIZED.png" comments="binarized"/>
     </pc:Page>
 </pc:PcGts>

@@ -17,6 +17,6 @@
         </pc:MetadataItem>
     </pc:Metadata>
     <pc:Page imageFilename="MAX/MAX_1586.tif" imageWidth="2323" imageHeight="3214">
-        <pc:AlternativeImage filename="BIN-NRM/BIN-NRM_1586.IMG-GRAYSCALE_NORMALIZED.png" comments=",grayscale_normalized"/>
+        <pc:AlternativeImage filename="BIN-NRM/BIN-NRM_1586.IMG-GRAYSCALE_NORMALIZED.png" comments="grayscale_normalized"/>
     </pc:Page>
 </pc:PcGts>

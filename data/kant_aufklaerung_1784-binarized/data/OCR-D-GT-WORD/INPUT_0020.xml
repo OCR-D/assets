@@ -17,7 +17,7 @@
             comments="binarized"/>
         <AlternativeImage
             filename="OCR-D-IMG-NRM/OCR-D-IMG-NRM_0020.png"
-            comments="gray"/>
+            comments="grayscale_normalized"/>
         <Border>
             <Coords points="468,250 1349,250 1349,1830 468,1830"/>
         </Border>

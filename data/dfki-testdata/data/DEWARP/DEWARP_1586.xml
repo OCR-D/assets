@@ -6,9 +6,9 @@
         <pc:LastChange>2020-08-21T11:43:22.815293</pc:LastChange>
     </pc:Metadata>
     <pc:Page imageFilename="MAX/MAX_1586.tif" imageWidth="2323" imageHeight="3214">
-        <pc:AlternativeImage filename="BIN/BIN_1586.IMG-BINARIZED.png" comments=",binarized"/>
-        <pc:AlternativeImage filename="CROP/CROP_1586-IMG.png" comments=",binarized,cropped"/>
-        <pc:AlternativeImage filename="DEWARP/DEWARP_1586.IMG-BINARIZED-DESKEWED-CROPPED-DEWARPED.png" comments=",binarized,deskewed,cropped,dewarped"/>
+        <pc:AlternativeImage filename="BIN/BIN_1586.IMG-BINARIZED.png" comments="binarized"/>
+        <pc:AlternativeImage filename="CROP/CROP_1586-IMG.png" comments="binarized,cropped"/>
+        <pc:AlternativeImage filename="DEWARP/DEWARP_1586.IMG-BINARIZED-DESKEWED-CROPPED-DEWARPED.png" comments="binarized,deskewed,cropped,dewarped"/>
         <pc:Border>
             <pc:Coords points="205,438 1375,438 1375,2514 205,2514"/>
         </pc:Border>

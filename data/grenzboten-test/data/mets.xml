@@ -17,7 +17,7 @@
   <mets:amdSec ID="AMD">
     </mets:amdSec>
   <mets:fileSec>
-    <mets:fileGrp USE="OCRD-IMG-BIN">
+    <mets:fileGrp USE="OCR-D-IMG-BIN">
       <mets:file MIMETYPE="image/tiff" ID="p179470">
         <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE"  xlink:href="OCR-D-IMG-BIN/p179470.tif"/>
       </mets:file>
